@@ -1,0 +1,21 @@
+---
+diffis:
+  e:
+    -
+#htb htbvip vulnhub pwklabs hackmyvm
+platfs:
+  htbvip:
+    -
+curls:
+  nibbles:
+    -
+functions:
+  unix:
+    -
+  revsh:
+    -
+  sudo:
+    -
+  cred:
+    -
+---

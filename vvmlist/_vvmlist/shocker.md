@@ -1,0 +1,18 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  htbvip:
+    -
+curls:
+  shocker:
+    -
+functions:
+  unix:
+    -
+  cve:
+    -
+  sudo:
+    -
+---

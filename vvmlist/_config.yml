@@ -1,0 +1,16 @@
+---
+title: vvmlist
+
+exclude: ['/scripts', '/Gemfile', '/Makefile', '/README.md', '/CONTRIBUTING.md']
+
+permalink: pretty
+
+collections:
+  vvmlist:
+    output: true
+
+defaults:
+  - scope:
+      path: '_vvmlist'
+    values:
+      layout: bin

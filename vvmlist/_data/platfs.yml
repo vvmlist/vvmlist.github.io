@@ -1,0 +1,11 @@
+---
+htb:
+  label: htb
+htbvip:
+  label: htb vip
+vulnhub:
+  label: vulnhub  
+pwklabs:
+  label: pwk labs
+hackmyvm:
+  label: hackmyvm

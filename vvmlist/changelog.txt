@@ -1,0 +1,9 @@
+# vvmlist 0.1 beta release - 13.01.2021
+		vvm count: 145
+		
+		todo
+			-tag revamp (multi-value tags should be seperated)
+			-filter with difficulty and platform (gonna ask how to do it on stackoverflow)
+			-new favicon (using win95 globe .ico right now)
+			-vm name css corrections would be good (vms with long name cause overflow)
+			-paths (beginner, oscp, but what for middle-tier?)

@@ -1,0 +1,111 @@
+--- 
+unix: 
+  label: unix
+win: 
+  label: win
+acd: 
+  label: "active directory"
+arce: 
+  label: "authenticated rce"
+bof: 
+  label: "buffer overflow"
+brute: 
+  label: "bruteforce/decrypt/decode"
+burp: 
+  label: burp
+capa: 
+  label: capabilities
+capdum: 
+  label: "packet or dump inspection"
+cred: 
+  label: "default creds"
+credz: 
+  label: "stored creds"
+cronj: 
+  label: "cron/scheduled tasks"
+cve: 
+  label: cve
+deser: 
+  label: deserialization
+dns: 
+  label: dns
+docker: 
+  label: docker
+ftp: 
+  label: ftp
+git: 
+  label: git
+hash: 
+  label: "hash/encrypted/encoded"
+hidden: 
+  label: "hidden file"
+kernel: 
+  label: "kernel exploit"
+kernelb: 
+  label: "system binary exploit"
+ldap: 
+  label: ldap
+lfi: 
+  label: "local file inclusion"
+libhj: 
+  label: "library hijack"
+logpoi: 
+  label: "log poisoning"
+lxcd: 
+  label: lxd/lxc
+mail: 
+  label: smtp/pop/imap
+nfs: 
+  label: nfs
+pathj: 
+  label: "path hijack"
+portkn: 
+  label: "port knock"
+proxy: 
+  label: proxy
+rbash: 
+  label: "rbash/restricted shell"
+rce: 
+  label: rce
+rdp: 
+  label: "remote desktop"
+revsh: 
+  label: "reverse shell"
+rfi: 
+  label: "remote file inclusion"
+smb: 
+  label: smb
+snmp: 
+  label: snmp
+source: 
+  label: "source code inspection"
+sql: 
+  label: sql
+sqli: 
+  label: "sql injection"
+ssh: 
+  label: ssh
+ssht: 
+  label: "ssh tunnel"
+ssl: 
+  label: ssl
+stego: 
+  label: stego
+sudo: 
+  label: sudo
+suid: 
+  label: suid
+sys: 
+  label: "system/config/backup file"
+telnet: 
+  label: telnet
+tftp: 
+  label: tftp
+wp: 
+  label: wordpress
+xml: 
+  label: xml
+xss: 
+  label: xss
+xxe: 
+  label: xxe

@@ -1,0 +1,7 @@
+<dl>
+    {% for diffi_pair in site.data.diffis %}
+    {% assign diffi = diffi_pair[1] %}
+    <dt class="diffi-name">{{ diffi.label }}</dt>
+    <dd>{{ diffi.description | markdownify }}</dd>
+    {% endfor %}
+</dl>
