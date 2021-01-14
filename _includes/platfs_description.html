@@ -1,0 +1,7 @@
+<dl>
+    {% for platf_pair in site.data.platfs %}
+    {% assign platf = platf_pair[1] %}
+    <dt class="platf-name">{{ platf.label }}</dt>
+    <dd>{{ platf.description | markdownify }}</dd>
+    {% endfor %}
+</dl>
