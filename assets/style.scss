@@ -3,18 +3,18 @@
 
 
 
-$marked: #ff3961;
+$marked: #0070ff;
 
 
 $font: segoe ui;
 $myblue: #0a3b76;
 $lighter: #082F5E;
-$purpie: #8A25CE;
+$purpie: #00ffa7;
 $accent: #c8c8c8;
 
 // layout
 
-$column-width: 800px;
+$column-width: 1000px;
 $grace-space: 200px;
 $layout-break: "(min-width: #{$column-width + $grace-space})";
 
@@ -33,6 +33,15 @@ $layout-break: "(min-width: #{$column-width + $grace-space})";
     .github-corner {
         display: none;
     }
+}
+
+.logoi {
+    $margin: 20px;
+    float: right;
+    width: 200px;
+    height: 200px;
+    margin-left: $margin;
+    margin-bottom: $margin;
 }
 
 // common tags
@@ -62,6 +71,7 @@ pre {
 }
 
 a:link, a:visited {
+	
     color: $accent;
 }
 
@@ -96,8 +106,18 @@ h2, h3, h4, h5, h5 {
 
 #vvm-state {
     a {
-		color: $purpie;
+		color: $accent;
+		background: $lighter;
+        font-size: initial;
+        border-radius: 0.25em;
+		display: inline-block;
+		padding: 2px 2px;
+		margin: 0px 0;
+		text-decoration: none;
     }
+	a:hover {
+    color: $purpie;
+			}
 	}
 
 // binary list and search
@@ -133,6 +153,14 @@ h2, h3, h4, h5, h5 {
 		color: $accent;
     }
 }
+
+td.vvm-name {
+     width: 180px;
+    }
+	
+td.vvm-diffi, td.vvm-platf, td.vvm-curl {
+     text-align: center;
+    }
 
 #bin-table {
     width: 100%;

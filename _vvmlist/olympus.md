@@ -2,7 +2,10 @@
 diffis:
   m:
     -
-#htb htbvip vulnhub pwklabs hackmyvm
+#htb htbvip vulnhub pwklabs hackmyvm  
+#unix win acd arce bof brute burp capa capdum cred credz cronj cve deser dns docker ftp git hash hidden kernel kernelb ldap lfi libhj logpoi   
+#lxcd mail nfs pathj portkn proxy rbash rce rdp revsh rfi smb snmp source sql sqli ssh ssht ssl stego sudo suid sys telnet tftp wp xml xss xxe   
+#powsh mimik krbro setenv mount pivot cewl rpc group asrep blood dirtra webdav winrm nosqli dcs finger sam    
 platfs:
   htbvip:
     -
@@ -14,7 +17,15 @@ functions:
     -
   cve:
     -
-  hash:
+  rce:
+    -
+  revsh:
+    -
+  capdum:
+    -
+  credz:
+    -
+  brute:
     -
   ssh:
     -
@@ -22,17 +33,9 @@ functions:
     -
   portkn:
     -
-  rce:
+  docker:
     -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
+  group:
     -
   dddd:
     -

@@ -21,7 +21,8 @@
         {% endfor %}
     </ul>
 
-    <input id="bin-search" type="text" placeholder="search vms..."/>
+    <input id="bin-search" type="text" placeholder="search among {{ site.vvmlist | size }} vms or <vm> +<tag> ..."/>
+<!--     <input id="bin-search" type="text" placeholder="search vms..."/> -->
 </div>
 
 <div id="bin-table-wrapper">
@@ -38,11 +39,11 @@
         <tbody>
             {% for file in site.vvmlist %}
             <tr>
-                <td><a class="bin-name">{% include get_bin_name path=file.path %}</a></td>
-				<td>{% include diffi_list.html bin=file %}</td>
-				<td>{% include platf_list.html bin=file %}</td>
+                <td class="vvm-name"><a class="bin-name">{% include get_bin_name path=file.path %}</a></td>
+				<td class="vvm-diffi">{% include diffi_list.html bin=file %}</td>
+				<td class="vvm-platf">{% include platf_list.html bin=file %}</td>
                 <td>{% include function_list.html bin=file %}</td>
-				<td>{% include curl_list.html bin=file %}</td>
+				<td class="vvm-curl">{% include curl_list.html bin=file %}</td>
             </tr>
             {% endfor %}
         </tbody>

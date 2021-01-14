@@ -7,16 +7,22 @@ acd:
   label: "active directory"
 arce: 
   label: "authenticated rce"
+asrep: 
+  label: as-rep
+blood: 
+  label: "bloodhound analysis"
 bof: 
   label: "buffer overflow"
 brute: 
-  label: "bruteforce/decrypt/decode"
+  label: bruteforce/decrypt/decode
 burp: 
   label: burp
 capa: 
   label: capabilities
 capdum: 
   label: "packet or dump inspection"
+cewl: 
+  label: cewl
 cred: 
   label: "default creds"
 credz: 
@@ -25,24 +31,34 @@ cronj:
   label: "cron/scheduled tasks"
 cve: 
   label: cve
+dcs: 
+  label: dcsync
 deser: 
   label: deserialization
+dirtra: 
+  label: "directory traversal"
 dns: 
   label: dns
 docker: 
   label: docker
+finger: 
+  label: finger
 ftp: 
   label: ftp
 git: 
   label: git
+group: 
+  label: "user group"
 hash: 
-  label: "hash/encrypted/encoded"
+  label: hash/encrypted/encoded
 hidden: 
   label: "hidden file"
 kernel: 
   label: "kernel exploit"
 kernelb: 
   label: "system binary exploit"
+krbro: 
+  label: kerberoasting
 ldap: 
   label: ldap
 lfi: 
@@ -55,12 +71,22 @@ lxcd:
   label: lxd/lxc
 mail: 
   label: smtp/pop/imap
+mimik: 
+  label: mimikatz
+mount: 
+  label: mount
 nfs: 
   label: nfs
+nosqli: 
+  label: nosqli
 pathj: 
   label: "path hijack"
+pivot: 
+  label: pivot
 portkn: 
   label: "port knock"
+powsh: 
+  label: powershell
 proxy: 
   label: proxy
 rbash: 
@@ -73,6 +99,12 @@ revsh:
   label: "reverse shell"
 rfi: 
   label: "remote file inclusion"
+rpc: 
+  label: rpc
+sam: 
+  label: "sam-system-security dump"
+setenv: 
+  label: setenv
 smb: 
   label: smb
 snmp: 
@@ -101,6 +133,10 @@ telnet:
   label: telnet
 tftp: 
   label: tftp
+webdav: 
+  label: webdav
+winrm: 
+  label: winrm
 wp: 
   label: wordpress
 xml: 

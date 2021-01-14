@@ -205,3 +205,105 @@ curlna:
   label: <a href="https://www.vulnhub.com/entry/zico2-1,210/">go</a>
 "zipper":
   label: <a href="https://www.hackthebox.eu/home/machines/profile/159">go</a>
+"access":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/156">go</a>
+"admirer":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/248">go</a>
+"ai":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/216">go</a>
+"arctic":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/9">go</a>
+"bank":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/26">go</a>
+"bastion":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/186">go</a>
+"beep":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/5">go</a>
+"bitlab":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/207">go</a>
+"blunder":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/254">go</a>
+"book":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/230">go</a>
+"bounty":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/142">go</a>
+"buff":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/263">go</a>
+"calamity":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/37">go</a>
+"canape":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/134">go</a>
+"carrier":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/155">go</a>
+"cascade":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/235">go</a>
+"craft":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/197">go</a>
+"curling":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/160">go</a>
+"forwardslash":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/239">go</a>
+"fuse":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/256">go</a>
+"grandpa":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/13">go</a>
+"granny":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/14">go</a>
+"haystack":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/195">go</a>
+"heist":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/201">go</a>
+"help":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/170">go</a>
+"jarvis":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/194">go</a>
+"jerry":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/144">go</a>
+"lacasadepapel":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/181">go</a>
+"lame":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/1">go</a>
+"luke":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/190">go</a>
+"mango":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/214">go</a>
+"mirai":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/64">go</a>
+"monteverde":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/223">go</a>
+"nest":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/225">go</a>
+"netmon":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/177">go</a>
+"networked":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/203">go</a>
+"obscurity":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/219">go</a>
+"omni":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/271">go</a>
+"optimum":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/6">go</a>
+"postman":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/215">go</a>
+"querier":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/175">go</a>
+"remote":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/234">go</a>
+"resolute":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/220">go</a>
+"sauna":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/229">go</a>
+"servmon":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/240">go</a>
+"sneakymailer":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/262">go</a>
+"sunday":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/136">go</a>
+"tabby":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/259">go</a>
+"traceback":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/233">go</a>
+"wall":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/208">go</a>
+"writeup":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/192">go</a>
