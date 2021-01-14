@@ -1,8 +1,0 @@
-<ul class="platf-list">
-    {% for platf_pair in site.data.platfs %}
-    {% assign platf_id = platf_pair[0] %}
-    {% assign platf = platf_pair[1] %}
-    {% unless include.bin.platfs[platf_id] %}{% continue %}{% endunless %}
-    <li><a>{{ platf.label }}</a></li>
-    {% endfor %}
-</ul>
