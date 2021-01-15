@@ -11,6 +11,8 @@ pwklabs:
   label: pwk labs
 #hackmyvm: 
 #  label: hackmyvm
+na: 
+  label: "n/a"
 e: 
   label: easy
 m: 
