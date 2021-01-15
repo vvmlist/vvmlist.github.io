@@ -9,11 +9,13 @@ curls:
   sunday:
     -
 functions:
-  finger:
+  unix:
     -
   e:
     -
   htbvip:
+    -
+  finger:
     -
   ssh:
     -
@@ -28,8 +30,6 @@ functions:
   sys:
     -
   credz:
-    -
-  dddd:
     -
   dddd:
     -
