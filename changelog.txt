@@ -9,11 +9,13 @@
 		  
 		> all vms updated for matching new filters		
 
-
-												# todo #
-															-tag revamp (multi-value tags should be seperated)															
-															-paths (beginner, oscp, but what for middle-tier?)
-															-add walkthroughs (thank you andrea)
+##################################################################################################
+# todo #
+			-tag revamp (multi-value tags should be seperated)															
+			-paths (beginner, oscp, but what for middle-tier?)
+			-add walkthroughs (thank you andrea)
+			-difficulty and platform tags are not marking selection like main tags
+##################################################################################################
 
 # vvmlist update - 14.01.2021 #
 ##vvm count: 195
