@@ -3,6 +3,22 @@ unix:
   label: unix
 win: 
   label: win
+htbvip: 
+  label: htb vip
+vulnhub: 
+  label: vulnhub
+pwklabs: 
+  label: pwklabs
+#hackmyvm: 
+#  label: hackmyvm
+e: 
+  label: easy
+m: 
+  label: medium
+h: 
+  label: hard
+i: 
+  label: insane
 acd: 
   label: "active directory"
 arce: 

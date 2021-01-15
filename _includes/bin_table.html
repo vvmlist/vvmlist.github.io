@@ -1,18 +1,18 @@
-<div id="bin-search-wrapper"><!-- 
-	<ul id="bin-search-filters" class="diffi-list">
+<div id="bin-search-wrapper">
+ 	<ul id="bin-search-filters-dif" class="diffi-list">
         {% for diffi_pair in site.data.diffis %}
         {% assign diffi_id = diffi_pair[0] %}
         {% assign diffi = diffi_pair[1] %}
         <li><a href="#+{{ diffi.label | downcase }}">{{ diffi.label }}</a></li>
         {% endfor %}
     </ul>
-	<ul id="bin-search-filters" class="platf-list">
+	<ul id="bin-search-filters-pla" class="platf-list">
         {% for platf_pair in site.data.platfs %}
         {% assign platf_id = platf_pair[0] %}
         {% assign platf = platf_pair[1] %}
         <li><a href="#+{{ platf.label | downcase }}">{{ platf.label }}</a></li>
         {% endfor %}
-    </ul> -->
+    </ul>
     <ul id="bin-search-filters" class="function-list">
         {% for function_pair in site.data.functions %}
         {% assign function_id = function_pair[0] %}

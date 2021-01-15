@@ -12,6 +12,29 @@ $lighter: #082F5E;
 $purpie: #00ffa7;
 $accent: #c8c8c8;
 
+// disable diffis and platfs from main taglist
+
+#bin-search-filters-dif > li:nth-child(1) {
+	display: none;
+	}
+	
+#bin-search-filters > li:nth-child(3),
+#bin-search-filters > li:nth-child(4),
+#bin-search-filters > li:nth-child(5),
+#bin-search-filters > li:nth-child(6),
+#bin-search-filters > li:nth-child(7),
+#bin-search-filters > li:nth-child(8),
+#bin-search-filters > li:nth-child(9) {
+	display: none;
+	}
+
+// disable diffis and platfs from sub taglist
+
+#bin-table > tbody:nth-child(2) > tr > td:nth-child(4) > ul:nth-child(1) > li:nth-child(2),
+#bin-table > tbody:nth-child(2) > tr > td:nth-child(4) > ul:nth-child(1) > li:nth-child(3) {
+	display: none;
+	}
+
 // layout
 
 $column-width: 1000px;
@@ -126,6 +149,34 @@ h2, h3, h4, h5, h5 {
     margin: 50px 0;
     padding: 10px 0;
     position: relative; // XXX needed for tooltip sizing
+
+	#bin-search-filters-dif {
+        text-align: center;
+		
+        a {
+            background: $lighter;
+            font-size: initial;
+            border-radius: 0.25em;
+
+            &:hover:before {
+                display: none;
+            }
+        }
+    }
+	
+	#bin-search-filters-pla {
+        text-align: center;
+		
+        a {
+            background: $lighter;
+            font-size: initial;
+            border-radius: 0.25em;
+
+            &:hover:before {
+                display: none;
+            }
+        }
+    }
 
     #bin-search-filters {
         text-align: center;
