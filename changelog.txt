@@ -1,3 +1,20 @@
+# vvmlist update - 15.01.2021 #
+##vvm count: 195
+
+		> difficulty and platform filter added
+
+		> you can now jump to another tag from filtered results
+		  sharp-edged small tags wasn't working before
+		  but now, they're acting like main tag filter
+		  
+		> all vms updated for matching new filters		
+
+
+												# todo #
+															-tag revamp (multi-value tags should be seperated)															
+															-paths (beginner, oscp, but what for middle-tier?)
+															-add walkthroughs (thank you andrea)
+
 # vvmlist update - 14.01.2021 #
 ##vvm count: 195
 		
@@ -10,21 +27,13 @@
 		> new tags added
 		
 		> htb pool removed
-		
-		> "passage" from htb pool removed since it's an active machine. (for not spoiling)
+			"passage" from htb pool removed since it's an active machine. (for not spoiling)
 				
 		> css updated
 			width increased from 800px to 1000px
 			vm name sections now has fixed width
 			link hover color changed from yucky purple to yummy green (thank you andrea)
 			..and other small corrections
-
-# todo #
-			-tag revamp (multi-value tags should be seperated)
-			-filter with difficulty and platform (gonna ask how to do it on stackoverflow)
-			-paths (beginner, oscp, but what for middle-tier?)
-			-add walkthroughs (thank you andrea)
-
 
 # vvmlist 0.1 beta release - 13.01.2021 #
 ##vvm count: 145

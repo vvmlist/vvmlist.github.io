@@ -2,7 +2,6 @@
 diffis:
   e:
     -
-#htb htbvip vulnhub pwklabs hackmyvm
 platfs:
   vulnhub:
     -
@@ -11,6 +10,10 @@ curls:
     -
 functions:
   unix:
+    -
+  e:
+    -
+  vulnhub:
     -
   ssh:
     -
