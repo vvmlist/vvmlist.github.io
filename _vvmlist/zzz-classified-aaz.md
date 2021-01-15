@@ -1,9 +1,7 @@
 ---
-#zzz-classified-ab zzz-classified-aa
 diffis:
   na:
     -
-#htb htbvip vulnhub pwklabs hackmyvm
 platfs:
   pwklabs:
     -
@@ -13,11 +11,13 @@ curls:
 functions:
   win:
     -
-  hash:
+  na:
+    -
+  pwklabs:
     -
   cve:
     -
-  dddd:
+  hash:
     -
   dddd:
     -
