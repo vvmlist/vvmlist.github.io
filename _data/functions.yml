@@ -9,8 +9,8 @@ vulnhub:
   label: vulnhub
 pwklabs: 
   label: pwk labs
-#hackmyvm: 
-#  label: hackmyvm
+hackmyvm: 
+  label: hackmyvm
 na: 
   label: "n/a"
 e: 

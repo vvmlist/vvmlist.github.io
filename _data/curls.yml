@@ -307,3 +307,13 @@ curlna:
   label: <a href="https://www.hackthebox.eu/home/machines/profile/208">go</a>
 "writeup":
   label: <a href="https://www.hackthebox.eu/home/machines/profile/192">go</a>
+"alzheimer":
+  label: <a href="https://hackmyvm.eu/machines/machine.php?vm=Alzheimer">go</a>
+"driftingblues3":
+  label: <a href="https://hackmyvm.eu/machines/machine.php?vm=driftingblues3">go</a>
+"shuriken 1":
+  label: <a href="https://www.vulnhub.com/entry/shuriken-1,600/">go</a>
+"twisted":
+  label: <a href="https://hackmyvm.eu/machines/machine.php?vm=Twisted">go</a>
+"vulny":
+  label: <a href="https://hackmyvm.eu/machines/machine.php?vm=Vulny">go</a>
