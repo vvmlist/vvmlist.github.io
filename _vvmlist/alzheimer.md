@@ -31,7 +31,7 @@ functions:
     -
   kernelb:
     -
-  dddd:
+  credz:
     -
   dddd:
     -
