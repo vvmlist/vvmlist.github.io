@@ -17,7 +17,7 @@ functions:
     -
   kernel:
     -
-  dddd:
+  cve:
     -
   dddd:
     -
