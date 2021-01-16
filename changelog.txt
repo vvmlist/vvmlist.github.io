@@ -1,3 +1,19 @@
+# vvmlist pool update - 16.01.2021 #
+##vvm count: 200
+
+		> vvmlist now has 200 vulnerable vms
+		  200th vm is driftingblues3 and it's made by me
+		  i highly recommend that machine to beginners
+		  
+##################################################################################################
+# todo #
+			-tag revamp (multi-value tags should be seperated)															
+			-paths (beginner, oscp, but what for middle-tier?)
+			-add walkthroughs (thank you andrea)
+			-difficulty and platform tags are not marking selection like main tags
+			 (it's because of script)
+##################################################################################################
+
 # vvmlist update - 15.01.2021 #
 ##vvm count: 195
 
@@ -8,14 +24,6 @@
 		  but now, they're acting like main tag filter
 		  
 		> all vms updated for matching new filters		
-
-##################################################################################################
-# todo #
-			-tag revamp (multi-value tags should be seperated)															
-			-paths (beginner, oscp, but what for middle-tier?)
-			-add walkthroughs (thank you andrea)
-			-difficulty and platform tags are not marking selection like main tags
-##################################################################################################
 
 # vvmlist update - 14.01.2021 #
 ##vvm count: 195
