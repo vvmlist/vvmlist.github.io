@@ -24,7 +24,8 @@ $accent: #c8c8c8;
 #bin-search-filters > li:nth-child(6),
 #bin-search-filters > li:nth-child(7),
 #bin-search-filters > li:nth-child(8),
-#bin-search-filters > li:nth-child(9) {
+#bin-search-filters > li:nth-child(9),
+#bin-search-filters > li:nth-child(10) {
 	display: none;
 	}
 
@@ -34,6 +35,7 @@ $accent: #c8c8c8;
 #bin-table > tbody:nth-child(2) > tr > td:nth-child(4) > ul:nth-child(1) > li:nth-child(3) {
 	display: none;
 	}
+
 
 // layout
 

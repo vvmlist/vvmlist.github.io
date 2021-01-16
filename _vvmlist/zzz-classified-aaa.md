@@ -11,11 +11,13 @@ curls:
 functions:
   win:
     -
+  na:
+    -
   pwklabs:
     -
   kernel:
     -
-  dddd:
+  cve:
     -
   dddd:
     -
