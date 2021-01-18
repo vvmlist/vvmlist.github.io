@@ -1,12 +1,15 @@
 ---
 ---
-
+@font-face {
+    font-family: Segoe;
+    src: url('segoeui.ttf');
+}
 
 
 $marked: #0070ff;
 
 
-$font: segoe ui;
+$font: 'Segoe';
 $myblue: #0a3b76;
 $lighter: #082F5E;
 $purpie: #00ffa7;
@@ -243,7 +246,7 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl {
 // function description
 
 .function-list {
-    font-size: 0.8rem;
+    font-size: 0.85rem;
     list-style: none;
     padding: 0;
     margin: 0;
