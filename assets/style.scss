@@ -73,6 +73,12 @@ $layout-break: "(min-width: #{$column-width + $grace-space})";
     margin-bottom: $margin;
 }
 
+.cinfo {
+    float: right;
+}
+
+
+
 // common tags
 
 body {
@@ -415,8 +421,11 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl {
 }
 
 .bin-name {
+	display: inline-block;
     font-family: $font;
     font-size: 1.2rem;
+	margin-top: 3px;
+	margin-bottom: 3px;
 }
 
 .function-name {

@@ -1,18 +1,26 @@
+# vvmlist update - 30.01.2021 #
+##vvm count: 200
+
+		> css update
+		  cosmetic changes
+		
+		> small corrections and improvements
+
+###################################################################################################
+# todo #
+			-tag revamp (multi-value tags should be seperated)
+			-paths (beginner, oscp, but what for middle-tier?)
+			-add walkthroughs (thank you andrea)
+			-difficulty and platform tags are not marking selection like main tags
+			 (it's because of script)
+###################################################################################################
+
 # vvmlist update - 19.01.2021 #
 ##vvm count: 200
 
 		> font updated
 		  found that i totally forgot testing out of windows systems
-		  segoe ui stays and it's included in local files
-
-###################################################################################################
-# todo #                                                                                          #
-			-tag revamp (multi-value tags should be seperated)								      #						
-			-paths (beginner, oscp, but what for middle-tier?)                                    #
-			-add walkthroughs (thank you andrea)                                                  #
-			-difficulty and platform tags are not marking selection like main tags                #
-			 (it's because of script)                                                             #
-###################################################################################################
+		  segoe ui font stays and it's included in local files
 
 # vvmlist pool update - 16.01.2021 #
 ##vvm count: 200
