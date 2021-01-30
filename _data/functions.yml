@@ -21,40 +21,36 @@ h:
   label: hard
 i: 
   label: insane
-acd: 
-  label: "active directory"
-arce: 
-  label: "authenticated rce"
+acd:
+  label: active directory
 asrep: 
   label: as-rep
+arce: 
+  label: authenticated rce
 blood: 
-  label: "bloodhound analysis"
-bof: 
-  label: "buffer overflow"
+  label: bloodhound analysis
 brute: 
   label: bruteforce/decrypt/decode
+bof: 
+  label: buffer overflow
 burp: 
   label: burp
 capa: 
   label: capabilities
-capdum: 
-  label: "packet or dump inspection"
 cewl: 
   label: cewl
-cred: 
-  label: "default creds"
-credz: 
-  label: "stored creds"
 cronj: 
-  label: "cron/scheduled tasks"
+  label: cron/scheduled tasks
 cve: 
   label: cve
 dcs: 
   label: dcsync
+cred: 
+  label: default creds
 deser: 
   label: deserialization
 dirtra: 
-  label: "directory traversal"
+  label: directory traversal
 dns: 
   label: dns
 docker: 
@@ -65,30 +61,24 @@ ftp:
   label: ftp
 git: 
   label: git
-group: 
-  label: "user group"
 hash: 
   label: hash/encrypted/encoded
 hidden: 
-  label: "hidden file"
-kernel: 
-  label: "kernel exploit"
-kernelb: 
-  label: "system binary exploit"
+  label: hidden file
 krbro: 
   label: kerberoasting
+kernel: 
+  label: kernel exploit
 ldap: 
   label: ldap
-lfi: 
-  label: "local file inclusion"
 libhj: 
-  label: "library hijack"
+  label: library hijack
+lfi: 
+  label: local file inclusion
 logpoi: 
-  label: "log poisoning"
+  label: log poisoning
 lxcd: 
   label: lxd/lxc
-mail: 
-  label: smtp/pop/imap
 mimik: 
   label: mimikatz
 mount: 
@@ -97,64 +87,74 @@ nfs:
   label: nfs
 nosqli: 
   label: nosqli
+capdum: 
+  label: packet or dump inspection
 pathj: 
-  label: "path hijack"
+  label: path hijack
 pivot: 
   label: pivot
 portkn: 
-  label: "port knock"
+  label: port knock
 powsh: 
   label: powershell
 proxy: 
   label: proxy
 rbash: 
-  label: "rbash/restricted shell"
+  label: rbash/restricted shell
 rce: 
   label: rce
 rdp: 
-  label: "remote desktop"
-revsh: 
-  label: "reverse shell"
+  label: remote desktop
 rfi: 
-  label: "remote file inclusion"
+  label: remote file inclusion
+revsh: 
+  label: reverse shell
 rpc: 
   label: rpc
 sam: 
-  label: "sam-system-security dump"
+  label: sam-system-security dump
 setenv: 
   label: setenv
 smb: 
   label: smb
+mail: 
+  label: smtp/pop/imap
 snmp: 
   label: snmp
 source: 
-  label: "source code inspection"
+  label: source code inspection
 sql: 
   label: sql
 sqli: 
-  label: "sql injection"
+  label: sql injection
 ssh: 
   label: ssh
 ssht: 
-  label: "ssh tunnel"
+  label: ssh tunnel
 ssl: 
   label: ssl
 stego: 
   label: stego
+credz: 
+  label: stored creds
 sudo: 
   label: sudo
 suid: 
   label: suid
+kernelb: 
+  label: system binary exploit
 sys: 
-  label: "system/config/backup file"
+  label: system/config/backup/file
 telnet: 
   label: telnet
 tftp: 
   label: tftp
+group: 
+  label: user groups
 webdav: 
   label: webdav
 winrm: 
-  label: winrm
+  label: winrm 
 wp: 
   label: wordpress
 xml: 

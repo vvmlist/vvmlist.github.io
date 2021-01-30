@@ -1,6 +1,6 @@
 ---
 layout: page
-title: vvmlist (beta)
+title: vvmlist
 ---
 
 {% include vvm-index.html %}
