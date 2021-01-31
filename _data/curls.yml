@@ -156,6 +156,8 @@ curlna:
 "sniper":
   label: <a href="https://www.hackthebox.eu/home/machines/profile/211">go</a>
 "solidstate":
+  label: <a href="https://www.hackthebox.eu/home/machines/profile/85">go</a>
+"solidstatevh":
   label: <a href="https://www.vulnhub.com/entry/solidstate-1,261/">go</a>
 "stapler 1":
   label: <a href="https://www.vulnhub.com/entry/stapler-1,150/">go</a>
