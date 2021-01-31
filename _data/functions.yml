@@ -144,7 +144,7 @@ suid:
 kernelb: 
   label: system binary exploit
 sys: 
-  label: system/config/backup/file
+  label: system/config/backup file
 telnet: 
   label: telnet
 tftp: 
