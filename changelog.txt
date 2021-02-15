@@ -1,10 +1,7 @@
-# vvmlist update - 30.01.2021 #
-##vvm count: 200
+# vvmlist update - 15.02.2021 #
+##vvm count: 201
 
-		> css update
-		  cosmetic changes
-		
-		> small corrections and improvements
+		> light mode added
 
 ###################################################################################################
 # todo #
@@ -14,6 +11,14 @@
 			-difficulty and platform tags are not marking selection like main tags
 			 (it's because of script)
 ###################################################################################################
+
+# vvmlist update - 30.01.2021 #
+##vvm count: 200
+
+		> css update
+		  cosmetic changes
+		
+		> small corrections and improvements
 
 # vvmlist update - 19.01.2021 #
 ##vvm count: 200

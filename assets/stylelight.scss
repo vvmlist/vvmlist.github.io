@@ -6,14 +6,12 @@
 }
 
 
-$marked: #0070ff;
-
-
+$marked: #928d81;
 $font: 'Segoe';
-$myblue: #0a3b76;
-$lighter: #082F5E;
+$myblue: #dbd4c2;
+$lighter: #f4ecd8;
 $purpie: #00ffa7;
-$accent: #c8c8c8;
+$accent: #000000;
 
 // disable diffis and platfs from main taglist
 
@@ -40,8 +38,9 @@ $accent: #c8c8c8;
 	display: none;
 	}
 
+
 //css mode switch
-.togglel {
+.toggled {
 	position: relative;
     float: left;
 	top: -58px;
@@ -50,7 +49,7 @@ $accent: #c8c8c8;
 	a {text-decoration: none;}
 }
 
-.toggled {
+.togglel {
 	position: relative;
     float: left;
 	top: -58px;
@@ -82,7 +81,7 @@ $layout-break: "(min-width: #{$column-width + $grace-space})";
     }
 }
 
-.logoi {
+.logol {
     $margin: 20px;
     float: right;
     width: 200px;
@@ -91,7 +90,7 @@ $layout-break: "(min-width: #{$column-width + $grace-space})";
     margin-bottom: $margin;
 }
 
-.logol {
+.logoi {
 	display: none;
 }
 
@@ -134,6 +133,7 @@ a:link, a:visited {
 
 a:hover {
     color: $purpie;
+	background-color: $marked;
 }
 
 // permalink on headings
@@ -174,6 +174,7 @@ h2, h3, h4, h5, h5 {
     }
 	a:hover {
     color: $purpie;
+	background-color: $marked;
 			}
 	}
 
@@ -192,9 +193,12 @@ h2, h3, h4, h5, h5 {
             font-size: initial;
             border-radius: 0.25em;
 
-            &:hover:before {
+            &:before {
                 display: none;
             }
+			&:hover {
+				background-color: $marked;
+				}
         }
     }
 	
@@ -206,9 +210,12 @@ h2, h3, h4, h5, h5 {
             font-size: initial;
             border-radius: 0.25em;
 
-            &:hover:before {
+            &:before {
                 display: none;
             }
+			&:hover {
+				background-color: $marked;
+				}
         }
     }
 
@@ -220,9 +227,12 @@ h2, h3, h4, h5, h5 {
             font-size: initial;
             border-radius: 0.25em;
 
-            &:hover:before {
+            &:before {
                 display: none;
             }
+			&:hover {
+				background-color: $marked;
+				}
         }
     }
 
