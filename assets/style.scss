@@ -43,8 +43,16 @@ $accent: #c8c8c8;
 .bttop {
 	text-decoration: none;
 	position: fixed;
-	right: 600px;
+	left: 30px;
 	bottom: 30px;
+	color: $accent;
+	background: $lighter;
+    font-size: initial;
+    border-radius: 0.25em;
+	display: inline-block;
+	padding: 2px 2px;
+	margin: 0px 0;
+	text-decoration: none;  
 	}
 
 .newicon {
