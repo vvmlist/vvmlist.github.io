@@ -1,321 +1,336 @@
 ---
 curlna:
-  label: 
+  label: <a class="newicon" href="https://www.offensive-security.com/pwk-oscp/"><img src="assets/offsec.png"></a>
+"dddhtbt":
+  label: <a class="newicon" href="htblink"><img src="assets/htbvip.png"></a>
+"dddvht":
+  label: <a class="newicon" href="vhlink"><img src="assets/vulnhub.png"></a>
+"dddhmvmt":
+  label: <a class="newicon" href="hmvmlink"><img src="assets/hmvm.png"></a>
+#################
+##htb region
+#################
 "active":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/148">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/148"><img src="assets/htbvip.png"></a>
 "apocalyst":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/57">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/57"><img src="assets/htbvip.png"></a>
 "aragog":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/126">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/126"><img src="assets/htbvip.png"></a>
 "bart":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/128">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/128"><img src="assets/htbvip.png"></a>
 "bashed":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/118">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/118"><img src="assets/htbvip.png"></a>
 "bastard":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/7">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/7"><img src="assets/htbvip.png"></a>
 "blocky":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/48">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/48"><img src="assets/htbvip.png"></a>
 "blue":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/51">go</a>
-"brainpan 1":
-  label: <a href="https://www.vulnhub.com/entry/brainpan-1,51/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/51"><img src="assets/htbvip.png"></a>
 "celestial":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/130">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/130"><img src="assets/htbvip.png"></a>
 "chaos":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/167">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/167"><img src="assets/htbvip.png"></a>
 "chatterbox":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/123">go</a>
-"colddbox":
-  label: <a href="https://www.vulnhub.com/entry/colddbox-easy,586/">go</a>
-"covfefe 1":
-  label: <a href="https://www.vulnhub.com/entry/covfefe-1,199/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/123"><img src="assets/htbvip.png"></a>
 "cronos":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/11">go</a>
-"cybox 1.1":
-  label: <a href="https://www.vulnhub.com/entry/cybox-1,607/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/11"><img src="assets/htbvip.png"></a>
 "dab":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/150">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/150"><img src="assets/htbvip.png"></a>
 "devel":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/3">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/3"><img src="assets/htbvip.png"></a>
 "devoops":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/140">go</a>
-"djinn 1":
-  label: <a href="https://www.vulnhub.com/entry/djinn-1,397/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/140"><img src="assets/htbvip.png"></a>
 "dropzone":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/139">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/139"><img src="assets/htbvip.png"></a>
 "enterprise":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/112">go</a>
-"escalate_linux 1":
-  label: <a href="https://www.vulnhub.com/entry/escalate_linux-1,323/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/112"><img src="assets/htbvip.png"></a>
 "europa":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/27">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/27"><img src="assets/htbvip.png"></a>
 "fluxcapacitor":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/119">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/119"><img src="assets/htbvip.png"></a>
 "forest":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/212">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/212"><img src="assets/htbvip.png"></a>
 "friendzone":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/173">go</a>
-"fristileaks 1.3":
-  label: <a href="https://www.vulnhub.com/entry/fristileaks-13,133/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/173"><img src="assets/htbvip.png"></a>
 "frolic":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/158">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/158"><img src="assets/htbvip.png"></a>
 "giddy":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/153">go</a>
-"goldeneye 1":
-  label: <a href="https://www.vulnhub.com/entry/goldeneye-1,240/">go</a>
-"hacklab vulnix":
-  label: <a href="https://www.vulnhub.com/entry/hacklab-vulnix,48/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/153"><img src="assets/htbvip.png"></a>
 "haircut":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/21">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/21"><img src="assets/htbvip.png"></a>
 "hawk":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/146">go</a>
-"healthcare 1":
-  label: <a href="https://www.vulnhub.com/entry/healthcare-1,522/">go</a>
-"hemisphere lynx":
-  label: <a href="https://www.vulnhub.com/entry/hemisphere-lynx,577/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/146"><img src="assets/htbvip.png"></a>
 "inception":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/117">go</a>
-"infosec prep oscp":
-  label: <a href="https://www.vulnhub.com/entry/infosec-prep-oscp,508/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/117"><img src="assets/htbvip.png"></a>
 "irked":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/163">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/163"><img src="assets/htbvip.png"></a>
 "jeeves":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/114">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/114"><img src="assets/htbvip.png"></a>
 "joker":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/20">go</a>
-"kioptrix level 1.1":
-  label: <a href="https://www.vulnhub.com/entry/kioptrix-level-11-2,23/">go</a>
-"kioptrix level 1":
-  label: <a href="https://www.vulnhub.com/entry/kioptrix-level-1-1,22/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/20"><img src="assets/htbvip.png"></a>
 "lazy":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/18">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/18"><img src="assets/htbvip.png"></a>
 "legacy":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/2">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/2"><img src="assets/htbvip.png"></a>
 "lightweight":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/166">go</a>
-"lin.security 1":
-  label: <a href="https://www.vulnhub.com/entry/linsecurity-1,244/">go</a>
-"lord of the root 1.0.1":
-  label: <a href="https://www.vulnhub.com/entry/lord-of-the-root-101,129/">go</a>
-"m87":
-  label: <a href="https://www.vulnhub.com/entry/m87-1,595/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/166"><img src="assets/htbvip.png"></a>
 "magic":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/241">go</a>
-"masashi 1":
-  label: <a href="https://www.vulnhub.com/entry/masashi-1,599/">go</a>
-"metasploitable 2":
-  label: <a href="https://www.vulnhub.com/entry/metasploitable-2,29/">go</a>
-"moee 1":
-  label: <a href="https://www.vulnhub.com/entry/moee-1,608/">go</a>
-"mr-robot 1":
-  label: <a href="https://www.vulnhub.com/entry/mr-robot-1,151/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/241"><img src="assets/htbvip.png"></a>
 "nibbles":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/121">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/121"><img src="assets/htbvip.png"></a>
 "nineveh":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/54">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/54"><img src="assets/htbvip.png"></a>
 "october":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/15">go</a>
-"odin 1":
-  label: <a href="https://www.vulnhub.com/entry/odin-1,619/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/15"><img src="assets/htbvip.png"></a>
 "olympus":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/135">go</a>
-"onsystem hannah":
-  label: <a href="https://www.vulnhub.com/entry/onsystem-shelldredd-1-hannah,545/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/135"><img src="assets/htbvip.png"></a>
 "openadmin":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/222">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/222"><img src="assets/htbvip.png"></a>
 "openkeys":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/267">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/267"><img src="assets/htbvip.png"></a>
 "passage":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/275">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/275"><img src="assets/htbvip.png"></a>
 "poison":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/132">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/132"><img src="assets/htbvip.png"></a>
 "popcorn":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/4">go</a>
-"pwnlab init":
-  label: <a href="https://www.vulnhub.com/entry/pwnlab-init,158/">go</a>
-"relevant 1":
-  label: <a href="https://www.vulnhub.com/entry/relevant-1,568/">go</a>
-"sar 1":
-  label: <a href="https://www.vulnhub.com/entry/sar-1,425/">go</a>
-"school 1":
-  label: <a href="https://www.vulnhub.com/entry/school-1,613/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/4"><img src="assets/htbvip.png"></a>
 "secnotes":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/151">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/151"><img src="assets/htbvip.png"></a>
 "sense":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/111">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/111"><img src="assets/htbvip.png"></a>
 "shocker":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/108">go</a>
-"sickos 1.1":
-  label: <a href="https://www.vulnhub.com/entry/sickos-11,132/">go</a>
-"sickos 1.2":
-  label: <a href="https://www.vulnhub.com/entry/sickos-12,144/">go</a>
-"skytower 1":
-  label: <a href="https://www.vulnhub.com/entry/skytower-1,96/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/108"><img src="assets/htbvip.png"></a>
 "sneaky":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/19">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/19"><img src="assets/htbvip.png"></a>
 "sniper":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/211">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/211"><img src="assets/htbvip.png"></a>
 "solidstate":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/85">go</a>
-"solidstatevh":
-  label: <a href="https://www.vulnhub.com/entry/solidstate-1,261/">go</a>
-"stapler 1":
-  label: <a href="https://www.vulnhub.com/entry/stapler-1,150/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/85"><img src="assets/htbvip.png"></a>
 "stratosphere":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/129">go</a>
-"sunset decoy":
-  label: <a href="https://www.vulnhub.com/entry/sunset-decoy,505/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/129"><img src="assets/htbvip.png"></a>
 "swagshop":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/188">go</a>
-"symfonos 1":
-  label: <a href="https://www.vulnhub.com/entry/symfonos-1,322/">go</a>
-"symfonos 2":
-  label: <a href="https://www.vulnhub.com/entry/symfonos-2,331/">go</a>
-"symfonos 3.1":
-  label: <a href="https://www.vulnhub.com/entry/symfonos-31,332/">go</a>
-"symfonos 4":
-  label: <a href="https://www.vulnhub.com/entry/symfonos-4,347/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/188"><img src="assets/htbvip.png"></a>
 "tartarsauce":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/138">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/138"><img src="assets/htbvip.png"></a>
 "teacher":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/165">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/165"><img src="assets/htbvip.png"></a>
 "tenten":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/8">go</a>
-"the planets mercury":
-  label: <a href="https://www.vulnhub.com/entry/the-planets-mercury,544/">go</a>
-"tr0ll 1":
-  label: <a href="https://www.vulnhub.com/entry/tr0ll-1,100/">go</a>
-"tr0ll 2":
-  label: <a href="https://www.vulnhub.com/entry/tr0ll-2,107/">go</a>
-"tr0ll 3":
-  label: <a href="https://www.vulnhub.com/entry/tr0ll-3,340/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/8"><img src="assets/htbvip.png"></a>
 "traverxec":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/217">go</a>
-"uninvited 1":
-  label: <a href="https://www.vulnhub.com/entry/uninvited-1,523/#download">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/217"><img src="assets/htbvip.png"></a>
 "valentine":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/127">go</a>
-"vulnos 2":
-  label: <a href="https://www.vulnhub.com/entry/vulnos-2,147/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/127"><img src="assets/htbvip.png"></a>
 "waldo":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/149">go</a>
-"web developer 1":
-  label: <a href="https://www.vulnhub.com/entry/web-developer-1,288/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/149"><img src="assets/htbvip.png"></a>
 "ypuffy":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/154">go</a>
-"zico2":
-  label: <a href="https://www.vulnhub.com/entry/zico2-1,210/">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/154"><img src="assets/htbvip.png"></a>
 "zipper":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/159">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/159"><img src="assets/htbvip.png"></a>
 "access":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/156">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/156"><img src="assets/htbvip.png"></a>
 "admirer":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/248">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/248"><img src="assets/htbvip.png"></a>
 "ai":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/216">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/216"><img src="assets/htbvip.png"></a>
 "arctic":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/9">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/9"><img src="assets/htbvip.png"></a>
 "bank":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/26">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/26"><img src="assets/htbvip.png"></a>
 "bastion":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/186">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/186"><img src="assets/htbvip.png"></a>
 "beep":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/5">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/5"><img src="assets/htbvip.png"></a>
 "bitlab":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/207">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/207"><img src="assets/htbvip.png"></a>
 "blunder":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/254">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/254"><img src="assets/htbvip.png"></a>
 "book":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/230">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/230"><img src="assets/htbvip.png"></a>
 "bounty":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/142">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/142"><img src="assets/htbvip.png"></a>
 "buff":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/263">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/263"><img src="assets/htbvip.png"></a>
 "calamity":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/37">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/37"><img src="assets/htbvip.png"></a>
 "canape":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/134">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/134"><img src="assets/htbvip.png"></a>
 "carrier":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/155">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/155"><img src="assets/htbvip.png"></a>
 "cascade":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/235">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/235"><img src="assets/htbvip.png"></a>
 "craft":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/197">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/197"><img src="assets/htbvip.png"></a>
 "curling":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/160">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/160"><img src="assets/htbvip.png"></a>
 "forwardslash":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/239">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/239"><img src="assets/htbvip.png"></a>
 "fuse":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/256">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/256"><img src="assets/htbvip.png"></a>
 "grandpa":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/13">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/13"><img src="assets/htbvip.png"></a>
 "granny":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/14">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/14"><img src="assets/htbvip.png"></a>
 "haystack":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/195">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/195"><img src="assets/htbvip.png"></a>
 "heist":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/201">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/201"><img src="assets/htbvip.png"></a>
 "help":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/170">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/170"><img src="assets/htbvip.png"></a>
 "jarvis":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/194">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/194"><img src="assets/htbvip.png"></a>
 "jerry":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/144">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/144"><img src="assets/htbvip.png"></a>
 "lacasadepapel":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/181">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/181"><img src="assets/htbvip.png"></a>
 "lame":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/1">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/1"><img src="assets/htbvip.png"></a>
 "luke":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/190">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/190"><img src="assets/htbvip.png"></a>
 "mango":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/214">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/214"><img src="assets/htbvip.png"></a>
 "mirai":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/64">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/64"><img src="assets/htbvip.png"></a>
 "monteverde":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/223">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/223"><img src="assets/htbvip.png"></a>
 "nest":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/225">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/225"><img src="assets/htbvip.png"></a>
 "netmon":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/177">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/177"><img src="assets/htbvip.png"></a>
 "networked":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/203">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/203"><img src="assets/htbvip.png"></a>
 "obscurity":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/219">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/219"><img src="assets/htbvip.png"></a>
 "omni":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/271">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/271"><img src="assets/htbvip.png"></a>
 "optimum":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/6">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/6"><img src="assets/htbvip.png"></a>
 "postman":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/215">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/215"><img src="assets/htbvip.png"></a>
 "querier":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/175">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/175"><img src="assets/htbvip.png"></a>
 "remote":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/234">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/234"><img src="assets/htbvip.png"></a>
 "resolute":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/220">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/220"><img src="assets/htbvip.png"></a>
 "sauna":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/229">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/229"><img src="assets/htbvip.png"></a>
 "servmon":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/240">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/240"><img src="assets/htbvip.png"></a>
 "sneakymailer":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/262">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/262"><img src="assets/htbvip.png"></a>
 "sunday":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/136">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/136"><img src="assets/htbvip.png"></a>
 "tabby":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/259">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/259"><img src="assets/htbvip.png"></a>
 "traceback":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/233">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/233"><img src="assets/htbvip.png"></a>
 "wall":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/208">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/208"><img src="assets/htbvip.png"></a>
 "writeup":
-  label: <a href="https://www.hackthebox.eu/home/machines/profile/192">go</a>
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/192"><img src="assets/htbvip.png"></a>
+#################
+##vulnhub region
+#################
+"onsystem hannah":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/onsystem-shelldredd-1-hannah,545/"><img src="assets/vulnhub.png"></a>
+"pwnlab init":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/pwnlab-init,158/"><img src="assets/vulnhub.png"></a>
+"relevant 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/relevant-1,568/"><img src="assets/vulnhub.png"></a>
+"sar 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/sar-1,425/"><img src="assets/vulnhub.png"></a>
+"school 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/school-1,613/"><img src="assets/vulnhub.png"></a>
+"sickos 1.1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/sickos-11,132/"><img src="assets/vulnhub.png"></a>
+"sickos 1.2":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/sickos-12,144/"><img src="assets/vulnhub.png"></a>
+"skytower 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/skytower-1,96/"><img src="assets/vulnhub.png"></a>
+"solidstatevh":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/solidstate-1,261/"><img src="assets/vulnhub.png"></a>
+"stapler 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/stapler-1,150/"><img src="assets/vulnhub.png"></a>
+"sunset decoy":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/sunset-decoy,505/"><img src="assets/vulnhub.png"></a>
+"symfonos 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/symfonos-1,322/"><img src="assets/vulnhub.png"></a>
+"symfonos 2":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/symfonos-2,331/"><img src="assets/vulnhub.png"></a>
+"symfonos 3.1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/symfonos-31,332/"><img src="assets/vulnhub.png"></a>
+"symfonos 4":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/symfonos-4,347/"><img src="assets/vulnhub.png"></a>
+"uninvited 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/uninvited-1,523/"><img src="assets/vulnhub.png"></a>
+"the planets mercury":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/the-planets-mercury,544/"><img src="assets/vulnhub.png"></a>
+"tr0ll 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/tr0ll-1,100/"><img src="assets/vulnhub.png"></a>
+"tr0ll 2":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/tr0ll-2,107/"><img src="assets/vulnhub.png"></a>
+"tr0ll 3":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/tr0ll-3,340/"><img src="assets/vulnhub.png"></a>
+"vulnos 2":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/vulnos-2,147/"><img src="assets/vulnhub.png"></a>
+"web developer 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/web-developer-1,288/"><img src="assets/vulnhub.png"></a>
+"zico2":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/zico2-1,210/"><img src="assets/vulnhub.png"></a>
+"odin 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/odin-1,619/"><img src="assets/vulnhub.png"></a>
+"brainpan 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/brainpan-1,51/"><img src="assets/vulnhub.png"></a>
+"colddbox":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/colddbox-easy,586/"><img src="assets/vulnhub.png"></a>
+"covfefe 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/covfefe-1,199/"><img src="assets/vulnhub.png"></a>
+"cybox 1.1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/cybox-1,607/"><img src="assets/vulnhub.png"></a>
+"djinn 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/djinn-1,397/"><img src="assets/vulnhub.png"></a>
+"escalate_linux 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/escalate_linux-1,323/"><img src="assets/vulnhub.png"></a>
+"fristileaks 1.3":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/fristileaks-13,133/"><img src="assets/vulnhub.png"></a>
+"goldeneye 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/goldeneye-1,240/"><img src="assets/vulnhub.png"></a>
+"hacklab vulnix":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/hacklab-vulnix,48/"><img src="assets/vulnhub.png"></a>
+"healthcare 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/healthcare-1,522/"><img src="assets/vulnhub.png"></a>
+"hemisphere lynx":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/hemisphere-lynx,577/"><img src="assets/vulnhub.png"></a>
+"infosec prep oscp":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/infosec-prep-oscp,508/"><img src="assets/vulnhub.png"></a>
+"kioptrix level 1.1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/kioptrix-level-11-2,23/"><img src="assets/vulnhub.png"></a>
+"kioptrix level 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/kioptrix-level-1-1,22/"><img src="assets/vulnhub.png"></a>
+"lin.security 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/linsecurity-1,244/"><img src="assets/vulnhub.png"></a>
+"lord of the root 1.0.1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/lord-of-the-root-101,129/"><img src="assets/vulnhub.png"></a>
+"m87":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/m87-1,595/"><img src="assets/vulnhub.png"></a>
+"masashi 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/masashi-1,599/"><img src="assets/vulnhub.png"></a>
+"metasploitable 2":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/metasploitable-2,29/"><img src="assets/vulnhub.png"></a>
+"moee 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/moee-1,608/"><img src="assets/vulnhub.png"></a>
+"mr-robot 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/mr-robot-1,151/"><img src="assets/vulnhub.png"></a>
+#################
+##hackmyvm region
+#################
 "alzheimer":
-  label: <a href="https://hackmyvm.eu/machines/machine.php?vm=Alzheimer">go</a>
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Alzheimer"><img src="assets/hmvm.png"></a>
 "driftingblues3":
-  label: <a href="https://hackmyvm.eu/machines/machine.php?vm=driftingblues3">go</a>
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=driftingblues3"><img src="assets/hmvm.png"></a>
 "shuriken 1":
-  label: <a href="https://www.vulnhub.com/entry/shuriken-1,600/">go</a>
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/shuriken-1,600/"><img src="assets/hmvm.png"></a>
 "twisted":
-  label: <a href="https://hackmyvm.eu/machines/machine.php?vm=Twisted">go</a>
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Twisted"><img src="assets/hmvm.png"></a>
 "vulny":
-  label: <a href="https://hackmyvm.eu/machines/machine.php?vm=Vulny">go</a>
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Vulny"><img src="assets/hmvm.png"></a>

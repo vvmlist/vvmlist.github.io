@@ -4,7 +4,7 @@
 htbvip:
   label: htb vip
 vulnhub:
-  label: vulnhub  
+  label: vulnhub
 pwklabs:
   label: pwk labs
 hackmyvm:
