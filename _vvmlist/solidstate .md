@@ -8,6 +8,8 @@ platfs:
 curls:
   solidstate:
     -
+  solidstatevh:
+    -
 functions:
   unix:
     -
