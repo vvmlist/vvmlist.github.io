@@ -39,6 +39,13 @@ $accent: #c8c8c8;
 #bin-table > tbody:nth-child(2) > tr > td:nth-child(4) > ul:nth-child(1) > li:nth-child(3) {
 	display: none;
 	}
+	
+.bttop {
+	text-decoration: none;
+	position: fixed;
+	right: 600px;
+	bottom: 30px;
+	}
 
 .newicon {
     padding: 0 !important; 
