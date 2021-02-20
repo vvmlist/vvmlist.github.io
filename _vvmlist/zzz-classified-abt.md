@@ -15,9 +15,11 @@ functions:
     -
   pwklabs:
     -
-  cve:
+  pivot:
     -
-  kernel:
+  mimik:
+    -
+  credz:
     -
 
 ---
