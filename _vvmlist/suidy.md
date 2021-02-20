@@ -1,0 +1,27 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  hackmyvm:
+    -
+curls:
+  suidy:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  hackmyvm:
+    -
+  brute:
+    -
+  credz:
+    -
+  ssh:
+    -
+  suid:
+    -
+
+---

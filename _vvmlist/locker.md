@@ -1,0 +1,25 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  hackmyvm:
+    -
+curls:
+  locker:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  hackmyvm:
+    -
+  rce:
+    -
+  revsh:
+    -
+  suid:
+    -
+
+---

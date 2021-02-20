@@ -1,0 +1,27 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  hackmyvm:
+    -
+curls:
+  insomnia:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  hackmyvm:
+    -
+  rce:
+    -
+  revsh:
+    -
+  sudo:
+    -
+  cronj:
+    -
+
+---

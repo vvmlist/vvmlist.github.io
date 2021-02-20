@@ -1,0 +1,27 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  hackmyvm:
+    -
+curls:
+  hommie:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  hackmyvm:
+    -
+  tftp:
+    -
+  ssh:
+    -
+  suid:
+    -
+  pathj:
+    -
+
+---
