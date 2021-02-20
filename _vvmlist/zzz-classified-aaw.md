@@ -19,5 +19,11 @@ functions:
     -
   kernel:
     -
+  hash:
+    -
+  credz:
+    -
+  mimik:
+    -
 
 ---

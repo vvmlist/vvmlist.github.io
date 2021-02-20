@@ -9,15 +9,21 @@ curls:
   curlna:
     -
 functions:
-  win:
+  unix:
     -
   na:
     -
   pwklabs:
     -
-  cve:
+  pivot:
     -
-  kernel:
+  ssh:
+    -
+  credz:
+    -
+  sudo:
+    -
+  kernelb:
     -
 
 ---
