@@ -321,6 +321,10 @@ curlna:
   label: <a class="newicon" href="https://www.vulnhub.com/entry/moee-1,608/"><img src="assets/vulnhub.png"></a>
 "mr-robot 1":
   label: <a class="newicon" href="https://www.vulnhub.com/entry/mr-robot-1,151/"><img src="assets/vulnhub.png"></a>
+"driftingblues2.md":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/driftingblues-2,634/"><img src="assets/vulnhub.png"></a>
+"driftingblues.md":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/driftingblues-1,625/"><img src="assets/vulnhub.png"></a>
 #################
 ##hackmyvm region
 #################
