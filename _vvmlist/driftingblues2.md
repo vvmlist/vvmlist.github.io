@@ -1,0 +1,29 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnhub:
+    -
+curls:
+  driftingblues2:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnhub:
+    -
+  wp:
+    -
+  brute:
+    -
+  revsh:
+    -
+  ssh:
+    -
+  sudo:
+    -
+
+---
