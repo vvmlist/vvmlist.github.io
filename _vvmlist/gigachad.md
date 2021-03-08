@@ -8,6 +8,8 @@ platfs:
 curls:
   gigachad:
     -
+  gigachadvh:
+    -
 functions:
   unix:
     -
