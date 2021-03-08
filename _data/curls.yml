@@ -325,6 +325,14 @@ curlna:
   label: <a class="newicon" href="https://www.vulnhub.com/entry/driftingblues-2,634/"><img src="assets/vulnhub.png"></a>
 "driftingblues":
   label: <a class="newicon" href="https://www.vulnhub.com/entry/driftingblues-1,625/"><img src="assets/vulnhub.png"></a>
+"gigachadvh":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/gigachad-1,657/"><img src="assets/vulnhub.png"></a>
+"grotesquevh":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/grotesque-1,658/"><img src="assets/vulnhub.png"></a>
+"driftingblues3vh":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/driftingblues-3,656/"><img src="assets/vulnhub.png"></a>
+"shuriken 1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/shuriken-1,600/"><img src="assets/vulnhub.png"></a>
 #################
 ##hackmyvm region
 #################
@@ -332,8 +340,6 @@ curlna:
   label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Alzheimer"><img src="assets/hmvm.png"></a>
 "driftingblues3":
   label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=driftingblues3"><img src="assets/hmvm.png"></a>
-"shuriken 1":
-  label: <a class="newicon" href="https://www.vulnhub.com/entry/shuriken-1,600/"><img src="assets/hmvm.png"></a>
 "twisted":
   label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Twisted"><img src="assets/hmvm.png"></a>
 "vulny":
