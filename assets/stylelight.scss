@@ -438,6 +438,39 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl {
     }
 }
 
+// wal description
+
+.wal-list {
+    font-size: 0.85rem;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+        display: inline-block;
+        a {
+            display: inline-block;
+            padding: 0.25em 0.5em;
+            margin: 0.2em 0;
+            border: 1px solid $accent;
+        }
+
+        a:link, a:visited {
+            color: $accent;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: $purpie;
+            border-color: $purpie;
+        }
+
+        &.match a {
+            background: $marked;
+        }
+    }
+}
+
 // bin examples
 
 .examples {
