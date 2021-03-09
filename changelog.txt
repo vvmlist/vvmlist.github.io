@@ -1,17 +1,23 @@
+# vvmlist update - 10.03.2021 #
+##vvm count: 220
+		
+		>walkthrough section added (thank you andrea)
+		  htbvip is ok rn
+		  will add remaining platform machines
+
+###################################################################################################
+# todo #
+			-tag revamp (multi-value tags should be seperated)
+			-paths (beginner, oscp, but what for middle-tier?)
+			-difficulty and platform tags are not marking selection like main tags
+			 (it's because of script)
+###################################################################################################
 # vvmlist pool update - 20.02.2021 #
 ##vvm count: 218
 
 		> pwklabs updated
 		> hackmyvm updated
 
-###################################################################################################
-# todo #
-			-tag revamp (multi-value tags should be seperated)
-			-paths (beginner, oscp, but what for middle-tier?)
-			-add walkthroughs (thank you andrea)
-			-difficulty and platform tags are not marking selection like main tags
-			 (it's because of script)
-###################################################################################################
 # vvmlist update - 19.02.2021 #
 ##vvm count: 201
 
