@@ -1,0 +1,433 @@
+---
+accesswu:
+  label: <a href="https://0xdf.gitlab.io/2019/03/02/htb-access.html">writeup<br>0xdf</a>
+accessvi:
+  label: <a href="https://www.youtube.com/watch?v=Rr6Oxrj2IjU">video<br>ippsec</a>
+activewu:
+  label: <a href="https://0xdf.gitlab.io/2018/12/08/htb-active.html">writeup<br>0xdf</a>
+activevi:
+  label: <a href="https://www.youtube.com/watch?v=jUc1J31DNdw">video<br>ippsec</a>
+admirerwu:
+  label: <a href="https://0xdf.gitlab.io/2020/09/26/htb-admirer.html">writeup<br>0xdf</a>
+admirervi:
+  label: <a href="https://www.youtube.com/watch?v=_zMg0fHwwfw">video<br>ippsec</a>
+aiwu:
+  label: <a href="https://0xdf.gitlab.io/2020/01/25/htb-ai.html">writeup<br>0xdf</a>
+aivi:
+  label: <a href="https://www.youtube.com/watch?v=7n7YRntu3bc">video<br>ippsec</a>
+apocalystwu:
+  label: <a href="https://0xdf.gitlab.io/2021/02/09/htb-apocalyst.html">writeup<br>0xdf</a>
+apocalystvi:
+  label: <a href="https://www.youtube.com/watch?v=TJVghYBByIA">video<br>ippsec</a>
+aragogwu:
+  label: <a href="https://0xdf.gitlab.io/2018/07/21/htb-aragog.html">writeup<br>0xdf</a>
+aragogvi:
+  label: <a href="https://www.youtube.com/watch?v=NFdi-2tgvxY">video<br>ippsec</a>
+arcticwu:
+  label: <a href="https://0xdf.gitlab.io/2020/05/19/htb-arctic.html">writeup<br>0xdf</a>
+arcticvi:
+  label: <a href="https://www.youtube.com/watch?v=e9lVyFH7-4o">video<br>ippsec</a>
+bankwu:
+  label: <a href="https://0xdf.gitlab.io/2020/07/07/htb-bank.html">writeup<br>0xdf</a>
+bankvi:
+  label: <a href="https://www.youtube.com/watch?v=JRPWFSzFaG0">video<br>ippsec</a>
+bartwu:
+  label: <a href="https://0xdf.gitlab.io/2018/07/15/htb-bart.html">writeup<br>0xdf</a>
+bartvi:
+  label: <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">video<br>ippsec</a>
+bashedwu:
+  label: <a href="https://0xdf.gitlab.io/2018/04/29/htb-bashed.html">writeup<br>0xdf</a>
+bashedvi:
+  label: <a href="https://www.youtube.com/watch?v=2DqdPcbYcy8">video<br>ippsec</a>
+bastardwu:
+  label: <a href="https://0xdf.gitlab.io/2019/03/12/htb-bastard.html">writeup<br>0xdf</a>
+bastardvi:
+  label: <a href="https://www.youtube.com/watch?v=lP-E5vmZNC0">video<br>ippsec</a>
+bastionwu:
+  label: <a href="https://0xdf.gitlab.io/2019/09/07/htb-bastion.html">writeup<br>0xdf</a>
+bastionvi:
+  label: <a href="https://www.youtube.com/watch?v=2j3FNp5pjQ4">video<br>ippsec</a>
+beepwu:
+  label: <a href="https://0xdf.gitlab.io/2021/02/23/htb-beep.html">writeup<br>0xdf</a>
+beepvi:
+  label: <a href="https://www.youtube.com/watch?v=XJmBpOd__N8">video<br>ippsec</a>
+bitlabwu:
+  label: <a href="https://0xdf.gitlab.io/2020/01/11/htb-bitlab.html">writeup<br>0xdf</a>
+bitlabvi:
+  label: <a href="https://www.youtube.com/watch?v=Fxq6oZ-H-xI">video<br>ippsec</a>
+blockywu:
+  label: <a href="https://0xdf.gitlab.io/2020/06/30/htb-blocky.html">writeup<br>0xdf</a>
+blockyvi:
+  label: <a href="https://www.youtube.com/watch?v=C2O-rilXA6I">video<br>ippsec</a>
+bluewu:
+  label: <a href="https://www.hackingarticles.in/hack-the-box-challenge-blue-walkthrough/">writeup<br>hackingarticles</a>
+bluevi:
+  label: <a href="https://www.youtube.com/watch?v=YRsfX6DW10E">video<br>ippsec</a>
+blunderwu:
+  label: <a href="https://0xdf.gitlab.io/2020/10/17/htb-blunder.html">writeup<br>0xdf</a>
+blundervi:
+  label: <a href="https://www.youtube.com/watch?v=G5iw8c2vXuk">video<br>ippsec</a>
+bookwu:
+  label: <a href="https://0xdf.gitlab.io/2020/07/11/htb-book.html">writeup<br>0xdf</a>
+bookvi:
+  label: <a href="https://www.youtube.com/watch?v=RBtN5939m3g">video<br>ippsec</a>
+bountywu:
+  label: <a href="https://0xdf.gitlab.io/2018/10/27/htb-bounty.html">writeup<br>0xdf</a>
+bountyvi:
+  label: <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">video<br>ippsec</a>
+buffwu:
+  label: <a href="https://0xdf.gitlab.io/2020/11/21/htb-buff.html">writeup<br>0xdf</a>
+buffvi:
+  label: <a href="https://www.youtube.com/watch?v=-KBm3tBNK74">video<br>ippsec</a>
+calamitywu:
+  label: <a href="https://0xdf.gitlab.io/2020/08/27/htb-calamity.html">writeup<br>0xdf</a>
+calamityvi:
+  label: <a href="https://www.youtube.com/watch?v=EloOaaGg3nA">video<br>ippsec</a>
+canapewu:
+  label: <a href="https://0xdf.gitlab.io/2018/09/15/htb-canape.html">writeup<br>0xdf</a>
+canapevi:
+  label: <a href="https://www.youtube.com/watch?v=rs75y2qPonc">video<br>ippsec</a>
+carrierwu:
+  label: <a href="https://0xdf.gitlab.io/2019/03/16/htb-carrier.html">writeup<br>0xdf</a>
+carriervi:
+  label: <a href="https://www.youtube.com/watch?v=2ZxRA8BgmnA">video<br>ippsec</a>
+cascadewu:
+  label: <a href="https://0xdf.gitlab.io/2020/07/25/htb-cascade.html">writeup<br>0xdf</a>
+cascadevi:
+  label: <a href="https://www.youtube.com/watch?v=mr-fsVLoQGw">video<br>ippsec</a>
+celestialwu:
+  label: <a href="https://0xdf.gitlab.io/2018/08/25/htb-celestial.html">writeup<br>0xdf</a>
+celestialvi:
+  label: <a href="https://www.youtube.com/watch?v=aS6z4NgRysU">video<br>ippsec</a>
+chaoswu:
+  label: <a href="https://0xdf.gitlab.io/2019/05/25/htb-chaos.html">writeup<br>0xdf</a>
+chaosvi:
+  label: <a href="https://www.youtube.com/watch?v=no9UnySBQrU">video<br>ippsec</a>
+chatterboxwu:
+  label: <a href="https://0xdf.gitlab.io/2018/06/18/htb-chatterbox.html">writeup<br>0xdf</a>
+chatterboxvi:
+  label: <a href="https://www.youtube.com/watch?v=_dRrvJNdP-s">video<br>ippsec</a>
+craftwu:
+  label: <a href="https://0xdf.gitlab.io/2020/01/04/htb-craft.html">writeup<br>0xdf</a>
+craftvi:
+  label: <a href="https://www.youtube.com/watch?v=3znkLWakuUA">video<br>ippsec</a>
+cronoswu:
+  label: <a href="https://0xdf.gitlab.io/2020/04/14/htb-cronos.html">writeup<br>0xdf</a>
+cronosvi:
+  label: <a href="https://www.youtube.com/watch?v=CYeVUmOar3I">video<br>ippsec</a>
+curlingwu:
+  label: <a href="https://0xdf.gitlab.io/2019/03/30/htb-curling.html">writeup<br>0xdf</a>
+curlingvi:
+  label: <a href="https://www.youtube.com/watch?v=Paajc2Dupms">video<br>ippsec</a>
+dabwu:
+  label: <a href="https://0xdf.gitlab.io/2019/02/02/htb-dab.html">writeup<br>0xdf</a>
+dabvi:
+  label: <a href="https://www.youtube.com/watch?v=JvqBaZ0WnV4">video<br>ippsec</a>
+develwu:
+  label: <a href="https://0xdf.gitlab.io/2019/03/05/htb-devel.html">writeup<br>0xdf</a>
+develvi:
+  label: <a href="https://www.youtube.com/watch?v=2LNyAbroZUk">video<br>ippsec</a>
+devoopswu:
+  label: <a href="https://0xdf.gitlab.io/2018/10/13/htb-devoops.html">writeup<br>0xdf</a>
+devoopsvi:
+  label: <a href="https://www.youtube.com/watch?v=tQ34Ntkr7H4">video<br>ippsec</a>
+dropzonewu:
+  label: <a href="https://0xdf.gitlab.io/2018/11/03/htb-dropzone.html">writeup<br>0xdf</a>
+dropzonevi:
+  label: <a href="https://www.youtube.com/watch?v=QzP5nUEhZeg">video<br>ippsec</a>
+enterprisewu:
+  label: <a href="https://www.hackingarticles.in/hack-the-box-challenge-enterprises-walkthrough/">writeup<br>hackingarticles</a>
+enterprisevi:
+  label: <a href="https://www.youtube.com/watch?v=NWVJ2b0D1r8">video<br>ippsec</a>
+europawu:
+  label: <a href="https://0xdf.gitlab.io/2021/02/02/htb-europa.html">writeup<br>0xdf</a>
+europavi:
+  label: <a href="https://www.youtube.com/watch?v=OsxDB41jg6A">video<br>ippsec</a>
+fluxcapacitorwu:
+  label: <a href="https://0xdf.gitlab.io/2018/05/12/htb-fluxcapacitor.html">writeup<br>0xdf</a>
+fluxcapacitorvi:
+  label: <a href="https://www.youtube.com/watch?v=XLIBbkQJKuY">video<br>ippsec</a>
+forestwu:
+  label: <a href="https://0xdf.gitlab.io/2020/03/21/htb-forest.html">writeup<br>0xdf</a>
+forestvi:
+  label: <a href="https://www.youtube.com/watch?v=H9FcE_FMZio">video<br>ippsec</a>
+forwardslashwu:
+  label: <a href="https://0xdf.gitlab.io/2020/07/04/htb-forwardslash.html">writeup<br>0xdf</a>
+forwardslashvi:
+  label: <a href="https://www.youtube.com/watch?v=alJa51XylDE">video<br>ippsec</a>
+friendzonewu:
+  label: <a href="https://0xdf.gitlab.io/2019/07/13/htb-friendzone.html">writeup<br>0xdf</a>
+friendzonevi:
+  label: <a href="https://www.youtube.com/watch?v=Zf8p49IzEEA">video<br>ippsec</a>
+frolicwu:
+  label: <a href="https://0xdf.gitlab.io/2019/03/23/htb-frolic.html">writeup<br>0xdf</a>
+frolicvi:
+  label: <a href="https://www.youtube.com/watch?v=b6WGQSJu_zQ">video<br>ippsec</a>
+fusewu:
+  label: <a href="https://0xdf.gitlab.io/2020/10/31/htb-fuse.html">writeup<br>0xdf</a>
+fusevi:
+  label: <a href="https://www.youtube.com/watch?v=VxbC03xmS60">video<br>ippsec</a>
+giddywu:
+  label: <a href="https://0xdf.gitlab.io/2019/02/16/htb-giddy.html">writeup<br>0xdf</a>
+giddyvi:
+  label: <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">video<br>ippsec</a>
+grandpawu:
+  label: <a href="https://0xdf.gitlab.io/2020/05/28/htb-grandpa.html">writeup<br>0xdf</a>
+grandpavi:
+  label: <a href="https://www.youtube.com/watch?v=ZfPVGJGkORQ">video<br>ippsec</a>
+grannywu:
+  label: <a href="https://0xdf.gitlab.io/2019/03/06/htb-granny.html">writeup<br>0xdf</a>
+grannyvi:
+  label: <a href="https://www.youtube.com/watch?v=ZfPVGJGkORQ">video<br>ippsec</a>
+haircutwu:
+  label: <a href="https://0xdf.gitlab.io/2020/09/10/htb-haircut.html">writeup<br>0xdf</a>
+haircutvi:
+  label: <a href="https://www.youtube.com/watch?v=9ZXG1qb8lUI">video<br>ippsec</a>
+hawkwu:
+  label: <a href="https://0xdf.gitlab.io/2018/11/30/htb-hawk.html">writeup<br>0xdf</a>
+hawkvi:
+  label: <a href="https://www.youtube.com/watch?v=UGd9JE1ZXUI">video<br>ippsec</a>
+haystackwu:
+  label: <a href="https://0xdf.gitlab.io/2019/11/02/htb-haystack.html">writeup<br>0xdf</a>
+haystackvi:
+  label: <a href="https://www.youtube.com/watch?v=oGO9MEIz_tI">video<br>ippsec</a>
+heistwu:
+  label: <a href="https://0xdf.gitlab.io/2019/11/30/htb-heist.html">writeup<br>0xdf</a>
+heistvi:
+  label: <a href="https://www.youtube.com/watch?v=fmBb6BgLsC8">video<br>ippsec</a>
+helpwu:
+  label: <a href="https://0xdf.gitlab.io/2019/06/08/htb-help.html">writeup<br>0xdf</a>
+helpvi:
+  label: <a href="https://www.youtube.com/watch?v=XB8CbhfOczU">video<br>ippsec</a>
+inceptionwu:
+  label: <a href="https://www.hackingarticles.in/hack-the-box-challenge-inception-walkthrough/">writeup<br>hackingarticles</a>
+inceptionvi:
+  label: <a href="https://www.youtube.com/watch?v=J2I-5xPgyXk">video<br>ippsec</a>
+irkedwu:
+  label: <a href="https://0xdf.gitlab.io/2019/04/27/htb-irked.html">writeup<br>0xdf</a>
+irkedvi:
+  label: <a href="https://www.youtube.com/watch?v=OGFTM_qvtVI">video<br>ippsec</a>
+jarviswu:
+  label: <a href="https://0xdf.gitlab.io/2019/11/09/htb-jarvis.html">writeup<br>0xdf</a>
+jarvisvi:
+  label: <a href="https://www.youtube.com/watch?v=YHHWvXBfwQ8">video<br>ippsec</a>
+jeeveswu:
+  label: <a href="https://www.hackingarticles.in/hack-the-box-challenge-jeeves-walkthrough/">writeup<br>hackingarticles</a>
+jeevesvi:
+  label: <a href="https://www.youtube.com/watch?v=EKGBskG8APc">video<br>ippsec</a>
+jerrywu:
+  label: <a href="https://0xdf.gitlab.io/2018/11/17/htb-jerry.html">writeup<br>0xdf</a>
+jerryvi:
+  label: <a href="https://www.youtube.com/watch?v=PJeBIey8gc4">video<br>ippsec</a>
+jokerwu:
+  label: <a href="https://0xdf.gitlab.io/2020/08/13/htb-joker.html">writeup<br>0xdf</a>
+jokervi:
+  label: <a href="https://www.youtube.com/watch?v=5wyvpJa9LdU">video<br>ippsec</a>
+lacasadepapelwu:
+  label: <a href="https://0xdf.gitlab.io/2019/07/27/htb-lacasadepapel.html">writeup<br>0xdf</a>
+lacasadepapelvi:
+  label: <a href="https://www.youtube.com/watch?v=OSRCEOQQJ4E">video<br>ippsec</a>
+lamewu:
+  label: <a href="https://0xdf.gitlab.io/2020/04/07/htb-lame.html">writeup<br>0xdf</a>
+lamevi:
+  label: <a href="https://www.youtube.com/watch?v=ZvLVoFU4HsI">video<br>haktools</a>
+lazywu:
+  label: <a href="https://0xdf.gitlab.io/2020/07/29/htb-lazy.html">writeup<br>0xdf</a>
+lazyvi:
+  label: <a href="https://www.youtube.com/watch?v=3VxZNflJqsw">video<br>ippsec</a>
+legacywu:
+  label: <a href="https://0xdf.gitlab.io/2019/02/21/htb-legacy.html">writeup<br>0xdf</a>
+legacyvi:
+  label: <a href="https://www.youtube.com/watch?v=cd_SL8KBj0s">video<br>haktools</a>
+lightweightwu:
+  label: <a href="https://0xdf.gitlab.io/2019/05/11/htb-lightweight.html">writeup<br>0xdf</a>
+lightweightvi:
+  label: <a href="https://www.youtube.com/watch?v=yQgtDoCDAYk">video<br>ippsec</a>
+lukewu:
+  label: <a href="https://0xdf.gitlab.io/2019/09/14/htb-luke.html">writeup<br>0xdf</a>
+lukevi:
+  label: <a href="https://www.youtube.com/watch?v=gaBdfD4BGBo">video<br>ippsec</a>
+magicwu:
+  label: <a href="https://0xdf.gitlab.io/2020/08/22/htb-magic.html">writeup<br>0xdf</a>
+magicvi:
+  label: <a href="https://www.youtube.com/watch?v=bLIcew9Iot8">video<br>ippsec</a>
+mangowu:
+  label: <a href="https://0xdf.gitlab.io/2020/04/18/htb-mango.html">writeup<br>0xdf</a>
+mangovi:
+  label: <a href="https://www.youtube.com/watch?v=NO_lsfhQK_s">video<br>ippsec</a>
+miraiwu:
+  label: <a href="https://www.hackingarticles.in/hack-the-box-challenge-mirai-walkthrough/">writeup<br>hackingarticles</a>
+miraivi:
+  label: <a href="https://www.youtube.com/watch?v=SRmvRGUuuno">video<br>ippsec</a>
+monteverdewu:
+  label: <a href="https://0xdf.gitlab.io/2020/06/13/htb-monteverde.html">writeup<br>0xdf</a>
+monteverdevi:
+  label: <a href="https://www.youtube.com/watch?v=HTJjPZvOtJ4">video<br>ippsec</a>
+nestwu:
+  label: <a href="https://0xdf.gitlab.io/2020/06/06/htb-nest.html">writeup<br>0xdf</a>
+nestvi:
+  label: <a href="https://www.youtube.com/watch?v=tDbVw6uGx8g">video<br>ippsec</a>
+netmonwu:
+  label: <a href="https://0xdf.gitlab.io/2019/06/29/htb-netmon.html">writeup<br>0xdf</a>
+netmonvi:
+  label: <a href="https://www.youtube.com/watch?v=ZxvgniJXbOo">video<br>ippsec</a>
+networkedwu:
+  label: <a href="https://0xdf.gitlab.io/2019/11/16/htb-networked.html">writeup<br>0xdf</a>
+networkedvi:
+  label: <a href="https://www.youtube.com/watch?v=H3t3G70bakM">video<br>ippsec</a>
+nibbleswu:
+  label: <a href="https://0xdf.gitlab.io/2018/06/30/htb-nibbles.html">writeup<br>0xdf</a>
+nibblesvi:
+  label: <a href="https://www.youtube.com/watch?v=s_0GcRGv6Ds">video<br>ippsec</a>
+ninevehwu:
+  label: <a href="https://0xdf.gitlab.io/2020/04/22/htb-nineveh.html">writeup<br>0xdf</a>
+ninevehvi:
+  label: <a href="https://www.youtube.com/watch?v=K9DKULxSBK4">video<br>ippsec</a>
+obscuritywu:
+  label: <a href="https://0xdf.gitlab.io/2020/05/09/htb-obscurity.html">writeup<br>0xdf</a>
+obscurityvi:
+  label: <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">video<br>ippsec</a>
+octoberwu:
+  label: <a href="https://0xdf.gitlab.io/2019/03/26/htb-october.html">writeup<br>0xdf</a>
+octobervi:
+  label: <a href="https://www.youtube.com/watch?v=K05mJazHhF4">video<br>ippsec</a>
+olympuswu:
+  label: <a href="https://0xdf.gitlab.io/2018/09/22/htb-olympus.html">writeup<br>0xdf</a>
+olympusvi:
+  label: <a href="https://www.youtube.com/watch?v=7ifJOon5-G8">video<br>ippsec</a>
+omniwu:
+  label: <a href="https://0xdf.gitlab.io/2021/01/09/htb-omni.html">writeup<br>0xdf</a>
+omnivi:
+  label: <a href="https://www.youtube.com/watch?v=MVDNV_bvJcI">video<br>ippsec</a>
+openadminwu:
+  label: <a href="https://0xdf.gitlab.io/2020/05/02/htb-openadmin.html">writeup<br>0xdf</a>
+openadminvi:
+  label: <a href="https://www.youtube.com/watch?v=fdD-JTlkd3k">video<br>ippsec</a>
+openkeyswu:
+  label: <a href="https://0xdf.gitlab.io/2020/12/12/htb-openkeys.html">writeup<br>0xdf</a>
+openkeysvi:
+  label: <a href="https://www.youtube.com/watch?v=krsGwWrTQ7E">video<br>ippsec</a>
+optimumwu:
+  label: <a href="https://www.hackingarticles.in/hack-the-box-challenge-optimum-walkthrough/">writeup<br>hackingarticles</a>
+optimumvi:
+  label: <a href="https://www.youtube.com/watch?v=kWTnVBIpNsE">video<br>ippsec</a>
+poisonwu:
+  label: <a href="https://0xdf.gitlab.io/2018/09/08/htb-poison.html">writeup<br>0xdf</a>
+poisonvi:
+  label: <a href="https://www.youtube.com/watch?v=rs4zEwONzzk">video<br>ippsec</a>
+popcornwu:
+  label: <a href="https://0xdf.gitlab.io/2020/06/23/htb-popcorn.html">writeup<br>0xdf</a>
+popcornvi:
+  label: <a href="https://www.youtube.com/watch?v=NMGsnPSm8iw">video<br>ippsec</a>
+postmanwu:
+  label: <a href="https://0xdf.gitlab.io/2020/03/14/htb-postman.html">writeup<br>0xdf</a>
+postmanvi:
+  label: <a href="https://www.youtube.com/watch?v=jJnHET1o8ZQ">video<br>ippsec</a>
+querierwu:
+  label: <a href="https://0xdf.gitlab.io/2019/06/22/htb-querier.html">writeup<br>0xdf</a>
+queriervi:
+  label: <a href="https://www.youtube.com/watch?v=d7ACjty4m7U">video<br>ippsec</a>
+remotewu:
+  label: <a href="https://0xdf.gitlab.io/2020/09/05/htb-remote.html">writeup<br>0xdf</a>
+remotevi:
+  label: <a href="https://www.youtube.com/watch?v=iyYqgseKUPM">video<br>ippsec</a>
+resolutewu:
+  label: <a href="https://0xdf.gitlab.io/2020/05/30/htb-resolute.html">writeup<br>0xdf</a>
+resolutevi:
+  label: <a href="https://www.youtube.com/watch?v=8KJebvmd1Fk">video<br>ippsec</a>
+saunawu:
+  label: <a href="https://0xdf.gitlab.io/2020/07/18/htb-sauna.html">writeup<br>0xdf</a>
+saunavi:
+  label: <a href="https://www.youtube.com/watch?v=uLNpR3AnE-Y">video<br>ippsec</a>
+secnoteswu:
+  label: <a href="https://0xdf.gitlab.io/2019/01/19/htb-secnotes.html">writeup<br>0xdf</a>
+secnotesvi:
+  label: <a href="https://www.youtube.com/watch?v=PJXb2pK8K84">video<br>ippsec</a>
+sensewu:
+  label: <a href="https://www.hackingarticles.in/hack-the-box-challenge-sense-walkthrough/">writeup<br>hackingarticles</a>
+sensevi:
+  label: <a href="https://www.youtube.com/watch?v=d2nVDoVr0jE">video<br>ippsec</a>
+servmonwu:
+  label: <a href="https://0xdf.gitlab.io/2020/06/20/htb-servmon.html">writeup<br>0xdf</a>
+servmonvi:
+  label: <a href="https://www.youtube.com/watch?v=4tCD0GemXYg">video<br>ippsec</a>
+shockerwu:
+  label: <a href="https://www.hackingarticles.in/hack-the-box-challenge-shocker-walkthrough/">writeup<br>hackingarticles</a>
+shockervi:
+  label: <a href="https://www.youtube.com/watch?v=IBlTdguhgfY">video<br>ippsec</a>
+sneakymailerwu:
+  label: <a href="https://0xdf.gitlab.io/2020/11/28/htb-sneakymailer.html">writeup<br>0xdf</a>
+sneakymailervi:
+  label: <a href="https://www.youtube.com/watch?v=f4vQhI4ADmI">video<br>ippsec</a>
+sneakywu:
+  label: <a href="https://0xdf.gitlab.io/2021/03/02/htb-sneaky.html">writeup<br>0xdf</a>
+sneakyvi:
+  label: <a href="https://www.youtube.com/watch?v=1UGxjqTnuyo">video<br>ippsec</a>
+sniperwu:
+  label: <a href="https://0xdf.gitlab.io/2020/03/28/htb-sniper.html">writeup<br>0xdf</a>
+snipervi:
+  label: <a href="https://www.youtube.com/watch?v=k7gD4ufex9Q">video<br>ippsec</a>
+solidstatewu:
+  label: <a href="https://0xdf.gitlab.io/2020/04/30/htb-solidstate.html">writeup<br>0xdf</a>
+solidstatevi:
+  label: <a href="https://www.youtube.com/watch?v=_QapCUx55Xk">video<br>ippsec</a>
+stratospherewu:
+  label: <a href="https://0xdf.gitlab.io/2018/09/01/htb-stratosphere.html">writeup<br>0xdf</a>
+stratospherevi:
+  label: <a href="https://www.youtube.com/watch?v=uMwcJQcUnmY">video<br>ippsec</a>
+sundaywu:
+  label: <a href="https://0xdf.gitlab.io/2018/09/29/htb-sunday.html">writeup<br>0xdf</a>
+sundayvi:
+  label: <a href="https://www.youtube.com/watch?v=xUrq29OTSuM">video<br>ippsec</a>
+swagshopwu:
+  label: <a href="https://0xdf.gitlab.io/2019/09/28/htb-swagshop.html">writeup<br>0xdf</a>
+swagshopvi:
+  label: <a href="https://www.youtube.com/watch?v=qECG2_8xw_s">video<br>ippsec</a>
+tabbywu:
+  label: <a href="https://0xdf.gitlab.io/2020/11/07/htb-tabby.html">writeup<br>0xdf</a>
+tabbyvi:
+  label: <a href="https://www.youtube.com/watch?v=yTHtLi9YZ2s">video<br>ippsec</a>
+tartarsaucewu:
+  label: <a href="https://0xdf.gitlab.io/2018/10/20/htb-tartarsauce.html">writeup<br>0xdf</a>
+tartarsaucevi:
+  label: <a href="https://www.youtube.com/watch?v=9MeBiP637ZA">video<br>ippsec</a>
+teacherwu:
+  label: <a href="https://0xdf.gitlab.io/2019/04/20/htb-teacher.html">writeup<br>0xdf</a>
+teachervi:
+  label: <a href="https://www.youtube.com/watch?v=u2-te8n2WbY">video<br>ippsec</a>
+tentenwu:
+  label: <a href="https://0xdf.gitlab.io/2020/07/14/htb-tenten.html">writeup<br>0xdf</a>
+tentenvi:
+  label: <a href="https://www.youtube.com/watch?v=A4U3xiRWfsU">video<br>ippsec</a>
+tracebackwu:
+  label: <a href="https://0xdf.gitlab.io/2020/08/15/htb-traceback.html">writeup<br>0xdf</a>
+tracebackvi:
+  label: <a href="https://www.youtube.com/watch?v=OI7PbBT589E">video<br>ippsec</a>
+traverxecwu:
+  label: <a href="https://0xdf.gitlab.io/2020/04/11/htb-traverxec.html">writeup<br>0xdf</a>
+traverxecvi:
+  label: <a href="https://www.youtube.com/watch?v=6_C9ShH9v2w">video<br>ippsec</a>
+valentinewu:
+  label: <a href="https://0xdf.gitlab.io/2018/07/28/htb-valentine.html">writeup<br>0xdf</a>
+valentinevi:
+  label: <a href="https://www.youtube.com/watch?v=XYXNvemgJUo">video<br>ippsec</a>
+waldowu:
+  label: <a href="https://0xdf.gitlab.io/2018/12/15/htb-waldo.html">writeup<br>0xdf</a>
+waldovi:
+  label: <a href="https://www.youtube.com/watch?v=1klneIHECqY">video<br>ippsec</a>
+wallwu:
+  label: <a href="https://0xdf.gitlab.io/2019/12/07/htb-wall.html">writeup<br>0xdf</a>
+wallvi:
+  label: <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">video<br>ippsec</a>
+writeupwu:
+  label: <a href="https://0xdf.gitlab.io/2019/10/12/htb-writeup.html">writeup<br>0xdf</a>
+writeupvi:
+  label: <a href="https://www.youtube.com/watch?v=GKq4cwBfH24">video<br>ippsec</a>
+ypuffywu:
+  label: <a href="https://0xdf.gitlab.io/2019/02/09/htb-ypuffy.html">writeup<br>0xdf</a>
+ypuffyvi:
+  label: <a href="https://www.youtube.com/watch?v=UoB-J-eDvrg">video<br>ippsec</a>
+zipperwu:
+  label: <a href="https://0xdf.gitlab.io/2019/02/23/htb-zipper.html">writeup<br>0xdf</a>
+zippervi:
+  label: <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">video<br>ippsec</a>

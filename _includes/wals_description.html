@@ -1,0 +1,7 @@
+<dl>
+    {% for wal_pair in site.data.wals %}
+    {% assign wal = wal_pair[1] %}
+    <dt class="wal-name">{{ wal.label }}</dt>
+    <dd>{{ wal.description | markdownify }}</dd>
+    {% endfor %}
+</dl>

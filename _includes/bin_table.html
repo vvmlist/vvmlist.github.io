@@ -34,6 +34,7 @@
 				<th>platform</th>
                 <th>tags</th>
 				<th>url</th>
+				<th>writeup</th>
             </tr>
         </thead>
         <tbody>
@@ -44,6 +45,7 @@
 				<td class="vvm-platf">{% include platf_list.html bin=file %}</td>
                 <td>{% include function_list.html bin=file %}</td>
 				<td class="vvm-curl">{% include curl_list.html bin=file %}</td>
+				<td class="vvm-curl">{% include wal_list.html bin=file %}</td>
             </tr>
             {% endfor %}
         </tbody>

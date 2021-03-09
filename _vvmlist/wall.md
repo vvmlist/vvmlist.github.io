@@ -154,4 +154,9 @@ functions:
   dddd:
     -
 
+wals:
+  wallwu:
+    -
+  wallvi:
+    -
 ---
