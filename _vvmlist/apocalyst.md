@@ -154,4 +154,9 @@ functions:
   dddd:
     -
 
+wals:
+  apocalystwu:
+    -
+  apocalystvi:
+    -
 ---

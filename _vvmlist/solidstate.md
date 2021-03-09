@@ -1,37 +1,39 @@
 ---
 diffis:
-  e:
+  m:
     -
 platfs:
   htbvip:
     -
 curls:
-  nest:
+  solidstate:
+    -
+  solidstatevh:
     -
 functions:
-  win:
+  unix:
     -
-  e:
+  m:
     -
   htbvip:
     -
-  smb:
+  unix:
     -
-  sys:
+  mail:
     -
   credz:
     -
-  hash:
-    -
-  source:
-    -
-  brute:
-    -
-  hidden:
-    -
   telnet:
     -
-  dddd:
+  ssh:
+    -
+  rbash:
+    -
+  cve:
+    -
+  arce:
+    -
+  cronj:
     -
   dddd:
     -
@@ -155,8 +157,8 @@ functions:
     -
 
 wals:
-  nestwu:
+  solidstatewu:
     -
-  nestvi:
+  solidstatevi:
     -
 ---
