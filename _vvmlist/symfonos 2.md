@@ -1,4 +1,7 @@
 ---
+wals:
+  "symfonos 2":
+    -
 diffis:
   e:
     -

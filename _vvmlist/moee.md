@@ -1,4 +1,7 @@
 ---
+wals:
+  "moee 1":
+    -
 diffis:
   e:
     -

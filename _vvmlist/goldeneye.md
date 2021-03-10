@@ -1,4 +1,7 @@
 ---
+wals:
+  "goldeneye 1":
+    -
 diffis:
   e:
     -

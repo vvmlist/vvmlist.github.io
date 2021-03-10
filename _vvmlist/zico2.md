@@ -1,4 +1,7 @@
 ---
+wals:
+  "zico2":
+    -
 diffis:
   e:
     -

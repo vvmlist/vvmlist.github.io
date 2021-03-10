@@ -1,4 +1,7 @@
 ---
+wals:
+  "cybox 1.1":
+    -
 diffis:
   e:
     -

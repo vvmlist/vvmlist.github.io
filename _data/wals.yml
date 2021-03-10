@@ -437,7 +437,102 @@ zippervi:
 #################
 ##vulnhub region
 #################
-
+"onsystem hannah":
+  label: <a href="https://blog.razrsec.uk/shelldredd-hannah-walkthrough/">writeup<br>razrsec</a>
+"pwnlab init":
+  label: <a href="https://resources.infosecinstitute.com/topic/vulnhub-machines-walkthrough-series-pwnlab-init/">writeup<br>infosecinstitute</a>
+"relevant 1":
+  label: <a href="https://krankopwnz.wordpress.com/2020/09/30/vulnhub-relevant-writeup/">writeup<br>kranko</a>
+"sar 1":
+  label: <a href="https://www.sevenlayers.com/index.php/308-vulnhub-sar-1-walkthrough">writeup<br>sevenlayers</a>
+"school 1":
+  label: <a href="https://ajaysanchaniya.medium.com/school-1-vulnhub-machine-walkthrough-d63c9dc886c6">writeup<br>ajaysanchaniya</a>
+"sickos 1.1":
+  label: <a href="https://jhalon.github.io/vulnhub-sick-os1/">writeup<br>jhalon</a>
+"sickos 1.2":
+  label: <a href="https://sevenlayers.com/index.php/91-vulnhub-sickos-1-2-walkthrough">writeup<br>sevenlayers</a>
+"skytower 1":
+  label: <a href="https://highon.coffee/blog/skytower-walkthrough/">writeup<br>highon.coffee</a>
+"stapler 1":
+  label: <a href="https://jhalon.github.io/vulnhub-stapler1/">writeup<br>jhalon</a>
+"sunset decoy":
+  label: <a href="https://www.hackingarticles.in/sunset-decoy-vulnhub-walkthrough/">writeup<br>hackingarticles</a>
+"symfonos 1":
+  label: <a href="https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/">writeup<br>hackingarticles</a>
+"symfonos 2":
+  label: <a href="https://www.hackingarticles.in/symfonos2-vulnhub-walkthrough/">writeup<br>hackingarticles</a>
+"symfonos 3.1":
+  label: <a href="https://www.hackingarticles.in/symfonos3-vulnhub-walkthrough/">writeup<br>hackingarticles</a>
+"symfonos 4":
+  label: <a href="https://www.hackingarticles.in/symfonos4-vulnhub-walkthrough/">writeup<br>hackingarticles</a>
+#"uninvited 1":
+#  label: <a href="linkkkkkkkkkkkkkkkkk">writeup<br>nickkkkkkkkkkkkkk</a>
+"the planets mercury":
+  label: <a href="https://grumpygeekwrites.wordpress.com/2020/12/17/the-planets-mercury-vulnhub-walk-through-tutorial/">writeup<br>skinny.3l3phant</a>
+"tr0ll 1":
+  label: <a href="https://resources.infosecinstitute.com/topic/vulnhub-machines-walkthrough-series-tr0ll-1/">writeup<br>infosecinstitute</a>
+"tr0ll 2":
+  label: <a href="https://hausec.com/vulnhub-write-ups/tr0ll-2/">writeup<br>hausec</a>
+"tr0ll 3":
+  label: <a href="https://basto.digital/en/posts/writeup/tr0ll-3-writeup/">writeup<br>basto.digital</a>
+"vulnos 2":
+  label: <a href="https://hackersareus.com/2020/05/08/vulnos-2-walkthrough/">writeup<br>hackersareus</a>
+"web developer 1":
+  label: <a href="https://hackingresources.com/webdeveloper-1-vulnhub-walkthrough/">writeup<br>hackingresources</a>
+"zico2":
+  label: <a href="https://hackingresources.com/zico2-vulnhub-walkthrough/">writeup<br>hackingresources</a>
+"odin 1":
+  label: <a href="https://sarthakrsc21.medium.com/odin-1-walkthrough-vulnhub-ea81b520e436">writeup<br>sarthakrsc21</a>
+"brainpan 1":
+  label: <a href="https://www.sevenlayers.com/index.php/88-vulnhub-brainpan-1-walkthrough">writeup<br>sevenlayers</a>
+"colddbox":
+  label: <a href="https://sevenlayers.com/index.php/377-vulnhub-colddbox-easy-walkthrough">writeup<br>sevenlayers</a>
+"covfefe 1":
+  label: <a href="https://wjmccann.github.io/blog/2017/11/13/Covfefe-Walkthrough">writeup<br>wjmccann</a>
+"cybox 1.1":
+  label: <a href="https://www.hackingarticles.in/cybox-1-vulnhub-walkthrough/">writeup<br>hackingarticles</a>
+"djinn 1":
+  label: <a href="https://www.hackingarticles.in/djinn1-vulnhub-walkthrough/">writeup<br>hackingarticles</a>
+"escalate_linux 1":
+  label: <a href="https://sevenlayers.com/index.php/216-vulnhub-escalate-linux-1-walkthrough">writeup<br>sevenlayers</a>
+"fristileaks 1.3":
+  label: <a href="https://5h4d0wb0y.github.io/2017-04-10-fristileaks/">writeup<br>5h4d0wb0y</a>
+"goldeneye 1":
+  label: <a href="http://www.anonhack.in/2018/07/goldeneye-1-walkthrough-vulnhub-vulnerable-machine/">writeup<br>anonhack</a>
+"hacklab vulnix":
+  label: <a href="https://sevenlayers.com/index.php/107-vulnhub-vulnix-walkthrough">writeup<br>sevenlayers</a>
+"healthcare 1":
+  label: <a href="https://www.hackingarticles.in/healthcare-1-vulnhub-walkthrough/">writeup<br>hackingarticles</a>
+"hemisphere lynx":
+  label: <a href="https://blog.razrsec.uk/hemisphere-lynx-walkthrough/">writeup<br>razrsec</a>
+"infosec prep oscp":
+  label: <a href="https://falconspy.medium.com/infosec-prep-oscp-vulnhubwalkthrough-a09519236025">writeup<br>falconspy</a>
+"kioptrix level 1.1":
+  label: <a href="https://medium.com/@Kan1shka9/kioptrix-level-1-1-walkthrough-df346017c5db">writeup<br>kanishka</a>
+"kioptrix level 1":
+  label: <a href="https://www.abatchy.com/2016/11/kioptrix-1-walkthrough-vulnhub">writeup<br>abatchy</a>
+"lin.security 1":
+  label: <a href="https://hackso.me/lin.security-1-walkthrough/">writeup<br>hackso.me</a>
+"lord of the root 1.0.1":
+  label: <a href="https://alexandervoidstar.wordpress.com/2016/12/04/ctf-writeup-lord-of-the-root-1-0-1/">writeup<br>alexandervoidstar</a>
+"m87":
+  label: <a href="https://hitesh1210.github.io/posts/M87-Vulnhub-Writeup/">writeup<br>h1t3sh</a>
+"masashi 1":
+  label: <a href="https://grumpygeekwrites.wordpress.com/2020/12/01/masashi-vulnhub-walk-through/">writeup<br>skinny.3l3phant</a>
+"metasploitable 2":
+  label: <a href="https://www.hackingarticles.in/comprehensive-guide-on-metasploitable-2/">writeup<br>hackingarticles</a>
+#"moee 1":
+#  label: <a href="linkkkkkkkkkkkkkkkkk">writeup<br>nickkkkkkkkkkkkkk</a>
+"mr-robot 1":
+  label: <a href="https://jhalon.github.io/vulnhub-mr-robot1/">writeup<br>jhalon</a>
+#"driftingblues2":
+#  label: <a href="linkkkkkkkkkkkkkkkkk">writeup<br>nickkkkkkkkkkkkkk</a>
+#"driftingblues":
+#  label: <a href="linkkkkkkkkkkkkkkkkk">writeup<br>nickkkkkkkkkkkkkk</a>
+"gigachadvh":
+  label: <a href="http://vxer.cn/?id=33">writeup<br>windy</a>
+"shuriken 1":
+  label: <a href="https://dev.to/gituser00/vulnhub-shuriken-1-walkthrough-5ap1">writeup<br>dev.to</a>
 #################
 ##hackmyvm region
 #################

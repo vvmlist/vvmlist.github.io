@@ -1,4 +1,7 @@
 ---
+wals:
+  "pwnlab init":
+    -
 diffis:
   e:
     -

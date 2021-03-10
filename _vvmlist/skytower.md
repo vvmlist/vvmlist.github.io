@@ -1,4 +1,7 @@
 ---
+wals:
+  "skytower 1":
+    -
 diffis:
   e:
     -

@@ -1,4 +1,7 @@
 ---
+wals:
+  "colddbox":
+    -
 diffis:
   e:
     -
