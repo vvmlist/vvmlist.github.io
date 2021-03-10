@@ -1,4 +1,7 @@
 ---
+wals:
+  "metasploitable 2":
+    -
 diffis:
   e:
     -

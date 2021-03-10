@@ -1,4 +1,7 @@
 ---
+wals:
+  "stapler 1":
+    -
 diffis:
   e:
     -

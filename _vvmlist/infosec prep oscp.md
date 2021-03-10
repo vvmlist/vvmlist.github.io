@@ -1,4 +1,7 @@
 ---
+wals:
+  "infosec prep oscp":
+    -
 diffis:
   e:
     -

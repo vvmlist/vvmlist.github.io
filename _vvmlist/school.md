@@ -1,4 +1,7 @@
 ---
+wals:
+  "school 1":
+    -
 diffis:
   e:
     -

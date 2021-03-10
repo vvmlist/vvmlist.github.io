@@ -1,4 +1,7 @@
 ---
+wals:
+  "masashi 1":
+    -
 diffis:
   e:
     -

@@ -1,4 +1,7 @@
 ---
+wals:
+  "hemisphere lynx":
+    -
 diffis:
   e:
     -

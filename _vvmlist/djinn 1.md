@@ -1,4 +1,7 @@
 ---
+waals:
+  "djinn 1":
+    -
 diffis:
   e:
     -

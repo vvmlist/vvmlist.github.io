@@ -1,4 +1,7 @@
 ---
+wals:
+  "sickos 1.2":
+    -
 diffis:
   e:
     -

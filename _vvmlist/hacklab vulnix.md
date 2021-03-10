@@ -1,4 +1,7 @@
 ---
+wals:
+  "hacklab vulnix":
+    -
 diffis:
   e:
     -

@@ -1,4 +1,7 @@
 ---
+wals:
+  "odin 1":
+    -
 diffis:
   e:
     -

@@ -1,4 +1,7 @@
 ---
+wals:
+  "sunset decoy":
+    -
 diffis:
   e:
     -

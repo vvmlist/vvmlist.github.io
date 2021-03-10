@@ -1,4 +1,7 @@
 ---
+wals:
+  "fristileaks 1.3":
+    -
 diffis:
   e:
     -

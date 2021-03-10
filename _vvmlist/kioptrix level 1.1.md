@@ -1,4 +1,7 @@
 ---
+wals:
+  "kioptrix level 1.1":
+    -
 diffis:
   e:
     -
