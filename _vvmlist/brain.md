@@ -26,4 +26,6 @@ functions:
   cronj:
     -
 
----
+wals:
+  brainwu:
+    -

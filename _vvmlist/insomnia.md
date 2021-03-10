@@ -24,4 +24,6 @@ functions:
   cronj:
     -
 
----
+wals:
+  insomniawu:
+    -
