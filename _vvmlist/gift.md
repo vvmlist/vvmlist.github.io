@@ -20,4 +20,6 @@ functions:
   ssh:
     -
 
----
+wals:
+  giftwu:
+    -

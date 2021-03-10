@@ -22,4 +22,6 @@ functions:
   sudo:
     -
 
----
+wals:
+  flowerwu:
+    -

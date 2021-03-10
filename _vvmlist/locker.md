@@ -22,4 +22,6 @@ functions:
   suid:
     -
 
----
+wals:
+  lockerwu:
+    -
