@@ -79,12 +79,13 @@ a:hover {
 	display: inline;
 	}
 </style>
-<br><h1>hackmyvm: <a href="https://hackmyvm.eu/machines/machine.php?vm=Grotesque">grotesque</a></h1>
+<br><h1>grotesque:  <a href="https://hackmyvm.eu/machines/machine.php?vm=Grotesque">hackmyvm</a> | <a href="https://www.vulnhub.com/entry/grotesque-1,658/">vulnhub</a></h1>
 <a class="galogo" href="https://vvmlist.github.io/"><img class="glogo" src="logo.png"></a>
+<h3>fast-paced walkthrough from machine maker</h3>
 <span class="gempty1"></span><br><br>
 <span class="gwalkt">
 <img src="1.png">
-<p>i started with <a href="https://github.com/21y4d/nmapAutomator">nmapautomator</a> as usual: <a>nmapautomator.sh grotesqueip All</a>. open ports: 80 and 66. rest of the scan is not interesting.</p>
+<p>i started with <a href="https://github.com/21y4d/nmapAutomator">nmapautomator</a> as usual: <a>nmapautomator.sh grotesqueip all</a>. open ports: 80 and 66. rest of the scan is not interesting.</p>
 <img class="imgbig" src="2.png">
 <p>looks like there's nothing on port 80.</p>
 <img src="3.png">
@@ -98,7 +99,7 @@ a:hover {
 <br><br><a>cat assets/* | sort | uniq</a> >>> nothing<br>
 <a>cat index.md</a> >>> nothing</p>
 <img src="7.png">
-<p><a>cat _vvmlist/* | sort | uniq</a> command gives the secret location on port 80.</p>
+<p><a>cat _vvmlist/* | sort | uniq</a> command reveals the secret location on port 80.</p>
 <img class="imgbig" src="8.png">
 <p><a>http://grotesqueip/lyricsblog</a> looks like it's just a song lyrics wordpress blog.</p>
 <img class="imgbig" src="9.png">
@@ -134,7 +135,7 @@ there's nothing so moving back to <a>hakan taşıyan</a> would be good. yes, bru
 <img class="imgbig" src="23.png">
 <p>i'm using <a href="https://app.keeweb.info">app.keeweb.info</a> for keepass files i encountered in boxes. upload chadroot.kdbx and enter password. four entries in db and i copied all.</p>
 <img src="24f.png">
-<p><a>su root</a> > try passwords > root.<br><br>i tried to keep this walkthrough as non-detailed as possible. if you have questions: <a href="https://vvmlist.github.io/contact.html">contact</a></p>
+<p><a>su root</a> > try passwords > root.<br><br>if you have questions: <a href="https://vvmlist.github.io/contact.html">contact</a></p>
 </span>
 <span class="gempty"></span>
 </body>
