@@ -112,6 +112,14 @@ $layout-break: "(min-width: #{$column-width + $grace-space})";
     margin-bottom: $margin;
 }
 
+// walkthrough list padding
+
+.wal-list li {
+
+padding-right: 10px;
+
+}
+
 .logoi {
 	display: none;
 }
