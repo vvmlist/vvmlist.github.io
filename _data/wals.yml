@@ -437,6 +437,18 @@ zippervi:
 #################
 ##vulnhub region
 #################
+moneyboxwu:
+  label: <a href="https://www.infosecarticles.com/moneybox-1-vulnhub-walkthrough/">writeup<br>infosecarticles</a>
+#driftingblues4wu:
+#  label: <a href="linkkkkkkkkkkk">writeup<br>nickkkk</a>
+systemfailurewu:
+  label: <a href="http://vxer.cn/?id=52">writeup<br>windy</a>
+driftingblues5wu:
+  label: <a href="http://vxer.cn/?id=40">writeup<br>windy</a>
+#driftingblues6wu:
+#  label: <a href="linkkkkkkkkkkk">writeup<br>nickkkk</a>
+#crossroadswu:
+#  label: <a href="linkkkkkkkkkkk">writeup<br>nickkkk</a>
 "onsystem hannah":
   label: <a href="https://blog.razrsec.uk/shelldredd-hannah-walkthrough/">writeup<br>razrsec</a>
 "pwnlab init":

@@ -1,0 +1,32 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnhub:
+    -
+curls:
+  driftingblues5:
+    -
+  driftingblues5vh:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnhub:
+    -
+  wp:
+    -
+  brute:
+    -
+  stego:
+    -
+  cronj:
+    -
+
+wals:
+  driftingblues5wu:
+    -
+---
