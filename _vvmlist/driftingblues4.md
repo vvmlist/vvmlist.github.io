@@ -1,0 +1,38 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnhub:
+    -
+curls:
+  driftingblues4:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnhub:
+    -
+  source:
+    -
+  hash:
+    -
+  brute:
+    -
+  ftp:
+    -
+  credz:
+    -
+  ssh:
+    -
+  pathj:
+    -
+  cronj:
+    -
+
+wals:
+  driftingblues4wu:
+    -
+---

@@ -1,0 +1,32 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnhub:
+    -
+curls:
+  crossroads:
+    -
+  crossroadsvh:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnhub:
+    -
+  brute:
+    -
+  cronj:
+    -
+  stego:
+    -
+  suid:
+    -
+
+wals:
+  crossroadswu:
+    -
+---
