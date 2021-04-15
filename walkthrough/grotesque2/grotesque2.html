@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<title>grotesque2 walkthrough [ hackmyvm | vulnhub ]</title>
+<body class="gbody">
+<style>
+.gbody {
+	background-color: #f4ecd8;
+	width: 1000px;
+	margin: 40px auto;
+	font-family: arial;
+	font-size: 20px;
+	   }
+
+.gempty1 {
+	display: inline-block;
+	width: 1000px;
+	height: 10px;
+	border-bottom: solid 1px #000000;
+	}
+
+.gempty {
+	display: inline-block;
+	width: 1000px;
+	height: 70px;
+	}
+	
+.imgbig {
+	width: 100%;
+	display: inline-block;
+	}
+	
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid 2px #000000;
+	}
+
+p {
+	padding-top: 30px;
+	padding-bottom: 100px;
+	border-bottom: solid 3px #000000;
+	}
+	
+.note {
+	font-style: italic;
+	color: #8a8a8a;
+	}
+	
+a {
+	color: #000000;
+	background: #c9c1e7;
+	border-radius: 3px;
+	display: inline-block;
+	padding: 2px 2px;
+	margin: 0.5px 0;
+	text-decoration: none;
+	}
+	
+a:hover {
+    color: #1e90ff;
+		}
+		
+.glogo {
+	position: relative;
+    float: right;
+    width: 150px;
+    height: 150px;
+	top: -78px;
+	left: 0px;
+	border: none;
+}
+
+.galogo {
+	background: none;
+	padding: 0px 0px;
+	margin: 0px 0;
+	border: none;
+	display: inline;
+	}
+</style>
+<br><h1>grotesque2:  <a href="https://hackmyvm.eu/machines/machine.php?vm=Grotesque2">hackmyvm</a> | <a href="https://www.vulnhub.com/entry/grotesque-2,673/">vulnhub</a></h1>
+<a class="galogo" href="https://vvmlist.github.io/"><img class="glogo" src="logo.png"></a>
+<h3>fast-paced walkthrough from machine maker</h3>
+<span class="gempty1"></span><br><br>
+<span class="gwalkt">
+<img src="1.png">
+<p>i started with <a href="https://github.com/21y4d/nmapAutomator">nmapautomator</a> as usual: <a>nmapautomator.sh grotesque2ip all</a>. there are a lot of ports.</p>
+<img class="imgbig" src="2.png">
+<p>looks like there's nothing on port 80.</p>
+<img src="3.png">
+<p>other ports looks same as port 80 so <a>wget</a>'ing all ports would be good for filtering. so on, <a>for i in {23..600}; do wget grotesque2ip:$i -O index$i; done</a> command downloads index files on all ports and adding a suffix with their matching port.</p>
+<img src="4.png">
+<p>all index files downloaded. <a>ls -la | sort</a> command is useful for filtering. biggest index file = correct way. biggest index file is <a>index258</a> so browsing that ip:port should work.</p>
+<img class="imgbig" src="5.png">
+<p>i found the correct ip:port. at first glance i saw these emojis on the page is not pure emoji. they're just image file. <a href="https://en.wikipedia.org/wiki/Markov_chain">markov chain</a>? god please no..</p>
+<img class="imgbig" src="6.png">
+<p>i started inspecting with hand emoji. i can hardly see that there's someting on fingertips. <br>note: if you have non-ips monitor then it should be hard to see it.</p>
+<img class="imgbig" src="7.png">
+<p>i zoomed image and now clearly see that there's a hash written there.</p>
+<img src="8.png">
+<p>step back to the riddle. emoji hand (hash) - 100?</p>
+<img class="imgbig" src="9.png">
+<p>easy. just substract 100 from hash value. it's basic math.</p>
+<img src="10.png">
+<p>echo hash to a file then crack with john. <a>john --wordlist=rockyou.txt hasz --format=raw-md5</a></p>
+<img src="11.png">
+<p>grotesque gigachad told us many usernames. echo these usernames to a file then start hydra bruteforce. <a>hydra -L cu.txt -p solomon1 ssh://grotesque2ip</a></p>
+<img class="imgbig" src="12.png">
+<p>there's an interesting <a>quiet</a> folder in home.</p>
+<img src="13.png">
+<p>downloaded <a href="https://github.com/DominicBreuker/pspy">pspy64s</a> and started to monitor processes. looks like some script checking a folder and it also writes data to it. what if that folder is <a>quiet</a> folder?</p>
+<img src="14.png">
+<p>go to <a>quiet</a> folder then <a>rm -rf</a> everyting.</p>
+<img src="15.png">
+<p>a minute later <a>rootcreds.txt</a> appears at <a>/</a>. then su root > password > root.<br><br>if you have questions: <a href="https://vvmlist.github.io/contact.html">contact</a></p>
+</span>
+<span class="gempty"></span>
+</body>
+</html>
