@@ -6,7 +6,7 @@ diffis:
   m:
     -
 platfs:
-  hackmyvm:
+  vulnhub:
     -
 curls:
   grotesque:
@@ -18,7 +18,7 @@ functions:
     -
   m:
     -
-  hackmyvm:
+  vulnhub:
     -
   source:
     -

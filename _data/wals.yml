@@ -437,6 +437,18 @@ zippervi:
 #################
 ##vulnhub region
 #################
+kbvuln1wu:
+  label: <a href="https://grumpygeekwrites.wordpress.com/2020/09/10/kb-vuln-1-vulnhub-walk-through/">writeup<br>skinny.3l3phant</a>
+devcontainer1wu:
+  label: <a href="https://assume-breach.medium.com/vulnhubs-devcontainer-1-ctf-walkthrough-1bb2c9769106">writeup<br>assume-breach</a>
+sunsettwilightwu:
+  label: <a href="https://www.hackingarticles.in/sunset-twilight-vulnhub-walkthrough/">writeup<br>hackingarticles</a>
+potatowu:
+  label: <a href="https://www.infosecarticles.com/potato-1-vulnhub-walkthrough/">writeup<br>infosecarticles</a>
+#driftingblues7wu:
+#  label: <a href="linkkkkkkkkkkk">writeup<br>nickkkk</a>
+grotesque2wu:
+  label: <a href="https://vvmlist.github.io/walkthrough/grotesque2/grotesque2.html">writeup<br>by me<br>( ͡° ͜ʖ ͡°)</a>
 moneyboxwu:
   label: <a href="https://www.infosecarticles.com/moneybox-1-vulnhub-walkthrough/">writeup<br>infosecarticles</a>
 #driftingblues4wu:
@@ -545,11 +557,13 @@ driftingblues5wu:
   label: <a href="http://vxer.cn/?id=33">writeup<br>windy</a>
 "shuriken 1":
   label: <a href="https://dev.to/gituser00/vulnhub-shuriken-1-walkthrough-5ap1">writeup<br>dev.to</a>
+grotesque:
+  label: <a href="https://vvmlist.github.io/walkthrough/grotesque/grotesque">writeup<br>by me<br>( ͡° ͜ʖ ͡°)</a>
+gigachadwu:
+  label: <a href="http://vxer.cn/?id=33">writeup<br>windy</a>
 #################
 ##hackmyvm region
 #################
-grotesque:
-  label: <a href="https://vvmlist.github.io/walkthrough/grotesque/grotesque">writeup<br>by me<br>( ͡° ͜ʖ ͡°)</a>
 alzheimerwu:
   label: <a href="https://d4t4s3c.medium.com/hackmyvm-alzheimer-29575be32874">writeup<br>d4t4s3c</a>
 brainwu:
@@ -564,8 +578,6 @@ driftingblues3wu:
 #################  label: <a href="linkkkkkkkkkk">writeup<br>nicknameee</a>
 giftwu:
   label: <a href="https://www.infosecarticles.com/hackmyvm-gift-walkthrough/">writeup<br>infosecarticles</a>
-gigachadwu:
-  label: <a href="http://vxer.cn/?id=33">writeup<br>windy</a>
 hommiewu:
   label: <a href="https://arz101.medium.com/hackmyvm-hommie-26841151922f">writeup<br>arz101</a>
 insomniawu:
