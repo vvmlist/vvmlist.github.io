@@ -3,7 +3,7 @@ diffis:
   e:
     -
 platfs:
-  hackmyvm:
+  vulnhub:
     -
 curls:
   driftingblues3:
@@ -15,7 +15,7 @@ functions:
     -
   e:
     -
-  hackmyvm:
+  vulnhub:
     -
   hash:
     -

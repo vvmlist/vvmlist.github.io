@@ -6,9 +6,7 @@ platfs:
   vulnhub:
     -
 curls:
-  gigachad:
-    -
-  gigachadvh:
+  kbvuln1:
     -
 functions:
   unix:
@@ -17,18 +15,14 @@ functions:
     -
   vulnhub:
     -
-  ftp:
+  credz:
     -
   brute:
-    -
-  ssh:
-    -
-  cve:
     -
   suid:
     -
 
 wals:
-  gigachadwu:
+  kbvuln1wu:
     -
 ---

@@ -6,9 +6,9 @@ platfs:
   vulnhub:
     -
 curls:
-  gigachad:
+  driftingblues7:
     -
-  gigachadvh:
+  driftingblues7vh:
     -
 functions:
   unix:
@@ -17,18 +17,16 @@ functions:
     -
   vulnhub:
     -
-  ftp:
+  hash:
     -
   brute:
     -
-  ssh:
+  credz:
     -
   cve:
     -
-  suid:
-    -
 
 wals:
-  gigachadwu:
+  driftingblues7wu:
     -
 ---

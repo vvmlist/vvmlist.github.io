@@ -345,9 +345,25 @@ curlna:
   label: <a class="newicon" href="https://www.vulnhub.com/entry/driftingblues-6,672/"><img src="assets/vulnhub.png"></a>
 "crossroadsvh":
   label: <a class="newicon" href="https://www.vulnhub.com/entry/crossroads-1,659/"><img src="assets/vulnhub.png"></a>
+"kbvuln1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/kb-vuln-1,540/"><img src="assets/vulnhub.png"></a>
+"devcontainer1":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/devcontainer-1,548/"><img src="assets/vulnhub.png"></a>
+"sunsettwilight":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/sunset-twilight,512/"><img src="assets/vulnhub.png"></a>
+"potato":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/potato-1,529/"><img src="assets/vulnhub.png"></a>
+"driftingblues7vh":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/driftingblues-7,680/"><img src="assets/vulnhub.png"></a>
+"grotesque2vh":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/grotesque-2,673/"><img src="assets/vulnhub.png"></a>
 #################
 ##hackmyvm region
 #################
+"driftingblues7":
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Driftingblues7"><img src="assets/hmvm.png"></a>
+"grotesque2":
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Grotesque2"><img src="assets/hmvm.png"></a>
 "driftingblues5":
   label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Driftingblues5"><img src="assets/hmvm.png"></a>
 "driftingblues6":

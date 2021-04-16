@@ -6,9 +6,7 @@ platfs:
   vulnhub:
     -
 curls:
-  gigachad:
-    -
-  gigachadvh:
+  potato:
     -
 functions:
   unix:
@@ -17,18 +15,18 @@ functions:
     -
   vulnhub:
     -
-  ftp:
+  lfi:
+    -
+  credz:
     -
   brute:
     -
   ssh:
     -
-  cve:
-    -
-  suid:
+  sudo:
     -
 
 wals:
-  gigachadwu:
+  potatowu:
     -
 ---

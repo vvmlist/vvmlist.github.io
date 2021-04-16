@@ -6,9 +6,7 @@ platfs:
   vulnhub:
     -
 curls:
-  gigachad:
-    -
-  gigachadvh:
+  devcontainer1:
     -
 functions:
   unix:
@@ -17,18 +15,14 @@ functions:
     -
   vulnhub:
     -
-  ftp:
+  revsh:
     -
-  brute:
+  cronj:
     -
-  ssh:
-    -
-  cve:
-    -
-  suid:
+  lfi:
     -
 
 wals:
-  gigachadwu:
+  devcontainer1wu:
     -
 ---

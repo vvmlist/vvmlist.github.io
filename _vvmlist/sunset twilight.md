@@ -6,9 +6,7 @@ platfs:
   vulnhub:
     -
 curls:
-  gigachad:
-    -
-  gigachadvh:
+  sunsettwilight:
     -
 functions:
   unix:
@@ -17,18 +15,16 @@ functions:
     -
   vulnhub:
     -
-  ftp:
-    -
-  brute:
-    -
-  ssh:
+  lfi:
     -
   cve:
     -
-  suid:
+  revsh:
+    -
+  kernelb:
     -
 
 wals:
-  gigachadwu:
+  sunsettwilightwu:
     -
 ---

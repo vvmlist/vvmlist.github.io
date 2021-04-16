@@ -1,34 +1,34 @@
 ---
 diffis:
-  e:
+  m:
     -
 platfs:
   vulnhub:
     -
 curls:
-  gigachad:
+  grotesque2:
     -
-  gigachadvh:
+  grotesque2vh:
     -
 functions:
   unix:
     -
-  e:
+  m:
     -
   vulnhub:
     -
-  ftp:
+  hash:
     -
   brute:
     -
+  credz:
+    -
   ssh:
     -
-  cve:
-    -
-  suid:
+  cronj:
     -
 
 wals:
-  gigachadwu:
+  grotesque2wu:
     -
 ---
