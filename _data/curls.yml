@@ -364,17 +364,17 @@ curlna:
 ##hackmyvm region
 #################
 "driftingblues8":
-  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Driftingblues8"><img src="assets/hackmyvm.png"></a>
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Driftingblues8"><img src="assets/hmvm.png"></a>
 "driftingblues9":
-  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Driftingblues9"><img src="assets/hackmyvm.png"></a>
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Driftingblues9"><img src="assets/hmvm.png"></a>
 "tornado":
-  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Tornado"><img src="assets/hackmyvm.png"></a>
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Tornado"><img src="assets/hmvm.png"></a>
 "forbidden":
-  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Forbidden"><img src="assets/hackmyvm.png"></a>
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Forbidden"><img src="assets/hmvm.png"></a>
 "t800":
-  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=T800"><img src="assets/hackmyvm.png"></a>
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=T800"><img src="assets/hmvm.png"></a>
 "baseme":
-  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=BaseME"><img src="assets/hackmyvm.png"></a>
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=BaseME"><img src="assets/hmvm.png"></a>
 "driftingblues7":
   label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Driftingblues7"><img src="assets/hmvm.png"></a>
 "grotesque2":
