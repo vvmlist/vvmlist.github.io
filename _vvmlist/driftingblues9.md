@@ -1,0 +1,30 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnhub:
+    -
+curls:
+  driftingblues9vh:
+    -
+  driftingblues9:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnhub:
+    -
+  revsh:
+    -
+  credz:
+    -
+  bof:
+    -
+
+wals:
+  driftingblues9wu:
+    -
+---

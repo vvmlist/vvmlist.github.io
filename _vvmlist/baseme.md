@@ -1,0 +1,26 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  hackmyvm:
+    -
+curls:
+  baseme:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  hackmyvm:
+    -
+  hash:
+    -
+  sudo:
+    -
+
+wals:
+  basemewu:
+    -
+---
