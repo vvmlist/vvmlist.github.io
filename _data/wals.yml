@@ -437,6 +437,10 @@ zippervi:
 #################
 ##vulnhub region
 #################
+#driftingblues8wu:
+#  label: <a href="linkkkkkkkkkkk">writeup<br>nickkkk</a>
+driftingblues9wu:
+  label: <a href="https://grumpygeekwrites.wordpress.com/2021/05/12/driftingblues-9/">writeup<br>skinny.3l3phant</a>
 kbvuln1wu:
   label: <a href="https://grumpygeekwrites.wordpress.com/2020/09/10/kb-vuln-1-vulnhub-walk-through/">writeup<br>skinny.3l3phant</a>
 devcontainer1wu:
@@ -445,8 +449,8 @@ sunsettwilightwu:
   label: <a href="https://www.hackingarticles.in/sunset-twilight-vulnhub-walkthrough/">writeup<br>hackingarticles</a>
 potatowu:
   label: <a href="https://www.infosecarticles.com/potato-1-vulnhub-walkthrough/">writeup<br>infosecarticles</a>
-#driftingblues7wu:
-#  label: <a href="linkkkkkkkkkkk">writeup<br>nickkkk</a>
+driftingblues7wu:
+  label: <a href="http://vxer.cn/?id=70">writeup<br>windy</a>
 grotesque2wu:
   label: <a href="https://vvmlist.github.io/walkthrough/grotesque2/grotesque2.html">writeup<br>by me<br>( ͡° ͜ʖ ͡°)</a>
 moneyboxwu:
@@ -551,8 +555,8 @@ driftingblues5wu:
   label: <a href="https://jhalon.github.io/vulnhub-mr-robot1/">writeup<br>jhalon</a>
 #"driftingblues2":
 #  label: <a href="linkkkkkkkkkkkkkkkkk">writeup<br>nickkkkkkkkkkkkkk</a>
-#"driftingblues":
-#  label: <a href="linkkkkkkkkkkkkkkkkk">writeup<br>nickkkkkkkkkkkkkk</a>
+"driftingblues":
+  label: <a href="https://workingon.tech/driftingblues-1-vulnhub-walkthrough-beginner-box-cron-job/">writeup<br>workingon.tech</a>
 "gigachadvh":
   label: <a href="http://vxer.cn/?id=33">writeup<br>windy</a>
 "shuriken 1":
@@ -564,6 +568,14 @@ gigachadwu:
 #################
 ##hackmyvm region
 #################
+tornadowu:
+  label: <a href="http://www.vxer.cn/?id=25">writeup<br>windy</a>
+#forbiddenwu:
+#  label: <a href="linkkkkkkkkkkk">writeup<br>nickkkk</a>
+t800wu:
+  label: <a href="http://www.vxer.cn/?id=67">writeup<br>windy</a>
+basemewu:
+  label: <a href="https://downloads.hackmyvm.eu/baseme.pdf">writeup<br>sml</a>
 alzheimerwu:
   label: <a href="https://d4t4s3c.medium.com/hackmyvm-alzheimer-29575be32874">writeup<br>d4t4s3c</a>
 brainwu:

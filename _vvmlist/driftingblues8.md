@@ -1,0 +1,28 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  hackmyvm:
+    -
+curls:
+  driftingblues8:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  hackmyvm:
+    -
+  cve:
+    -
+  credz:
+    -
+  brute:
+    -
+
+wals:
+  driftingblues8wu:
+    -
+---
