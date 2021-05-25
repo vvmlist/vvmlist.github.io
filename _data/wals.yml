@@ -2,6 +2,26 @@
 #################
 ##htb region
 #################
+timewu:
+  label: <a href="https://0xdf.gitlab.io/2021/04/03/htb-time.html">writeup<br>0xdf</a>
+timevi:
+  label: <a href="https://www.youtube.com/watch?v=JfonPpbX-oI">video<br>ippsec</a>
+doctorwu:
+  label: <a href="https://0xdf.gitlab.io/2021/02/06/htb-doctor.html">writeup<br>0xdf</a>
+doctorvi:
+  label: <a href="https://www.youtube.com/watch?v=JcOR9krOPFY">video<br>ippsec</a>
+jewelwu:
+  label: <a href="https://0xdf.gitlab.io/2021/02/13/htb-jewel.html">writeup<br>0xdf</a>
+jewelvi:
+  label: <a href="https://www.youtube.com/watch?v=OO9by3_Zmpk">video<br>ippsec</a>
+passagewu:
+  label: <a href="https://0xdf.gitlab.io/2021/03/06/htb-passage.html">writeup<br>0xdf</a>
+passagevi:
+  label: <a href="https://www.youtube.com/watch?v=kbw4_4jUP_U">video<br>ippsec</a>
+workerwu:
+  label: <a href="https://0xdf.gitlab.io/2021/01/30/htb-worker.html">writeup<br>0xdf</a>
+workervi:
+  label: <a href="https://www.youtube.com/watch?v=Auqt-NSB4SQ">video<br>ippsec</a>
 accesswu:
   label: <a href="https://0xdf.gitlab.io/2019/03/02/htb-access.html">writeup<br>0xdf</a>
 accessvi:

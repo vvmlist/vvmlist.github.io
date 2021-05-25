@@ -1,0 +1,32 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  htbvip:
+    -
+curls:
+  jewel:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  htbvip:
+    -
+  cve:
+    -
+  revsh:
+    -
+  credz:
+    -
+  sudo:
+    -
+
+wals:
+  jewelwu:
+    -
+  jewelvi:
+    -
+---

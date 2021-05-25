@@ -10,6 +10,16 @@ curlna:
 #################
 ##htb region
 #################
+"time":
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/286"><img src="assets/htbvip.png"></a>
+"doctor":
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/278"><img src="assets/htbvip.png"></a>
+"jewel":
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/282"><img src="assets/htbvip.png"></a>
+"passage":
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/275"><img src="assets/htbvip.png"></a>
+"worker":
+  label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/270"><img src="assets/htbvip.png"></a>
 "active":
   label: <a class="newicon" href="https://www.hackthebox.eu/home/machines/profile/148"><img src="assets/htbvip.png"></a>
 "apocalyst":

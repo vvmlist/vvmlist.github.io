@@ -133,6 +133,8 @@ ssht:
   label: ssh tunnel
 ssl: 
   label: ssl
+ssti: 
+  label: ssti
 stego: 
   label: stego
 credz: 
