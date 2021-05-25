@@ -1,0 +1,28 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  htbvip:
+    -
+curls:
+  worker:
+    -
+functions:
+  win:
+    -
+  m:
+    -
+  htbvip:
+    -
+  credz:
+    -
+  revsh:
+    -
+
+wals:
+  workerwu:
+    -
+  workervi:
+    -
+---
