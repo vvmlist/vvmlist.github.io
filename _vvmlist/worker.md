@@ -21,7 +21,8 @@ functions:
     -
   winrm:
     -
-
+  git:
+    -
 wals:
   workerwu:
     -

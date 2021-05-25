@@ -23,7 +23,8 @@ functions:
     -
   sudo:
     -
-
+  git:
+    -
 wals:
   jewelwu:
     -
