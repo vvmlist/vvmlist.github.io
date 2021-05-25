@@ -19,6 +19,8 @@ functions:
     -
   revsh:
     -
+  winrm:
+    -
 
 wals:
   workerwu:
