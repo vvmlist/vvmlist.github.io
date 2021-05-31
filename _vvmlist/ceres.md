@@ -1,0 +1,36 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  hackmyvm:
+    -
+curls:
+  ceres:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  hackmyvm:
+    -
+  lfi:
+    -
+  logpoi:
+    -
+  rce:
+    -
+  revsh:
+    -
+  sudo:
+    -
+  libhj:
+    -
+  cronj:
+    -
+
+wals:
+  cereswu:
+    -
+---

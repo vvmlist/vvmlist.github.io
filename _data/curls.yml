@@ -373,6 +373,14 @@ curlna:
 #################
 ##hackmyvm region
 #################
+"faust":
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Faust"><img src="assets/hackmyvm.png"></a>
+"visions":
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Visions"><img src="assets/hackmyvm.png"></a>
+"sedem":
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Sedem"><img src="assets/hackmyvm.png"></a>
+"ceres":
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Ceres"><img src="assets/hackmyvm.png"></a>
 "driftingblues8":
   label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Driftingblues8"><img src="assets/hmvm.png"></a>
 "driftingblues9":

@@ -588,6 +588,14 @@ gigachadwu:
 #################
 ##hackmyvm region
 #################
+faustwu:
+  label: <a href="https://downloads.hackmyvm.eu/faust.pdf">writeup<br>sml</a>
+visionswu:
+  label: <a href="https://downloads.hackmyvm.eu/visions.pdf">writeup<br>sml</a>
+sedemwu:
+  label: <a href="https://linkedroot.wordpress.com/2021/05/16/sedem-hackmyvm/">writeup<br>linkedroot</a>
+cereswu:
+  label: <a href="https://github.com/AL1ENUM/HackMyVM-Walkthroughs/blob/main/Ceres.md">writeup<br>alienum</a>
 tornadowu:
   label: <a href="http://www.vxer.cn/?id=25">writeup<br>windy</a>
 #forbiddenwu:
