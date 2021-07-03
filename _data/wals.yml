@@ -457,8 +457,8 @@ zippervi:
 #################
 ##vulnhub region
 #################
-#driftingblues8wu:
-#  label: <a href="linkkkkkkkkkkk">writeup<br>nickkkk</a>
+driftingblues8wu:
+  label: <a href="https://linkedroot.wordpress.com/2021/05/02/driftingblues8-hackmyvm/">writeup<br>linked</a>
 driftingblues9wu:
   label: <a href="https://grumpygeekwrites.wordpress.com/2021/05/12/driftingblues-9/">writeup<br>skinny.3l3phant</a>
 kbvuln1wu:
@@ -475,16 +475,16 @@ grotesque2wu:
   label: <a href="https://vvmlist.github.io/walkthrough/grotesque2/grotesque2.html">writeup<br>by me<br>( ͡° ͜ʖ ͡°)</a>
 moneyboxwu:
   label: <a href="https://www.infosecarticles.com/moneybox-1-vulnhub-walkthrough/">writeup<br>infosecarticles</a>
-#driftingblues4wu:
-#  label: <a href="linkkkkkkkkkkk">writeup<br>nickkkk</a>
+driftingblues4wu:
+  label: <a href="https://nepcodex.com/2021/06/vulnhub-driftingblues-4-walkthrough/">writeup<br>nepcodex</a>
 systemfailurewu:
   label: <a href="http://vxer.cn/?id=52">writeup<br>windy</a>
 driftingblues5wu:
   label: <a href="http://vxer.cn/?id=40">writeup<br>windy</a>
-#driftingblues6wu:
-#  label: <a href="linkkkkkkkkkkk">writeup<br>nickkkk</a>
-#crossroadswu:
-#  label: <a href="linkkkkkkkkkkk">writeup<br>nickkkk</a>
+driftingblues6wu:
+  label: <a href="https://nepcodex.com/2021/06/vulnhub-driftingblues-6-walkthrough/">writeup<br>nepcodex</a>
+crossroadswu:
+  label: <a href="https://xavilok.es/posts/CrossRoads.php">writeup<br>x4v1l0k</a>
 "onsystem hannah":
   label: <a href="https://blog.razrsec.uk/shelldredd-hannah-walkthrough/">writeup<br>razrsec</a>
 "pwnlab init":
@@ -569,12 +569,12 @@ driftingblues5wu:
   label: <a href="https://grumpygeekwrites.wordpress.com/2020/12/01/masashi-vulnhub-walk-through/">writeup<br>skinny.3l3phant</a>
 "metasploitable 2":
   label: <a href="https://www.hackingarticles.in/comprehensive-guide-on-metasploitable-2/">writeup<br>hackingarticles</a>
-#"moee 1":
-#  label: <a href="linkkkkkkkkkkkkkkkkk">writeup<br>nickkkkkkkkkkkkkk</a>
+"moee 1":
+  label: <a href="https://0xjin.medium.com/moee-1-vulnhub-writeup-53928347ac86">writeup<br>0xjin</a>
 "mr-robot 1":
   label: <a href="https://jhalon.github.io/vulnhub-mr-robot1/">writeup<br>jhalon</a>
-#"driftingblues2":
-#  label: <a href="linkkkkkkkkkkkkkkkkk">writeup<br>nickkkkkkkkkkkkkk</a>
+"driftingblues2":
+  label: <a href="https://nepcodex.com/2021/06/vulnhub-driftingblues-2-walkthrough/">writeup<br>nepcodex</a>
 "driftingblues":
   label: <a href="https://workingon.tech/driftingblues-1-vulnhub-walkthrough-beginner-box-cron-job/">writeup<br>workingon.tech</a>
 "gigachadvh":
@@ -614,8 +614,8 @@ dominatorwu:
   label: <a href="https://arz101.medium.com/hackmyvm-dominator-5c453b7879b7">writeup<br>arz101</a>
 driftingblues3wu:
   label: <a href="https://grumpygeekwrites.wordpress.com/2021/01/09/driftingblues3-hackmyvm-walk-through/">writeup<br>skinny.3l3phant</a>
-#################flowerwu:
-#################  label: <a href="linkkkkkkkkkk">writeup<br>nicknameee</a>
+flowerwu:
+  label: <a href="https://al1enum.github.io/docs/HackMyVM-Flower.pdf">writeup<br>alienum</a>
 giftwu:
   label: <a href="https://www.infosecarticles.com/hackmyvm-gift-walkthrough/">writeup<br>infosecarticles</a>
 hommiewu:
