@@ -1,5 +1,5 @@
 ---
-waals:
+wals:
   "djinn 1":
     -
 diffis:
