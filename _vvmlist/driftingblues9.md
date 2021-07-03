@@ -17,6 +17,8 @@ functions:
     -
   vulnhub:
     -
+  cve:
+    -
   revsh:
     -
   credz:
