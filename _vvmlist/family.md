@@ -1,0 +1,36 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  hackmyvm:
+    -
+curls:
+  family:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  hackmyvm:
+    -
+  wp:
+    -
+  source:
+    -
+  brute:
+    -
+  revsh:
+    -
+  credz:
+    -
+  cronj:
+    -
+  sudo:
+    -
+
+wals:
+  familywu:
+    -
+---

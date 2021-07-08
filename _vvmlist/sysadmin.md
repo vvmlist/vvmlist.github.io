@@ -1,0 +1,30 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  hackmyvm:
+    -
+curls:
+  sysadmin:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  hackmyvm:
+    -
+  stego:
+    -
+  sudo:
+    -
+  ftp:
+    -
+  credz:
+    -
+
+wals:
+  sysadminwu:
+    -
+---
