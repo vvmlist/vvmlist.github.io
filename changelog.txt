@@ -1,3 +1,7 @@
+# vvmlist pool update - 29.08.2021 #
+##vvm count: 254
+		> vvmlist now has over 250 vulnerable machines
+
 # vvmlist update - 10.03.2021 #
 ##vvm count: 220
 		
