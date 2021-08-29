@@ -369,10 +369,22 @@ curlna:
   label: <a class="newicon" href="https://www.vulnhub.com/entry/grotesque-2,673/"><img src="assets/vulnhub.png"></a>
 "driftingblues9vh":
   label: <a class="newicon" href="https://www.vulnhub.com/entry/driftingblues-9-final,695/"><img src="assets/vulnhub.png"></a>
+"grotesque3vh":
+  label: <a class="newicon" href="https://www.vulnhub.com/entry/grotesque-3,723/"><img src="assets/vulnhub.png"></a>
 
 #################
 ##hackmyvm region
 #################
+"grotesque3":
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Grotesque3"><img src="assets/hackmyvm.png"></a>
+"may":
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=May"><img src="assets/hackmyvm.png"></a>
+"tron":
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Tron"><img src="assets/hackmyvm.png"></a>
+"suuk":
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Suuk"><img src="assets/hackmyvm.png"></a>
+"celebritysoup":
+  label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=CelebritySoup"><img src="assets/hackmyvm.png"></a>
 "family":
   label: <a class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Family"><img src="assets/hackmyvm.png"></a>
 "sysadmin":

@@ -27,7 +27,7 @@ echo "---" > $curl.md
 echo "diffis:" >> $curl.md
 echo "  $diff:"	>> $curl.md
 echo "    -" >> $curl.md
-echo "platform:" >> $curl.md
+echo "platfs:" >> $curl.md
 echo "  $plat:"	>> $curl.md
 echo "    -" >> $curl.md
 echo "curls:" >> $curl.md
@@ -125,4 +125,26 @@ else
 	echo "    -" >> $curl.md
 fi
 echo "" >> $curl.md
+echo "wals:" >> $curl.md
+echo "  "$curl"wu:" >> $curl.md
+echo "    -" >> $curl.md
 echo "---" >> $curl.md
+
+########
+#####
+##
+echo $curl"wu:" >> wals.txt
+echo '  label: <a href="linkkkkkkkkkkk">writeup<br>nickkkk</a>' >> wals.txt
+
+echo \"$curl\": >> curl.txt
+echo '  label: <a class="newicon" href="vhlink"><img src="assets/'$plat'.png"></a>' >> curl.txt
+
+#"dddhtbt":
+#  label: <a class="newicon" href="htblink"><img src="assets/htbvip.png"></a>
+#"dddvht":
+#  label: <a class="newicon" href="vhlink"><img src="assets/vulnhub.png"></a>
+#"dddhmvmt":
+#  label: <a class="newicon" href="hmvmlink"><img src="assets/hmvm.png"></a>
+
+
+
