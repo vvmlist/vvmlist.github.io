@@ -15,9 +15,9 @@ functions:
     -
   hackmyvm:
     -
-  dns:
+  creds:
     -
-  ssh:
+  cve:
     -
   sudo:
     -

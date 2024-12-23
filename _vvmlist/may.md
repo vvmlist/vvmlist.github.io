@@ -15,11 +15,11 @@ functions:
     -
   hackmyvm:
     -
-  burp:
+  fuzz:
     -
-  ssh:
+  bf:
     -
-  revsh:
+  logical:
     -
 
 wals:

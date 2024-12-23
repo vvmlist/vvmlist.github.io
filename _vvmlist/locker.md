@@ -15,9 +15,9 @@ functions:
     -
   hackmyvm:
     -
-  rce:
+  ci:
     -
-  revsh:
+  rce:
     -
   suid:
     -

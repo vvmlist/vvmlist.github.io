@@ -15,14 +15,17 @@ functions:
     -
   htbvip:
     -
-  credz:
-    -
-  revsh:
-    -
-  winrm:
-    -
   git:
     -
+  fuzz:
+    -
+  creds:
+    -
+  rce:
+    -
+  logical:
+    -
+
 wals:
   workerwu:
     -

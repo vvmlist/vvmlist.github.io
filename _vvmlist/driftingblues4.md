@@ -15,21 +15,19 @@ functions:
     -
   vulnhub:
     -
-  source:
+  decode:
     -
-  hash:
-    -
-  brute:
+  bf:
     -
   ftp:
     -
-  credz:
-    -
   ssh:
     -
-  pathj:
+  rwp:
     -
-  cronj:
+  suid:
+    -
+  pathj:
     -
 
 wals:

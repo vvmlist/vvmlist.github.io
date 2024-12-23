@@ -8,7 +8,7 @@ platfs:
 curls:
   driftingblues5:
     -
-  driftingblues5vh:
+  driftingblues5hmv:
     -
 functions:
   unix:
@@ -19,11 +19,19 @@ functions:
     -
   wp:
     -
-  brute:
+  bf:
     -
-  stego:
+  steg:
     -
-  cronj:
+  creds:
+    -
+  keepass:
+    -
+  hc:
+    -
+  pspy:
+    -
+  cron:
     -
 
 wals:

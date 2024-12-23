@@ -5,9 +5,7 @@
     src: url('segoeui.ttf');
 }
 
-
 $marked: #0070ff;
-
 
 $font: 'Segoe';
 $myblue: #0a3b76;
@@ -16,11 +14,10 @@ $purpie: #00ffa7;
 $accent: #c8c8c8;
 
 // disable diffis and platfs from main taglist
-
 #bin-search-filters-dif > li:nth-child(1) {
-	display: none;
-	}
-	
+    display: none;
+}
+
 #bin-search-filters > li:nth-child(3),
 #bin-search-filters > li:nth-child(4),
 #bin-search-filters > li:nth-child(5),
@@ -29,61 +26,244 @@ $accent: #c8c8c8;
 #bin-search-filters > li:nth-child(8),
 #bin-search-filters > li:nth-child(9),
 #bin-search-filters > li:nth-child(10),
-#bin-search-filters > li:nth-child(11) {
-	display: none;
-	}
+#bin-search-filters > li:nth-child(11),
+// vuln list display none
+#bin-search-filters > li:nth-child(13),
+#bin-search-filters > li:nth-child(14),
+#bin-search-filters > li:nth-child(16),
+#bin-search-filters > li:nth-child(17),
+#bin-search-filters > li:nth-child(18),
+#bin-search-filters > li:nth-child(19),
+#bin-search-filters > li:nth-child(20),
+#bin-search-filters > li:nth-child(21),
+#bin-search-filters > li:nth-child(22),
+#bin-search-filters > li:nth-child(23),
+#bin-search-filters > li:nth-child(25),
+#bin-search-filters > li:nth-child(27),
+#bin-search-filters > li:nth-child(28),
+#bin-search-filters > li:nth-child(29),
+#bin-search-filters > li:nth-child(30),
+#bin-search-filters > li:nth-child(31),
+#bin-search-filters > li:nth-child(33),
+#bin-search-filters > li:nth-child(34),
+#bin-search-filters > li:nth-child(35),
+#bin-search-filters > li:nth-child(37),
+#bin-search-filters > li:nth-child(38),
+#bin-search-filters > li:nth-child(40),
+#bin-search-filters > li:nth-child(41),
+#bin-search-filters > li:nth-child(42),
+#bin-search-filters > li:nth-child(47),
+#bin-search-filters > li:nth-child(48),
+#bin-search-filters > li:nth-child(50),
+#bin-search-filters > li:nth-child(52),
+#bin-search-filters > li:nth-child(54),
+#bin-search-filters > li:nth-child(55),
+#bin-search-filters > li:nth-child(57),
+#bin-search-filters > li:nth-child(60),
+#bin-search-filters > li:nth-child(62),
+#bin-search-filters > li:nth-child(63),
+#bin-search-filters > li:nth-child(65),
+#bin-search-filters > li:nth-child(68),
+#bin-search-filters > li:nth-child(70),
+#bin-search-filters > li:nth-child(71),
+#bin-search-filters > li:nth-child(72),
+#bin-search-filters > li:nth-child(73),
+#bin-search-filters > li:nth-child(74),
+#bin-search-filters > li:nth-child(75),
+#bin-search-filters > li:nth-child(76),
+#bin-search-filters > li:nth-child(77),
+#bin-search-filters > li:nth-child(78),
+#bin-search-filters > li:nth-child(79),
+#bin-search-filters > li:nth-child(80),
+#bin-search-filters > li:nth-child(81),
+#bin-search-filters > li:nth-child(83),
+#bin-search-filters > li:nth-child(84),
+#bin-search-filters > li:nth-child(85),
+#bin-search-filters > li:nth-child(86),
+#bin-search-filters > li:nth-child(87),
+#bin-search-filters > li:nth-child(88),
+#bin-search-filters > li:nth-child(90),
+#bin-search-filters > li:nth-child(92),
+#bin-search-filters > li:nth-child(93),
+#bin-search-filters > li:nth-child(95),
+#bin-search-filters > li:nth-child(96),
+#bin-search-filters > li:nth-child(97),
+#bin-search-filters > li:nth-child(98),
+#bin-search-filters > li:nth-child(99),
+#bin-search-filters > li:nth-child(101),
+#bin-search-filters > li:nth-child(103),
+#bin-search-filters > li:nth-child(104),
+#bin-search-filters > li:nth-child(105),
+#bin-search-filters > li:nth-child(106),
+#bin-search-filters > li:nth-child(107),
+#bin-search-filters > li:nth-child(108),
+#bin-search-filters > li:nth-child(109),
+#bin-search-filters > li:nth-child(111),
+#bin-search-filters > li:nth-child(112),
+#bin-search-filters > li:nth-child(113),
+#bin-search-filters > li:nth-child(114),
+#bin-search-filters > li:nth-child(115),
+#bin-search-filters > li:nth-child(117),
+#bin-search-filters > li:nth-child(119),
+#bin-search-filters > li:nth-child(121),
+#bin-search-filters > li:nth-child(122),
+#bin-search-filters > li:nth-child(123),
+#bin-search-filters > li:nth-child(124),
+#bin-search-filters > li:nth-child(125),
+#bin-search-filters > li:nth-child(126),
+#bin-search-filters > li:nth-child(127),
+#bin-search-filters > li:nth-child(130),
+#bin-search-filters > li:nth-child(132),
+#bin-search-filters > li:nth-child(134),
+#bin-search-filters > li:nth-child(135),
+#bin-search-filters > li:nth-child(136),
+#bin-search-filters > li:nth-child(137),
+#bin-search-filters > li:nth-child(138),
+#bin-search-filters > li:nth-child(139),
+#bin-search-filters > li:nth-child(141),
+#bin-search-filters > li:nth-child(142),
+#bin-search-filters > li:nth-child(143),
+#bin-search-filters > li:nth-child(144),
+#bin-search-filters > li:nth-child(145),
+#bin-search-filters > li:nth-child(147),
+#bin-search-filters > li:nth-child(149),
+#bin-search-filters > li:nth-child(150),
+#bin-search-filters > li:nth-child(152),
+#bin-search-filters > li:nth-child(153),
+#bin-search-filters > li:nth-child(154),
+#bin-search-filters > li:nth-child(155),
+#bin-search-filters > li:nth-child(156),
+#bin-search-filters > li:nth-child(157),
+#bin-search-filters > li:nth-child(160),
+#bin-search-filters > li:nth-child(161),
+#bin-search-filters > li:nth-child(162),
+#bin-search-filters > li:nth-child(163),
+#bin-search-filters > li:nth-child(165),
+#bin-search-filters > li:nth-child(166),
+#bin-search-filters > li:nth-child(167),
+#bin-search-filters > li:nth-child(169),
+#bin-search-filters > li:nth-child(170),
+#bin-search-filters > li:nth-child(171),
+#bin-search-filters > li:nth-child(173),
+#bin-search-filters > li:nth-child(175),
+#bin-search-filters > li:nth-child(176),
+#bin-search-filters > li:nth-child(177),
+#bin-search-filters > li:nth-child(178),
+#bin-search-filters > li:nth-child(179),
+#bin-search-filters > li:nth-child(183),
+#bin-search-filters > li:nth-child(184),
+#bin-search-filters > li:nth-child(185),
+#bin-search-filters > li:nth-child(186),
+#bin-search-filters > li:nth-child(189),
+#bin-search-filters > li:nth-child(190),
+#bin-search-filters > li:nth-child(191),
+#bin-search-filters > li:nth-child(192),
+#bin-search-filters > li:nth-child(193),
+#bin-search-filters > li:nth-child(194),
+#bin-search-filters > li:nth-child(195),
+#bin-search-filters > li:nth-child(196),
+#bin-search-filters > li:nth-child(197),
+#bin-search-filters > li:nth-child(199),
+#bin-search-filters > li:nth-child(200),
+#bin-search-filters > li:nth-child(201),
+#bin-search-filters > li:nth-child(202),
+#bin-search-filters > li:nth-child(203),
+#bin-search-filters > li:nth-child(204),
+#bin-search-filters > li:nth-child(207),
+#bin-search-filters > li:nth-child(209),
+#bin-search-filters > li:nth-child(212),
+#bin-search-filters > li:nth-child(213),
+#bin-search-filters > li:nth-child(218),
+#bin-search-filters > li:nth-child(221),
+#bin-search-filters > li:nth-child(222),
+#bin-search-filters > li:nth-child(223),
+#bin-search-filters > li:nth-child(224),
+#bin-search-filters > li:nth-child(226),
+#bin-search-filters > li:nth-child(227),
+#bin-search-filters > li:nth-child(228),
+#bin-search-filters > li:nth-child(229),
+#bin-search-filters > li:nth-child(230),
+#bin-search-filters > li:nth-child(231),
+#bin-search-filters > li:nth-child(232),
+#bin-search-filters > li:nth-child(233),
+#bin-search-filters > li:nth-child(234),
+#bin-search-filters > li:nth-child(235),
+#bin-search-filters > li:nth-child(237),
+#bin-search-filters > li:nth-child(238),
+#bin-search-filters > li:nth-child(239),
+#bin-search-filters > li:nth-child(240),
+#bin-search-filters > li:nth-child(242),
+#bin-search-filters > li:nth-child(243),
+#bin-search-filters > li:nth-child(245),
+#bin-search-filters > li:nth-child(246),
+#bin-search-filters > li:nth-child(247),
+#bin-search-filters > li:nth-child(248),
+#bin-search-filters > li:nth-child(249),
+#bin-search-filters > li:nth-child(250),
+#bin-search-filters > li:nth-child(251),
+#bin-search-filters > li:nth-child(252),
+#bin-search-filters > li:nth-child(253),
+#bin-search-filters > li:nth-child(256),
+#bin-search-filters > li:nth-child(257),
+#bin-search-filters > li:nth-child(36),
+#bin-search-filters > li:nth-child(94),
+#bin-search-filters > li:nth-child(133)
+
+ {
+    display: none;
+}
 
 // disable diffis and platfs from sub taglist
-
 #bin-table > tbody:nth-child(2) > tr > td:nth-child(4) > ul:nth-child(1) > li:nth-child(2),
 #bin-table > tbody:nth-child(2) > tr > td:nth-child(4) > ul:nth-child(1) > li:nth-child(3) {
-	display: none;
-	}
-	
+    display: none;
+}
+
 .bttop {
-	text-decoration: none;
-	position: fixed;
-	left: 30px;
-	bottom: 30px;
-	color: $accent;
-	background: $lighter;
+    text-decoration: none;
+    position: fixed;
+    left: 30px;
+    bottom: 30px;
+    color: $accent;
+    background: $lighter;
     font-size: initial;
     border-radius: 0.25em;
-	display: inline-block;
-	padding: 2px 2px;
-	margin: 0px 0;
-	text-decoration: none;  
-	}
+    display: inline-block;
+    padding: 2px 2px;
+    margin: 0px 0;
+}
 
 .newicon {
-    padding: 0 !important; 
+    padding: 0 !important;
     margin: 0 !important;
-	border: 0px !important;
-	padding-bottom: 11px !important;
+    border: 0px !important;
+    padding-bottom: 11px !important;
     padding-top: 11px !important;
-		}
+}
 
-//css mode switch
+// css mode switch
 .togglel {
-	position: relative;
-    float: left;
-	top: -58px;
-	left: 892.667px;
-	border: none;
-	a {text-decoration: none;}
+    width: 104px;
+    position: relative;
+    top: -58px;
+    left: 892.667px;
+    border: none;
+
+    a {
+        text-decoration: none;
+    }
 }
 
 .toggled {
-	position: relative;
+    position: relative;
     float: left;
-	top: -58px;
-	left: 892.667px;
-	border: none;
-	display: none;
-	}
+    top: -58px;
+    left: 892.667px;
+    border: none;
+    display: none;
+}
 
 // layout
-
 $column-width: 1000px;
 $grace-space: 200px;
 $layout-break: "(min-width: #{$column-width + $grace-space})";
@@ -106,11 +286,8 @@ $layout-break: "(min-width: #{$column-width + $grace-space})";
 }
 
 // walkthrough list padding
-
 .wal-list li {
-
-padding-right: 10px;
-
+    padding-right: 10px;
 }
 
 .logoi {
@@ -123,21 +300,21 @@ padding-right: 10px;
 }
 
 .logol {
-	display: none;
+    display: none;
 }
 
 .cinfo {
-    float: right;
+    position: relative;
+    float: left;
+    left: 782.033px;
+    border: none;
 }
 
-
-
 // common tags
-
 body {
     font-family: $font;
-	background: $myblue;
-	color: $accent;
+    background: $myblue;
+    color: $accent;
 }
 
 code {
@@ -158,8 +335,8 @@ pre {
     }
 }
 
-a:link, a:visited {
-	
+a:link,
+a:visited {
     color: $accent;
 }
 
@@ -168,8 +345,11 @@ a:hover {
 }
 
 // permalink on headings
-
-h2, h3, h4, h5, h5 {
+h2,
+h3,
+h4,
+h5,
+h5 {
     .permalink {
         margin-left: 5px;
         text-decoration: none;
@@ -194,30 +374,30 @@ h2, h3, h4, h5, h5 {
 
 #vvm-state {
     a {
-		color: $accent;
-		background: $lighter;
+        color: $accent;
+        background: $lighter;
         font-size: initial;
         border-radius: 0.25em;
-		display: inline-block;
-		padding: 2px 2px;
-		margin: 0px 0;
-		text-decoration: none;
+        display: inline-block;
+        padding: 2px 2px;
+        margin: 0px 0;
+        text-decoration: none;
     }
-	a:hover {
-    color: $purpie;
-			}
-	}
+
+    a:hover {
+        color: $purpie;
+    }
+}
 
 // binary list and search
-
 #bin-search-wrapper {
     margin: 50px 0;
     padding: 10px 0;
     position: relative; // XXX needed for tooltip sizing
 
-	#bin-search-filters-dif {
+    #bin-search-filters-dif {
         text-align: center;
-		
+
         a {
             background: $lighter;
             font-size: initial;
@@ -228,10 +408,10 @@ h2, h3, h4, h5, h5 {
             }
         }
     }
-	
-	#bin-search-filters-pla {
+
+    #bin-search-filters-pla {
         text-align: center;
-		
+
         a {
             background: $lighter;
             font-size: initial;
@@ -245,14 +425,28 @@ h2, h3, h4, h5, h5 {
 
     #bin-search-filters {
         text-align: center;
-		
+
         a {
             background: $lighter;
             font-size: initial;
             border-radius: 0.25em;
 
             &:hover:before {
-                display: none;
+                content: attr(data-title);
+    		position: absolute;
+
+    		top: -50px;  /* Move the tooltip above the element */
+   		left: 50%;  /* Position it in the middle horizontally */
+    		transform: translateX(-50%); /* Center it horizontally by adjusting its width */
+  
+    		display: inline-block;
+    		padding: 0.25em 0.5em;
+    		margin: 0.2em 0;
+    		border: 1px solid $purpie;
+    		border-radius: 0.25em;
+    		background-color: #082F5E;
+    		color: $purpie;
+
             }
         }
     }
@@ -265,26 +459,30 @@ h2, h3, h4, h5, h5 {
         box-sizing: border-box;
         border: 1px solid $accent;
         outline-color: $accent;
-		background-color: $lighter;
-		color: $accent;
+        background-color: $lighter;
+        color: $accent;
     }
 }
 
 td.vvm-name {
-     width: 180px;
-    }
-	
-td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
-     text-align: center;
-    }
+    width: 180px;
+}
+
+td.vvm-diffi,
+td.vvm-platf,
+td.vvm-curl,
+td.vvm-wal {
+    text-align: center;
+}
 
 #bin-table {
     width: 100%;
 
-    th, td {
+    th,
+    td {
         padding: 0.2em 1em;
-		border-right: 1px solid $lighter;
-		border-bottom: 1px solid $lighter;
+        border-right: 1px solid $lighter;
+        border-bottom: 1px solid $lighter;
     }
 
     th {
@@ -303,7 +501,6 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
 }
 
 // function description
-
 .function-list {
     font-size: 0.85rem;
     list-style: none;
@@ -312,6 +509,7 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
 
     li {
         display: inline-block;
+
         a {
             display: inline-block;
             padding: 0.25em 0.5em;
@@ -319,7 +517,8 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
             border: 1px solid $accent;
         }
 
-        a:link, a:visited {
+        a:link,
+        a:visited {
             color: $accent;
             text-decoration: none;
         }
@@ -336,7 +535,6 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
 }
 
 // diffi description
-
 .diffi-list {
     font-size: 0.8rem;
     list-style: none;
@@ -353,7 +551,8 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
             border: 1px solid $accent;
         }
 
-        a:link, a:visited {
+        a:link,
+        a:visited {
             color: $accent;
             text-decoration: none;
         }
@@ -370,7 +569,6 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
 }
 
 // platf description
-
 .platf-list {
     font-size: 0.8rem;
     list-style: none;
@@ -387,7 +585,8 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
             border: 1px solid $accent;
         }
 
-        a:link, a:visited {
+        a:link,
+        a:visited {
             color: $accent;
             text-decoration: none;
         }
@@ -404,7 +603,6 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
 }
 
 // curl description
-
 .curl-list {
     font-size: 0.8rem;
     list-style: none;
@@ -421,7 +619,8 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
             border: 1px solid $accent;
         }
 
-        a:link, a:visited {
+        a:link,
+        a:visited {
             color: $accent;
             text-decoration: none;
         }
@@ -438,7 +637,6 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
 }
 
 // wal description
-
 .wal-list {
     font-size: 0.85rem;
     list-style: none;
@@ -447,6 +645,7 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
 
     li {
         display: inline-block;
+
         a {
             display: inline-block;
             padding: 0.25em 0.5em;
@@ -454,7 +653,8 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
             border: 1px solid $accent;
         }
 
-        a:link, a:visited {
+        a:link,
+        a:visited {
             color: $accent;
             text-decoration: none;
         }
@@ -471,7 +671,6 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
 }
 
 // bin examples
-
 .examples {
     display: table;
     width: 100%;
@@ -496,7 +695,6 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
 }
 
 // other classes
-
 .logo {
     $margin: 20px;
     float: right;
@@ -507,11 +705,11 @@ td.vvm-diffi, td.vvm-platf, td.vvm-curl, td.vvm-wal {
 }
 
 .bin-name {
-	display: inline-block;
+    display: inline-block;
     font-family: $font;
     font-size: 1.2rem;
-	margin-top: 3px;
-	margin-bottom: 3px;
+    margin-top: 3px;
+    margin-bottom: 3px;
 }
 
 .function-name {

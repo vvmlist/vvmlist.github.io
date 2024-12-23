@@ -15,15 +15,15 @@ functions:
     -
   htbvip:
     -
-  cve:
-    -
-  revsh:
-    -
-  credz:
-    -
-  sudo:
-    -
   ssti:
+    -
+  rce:
+    -
+  ci:
+    -
+  creds:
+    -
+  logical:
     -
 
 wals:

@@ -1,3 +1,21 @@
+### vvmlist big update, v3 @ 24.12.2024
+##vvm count: 1232
+#
+-current 254 vvm removed completely, analyzed 1232 vvm walkthoughs and individually added them
+-pwk platform removed, vulnlab platform added
+-tag revamp: old tags reworked and new tags added
+-tag list simplified, low rating tags hidden by css
+-fixed macos not rendering site correctly
+-other small fixes
+#
+##
+###
+# todo #
+-add offsec pg
+-add vulnyx
+
+##################################################################################################
+
 # vvmlist pool update - 29.08.2021 #
 ##vvm count: 254
 		> vvmlist now has over 250 vulnerable machines

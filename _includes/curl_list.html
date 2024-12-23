@@ -3,6 +3,6 @@
     {% assign curl_id = curl_pair[0] %}
     {% assign curl = curl_pair[1] %}
     {% unless include.bin.curls[curl_id] %}{% continue %}{% endunless %}
-    <li>{{ curl.label }}</li>
+    <li>{{ curl.label }}</li><br>
     {% endfor %}
 </ul>

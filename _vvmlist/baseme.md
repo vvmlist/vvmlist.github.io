@@ -15,7 +15,9 @@ functions:
     -
   hackmyvm:
     -
-  hash:
+  decode:
+    -
+  fuzz:
     -
   sudo:
     -

@@ -15,11 +15,11 @@ functions:
     -
   hackmyvm:
     -
-  stego:
+  steg:
     -
   sudo:
     -
-  ssh:
+  bf:
     -
 
 wals:

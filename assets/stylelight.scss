@@ -27,7 +27,190 @@ $accent: #000000;
 #bin-search-filters > li:nth-child(8),
 #bin-search-filters > li:nth-child(9),
 #bin-search-filters > li:nth-child(10),
-#bin-search-filters > li:nth-child(11) {
+#bin-search-filters > li:nth-child(11),
+// vuln list display none
+#bin-search-filters > li:nth-child(13),
+#bin-search-filters > li:nth-child(14),
+#bin-search-filters > li:nth-child(16),
+#bin-search-filters > li:nth-child(17),
+#bin-search-filters > li:nth-child(18),
+#bin-search-filters > li:nth-child(19),
+#bin-search-filters > li:nth-child(20),
+#bin-search-filters > li:nth-child(21),
+#bin-search-filters > li:nth-child(22),
+#bin-search-filters > li:nth-child(23),
+#bin-search-filters > li:nth-child(25),
+#bin-search-filters > li:nth-child(27),
+#bin-search-filters > li:nth-child(28),
+#bin-search-filters > li:nth-child(29),
+#bin-search-filters > li:nth-child(30),
+#bin-search-filters > li:nth-child(31),
+#bin-search-filters > li:nth-child(33),
+#bin-search-filters > li:nth-child(34),
+#bin-search-filters > li:nth-child(35),
+#bin-search-filters > li:nth-child(37),
+#bin-search-filters > li:nth-child(38),
+#bin-search-filters > li:nth-child(40),
+#bin-search-filters > li:nth-child(41),
+#bin-search-filters > li:nth-child(42),
+#bin-search-filters > li:nth-child(47),
+#bin-search-filters > li:nth-child(48),
+#bin-search-filters > li:nth-child(50),
+#bin-search-filters > li:nth-child(52),
+#bin-search-filters > li:nth-child(54),
+#bin-search-filters > li:nth-child(55),
+#bin-search-filters > li:nth-child(57),
+#bin-search-filters > li:nth-child(60),
+#bin-search-filters > li:nth-child(62),
+#bin-search-filters > li:nth-child(63),
+#bin-search-filters > li:nth-child(65),
+#bin-search-filters > li:nth-child(68),
+#bin-search-filters > li:nth-child(70),
+#bin-search-filters > li:nth-child(71),
+#bin-search-filters > li:nth-child(72),
+#bin-search-filters > li:nth-child(73),
+#bin-search-filters > li:nth-child(74),
+#bin-search-filters > li:nth-child(75),
+#bin-search-filters > li:nth-child(76),
+#bin-search-filters > li:nth-child(77),
+#bin-search-filters > li:nth-child(78),
+#bin-search-filters > li:nth-child(79),
+#bin-search-filters > li:nth-child(80),
+#bin-search-filters > li:nth-child(81),
+#bin-search-filters > li:nth-child(83),
+#bin-search-filters > li:nth-child(84),
+#bin-search-filters > li:nth-child(85),
+#bin-search-filters > li:nth-child(86),
+#bin-search-filters > li:nth-child(87),
+#bin-search-filters > li:nth-child(88),
+#bin-search-filters > li:nth-child(90),
+#bin-search-filters > li:nth-child(92),
+#bin-search-filters > li:nth-child(93),
+#bin-search-filters > li:nth-child(95),
+#bin-search-filters > li:nth-child(96),
+#bin-search-filters > li:nth-child(97),
+#bin-search-filters > li:nth-child(98),
+#bin-search-filters > li:nth-child(99),
+#bin-search-filters > li:nth-child(101),
+#bin-search-filters > li:nth-child(103),
+#bin-search-filters > li:nth-child(104),
+#bin-search-filters > li:nth-child(105),
+#bin-search-filters > li:nth-child(106),
+#bin-search-filters > li:nth-child(107),
+#bin-search-filters > li:nth-child(108),
+#bin-search-filters > li:nth-child(109),
+#bin-search-filters > li:nth-child(111),
+#bin-search-filters > li:nth-child(112),
+#bin-search-filters > li:nth-child(113),
+#bin-search-filters > li:nth-child(114),
+#bin-search-filters > li:nth-child(115),
+#bin-search-filters > li:nth-child(117),
+#bin-search-filters > li:nth-child(119),
+#bin-search-filters > li:nth-child(121),
+#bin-search-filters > li:nth-child(122),
+#bin-search-filters > li:nth-child(123),
+#bin-search-filters > li:nth-child(124),
+#bin-search-filters > li:nth-child(125),
+#bin-search-filters > li:nth-child(126),
+#bin-search-filters > li:nth-child(127),
+#bin-search-filters > li:nth-child(130),
+#bin-search-filters > li:nth-child(132),
+#bin-search-filters > li:nth-child(134),
+#bin-search-filters > li:nth-child(135),
+#bin-search-filters > li:nth-child(136),
+#bin-search-filters > li:nth-child(137),
+#bin-search-filters > li:nth-child(138),
+#bin-search-filters > li:nth-child(139),
+#bin-search-filters > li:nth-child(141),
+#bin-search-filters > li:nth-child(142),
+#bin-search-filters > li:nth-child(143),
+#bin-search-filters > li:nth-child(144),
+#bin-search-filters > li:nth-child(145),
+#bin-search-filters > li:nth-child(147),
+#bin-search-filters > li:nth-child(149),
+#bin-search-filters > li:nth-child(150),
+#bin-search-filters > li:nth-child(152),
+#bin-search-filters > li:nth-child(153),
+#bin-search-filters > li:nth-child(154),
+#bin-search-filters > li:nth-child(155),
+#bin-search-filters > li:nth-child(156),
+#bin-search-filters > li:nth-child(157),
+#bin-search-filters > li:nth-child(160),
+#bin-search-filters > li:nth-child(161),
+#bin-search-filters > li:nth-child(162),
+#bin-search-filters > li:nth-child(163),
+#bin-search-filters > li:nth-child(165),
+#bin-search-filters > li:nth-child(166),
+#bin-search-filters > li:nth-child(167),
+#bin-search-filters > li:nth-child(169),
+#bin-search-filters > li:nth-child(170),
+#bin-search-filters > li:nth-child(171),
+#bin-search-filters > li:nth-child(173),
+#bin-search-filters > li:nth-child(175),
+#bin-search-filters > li:nth-child(176),
+#bin-search-filters > li:nth-child(177),
+#bin-search-filters > li:nth-child(178),
+#bin-search-filters > li:nth-child(179),
+#bin-search-filters > li:nth-child(183),
+#bin-search-filters > li:nth-child(184),
+#bin-search-filters > li:nth-child(185),
+#bin-search-filters > li:nth-child(186),
+#bin-search-filters > li:nth-child(189),
+#bin-search-filters > li:nth-child(190),
+#bin-search-filters > li:nth-child(191),
+#bin-search-filters > li:nth-child(192),
+#bin-search-filters > li:nth-child(193),
+#bin-search-filters > li:nth-child(194),
+#bin-search-filters > li:nth-child(195),
+#bin-search-filters > li:nth-child(196),
+#bin-search-filters > li:nth-child(197),
+#bin-search-filters > li:nth-child(199),
+#bin-search-filters > li:nth-child(200),
+#bin-search-filters > li:nth-child(201),
+#bin-search-filters > li:nth-child(202),
+#bin-search-filters > li:nth-child(203),
+#bin-search-filters > li:nth-child(204),
+#bin-search-filters > li:nth-child(207),
+#bin-search-filters > li:nth-child(209),
+#bin-search-filters > li:nth-child(212),
+#bin-search-filters > li:nth-child(213),
+#bin-search-filters > li:nth-child(218),
+#bin-search-filters > li:nth-child(221),
+#bin-search-filters > li:nth-child(222),
+#bin-search-filters > li:nth-child(223),
+#bin-search-filters > li:nth-child(224),
+#bin-search-filters > li:nth-child(226),
+#bin-search-filters > li:nth-child(227),
+#bin-search-filters > li:nth-child(228),
+#bin-search-filters > li:nth-child(229),
+#bin-search-filters > li:nth-child(230),
+#bin-search-filters > li:nth-child(231),
+#bin-search-filters > li:nth-child(232),
+#bin-search-filters > li:nth-child(233),
+#bin-search-filters > li:nth-child(234),
+#bin-search-filters > li:nth-child(235),
+#bin-search-filters > li:nth-child(237),
+#bin-search-filters > li:nth-child(238),
+#bin-search-filters > li:nth-child(239),
+#bin-search-filters > li:nth-child(240),
+#bin-search-filters > li:nth-child(242),
+#bin-search-filters > li:nth-child(243),
+#bin-search-filters > li:nth-child(245),
+#bin-search-filters > li:nth-child(246),
+#bin-search-filters > li:nth-child(247),
+#bin-search-filters > li:nth-child(248),
+#bin-search-filters > li:nth-child(249),
+#bin-search-filters > li:nth-child(250),
+#bin-search-filters > li:nth-child(251),
+#bin-search-filters > li:nth-child(252),
+#bin-search-filters > li:nth-child(253),
+#bin-search-filters > li:nth-child(256),
+#bin-search-filters > li:nth-child(257),
+#bin-search-filters > li:nth-child(36),
+#bin-search-filters > li:nth-child(94),
+#bin-search-filters > li:nth-child(133)
+
+	{
 	display: none;
 	}
 
@@ -63,8 +246,8 @@ $accent: #000000;
 
 //css mode switch
 .toggled {
+    width: 104px;
 	position: relative;
-    float: left;
 	top: -58px;
 	left: 892.667px;
 	border: none;
@@ -125,7 +308,10 @@ padding-right: 10px;
 }
 
 .cinfo {
-    float: right;
+    position: relative;
+    float: left;
+    left: 782.033px;
+    border: none;
 }
 
 
@@ -251,18 +437,29 @@ h2, h3, h4, h5, h5 {
 
     #bin-search-filters {
         text-align: center;
-		
+
         a {
             background: $lighter;
             font-size: initial;
             border-radius: 0.25em;
 
-            &:before {
-                display: none;
+            &:hover:before {
+                content: attr(data-title);
+    		position: absolute;
+
+    		top: -50px;  /* Move the tooltip above the element */
+   		left: 50%;  /* Position it in the middle horizontally */
+    		transform: translateX(-50%); /* Center it horizontally by adjusting its width */
+  
+    		display: inline-block;
+    		padding: 0.25em 0.5em;
+    		margin: 0.2em 0;
+    		border: 1px solid $purpie;
+    		border-radius: 0.25em;
+    		background-color: #928d81;
+    		color: $purpie;
+
             }
-			&:hover {
-				background-color: $marked;
-				}
         }
     }
 

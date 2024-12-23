@@ -1,0 +1,40 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnhub:
+    -
+curls:
+  credit card scammers:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnhub:
+    -
+  xss:
+    -
+  coot:
+    -
+  fuzz:
+    -
+  sql:
+    -
+  rce:
+    -
+  creds:
+    -
+  hc:
+    -
+  suid:
+    -
+  pathj:
+    -
+
+wals:
+  credit card scammerswu:
+    -
+---

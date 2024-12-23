@@ -15,15 +15,19 @@ functions:
     -
   vulnhub:
     -
+  al:
+    -
   ftp:
     -
-  stego:
+  steg:
     -
-  source:
+  fuzz:
+    -
+  creds:
+    -
+  bf:
     -
   ssh:
-    -
-  brute:
     -
   sudo:
     -

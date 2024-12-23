@@ -15,15 +15,17 @@ functions:
     -
   hackmyvm:
     -
-  revsh:
+  fuzz:
     -
-  source:
+  ep:
+    -
+  rce:
+    -
+  creds:
     -
   sudo:
     -
-  pathj:
-    -
-  kernelb:
+  libj:
     -
 
 wals:

@@ -17,9 +17,15 @@ functions:
     -
   cve:
     -
-  credz:
+  sqli:
     -
-  brute:
+  sql:
+    -
+  hc:
+    -
+  rce:
+    -
+  bf:
     -
 
 wals:

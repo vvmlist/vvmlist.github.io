@@ -1,0 +1,40 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnhub:
+    -
+curls:
+  cengbox:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnhub:
+    -
+  fuzz:
+    -
+  sqli:
+    -
+  sql:
+    -
+  creds:
+    -
+  ep:
+    -
+  rce:
+    -
+  cron:
+    -
+  pspy:
+    -
+  rwp:
+    -
+
+wals:
+  cengboxwu:
+    -
+---

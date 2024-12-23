@@ -1,7 +1,4 @@
 ---
-wals:
-  driftingblues:
-    -
 diffis:
   e:
     -
@@ -18,17 +15,22 @@ functions:
     -
   vulnhub:
     -
-  source:
+  fuzz:
     -
-  hash:
+  decode:
     -
-  brute:
+  creds:
     -
-  ssh:
+  bf:
     -
-  suid:
+  pspy:
     -
-  cronj:
+  cron:
+    -
+  rwp:
     -
 
+wals:
+  driftingblueswu:
+    -
 ---

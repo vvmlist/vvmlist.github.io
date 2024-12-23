@@ -15,15 +15,19 @@ functions:
     -
   hackmyvm:
     -
-  burp:
+  fuzz:
     -
-  source:
+  bf:
     -
-  brute:
-    -
-  revsh:
+  ci:
     -
   sudo:
+    -
+  hc:
+    -
+  suid:
+    -
+  rev:
     -
   pathj:
     -

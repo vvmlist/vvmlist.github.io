@@ -1,31 +1,35 @@
 ---
 diffis:
-  e:
+  m:
     -
 platfs:
   vulnhub:
     -
 curls:
-  systemfailure:
+  system failure:
     -
 functions:
   unix:
     -
-  e:
+  m:
     -
   vulnhub:
     -
+  al:
+    -
   smb:
+    -
+  creds:
+    -
+  hc:
     -
   ftp:
     -
-  hash:
+  decode:
     -
-  brute:
+  fuzz:
     -
-  credz:
-    -
-  ssh:
+  bf:
     -
   sudo:
     -
@@ -33,6 +37,6 @@ functions:
     -
 
 wals:
-  systemfailurewu:
+  system failurewu:
     -
 ---

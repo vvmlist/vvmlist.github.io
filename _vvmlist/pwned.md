@@ -8,6 +8,8 @@ platfs:
 curls:
   pwned:
     -
+  pwnedvu:
+    -
 functions:
   unix:
     -
@@ -15,13 +17,15 @@ functions:
     -
   hackmyvm:
     -
-  source:
+  fuzz:
+    -
+  creds:
     -
   ftp:
     -
-  ssh:
+  sudo:
     -
-  suid:
+  groups:
     -
   docker:
     -

@@ -1,18 +1,16 @@
 --- 
-unix: 
+unix:
   label: unix
-win: 
+win:
   label: win
-htbvip: 
+htbvip:
   label: htb vip
-vulnhub: 
+vulnhub:
   label: vulnhub
-pwklabs: 
-  label: pwk labs
-hackmyvm: 
+hackmyvm:
   label: hackmyvm
-na: 
-  label: "n/a"
+vulnlab:
+  label: vulnlab
 e: 
   label: easy
 m: 
@@ -21,147 +19,744 @@ h:
   label: hard
 i: 
   label: insane
-acd:
+ato:
+  label: account takeover
+  description: 
+ad:
   label: active directory
-asrep: 
+  description:
+adrb:
+  label: ad recycle bin
+  description:
+adb:
+  label: adb
+  description:
+adcs:
+  label: adcs
+  description: active directory certificate services vulnerabilities
+bhaaa:
+  label: addallowedtoact
+  description:
+bhakc:
+  label: addkeycredentiallink
+  description:
+bhas:
+  label: addself
+  description:
+ads:
+  label: alternative data stream
+  description:
+aj:
+  label: agent hijacking
+  description:
+bhaie:
+  label: alwaysinstallelevated
+  description:
+amsi:
+  label: amsi bypass
+  description:
+gogal:
+  label: android
+  description:
+al:
+  label: anonymous login
+  description: no need for credentials when enumerating/logging in services
+ans:
+  label: ansible
+  description:
+api:
+  label: api
+  description: enumerating/tampering api
+apk:
+  label: apk
+  description:
+apparmor:
+  label: apparmor
+  description:
+aoi:
+  label: arbitrary object instantiation
+  description:
+aei:
+  label: arithmetic expression injection
+  description:
+asp:
+  label: arp spoofing
+  description:
+asrep:
   label: as-rep
-arce: 
-  label: authenticated rce
-blood: 
-  label: bloodhound analysis
-brute: 
-  label: bruteforce/decrypt/decode
-bof: 
+  description: machine has an as-rep roast step
+ab:
+  label: auth bypass
+  description:
+authb:
+  label: authentication bypass
+  description:
+auto:
+  label: autologon
+  description:
+aws:
+  label: aws
+  description:
+aze:
+  label: azure storage explorer
+  description:
+bgpj:
+  label: bgp hijack
+  description:
+be:
+  label: binary exploit
+  description: machine has a binary exploitation step
+bj:
+  label: binary hijack
+  description:
+bit:
+  label: bit flip
+  description:
+bou:
+  label: bounce
+  description:
+bf:
+  label: brute force
+  description: anything related to brute force goes here
+bof:
   label: buffer overflow
-burp: 
-  label: burp
-capa: 
+  description: machine has a buffer overflow exploitation step
+cap:
   label: capabilities
-cewl: 
-  label: cewl
-cronj: 
-  label: cron/scheduled tasks
-cve: 
+  description: unix capabilities for privilege escalation
+pcap:
+  label: capture analysis
+  description: analysis of given or individually sniffed content
+chm:
+  label: chm
+  description:
+clm:
+  label: clm bypass
+  description:
+ci:
+  label: command injection
+  description: anything related to command injection goes here
+cd:
+  label: constrained delegation
+  description:
+bre:
+  label: container breakout
+  description: machine has a step where you are in container and need to exit from it
+cj:
+  label: cookie injection
+  description:
+coot:
+  label: cookie theft
+  description: cookie theft by leveraging another vulnerability
+cors:
+  label: cors
+  description:
+cprf:
+  label: cprf
+  description:
+creds:
+  label: credentials
+  description: credentials found in files, command output, after enumerating db, etc.
+crlfj:
+  label: crlf injection
+  description:
+cron:
+  label: scheduled tasks
+  description: machine has a cron or task scheduler step to escalate privileges by abusing them
+csrf:
+  label: csrf
+  description: cross-site request forgery vulnerability
+csti:
+  label: csti
+  description:
+cve:
   label: cve
-dcs: 
+  description: machine has at least one public exploit
+cyj:
+  label: cypher injection
+  description:
+dr:
+  label: data recover
+  description:
+dcsync:
   label: dcsync
-cred: 
+  description: active directory dcsync attack
+debugfs:
+  label: debugfs
+  description:
+decode:
+  label: decode
+  description: anything related to decode, deobfuscate, decrypt and else goes here
+dcr:
   label: default creds
-deser: 
+  description: default credentials used when enumerating/logging in services
+dele:
+  label: delegation
+  description:
+deser:
   label: deserialization
-dirtra: 
-  label: directory traversal
-dns: 
-  label: dns
-docker: 
+  description: insecure deserialization vulnerability
+dllj:
+  label: dll hijack
+  description:
+dnspf:
+  label: dns spoofing
+  description:
+dnsadm:
+  label: dnsadmins
+  description:
+docker:
   label: docker
-finger: 
+  description:
+dpapi:
+  label: dpapi
+  description:
+daly:
+  label: dump analysis
+  description:
+efs:
+  label: efs
+  description:
+encfs:
+  label: encfs
+  description:
+erl:
+  label: erlang
+  description:
+esi:
+  label: esi
+  description:
+ecom:
+  label: executedcom
+  description:
+ear:
+  label: execution after redirect
+  description:
+ep:
+  label: extension bypass
+  description: exploiting an upload form by changing file's extension
+fgc:
+  label: file_get_contents
+  description:
+fv:
+  label: filename vulnerability
+  description:
+fj:
+  label: filter injection
+  description:
+finger:
   label: finger
-ftp: 
+  description:
+flcoo:
+  label: flask cookie
+  description:
+bhfcp:
+  label: forcechangepassword
+  description:
+ftp:
   label: ftp
-git: 
+  description: machine has a step that goes through ftp enumeration, put or get
+fuse:
+  label: fuse
+  description:
+fuzz:
+  label: fuzzing
+  description: fuzzing for directories, subdomains, vhosts, etc.
+bhga:
+  label: genericall
+  description:
+bhgw:
+  label: genericwrite
+  description:
+git:
   label: git
-hash: 
-  label: hash/encrypted/encoded
-hidden: 
-  label: hidden file
-krbro: 
-  label: kerberoasting
-kernel: 
+  description:
+glusterfs:
+  label: glusterfs
+  description:
+gmsa:
+  label: gmsa
+  description:
+gold:
+  label: golden ticket
+  description:
+gpo:
+  label: gpo
+  description:
+gpp:
+  label: gpp
+  description:
+groups:
+  label: groups
+  description: machine has a step where current user group can be used for privilege escalation
+grpc:
+  label: grpc
+  description:
+hc:
+  label: hash crack
+  description: anything related to hash cracking goes here
+hle:
+  label: hash length extension
+  description:
+hb:
+  label: header bypass
+  description:
+hj:
+  label: header injection
+  description:
+hfm:
+  label: hidden field manipulation
+  description:
+hqli:
+  label: hql injection
+  description:
+hta:
+  label: hta
+  description:
+htj:
+  label: html injection
+  description:
+idor:
+  label: idor
+  description: insecure direct object references vulnerability
+ipmi:
+  label: ipmi
+  description:
+iscsi:
+  label: iscsi
+  description:
+jarm:
+  label: jarm
+  description:
+javaj:
+  label: javascript injection
+  description:
+jdwp:
+  label: jdwp
+  description:
+jwt:
+  label: jwt
+  description: machine has a step that goes through json web token
+keepass:
+  label: keepass
+  description:
+krb:
+  label: kerberoast
+  description: active directory kerberoasting attack
+krbr:
+  label: kerberos relay
+  description:
+kern:
   label: kernel exploit
-ldap: 
-  label: ldap
-libhj: 
+  description: machine has a step where kernel exploit used for privilege escalation
+kernmod:
+  label: kernel module
+  description:
+rengin:
+  label: keylogger
+  description:
+kube:
+  label: kubernetes
+  description:
+laps:
+  label: laps
+  description:
+latj:
+  label: latex injection
+  description:
+ldaphj:
+  label: ldap hijacking
+  description:
+ldapj:
+  label: ldap injection
+  description:
+lfi:
+  label: lfi
+  description: local file inclusion vulnerability
+libj:
   label: library hijack
-lfi: 
-  label: local file inclusion
-logpoi: 
+  description: machine has a step where abusing library (.so & .dll) files for privilege escalation
+logly:
+  label: log analysis
+  description:
+logpoi:
   label: log poisoning
-lxcd: 
-  label: lxd/lxc
-mimik: 
-  label: mimikatz
-mount: 
-  label: mount
-nfs: 
+  description: rce can be achieved by poisoning logs
+log4j:
+  label: log4j
+  description:
+logical:
+  label: logical
+  description:
+lsass:
+  label: lsass
+  description:
+luaj:
+  label: lua injection
+  description:
+lxd:
+  label: lxd
+  description:
+mbck:
+  label: machine backup
+  description:
+magcoo:
+  label: magic cookie
+  description:
+magsh:
+  label: magic script
+  description:
+maldll:
+  label: malicious library
+  description: machine has a step where utilizing malicious library (.so & .dll) files for privilege escalation
+mass:
+  label: mass assignment
+  description:
+memc:
+  label: memcached
+  description:
+mfor:
+  label: memory forensics
+  description:
+minio:
+  label: minio
+  description:
+mof:
+  label: managed object format
+  description:
+nfs:
   label: nfs
-nosqli: 
-  label: nosqli
-capdum: 
-  label: packet or dump inspection
-pathj: 
+  description: machine has a step that goes through nfs mount, enumeration or even squash privilege escalation
+nntp:
+  label: nntp
+  description:
+nosqli:
+  label: nosql injection
+  description: nosql injection vulnerability
+ntds:
+  label: ntds
+  description:
+ntlmrel:
+  label: ntlm relay
+  description:
+ntlmt:
+  label: ntlm theft
+  description: utilizing something to capture ntlm hash
+oauth:
+  label: oauth
+  description:
+obs:
+  label: off-by-slash
+  description:
+orm:
+  label: orm injection
+  description:
+osint:
+  label: osint
+  description:
+pado:
+  label: padding oracle
+  description:
+passre:
+  label: password reuse
+  description:
+pathj:
   label: path hijack
-pivot: 
+  description: unix path variable abuse for privilege escalation
+pathtr:
+  label: path traversal
+  description: path traversal vulnerability
+patht:
+  label: path truncation
+  description:
+petit:
+  label: petitpotam
+  description:
+pgp:
+  label: pgp
+  description:
+phar:
+  label: phar
+  description:
+phish:
+  label: phishing
+  description: anything related to phishing goes here
+phpj:
+  label: php injection
+  description:
+phpmod:
+  label: php module
+  description:
+pivot:
   label: pivot
-portkn: 
+  description:
+knock:
   label: port knock
-powsh: 
-  label: powershell
-proxy: 
+  description: knocking given ports to achieve another port open
+pretk:
+  label: pre-windows2000
+  description:
+night:
+  label: printnightmare
+  description:
+prng:
+  label: prng
+  description:
+pspy:
+  label: process snooping
+  description: analyzing running processes
+pp:
+  label: prototype pollution
+  description:
+proxy:
   label: proxy
-rbash: 
-  label: rbash/restricted shell
-rce: 
+  description: machine has a proxy step
+pve:
+  label: proxmox ve
+  description:
+uaf:
+  label: python uaf
+  description:
+raptor:
+  label: raptor
+  description:
+rat:
+  label: rat
+  description:
+rlb:
+  label: rate limit bypass
+  description:
+rbash:
+  label: restricted shell
+  description: machine has a restricted shell part, rbash or constrainedlanguage
+rbcd:
+  label: rbcd
+  description: resource-based constrained delegation vulnerability
+rce:
   label: rce
-rdp: 
-  label: remote desktop
-rfi: 
-  label: remote file inclusion
-revsh: 
-  label: reverse shell
-rpc: 
-  label: rpc
-sam: 
-  label: sam-system-security dump
-setenv: 
-  label: setenv
-smb: 
+  description: anything related to remote code execution goes here
+redis:
+  label: redis
+  description:
+reg:
+  label: registry
+  description:
+reqs:
+  label: request smuggling
+  description:
+resp:
+  label: responder
+  description:
+rev:
+  label: reversing
+  description: machine has a reverse engineering step for privilege escalation
+rfi:
+  label: rfi
+  description: remote file inclusion
+rmi:
+  label: rmi
+  description:
+rsa:
+  label: rsa
+  description:
+rsync:
+  label: rsync
+  description:
+runas:
+  label: runas
+  description:
+s3:
+  label: s3
+  description:
+s4u:
+  label: s4u2self
+  description:
+tsb:
+  label: sebackup
+  description:
+tsd:
+  label: sedebug
+  description:
+ted:
+  label: seenabledelegation
+  description:
+tsi:
+  label: seimpersonate
+  description: machine has a seimpersonateprivilege privilege escalation step
+tsl:
+  label: seloaddriver
+  description:
+ss:
+  label: session stealing
+  description:
+sgid:
+  label: sgid
+  description:
+bhsc:
+  label: shadow credentials
+  description:
+sc:
+  label: side-channel
+  description:
+silver:
+  label: silver ticket
+  description:
+smb:
   label: smb
-mail: 
-  label: smtp/pop/imap
-snmp: 
+  description: machine has a step that goes through smb enumeration, put or get
+sniff:
+  label: sniffing
+  description: collecting data streams from current network
+snmp:
   label: snmp
-source: 
-  label: source code inspection
-sql: 
-  label: sql
-sqli: 
+  description:
+source:
+  label: source code analysis
+  description: analyzing given source codes for moving forward
+elj:
+  label: el injection
+  description:
+sql:
+  label: database
+  description: using any kind of database for moving forward
+sqli:
   label: sql injection
-ssh: 
+  description: sql injection vulnerability
+sqlt:
+  label: sql truncation
+  description:
+squash:
+  label: squash
+  description:
+ssh:
   label: ssh
-ssht: 
-  label: ssh tunnel
-ssl: 
-  label: ssl
-ssti: 
+  description: anything related to ssh goes here
+ssrf:
+  label: ssrf
+  description: server-side request forgery vulnerability
+ssti:
   label: ssti
-stego: 
-  label: stego
-credz: 
-  label: stored creds
-sudo: 
+  description: server-side template injection vulnerability
+steg:
+  label: steganography
+  description: machine has a steganography step
+strcmp:
+  label: strcmp
+  description:
+sudo:
   label: sudo
-suid: 
+  description: machine has sudo/doas privilege escalation step
+suid:
   label: suid
-kernelb: 
-  label: system binary exploit
-sys: 
-  label: system/config/backup file
-telnet: 
+  description: machine has suid files for privilege escalation
+sym:
+  label: symlink
+  description:
+tabb:
+  label: tabnabbing
+  description:
+telnet:
   label: telnet
-tftp: 
-  label: tftp
-group: 
-  label: user groups
-webdav: 
+  description:
+tty:
+  label: tty pushback
+  description:
+tunnel:
+  label: tunnel
+  description: tunneling for seeing machine's local ports from outside
+typec:
+  label: type confusion
+  description:
+typej:
+  label: type juggling
+  description:
+uacss:
+  label: uac bypass
+  description:
+unde:
+  label: unconstrained delegation
+  description:
+ufa:
+  label: url file attack
+  description:
+urln:
+  label: url normalization
+  description:
+viewstate:
+  label: viewstate
+  description:
+voip:
+  label: voip
+  description:
+vpn:
+  label: vpn
+  description:
+vss:
+  label: vss
+  description:
+waf:
+  label: waf bypass
+  description: web application firewall bypass vulnerability
+web3:
+  label: web3
+  description:
+webdav:
   label: webdav
-winrm: 
-  label: winrm 
-wp: 
+  description:
+websocket:
+  label: websocket
+  description:
+wer:
+  label: windows error reporting
+  description:
+wildcard:
+  label: wildcard
+  description: machine has a wildcard privilege escalation step
+wifi:
+  label: wireless
+  description:
+wp:
   label: wordpress
-xml: 
-  label: xml
-xss: 
+  description:
+rwp:
+  label: writable path
+  description: machine has a writable path for moving forward
+bhwd:
+  label: writedacl
+  description:
+bhwo:
+  label: writeowner
+  description:
+wsl:
+  label: wsl
+  description:
+wsus:
+  label: wsus
+  description:
+x11:
+  label: x11
+  description:
+xdebug:
+  label: xdebug
+  description:
+xpc:
+  label: xp_cmdshell
+  description:
+xpaj:
+  label: xpath injection
+  description:
+xslt:
+  label: xslt injection
+  description:
+xss:
   label: xss
-xxe: 
+  description: cross site scripting vulnerability
+xxe:
   label: xxe
+  description: xml external entity injection
+zz:
+  label: zip slip
+  description:
+wack:
+  label: wacky
+  description:
