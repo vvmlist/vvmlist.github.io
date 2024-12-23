@@ -8,7 +8,7 @@ platfs:
 curls:
   driftingblues7:
     -
-  driftingblues7vh:
+  driftingblues7hmv:
     -
 functions:
   unix:
@@ -17,13 +17,15 @@ functions:
     -
   vulnhub:
     -
-  hash:
+  fuzz:
     -
-  brute:
+  hc:
     -
-  credz:
+  creds:
     -
   cve:
+    -
+  rce:
     -
 
 wals:

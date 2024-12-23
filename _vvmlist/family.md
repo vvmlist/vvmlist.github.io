@@ -15,17 +15,19 @@ functions:
     -
   hackmyvm:
     -
+  fuzz:
+    -
   wp:
     -
-  source:
+  bf:
     -
-  brute:
+  creds:
     -
-  revsh:
+  cron:
     -
-  credz:
+  pspy:
     -
-  cronj:
+  libj:
     -
   sudo:
     -

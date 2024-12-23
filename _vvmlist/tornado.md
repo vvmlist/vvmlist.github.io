@@ -1,6 +1,6 @@
 ---
 diffis:
-  e:
+  m:
     -
 platfs:
   hackmyvm:
@@ -11,17 +11,21 @@ curls:
 functions:
   unix:
     -
-  e:
+  m:
     -
   hackmyvm:
     -
-  lfi:
+  fuzz:
+    -
+  bf:
+    -
+  sqlt:
     -
   rce:
     -
-  revsh:
-    -
   sudo:
+    -
+  decode:
     -
 
 wals:

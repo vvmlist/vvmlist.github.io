@@ -1,7 +1,4 @@
 ---
-wals:
-  driftingblues2:
-    -
 diffis:
   e:
     -
@@ -18,15 +15,20 @@ functions:
     -
   vulnhub:
     -
+  fuzz:
+    -
   wp:
     -
-  brute:
+  rce:
     -
-  revsh:
+  bf:
     -
   ssh:
     -
   sudo:
     -
 
+wals:
+  driftingblues2wu:
+    -
 ---

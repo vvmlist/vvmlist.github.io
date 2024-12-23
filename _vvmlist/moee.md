@@ -1,160 +1,42 @@
 ---
-wals:
-  "moee 1":
-    -
 diffis:
-  e:
+  h:
     -
 platfs:
   vulnhub:
     -
 curls:
-  "moee 1":
+  moee:
     -
 functions:
   unix:
     -
-  e:
+  h:
     -
   vulnhub:
     -
   wp:
     -
-  brute:
+  bf:
     -
   cve:
     -
-  revsh:
+  rce:
     -
-  credz:
-    -
-  sys:
+  creds:
     -
   sql:
     -
-  hash:
+  cron:
     -
-  ssh:
+  pspy:
     -
-  cronj:
+  rwp:
     -
-  bof:
-    -
-  suid:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
+  be:
     -
 
+wals:
+  moeewu:
+    -
 ---

@@ -6,7 +6,7 @@ platfs:
   vulnhub:
     -
 curls:
-  sunsettwilight:
+  sunset twilight:
     -
 functions:
   unix:
@@ -15,16 +15,16 @@ functions:
     -
   vulnhub:
     -
-  lfi:
+  fuzz:
     -
-  cve:
+  ep:
     -
-  revsh:
+  rce:
     -
-  kernelb:
+  rwp:
     -
 
 wals:
-  sunsettwilightwu:
+  sunset twilightwu:
     -
 ---

@@ -8,7 +8,7 @@ platfs:
 curls:
   gigachad:
     -
-  gigachadvh:
+  gigachadhmv:
     -
 functions:
   unix:
@@ -17,15 +17,13 @@ functions:
     -
   vulnhub:
     -
+  al:
+    -
   ftp:
     -
-  brute:
-    -
-  ssh:
+  osint:
     -
   cve:
-    -
-  suid:
     -
 
 wals:

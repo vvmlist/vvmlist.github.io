@@ -8,7 +8,7 @@ platfs:
 curls:
   crossroads:
     -
-  crossroadsvh:
+  crossroadshmv:
     -
 functions:
   unix:
@@ -17,13 +17,23 @@ functions:
     -
   vulnhub:
     -
-  brute:
+  fuzz:
     -
-  cronj:
+  bf:
     -
-  stego:
+  smb:
+    -
+  magsh:
+    -
+  rce:
     -
   suid:
+    -
+  rev:
+    -
+  steg:
+    -
+  bf:
     -
 
 wals:

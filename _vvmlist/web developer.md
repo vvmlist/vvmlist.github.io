@@ -1,7 +1,4 @@
 ---
-wals:
-  "web developer 1":
-    -
 diffis:
   e:
     -
@@ -9,7 +6,7 @@ platfs:
   vulnhub:
     -
 curls:
-  "web developer 1":
+  web developer:
     -
 functions:
   unix:
@@ -18,143 +15,22 @@ functions:
     -
   vulnhub:
     -
-  wp:
+  fuzz:
     -
-  capdum:
+  pcap:
+    -
+  creds:
+    -
+  wp:
     -
   cve:
     -
-  sys:
-    -
-  credz:
-    -
-  ssh:
+  rce:
     -
   sudo:
     -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
 
+wals:
+  web developerwu:
+    -
 ---

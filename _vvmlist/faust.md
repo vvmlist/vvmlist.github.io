@@ -17,15 +17,17 @@ functions:
     -
   cve:
     -
-  cronj:
+  rce:
     -
-  revsh:
+  bf:
     -
   sudo:
     -
-  stego:
+  decode:
     -
-  brute:
+  creds:
+    -
+  steg:
     -
 
 wals:

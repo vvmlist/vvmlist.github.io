@@ -15,13 +15,9 @@ functions:
     -
   hackmyvm:
     -
-  tftp:
-    -
-  ssh:
+  logical:
     -
   suid:
-    -
-  pathj:
     -
 
 wals:

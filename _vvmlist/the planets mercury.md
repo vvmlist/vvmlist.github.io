@@ -1,7 +1,4 @@
 ---
-wals:
-  "the planets mercury":
-    -
 diffis:
   e:
     -
@@ -9,7 +6,7 @@ platfs:
   vulnhub:
     -
 curls:
-  "the planets mercury":
+  the planets mercury:
     -
 functions:
   unix:
@@ -18,143 +15,20 @@ functions:
     -
   vulnhub:
     -
+  fuzz:
+    -
   sqli:
     -
-  ssh:
+  sql:
     -
-  hash:
+  creds:
     -
-  brute:
+  decode:
     -
   sudo:
     -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
 
+wals:
+  the planets mercurywu:
+    -
 ---

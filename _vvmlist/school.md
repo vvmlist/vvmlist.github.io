@@ -1,7 +1,4 @@
 ---
-wals:
-  "school 1":
-    -
 diffis:
   e:
     -
@@ -9,7 +6,7 @@ platfs:
   vulnhub:
     -
 curls:
-  "school 1":
+  school:
     -
 functions:
   unix:
@@ -18,143 +15,22 @@ functions:
     -
   vulnhub:
     -
-  credz:
-    -
-  brute:
-    -
-  hash:
-    -
-  sqli:
-    -
-  burp:
-    -
-  source:
-    -
-  revsh:
-    -
-  sys:
+  fuzz:
     -
   sql:
     -
+  creds:
+    -
+  hc:
+    -
+  sqli:
+    -
+  rce:
+    -
   bof:
     -
-  suid:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
 
+wals:
+  schoolwu:
+    -
 ---

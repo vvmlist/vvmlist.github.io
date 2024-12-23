@@ -1,7 +1,4 @@
 ---
-wals:
-  "symfonos 3.1":
-    -
 diffis:
   e:
     -
@@ -9,7 +6,7 @@ platfs:
   vulnhub:
     -
 curls:
-  "symfonos 3.1":
+  symfonos 3.1:
     -
 functions:
   unix:
@@ -18,143 +15,24 @@ functions:
     -
   vulnhub:
     -
+  fuzz:
+    -
   cve:
     -
-  revsh:
+  rce:
     -
-  capdum:
+  sniff:
     -
-  credz:
+  creds:
     -
-  sys:
+  rwp:
     -
-  libhj:
+  cron:
     -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
+  pspy:
     -
 
+wals:
+  symfonos 3.1wu:
+    -
 ---

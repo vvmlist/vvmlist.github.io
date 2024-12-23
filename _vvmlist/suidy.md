@@ -15,13 +15,15 @@ functions:
     -
   hackmyvm:
     -
-  brute:
+  fuzz:
     -
-  credz:
-    -
-  ssh:
+  bf:
     -
   suid:
+    -
+  pspy:
+    -
+  cron:
     -
 
 wals:

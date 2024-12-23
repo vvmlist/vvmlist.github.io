@@ -15,9 +15,7 @@ functions:
     -
   hackmyvm:
     -
-  brute:
-    -
-  ssh:
+  bf:
     -
 
 wals:

@@ -8,7 +8,7 @@ platfs:
 curls:
   grotesque3:
     -
-  grotesque3vh:
+  grotesque3hmv:
     -
 functions:
   unix:
@@ -17,19 +17,7 @@ functions:
     -
   vulnhub:
     -
-  hash:
-    -
-  hidden:
-    -
-  lfi:
-    -
-  ssh:
-    -
-  brute:
-    -
-  smb:
-    -
-  cronj:
+  wack:
     -
 
 wals:

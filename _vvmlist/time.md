@@ -15,11 +15,11 @@ functions:
     -
   htbvip:
     -
-  deser:
+  cve:
     -
-  revsh:
+  rce:
     -
-  kernelb:
+  logical:
     -
 
 wals:

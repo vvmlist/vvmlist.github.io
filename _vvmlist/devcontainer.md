@@ -6,7 +6,7 @@ platfs:
   vulnhub:
     -
 curls:
-  devcontainer1:
+  devcontainer:
     -
 functions:
   unix:
@@ -15,14 +15,22 @@ functions:
     -
   vulnhub:
     -
-  revsh:
+  fuzz:
     -
-  cronj:
+  ep:
+    -
+  rce:
+    -
+  cron:
+    -
+  rwp:
+    -
+  sudo:
     -
   lfi:
     -
 
 wals:
-  devcontainer1wu:
+  devcontainerwu:
     -
 ---

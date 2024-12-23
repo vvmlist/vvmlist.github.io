@@ -8,6 +8,8 @@ platfs:
 curls:
   insomnia:
     -
+  insomniavu:
+    -
 functions:
   unix:
     -
@@ -15,13 +17,15 @@ functions:
     -
   hackmyvm:
     -
-  rce:
+  fuzz:
     -
-  revsh:
+  rce:
     -
   sudo:
     -
-  cronj:
+  rwp:
+    -
+  cron:
     -
 
 wals:

@@ -1,7 +1,4 @@
 ---
-wals:
-  grotesque:
-    -
 diffis:
   m:
     -
@@ -11,7 +8,7 @@ platfs:
 curls:
   grotesque:
     -
-  grotesquevh:
+  grotesquehmv:
     -
 functions:
   unix:
@@ -20,15 +17,10 @@ functions:
     -
   vulnhub:
     -
-  source:
-    -
-  hash:
-    -
-  brute:
-    -
-  revsh:
-    -
-  credz:
+  wack:
     -
 
+wals:
+  grotesquewu:
+    -
 ---

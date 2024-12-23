@@ -15,11 +15,11 @@ functions:
     -
   hackmyvm:
     -
-  source:
+  fuzz:
     -
-  ssh:
+  decode:
     -
-  kernelb:
+  rwp:
     -
 
 wals:

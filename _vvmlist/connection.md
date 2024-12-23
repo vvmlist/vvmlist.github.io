@@ -15,9 +15,9 @@ functions:
     -
   hackmyvm:
     -
-  smb:
+  al:
     -
-  revsh:
+  smb:
     -
   suid:
     -

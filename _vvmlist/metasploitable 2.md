@@ -1,7 +1,4 @@
 ---
-wals:
-  "metasploitable 2":
-    -
 diffis:
   e:
     -
@@ -9,7 +6,7 @@ platfs:
   vulnhub:
     -
 curls:
-  "metasploitable 2":
+  metasploitable 2:
     -
 functions:
   unix:
@@ -18,143 +15,14 @@ functions:
     -
   vulnhub:
     -
-  brute:
-    -
   cve:
+    -
+  kern:
     -
   rce:
     -
-  revsh:
-    -
-  ssh:
-    -
-  brute:
-    -
-  kernel:
-    -
-  kernelb:
-    -
-  cred:
-    -
-  credz:
-    -
-  capdum:
-    -
-  mail:
-    -
-  smb:
-    -
-  telnet:
-    -
-  ftp:
-    -
-  deser:
-    -
-  sql:
-    -
-  rdp:
-    -
-  nfs:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
-  dddd:
-    -
 
+wals:
+  metasploitable 2wu:
+    -
 ---

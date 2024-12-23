@@ -15,16 +15,25 @@ functions:
     -
   htbvip:
     -
+  git:
+    -
+  source:
+    -
   cve:
     -
-  revsh:
+  rce:
     -
-  credz:
+  creds:
+    -
+  sql:
+    -
+  hc:
+    -
+  logical:
     -
   sudo:
     -
-  git:
-    -
+
 wals:
   jewelwu:
     -

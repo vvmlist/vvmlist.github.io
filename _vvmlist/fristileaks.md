@@ -1,0 +1,32 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnhub:
+    -
+curls:
+  fristileaks:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnhub:
+    -
+  ep:
+    -
+  rce:
+    -
+  decode:
+    -
+  creds:
+    -
+  sudo:
+    -
+
+wals:
+  fristileakswu:
+    -
+---

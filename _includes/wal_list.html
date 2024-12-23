@@ -3,6 +3,6 @@
     {% assign wal_id = wal_pair[0] %}
     {% assign wal = wal_pair[1] %}
     {% unless include.bin.wals[wal_id] %}{% continue %}{% endunless %}
-    <li>{{ wal.label }}</li>
+    <li>{{ wal.label }}</li><br>
     {% endfor %}
 </ul>

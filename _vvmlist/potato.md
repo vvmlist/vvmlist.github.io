@@ -15,13 +15,7 @@ functions:
     -
   vulnhub:
     -
-  lfi:
-    -
-  credz:
-    -
-  brute:
-    -
-  ssh:
+  bf:
     -
   sudo:
     -

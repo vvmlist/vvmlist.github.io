@@ -8,7 +8,7 @@ platfs:
 curls:
   grotesque2:
     -
-  grotesque2vh:
+  grotesque2hmv:
     -
 functions:
   unix:
@@ -17,15 +17,7 @@ functions:
     -
   vulnhub:
     -
-  hash:
-    -
-  brute:
-    -
-  credz:
-    -
-  ssh:
-    -
-  cronj:
+  wack:
     -
 
 wals:

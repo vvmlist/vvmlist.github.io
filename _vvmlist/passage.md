@@ -17,20 +17,19 @@ functions:
     -
   cve:
     -
-  burp:
-    -
-  revsh:
-    -
-  credz:
+  ep:
     -
   rce:
     -
-  brute:
+  decode:
     -
-  kernel:
+  hc:
     -
-  source:
+  ssh:
     -
+  be:
+    -
+
 wals:
   passagewu:
     -
