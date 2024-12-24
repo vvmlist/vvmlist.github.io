@@ -46,30 +46,27 @@ for i in {1..30}; do
     fi
 done
 
-echo "" >> "$curl.md"
-echo "wals:" >> "$curl.md"
-echo "  "$curl"wu:" >> "$curl.md"
-echo "    -" >> "$curl.md"
-echo "  "$curl"vi:" >> "$curl.md"
-echo "    -" >> "$curl.md"
-echo "---" >> "$curl.md"
-
-########
-#####
-##
-
 read -p "link: " link
 read -p "nick: " nn
 echo $curl"wu:" >> wals.txt
 echo "  label: <a target=\"_blank\" href=\"$link\">writeup<br>$nn</a>" >> wals.txt
 
+echo "" >> "$curl.md"
+echo "wals:" >> "$curl.md"
+echo "  "$curl"wu:" >> "$curl.md"
+echo "    -" >> "$curl.md"
+
 read -p "link2: " link2
 if [[ "$link2" == "" ]]; then
 	echo "no yt"
+	echo "---" >> "$curl.md"
 else
 	read -p "nick2: " nn2
 	echo $curl"vi:" >> wals.txt
 	echo "  label: <a target=\"_blank\" href=\"$link2\">video<br>$nn2</a>" >> wals.txt
+	echo "  "$curl"vi:" >> "$curl.md"
+	echo "    -" >> "$curl.md"
+	echo "---" >> "$curl.md"
 fi
 
 read -p "machine url: " url
@@ -79,3 +76,7 @@ echo "  label: <a target=\"_blank\" class=\"newicon\" href=\"$url\"><img src=\"a
 #
 ##
 ###
+####
+#####
+######
+#######
