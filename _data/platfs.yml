@@ -7,3 +7,5 @@ hackmyvm:
   label: hackmyvm
 vulnlab:
   label: vulnlab
+vulnyx:
+  label: vulnyx
