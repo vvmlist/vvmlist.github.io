@@ -11,6 +11,8 @@ hackmyvm:
   label: hackmyvm
 vulnlab:
   label: vulnlab
+vulnyx:
+  label: vulnyx
 e: 
   label: easy
 m: 
@@ -19,12 +21,12 @@ h:
   label: hard
 i: 
   label: insane
-ato:
-  label: account takeover
-  description: 
 ad:
   label: active directory
   description:
+ato:
+  label: account takeover
+  description: 
 adrb:
   label: ad recycle bin
   description:
@@ -175,6 +177,9 @@ cve:
 cyj:
   label: cypher injection
   description:
+sql:
+  label: database
+  description: using any kind of database for moving forward
 dr:
   label: data recover
   description:
@@ -616,9 +621,6 @@ source:
 elj:
   label: el injection
   description:
-sql:
-  label: database
-  description: using any kind of database for moving forward
 sqli:
   label: sql injection
   description: sql injection vulnerability
