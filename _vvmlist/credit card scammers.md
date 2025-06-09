@@ -8,6 +8,8 @@ platfs:
 curls:
   credit card scammers:
     -
+  credit card scammersac:
+    -
 functions:
   unix:
     -

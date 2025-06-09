@@ -8,6 +8,8 @@ platfs:
 curls:
   goldeneye:
     -
+  goldeneyeac:
+    -
 functions:
   unix:
     -

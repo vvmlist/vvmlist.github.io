@@ -8,6 +8,8 @@ platfs:
 curls:
   myexpense:
     -
+  myexpenseac:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,8 @@ platfs:
 curls:
   tr0ll 2:
     -
+  tr0ll 2ac:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,8 @@ platfs:
 curls:
   fristileaks:
     -
+  fristileaksac:
+    -
 functions:
   unix:
     -
