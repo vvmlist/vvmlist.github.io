@@ -791,6 +791,10 @@
 ##########
 #hackmyvm#
 ##########
+"azer":
+  label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Azer"><img src="assets/hackmyvm.png"></a>
+"azerac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/"><img src="assets/arm.png"></a>
 "nessus":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Nessus"><img src="assets/hackmyvm.png"></a>
 "up":
@@ -1592,6 +1596,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/hogwarts-dobby,597/"><img src="assets/vulnhub.png"></a>
 "m87":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/m87-1,595/"><img src="assets/vulnhub.png"></a>
+"m87ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/"><img src="assets/arm.png"></a>
 "kira ctf":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/kira-ctf,594/"><img src="assets/vulnhub.png"></a>
 "hackathonctf":
@@ -1762,6 +1768,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/ha-pandavas,487/"><img src="assets/vulnhub.png"></a>
 "cengbox 2":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/cengbox-2,486/"><img src="assets/vulnhub.png"></a>
+"cengbox 2ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/"><img src="assets/arm.png"></a>
 "powergrid":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/powergrid-101,485/"><img src="assets/vulnhub.png"></a>
 "seppuku":
@@ -1786,6 +1794,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/zion-12,476/"><img src="assets/vulnhub.png"></a>
 "cengbox":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/cengbox-1,475/"><img src="assets/vulnhub.png"></a>
+"cengboxac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/"><img src="assets/arm.png"></a>
 
 "lemonsqueezy":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/lemonsqueezy-1,473/"><img src="assets/vulnhub.png"></a>
@@ -1845,6 +1855,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/oreo-1,435/"><img src="assets/vulnhub.png"></a>
 "muzzybox":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/muzzybox-1,434/"><img src="assets/vulnhub.png"></a>
+"muzzyboxac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/"><img src="assets/arm.png"></a>
 "tempus fugit 5.2":
   label: <a target="_blank" class="newicon" href="https://f20.be/walktroughs/TF5.pdf"><img src="assets/vulnhub.png"></a>
 "my file server":
@@ -1959,6 +1971,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/ha-wordy,363/"><img src="assets/vulnhub.png"></a>
 "sp alphonse":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/sp-alphonse-v13,362/"><img src="assets/vulnhub.png"></a>
+"sp alphonseac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/"><img src="assets/arm.png"></a>
 "mordor":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/mordor-11,361/"><img src="assets/vulnhub.png"></a>
 "prime":
@@ -2009,6 +2023,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/the-library-1,334/"><img src="assets/vulnhub.png"></a>
 "minu 2":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/minu-v2,333/"><img src="assets/vulnhub.png"></a>
+"minu 2ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/"><img src="assets/arm.png"></a>
 "symfonos 3.1":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/symfonos-31,332/"><img src="assets/vulnhub.png"></a>
 "symfonos 2":
@@ -2137,6 +2153,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/lampiao-1,249/"><img src="assets/vulnhub.png"></a>
 "ch4inrulz":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/ch4inrulz-101,247/"><img src="assets/vulnhub.png"></a>
+"ch4inrulzac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/"><img src="assets/arm.png"></a>
 "bulldog 2":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/bulldog-2,246/"><img src="assets/vulnhub.png"></a>
 "toppo":
@@ -2163,6 +2181,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/fourandsix-1,236/"><img src="assets/vulnhub.png"></a>
 "minu":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/minu-1,235/"><img src="assets/vulnhub.png"></a>
+"minuac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/"><img src="assets/arm.png"></a>
 "gemini inc 2":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/gemini-inc-2,234/"><img src="assets/vulnhub.png"></a>
 "jarbas":
@@ -2523,6 +2543,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/crossroads-1,659/"><img src="assets/vulnhub.png"></a>
 "crossroadshmv":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Crossroads"><img src="assets/hackmyvm.png"></a>
+"crossroadsac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/"><img src="assets/arm.png"></a>
 "drippingblues":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/dripping-blues-1,744/"><img src="assets/vulnhub.png"></a>
 "drippingblueshmv":

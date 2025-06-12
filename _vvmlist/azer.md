@@ -3,36 +3,28 @@ diffis:
   e:
     -
 platfs:
-  vulnhub:
+  hackmyvm:
     -
 curls:
-  ch4inrulz:
+  azer:
     -
-  ch4inrulzac:
+  azerac:
     -
 functions:
   unix:
     -
   e:
     -
-  vulnhub:
+  hackmyvm:
     -
-  fuzz:
-    -
-  creds:
+  ci:
     -
   hc:
     -
-  lfi:
-    -
-  ep:
-    -
-  rce:
-    -
-  kern:
+  logical:
     -
 
 wals:
-  ch4inrulzwu:
+  azerwu:
     -
 ---

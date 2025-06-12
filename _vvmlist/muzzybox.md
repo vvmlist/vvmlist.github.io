@@ -8,6 +8,8 @@ platfs:
 curls:
   muzzybox:
     -
+  muzzyboxac:
+    -
 functions:
   unix:
     -

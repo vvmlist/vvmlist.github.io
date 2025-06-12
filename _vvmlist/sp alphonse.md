@@ -8,6 +8,8 @@ platfs:
 curls:
   sp alphonse:
     -
+  sp alphonseac:
+    -
 functions:
   unix:
     -
