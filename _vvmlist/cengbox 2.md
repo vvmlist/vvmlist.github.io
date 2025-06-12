@@ -8,6 +8,8 @@ platfs:
 curls:
   cengbox 2:
     -
+  cengbox 2ac:
+    -
 functions:
   unix:
     -

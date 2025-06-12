@@ -8,6 +8,8 @@ platfs:
 curls:
   minu:
     -
+  minuac:
+    -
 functions:
   unix:
     -
