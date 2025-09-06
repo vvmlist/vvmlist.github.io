@@ -56,58 +56,63 @@
 </div>
 
 <script>
- function filter(query) {
-     var queryArray = query.toLowerCase().trim().split(/ *\+/);
-     var binPattern = queryArray[0];
-     var functionPatterns = queryArray.splice(1);
+function filter(query) {
+    var queryArray = query.toLowerCase().trim().split(/ *\+/);
+    var binPattern = queryArray[0];
+    var functionPatterns = queryArray.splice(1);
 
-     // filter rows
-     var noResults = true;
-     document.querySelectorAll('#bin-table tbody tr').forEach(function (row) {
-         var show = true;
+    // check for quoted exact match
+    var isQuoted = binPattern.startsWith('"') && binPattern.endsWith('"');
+    if (isQuoted) {
+        binPattern = binPattern.slice(1, -1); // remove the quotes
+    }
 
-         var binName = row.children[0].firstElementChild.innerText.toLowerCase();
-         if (binName.indexOf(binPattern) === -1) {
-             show = false;
-         }
+    var noResults = true;
+    document.querySelectorAll('#bin-table tbody tr').forEach(function (row) {
+        var show = true;
 
-         if (show) {
-             var functionElems = Array.from(row.children[3].firstElementChild.children);
-             functionElems.forEach((item) => {
-                 item.className = '';
-             });
-             functionPatterns.forEach((pattern) => {
-                 // skip empty filters
-                 if (!pattern) {
-                     return;
-                 }
-                 // check against the pattern
-                 var noMatches = true;
-                 functionElems.forEach((item) => {
-                     if (item.innerText.toLowerCase().startsWith(pattern.toLowerCase())) {
-                         item.className = 'match';
-                         noMatches = false;
-                     }
-                 });
-                 // no function satisfies the pattern
-                 if (noMatches) {
-                     show = false;
-                 }
-             });
-         }
+        var binName = row.children[0].firstElementChild.innerText.toLowerCase().trim();
 
-         if (show) {
-             row.style.display = '';
-             noResults = false;
-         } else {
-             row.style.display = 'none';
-         }
-     });
+        if (isQuoted) {
+            // exact match if quoted
+            if (binName !== binPattern) {
+                show = false;
+            }
+        } else {
+            // partial match if not quoted
+            if (!binName.includes(binPattern)) {
+                show = false;
+            }
+        }
 
-     // update the search message visibility
-     var searchMessage = document.getElementById('search-message');
-     searchMessage.style.display = noResults ? 'table-cell' : 'none';
- }
+        if (show) {
+            var functionElems = Array.from(row.children[3].firstElementChild.children);
+            functionElems.forEach((item) => {
+                item.className = '';
+            });
+            functionPatterns.forEach((pattern) => {
+                if (!pattern) return;
+                var noMatches = true;
+                functionElems.forEach((item) => {
+                    if (item.innerText.toLowerCase().startsWith(pattern.toLowerCase())) {
+                        item.className = 'match';
+                        noMatches = false;
+                    }
+                });
+                if (noMatches) {
+                    show = false;
+                }
+            });
+        }
+
+        row.style.display = show ? '' : 'none';
+        if (show) noResults = false;
+    });
+
+    var searchMessage = document.getElementById('search-message');
+    searchMessage.style.display = noResults ? 'table-cell' : 'none';
+}
+
 
  function applyFilter() {
      // filter on load according to the URL
