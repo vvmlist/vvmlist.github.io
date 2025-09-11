@@ -8,6 +8,8 @@ platfs:
 curls:
   arpon:
     -
+  arponac:
+    -
 functions:
   unix:
     -

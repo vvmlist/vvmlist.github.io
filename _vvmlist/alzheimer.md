@@ -8,6 +8,8 @@ platfs:
 curls:
   alzheimer:
     -
+  alzheimerac:
+    -
 functions:
   unix:
     -

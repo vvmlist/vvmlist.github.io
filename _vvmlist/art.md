@@ -8,6 +8,8 @@ platfs:
 curls:
   art:
     -
+  artac:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,8 @@ platfs:
 curls:
   ai web 2:
     -
+  ai web 2ac:
+    -
 functions:
   unix:
     -
