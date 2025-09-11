@@ -8,6 +8,8 @@ platfs:
 curls:
   air:
     -
+  airac:
+    -
 functions:
   unix:
     -

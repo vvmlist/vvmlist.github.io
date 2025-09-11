@@ -8,6 +8,8 @@ platfs:
 curls:
   animetronic:
     -
+  animetronicac:
+    -
 functions:
   unix:
     -

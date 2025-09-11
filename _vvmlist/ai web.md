@@ -8,6 +8,8 @@ platfs:
 curls:
   ai web:
     -
+  ai webac:
+    -
 functions:
   unix:
     -
