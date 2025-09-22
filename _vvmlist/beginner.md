@@ -8,6 +8,8 @@ platfs:
 curls:
   beginner:
     -
+  beginnerac:
+    -
 functions:
   unix:
     -

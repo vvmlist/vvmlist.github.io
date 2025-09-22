@@ -8,6 +8,8 @@ platfs:
 curls:
   beloved:
     -
+  belovedac:
+    -
 functions:
   unix:
     -

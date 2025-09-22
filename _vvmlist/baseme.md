@@ -8,6 +8,8 @@ platfs:
 curls:
   baseme:
     -
+  basemeac:
+    -
 functions:
   unix:
     -

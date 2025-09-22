@@ -8,6 +8,8 @@ platfs:
 curls:
   basilic:
     -
+  basilicac:
+    -
 functions:
   unix:
     -

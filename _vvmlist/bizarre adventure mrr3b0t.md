@@ -8,6 +8,8 @@ platfs:
 curls:
   bizarre adventure mrr3b0t:
     -
+  bizarre adventure mrr3b0tac:
+    -
 functions:
   unix:
     -

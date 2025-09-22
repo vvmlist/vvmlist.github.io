@@ -8,6 +8,8 @@ platfs:
 curls:
   away:
     -
+  awayac:
+    -
 functions:
   unix:
     -

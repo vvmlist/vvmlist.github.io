@@ -8,6 +8,8 @@ platfs:
 curls:
   backdoored:
     -
+  backdooredac:
+    -
 functions:
   unix:
     -

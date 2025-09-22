@@ -8,6 +8,8 @@ platfs:
 curls:
   bizarre adventure sticky fingers:
     -
+  bizarre adventure sticky fingersac:
+    -
 functions:
   unix:
     -
