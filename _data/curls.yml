@@ -975,6 +975,8 @@
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Noob"><img src="assets/hackmyvm.png"></a>
 "beloved":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Beloved"><img src="assets/hackmyvm.png"></a>
+"belovedac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22beloved%22"><img src="assets/arm.png"></a>
 "ripper":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Ripper"><img src="assets/hackmyvm.png"></a>
 "hidden":
@@ -1015,6 +1017,8 @@
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Hommie"><img src="assets/hackmyvm.png"></a>
 "baseme":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=BaseME"><img src="assets/hackmyvm.png"></a>
+"basemeac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22baseme%22"><img src="assets/arm.png"></a>
 "connection":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Connection"><img src="assets/hackmyvm.png"></a>
 "pwned":
@@ -1111,6 +1115,8 @@
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Pam"><img src="assets/hackmyvm.png"></a>
 "away":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Away"><img src="assets/hackmyvm.png"></a>
+"awayac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22away%22"><img src="assets/arm.png"></a>
 "murph":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Murph"><img src="assets/hackmyvm.png"></a>
 "ephemeral2":
@@ -1173,6 +1179,8 @@
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Speed"><img src="assets/hackmyvm.png"></a>
 "attack":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Attack"><img src="assets/hackmyvm.png"></a>
+"attackac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22attack%22"><img src="assets/arm.png"></a>
 "number":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Number"><img src="assets/hackmyvm.png"></a>
 "echoed":
@@ -1652,8 +1660,12 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/kb-vuln-2,562/"><img src="assets/vulnhub.png"></a>
 "bizarre adventure mrr3b0t":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/bizarre-adventure-mrr3b0t,561/"><img src="assets/vulnhub.png"></a>
+"bizarre adventure mrr3b0tac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22bizarre adventure mrr3b0t%22"><img src="assets/arm.png"></a>
 "bizarre adventure sticky fingers":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/bizarre-adventure-sticky-fingers,560/"><img src="assets/vulnhub.png"></a>
+"bizarre adventure sticky fingersac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22bizarre adventure sticky fingers%22"><img src="assets/arm.png"></a>
 "cewlkid":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/cewlkid-1,559/"><img src="assets/vulnhub.png"></a>
 "chili":
@@ -1698,6 +1710,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/pyexp-1,534/"><img src="assets/vulnhub.png"></a>
 "backdoored":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/backdoored-1,533/"><img src="assets/vulnhub.png"></a>
+"backdooredac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22backdoored%22"><img src="assets/arm.png"></a>
 "cysec 2":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/cysec-2,532/"><img src="assets/vulnhub.png"></a>
 "sunset noontide":
@@ -2118,6 +2132,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/kuya-1,283/"><img src="assets/vulnhub.png"></a>
 "basilic":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/norzhctf-2019-basilic,282/"><img src="assets/vulnhub.png"></a>
+"basilicac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22basilic%22"><img src="assets/arm.png"></a>
 "digitalworld.local bravery":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/digitalworldlocal-bravery,281/"><img src="assets/vulnhub.png"></a>
 "digitalworld.local development":
@@ -2673,6 +2689,8 @@
   label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Share.php"><img src="assets/vulnyx.png"></a>
 "beginner":
   label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Beginner.php"><img src="assets/vulnyx.png"></a>
+"beginnerac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22beginner%22"><img src="assets/arm.png"></a>
 "shop":
   label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Shop.php"><img src="assets/vulnyx.png"></a>
 "look":
@@ -2797,5 +2815,7 @@
   label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Developer.php"><img src="assets/vulnyx.png"></a>
 "backdoorvx":
   label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Backdoor.php"><img src="assets/vulnyx.png"></a>
+"backdoorvxac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22backdoor%22"><img src="assets/arm.png"></a>
 "wrapp":
   label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Wrapp.php"><img src="assets/vulnyx.png"></a>

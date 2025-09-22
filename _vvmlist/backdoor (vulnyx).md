@@ -8,6 +8,8 @@ platfs:
 curls:
   backdoorvx:
     -
+  backdoorvxac:
+    -
 functions:
   unix:
     -

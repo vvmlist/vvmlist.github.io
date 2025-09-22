@@ -8,6 +8,8 @@ platfs:
 curls:
   attack:
     -
+  attackac:
+    -
 functions:
   unix:
     -
