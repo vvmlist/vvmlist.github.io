@@ -2616,226 +2616,226 @@
 #vulnyx#
 ########
 "bloggervx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Blogger.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Blogger"><img src="assets/vulnyx.png"></a>
 "bloggervxac":
   label: <a target="_blank" class="newicon" href="https://armctf.com/#%22blogger%22"><img src="assets/arm.png"></a>
 "lower":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Lower.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Lower"><img src="assets/vulnyx.png"></a>
 "war":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/War.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/War"><img src="assets/vulnyx.png"></a>
 "fuser":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Fuser.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Fuser"><img src="assets/vulnyx.png"></a>
 "psymin":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Psymin.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Psymin"><img src="assets/vulnyx.png"></a>
 "hosting":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Hosting.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Hosting"><img src="assets/vulnyx.png"></a>
 "call":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Call.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Call"><img src="assets/vulnyx.png"></a>
 "send":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Send.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Send"><img src="assets/vulnyx.png"></a>
 "admin":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Admin.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Admin"><img src="assets/vulnyx.png"></a>
 "yourwaf":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/YourWAF.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/YourWAF"><img src="assets/vulnyx.png"></a>
 "service":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Service.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Service"><img src="assets/vulnyx.png"></a>
 "twitx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Twitx.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Twitx"><img src="assets/vulnyx.png"></a>
 "arpon":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Arpon.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Arpon"><img src="assets/vulnyx.png"></a>
 "arponac":
   label: <a target="_blank" class="newicon" href="https://armctf.com/#%22arpon%22"><img src="assets/arm.png"></a>
 "hook":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Hook.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Hook"><img src="assets/vulnyx.png"></a>
 "exec":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Exec.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Exec"><img src="assets/vulnyx.png"></a>
 "sun":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Sun.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Sun"><img src="assets/vulnyx.png"></a>
 "diff3r3nts3":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Diff3r3ntS3c.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Diff3r3ntS3c"><img src="assets/vulnyx.png"></a>
 "hackingstation":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/HackingStation.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/HackingStation"><img src="assets/vulnyx.png"></a>
 "plex":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Plex.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Plex"><img src="assets/vulnyx.png"></a>
 "friends":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Friends.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Friends"><img src="assets/vulnyx.png"></a>
 "dump":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Dump.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Dump"><img src="assets/vulnyx.png"></a>
 "druid":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Druid.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Druid"><img src="assets/vulnyx.png"></a>
 "eternal":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Eternal.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Eternal"><img src="assets/vulnyx.png"></a>
 "experience":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Experience.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Experience"><img src="assets/vulnyx.png"></a>
 "load":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Load.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Load"><img src="assets/vulnyx.png"></a>
 "agent":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Agent.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Agent"><img src="assets/vulnyx.png"></a>
 "infected":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Infected.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Infected"><img src="assets/vulnyx.png"></a>
 "mux":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Mux.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Mux"><img src="assets/vulnyx.png"></a>
 "unit":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Unit.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Unit"><img src="assets/vulnyx.png"></a>
 "code":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Code.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Code"><img src="assets/vulnyx.png"></a>
 "air":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Air.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Air"><img src="assets/vulnyx.png"></a>
 "airac":
   label: <a target="_blank" class="newicon" href="https://armctf.com/#%22air%22"><img src="assets/arm.png"></a>
 "firstvx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/First.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/First"><img src="assets/vulnyx.png"></a>
 "basic":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Basic.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Basic"><img src="assets/vulnyx.png"></a>
 "robot":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Robot.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Robot"><img src="assets/vulnyx.png"></a>
 "fire":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Fire.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Fire"><img src="assets/vulnyx.png"></a>
 "wicca":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Wicca.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Wicca"><img src="assets/vulnyx.png"></a>
 "play":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Play.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Play"><img src="assets/vulnyx.png"></a>
 "slash":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Slash.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Slash"><img src="assets/vulnyx.png"></a>
 "goetia":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Goetia.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Goetia"><img src="assets/vulnyx.png"></a>
 "remotevx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Remote.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Remote"><img src="assets/vulnyx.png"></a>
 "plot":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Plot.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Plot"><img src="assets/vulnyx.png"></a>
 "share":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Share.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Share"><img src="assets/vulnyx.png"></a>
 "beginner":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Beginner.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Beginner"><img src="assets/vulnyx.png"></a>
 "beginnerac":
   label: <a target="_blank" class="newicon" href="https://armctf.com/#%22beginner%22"><img src="assets/arm.png"></a>
 "shop":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Shop.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Shop"><img src="assets/vulnyx.png"></a>
 "look":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Look.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Look"><img src="assets/vulnyx.png"></a>
 "flash":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Flash.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Flash"><img src="assets/vulnyx.png"></a>
 "noobvx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Noob.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Noob"><img src="assets/vulnyx.png"></a>
 "nodevx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Node.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Node"><img src="assets/vulnyx.png"></a>
 "external":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/External.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/External"><img src="assets/vulnyx.png"></a>
 "deploy":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Deploy.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Deploy"><img src="assets/vulnyx.png"></a>
 "zone":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Zone.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Zone"><img src="assets/vulnyx.png"></a>
 "zerovx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Zero.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Zero"><img src="assets/vulnyx.png"></a>
 "printervx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Printer.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Printer"><img src="assets/vulnyx.png"></a>
 "real":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Real.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Real"><img src="assets/vulnyx.png"></a>
 "hiddenvx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Hidden.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Hidden"><img src="assets/vulnyx.png"></a>
 "shock":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Shock.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Shock"><img src="assets/vulnyx.png"></a>
 "blog":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Blog.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Blog"><img src="assets/vulnyx.png"></a>
 "blogac":
   label: <a target="_blank" class="newicon" href="https://armctf.com/#%22blog%22"><img src="assets/arm.png"></a>
 "fing":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Fing.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Fing"><img src="assets/vulnyx.png"></a>
 "doctorvx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Doctor.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Doctor"><img src="assets/vulnyx.png"></a>
 "brain":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Brain.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Brain"><img src="assets/vulnyx.png"></a>
 "serve":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Serve.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Serve"><img src="assets/vulnyx.png"></a>
 "readyvx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Ready.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Ready"><img src="assets/vulnyx.png"></a>
 "controler":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Controler.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Controler"><img src="assets/vulnyx.png"></a>
 "express":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Express.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Express"><img src="assets/vulnyx.png"></a>
 "spooisong":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Spooisong.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Spooisong"><img src="assets/vulnyx.png"></a>
 "jarjar":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/JarJar.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/JarJar"><img src="assets/vulnyx.png"></a>
 "mywaf":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/MyWAF.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/MyWAF"><img src="assets/vulnyx.png"></a>
 "bunker":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Bunker.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Bunker"><img src="assets/vulnyx.png"></a>
 "systemvx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/System.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/System"><img src="assets/vulnyx.png"></a>
 "future":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Future.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Future"><img src="assets/vulnyx.png"></a>
 "leak":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Leak.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Leak"><img src="assets/vulnyx.png"></a>
 "sharedvx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Shared.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Shared"><img src="assets/vulnyx.png"></a>
 "cachevx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Cache.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Cache"><img src="assets/vulnyx.png"></a>
 "hunter":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Hunter.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Hunter"><img src="assets/vulnyx.png"></a>
 "bind":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Bind.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Bind"><img src="assets/vulnyx.png"></a>
 "dark":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Dark.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Dark"><img src="assets/vulnyx.png"></a>
 "jenk":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Jenk.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Jenk"><img src="assets/vulnyx.png"></a>
 "belial":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Belial.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Belial"><img src="assets/vulnyx.png"></a>
 "discover":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Discover.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Discover"><img src="assets/vulnyx.png"></a>
 "chain":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Chain.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Chain"><img src="assets/vulnyx.png"></a>
 "listenvx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Listen.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Listen"><img src="assets/vulnyx.png"></a>
 "bund":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Bund.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Bund"><img src="assets/vulnyx.png"></a>
 "key":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Key.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Key"><img src="assets/vulnyx.png"></a>
 "mail":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Mail.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Mail"><img src="assets/vulnyx.png"></a>
 "internal":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Internal.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Internal"><img src="assets/vulnyx.png"></a>
 "ceres":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Ceres.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Ceres"><img src="assets/vulnyx.png"></a>
 "tom":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Tom.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Tom"><img src="assets/vulnyx.png"></a>
 "secrets":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Secrets.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Secrets"><img src="assets/vulnyx.png"></a>
 "responder":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Responder.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Responder"><img src="assets/vulnyx.png"></a>
 "hat":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Hat.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Hat"><img src="assets/vulnyx.png"></a>
 "tunnel":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Tunnel.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Tunnel"><img src="assets/vulnyx.png"></a>
 "solar":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Solar.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Solar"><img src="assets/vulnyx.png"></a>
 "lang":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Lang.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Lang"><img src="assets/vulnyx.png"></a>
 "yincana":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Yincana.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Yincana"><img src="assets/vulnyx.png"></a>
 "gattaca":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Gattaca.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Gattaca"><img src="assets/vulnyx.png"></a>
 "lost":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Lost.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Lost"><img src="assets/vulnyx.png"></a>
 "gen":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Gen.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Gen"><img src="assets/vulnyx.png"></a>
 "raw":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Raw.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Raw"><img src="assets/vulnyx.png"></a>
 "monitor":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Monitor.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Monitor"><img src="assets/vulnyx.png"></a>
 "travelvx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Travel.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Travel"><img src="assets/vulnyx.png"></a>
 "capvx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Cap.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Cap"><img src="assets/vulnyx.png"></a>
 "trace":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Trace.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Trace"><img src="assets/vulnyx.png"></a>
 "transfer":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Transfer.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Transfer"><img src="assets/vulnyx.png"></a>
 "developervx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Developer.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Developer"><img src="assets/vulnyx.png"></a>
 "backdoorvx":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Backdoor.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Backdoor"><img src="assets/vulnyx.png"></a>
 "backdoorvxac":
   label: <a target="_blank" class="newicon" href="https://armctf.com/#%22backdoor%22"><img src="assets/arm.png"></a>
 "wrapp":
-  label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Wrapp.php"><img src="assets/vulnyx.png"></a>
+  label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Wrapp"><img src="assets/vulnyx.png"></a>
