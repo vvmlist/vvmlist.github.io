@@ -8,6 +8,8 @@ platfs:
 curls:
   born2root:
     -
+  born2rootac:
+    -
 functions:
   unix:
     -

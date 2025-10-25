@@ -8,6 +8,8 @@ platfs:
 curls:
   bluesky:
     -
+  blueskyac:
+    -
 functions:
   unix:
     -
