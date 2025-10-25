@@ -8,6 +8,8 @@ platfs:
 curls:
   bob:
     -
+  bobac:
+    -
 functions:
   unix:
     -

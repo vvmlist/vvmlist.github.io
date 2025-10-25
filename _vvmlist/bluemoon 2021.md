@@ -8,6 +8,8 @@ platfs:
 curls:
   bluemoon 2021:
     -
+  bluemoon 2021ac:
+    -
 functions:
   unix:
     -

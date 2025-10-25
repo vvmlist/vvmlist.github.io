@@ -8,6 +8,8 @@ platfs:
 curls:
   bluesmoke devrandom2:
     -
+  bluesmoke devrandom2ac:
+    -
 functions:
   unix:
     -

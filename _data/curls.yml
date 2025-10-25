@@ -917,6 +917,8 @@
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=WMessage"><img src="assets/hackmyvm.png"></a>
 "blackhat":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Blackhat"><img src="assets/hackmyvm.png"></a>
+"blackhatac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22blackhat%22"><img src="assets/arm.png"></a>
 "crazymed":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Crazymed"><img src="assets/hackmyvm.png"></a>
 "thewall":
@@ -1289,6 +1291,8 @@
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=BlackWidow"><img src="assets/hackmyvm.png"></a>
 "blackwidowvu":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/black-widow-1,637/"><img src="assets/vulnhub.png"></a>
+"blackwidowac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22blackwidow%22"><img src="assets/arm.png"></a>
 "moosage":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Moosage"><img src="assets/hackmyvm.png"></a>
 "choc":
@@ -1517,8 +1521,12 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/wayne-manor-1,681/"><img src="assets/vulnhub.png"></a>
 "bluemoon 2021":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/bluemoon-2021,679/"><img src="assets/vulnhub.png"></a>
+"bluemoon 2021ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22bluemoon 2021%22"><img src="assets/arm.png"></a>
 "bluesmoke devrandom2":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/bluesmoke-devrandom2,678/"><img src="assets/vulnhub.png"></a>
+"bluesmoke devrandom2ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22bluesmoke devrandom2%22"><img src="assets/arm.png"></a>
 "shenron 2":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/shenron-2,677/"><img src="assets/vulnhub.png"></a>
 "hacksudo aliens":
@@ -1579,6 +1587,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/y0usef-1,624/"><img src="assets/vulnhub.png"></a>
 "bluesky":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/bluesky-1,623/"><img src="assets/vulnhub.png"></a>
+"blueskyac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22bluesky%22"><img src="assets/arm.png"></a>
 "chill hack":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/chill-hack-1,622/"><img src="assets/vulnhub.png"></a>
 "jetty":
@@ -2120,6 +2130,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/dc-1,292/"><img src="assets/vulnhub.png"></a>
 "born2root 2":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/born2root-2,291/"><img src="assets/vulnhub.png"></a>
+"born2root 2ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22born2root 2%22"><img src="assets/arm.png"></a>
 "stack overflows for beginners":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/stack-overflows-for-beginners-101,290/"><img src="assets/vulnhub.png"></a>
 "web developer":
@@ -2230,6 +2242,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/gemini-inc-1,227/"><img src="assets/vulnhub.png"></a>
 "bob":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/bob-101,226/"><img src="assets/vulnhub.png"></a>
+"bobac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22bob%22"><img src="assets/arm.png"></a>
 "pinkys palace":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/pinkys-palace-v1,225/"><img src="assets/vulnhub.png"></a>
 "blackmarket":
@@ -2276,6 +2290,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/c0m80-1,198/"><img src="assets/vulnhub.png"></a>
 "born2root":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/born2root-1,197/"><img src="assets/vulnhub.png"></a>
+"born2rootac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22born2root%22"><img src="assets/arm.png"></a>
 "btrsys v2.1":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/btrsys-v21,196/"><img src="assets/vulnhub.png"></a>
 "btrsys v1":
@@ -2601,6 +2617,8 @@
 ########
 "bloggervx":
   label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Blogger.php"><img src="assets/vulnyx.png"></a>
+"bloggervxac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22blogger%22"><img src="assets/arm.png"></a>
 "lower":
   label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Lower.php"><img src="assets/vulnyx.png"></a>
 "war":
@@ -2719,6 +2737,8 @@
   label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Shock.php"><img src="assets/vulnyx.png"></a>
 "blog":
   label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Blog.php"><img src="assets/vulnyx.png"></a>
+"blogac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22blog%22"><img src="assets/arm.png"></a>
 "fing":
   label: <a target="_blank" class="newicon" href="https://vulnyx.com/file/Fing.php"><img src="assets/vulnyx.png"></a>
 "doctorvx":
