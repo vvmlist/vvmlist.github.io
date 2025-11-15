@@ -8,6 +8,8 @@ platfs:
 curls:
   broken-2020:
     -
+  broken-2020ac:
+    -
 functions:
   unix:
     -

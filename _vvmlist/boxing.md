@@ -8,6 +8,8 @@ platfs:
 curls:
   boxing:
     -
+  boxingac:
+    -
 functions:
   unix:
     -

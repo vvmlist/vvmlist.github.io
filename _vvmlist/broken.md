@@ -8,6 +8,8 @@ platfs:
 curls:
   broken:
     -
+  brokenac:
+    -
 functions:
   unix:
     -

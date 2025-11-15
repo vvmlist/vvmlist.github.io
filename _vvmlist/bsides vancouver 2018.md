@@ -8,6 +8,8 @@ platfs:
 curls:
   bsides vancouver 2018:
     -
+  bsides vancouver 2018ac:
+    -
 functions:
   unix:
     -

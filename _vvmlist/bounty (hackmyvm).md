@@ -8,6 +8,8 @@ platfs:
 curls:
   bountyh:
     -
+  bountyhac:
+    -
 functions:
   unix:
     -

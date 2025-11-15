@@ -8,6 +8,8 @@ platfs:
 curls:
   bossplayersctf:
     -
+  bossplayersctfac:
+    -
 functions:
   unix:
     -

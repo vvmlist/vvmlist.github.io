@@ -8,6 +8,8 @@ platfs:
 curls:
   bot challenges murdering dexter:
     -
+  bot challenges murdering dexterac:
+    -
 functions:
   unix:
     -
