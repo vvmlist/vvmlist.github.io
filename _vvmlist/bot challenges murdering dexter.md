@@ -6,7 +6,7 @@ platfs:
   vulnhub:
     -
 curls:
-  bot challenges dexter:
+  bot challenges murdering dexter:
     -
 functions:
   unix:
@@ -27,6 +27,6 @@ functions:
     -
 
 wals:
-  bot challenges dexterwu:
+  bot challenges murdering dexterwu:
     -
 ---

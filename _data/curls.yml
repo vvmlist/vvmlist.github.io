@@ -1053,6 +1053,8 @@
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Immortal"><img src="assets/hackmyvm.png"></a>
 "boxing":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Boxing"><img src="assets/hackmyvm.png"></a>
+"boxingac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22boxing%22"><img src="assets/arm.png"></a>
 "espo":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Espo"><img src="assets/hackmyvm.png"></a>
 "run":
@@ -1111,6 +1113,8 @@
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Tagged"><img src="assets/hackmyvm.png"></a>
 "bountyh":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Bounty"><img src="assets/hackmyvm.png"></a>
+"bountyhac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22bounty%22"><img src="assets/arm.png"></a>
 "movie":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Movie"><img src="assets/hackmyvm.png"></a>
 "pam":
@@ -1167,6 +1171,8 @@
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Momentum2"><img src="assets/hackmyvm.png"></a>
 "broken":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Broken"><img src="assets/hackmyvm.png"></a>
+"brokenac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22broken%22"><img src="assets/arm.png"></a>
 "sedem":
   label: <a target="_blank" class="newicon" href="https://hackmyvm.eu/machines/machine.php?vm=Sedem"><img src="assets/hackmyvm.png"></a>
 "suuk":
@@ -1840,6 +1846,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/mhz_cxf-c1f,471/"><img src="assets/vulnhub.png"></a>
 "broken-2020":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/broken-2020-1,470/"><img src="assets/vulnhub.png"></a>
+"broken-2020ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22broken-2020%22"><img src="assets/arm.png"></a>
 "victim":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/victim-1,469/"><img src="assets/vulnhub.png"></a>
 "cryptobank":
@@ -1984,8 +1992,12 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/ha-isro,376/"><img src="assets/vulnhub.png"></a>
 "bossplayersctf":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/bossplayersctf-1,375/"><img src="assets/vulnhub.png"></a>
+"bossplayersctfac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22bossplayersctf%22"><img src="assets/arm.png"></a>
 "bottleneck":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/bottleneck-1,374/"><img src="assets/vulnhub.png"></a>
+"bottleneckac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22bottleneck%22"><img src="assets/arm.png"></a>
 "serial 2":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/serial-2,373/"><img src="assets/vulnhub.png"></a>
 "mumbai":
@@ -2038,6 +2050,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/tempus-fugit-1,346/"><img src="assets/vulnhub.png"></a>
 "broken gallery":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/broken-gallery,344/"><img src="assets/vulnhub.png"></a>
+"broken galleryac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22broken gallery%22"><img src="assets/arm.png"></a>
 "dpwwn 3":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/dpwwn-3,345/"><img src="assets/vulnhub.png"></a>
 "dpwwn 2":
@@ -2232,6 +2246,8 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/jarbas-1,232/"><img src="assets/vulnhub.png"></a>
 "bsides vancouver 2018":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/bsides-vancouver-2018-workshop,231/"><img src="assets/vulnhub.png"></a>
+"bsides vancouver 2018ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22bsides vancouver 2018%22"><img src="assets/arm.png"></a>
 "trollcave":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/trollcave-12,230/"><img src="assets/vulnhub.png"></a>
 "pinkys palace v2":
@@ -2484,8 +2500,10 @@
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/the-infernal-hades-v101,61/"><img src="assets/vulnhub.png"></a>
 "vulnos":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/vulnos-1,60/"><img src="assets/vulnhub.png"></a>
-"bot challenges dexter":
+"bot challenges murdering dexter":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/bot-challenges-dexter,59/"><img src="assets/vulnhub.png"></a>
+"bot challenges murdering dexterac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22bot challenges murdering dexter%22"><img src="assets/arm.png"></a>
 "xerxes":
   label: <a target="_blank" class="newicon" href="https://www.vulnhub.com/entry/xerxes-1,58/"><img src="assets/vulnhub.png"></a>
 "de-ice s1.140":
@@ -2745,6 +2763,8 @@
   label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Doctor"><img src="assets/vulnyx.png"></a>
 "brain":
   label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Brain"><img src="assets/vulnyx.png"></a>
+"brainac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22brain%22"><img src="assets/arm.png"></a>
 "serve":
   label: <a target="_blank" class="newicon" href="https://vulnyx.com/vm/Serve"><img src="assets/vulnyx.png"></a>
 "readyvx":
