@@ -8,6 +8,10 @@ platfs:
 curls:
   pickle:
     -
+  pickleac:
+    -
+  picklecm:
+    -
 functions:
   unix:
     -

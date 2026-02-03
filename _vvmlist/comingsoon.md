@@ -8,6 +8,10 @@ platfs:
 curls:
   comingsoon:
     -
+  comingsoonac:
+    -
+  comingsooncm:
+    -
 functions:
   unix:
     -

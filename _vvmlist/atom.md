@@ -8,6 +8,10 @@ platfs:
 curls:
   atom:
     -
+  atomac:
+    -
+  atomcm:
+    -
 functions:
   win:
     -

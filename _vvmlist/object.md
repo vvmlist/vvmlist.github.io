@@ -8,6 +8,10 @@ platfs:
 curls:
   object:
     -
+  objectac:
+    -
+  objectcm:
+    -
 functions:
   win:
     -

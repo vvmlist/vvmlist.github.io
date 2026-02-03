@@ -8,6 +8,10 @@ platfs:
 curls:
   happycorp:
     -
+  happycorpac:
+    -
+  happycorpcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   secnotes:
     -
+  secnotesac:
+    -
+  secnotescm:
+    -
 functions:
   win:
     -

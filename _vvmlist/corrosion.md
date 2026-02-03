@@ -8,6 +8,10 @@ platfs:
 curls:
   corrosion:
     -
+  corrosionac:
+    -
+  corrosioncm:
+    -
 functions:
   unix:
     -

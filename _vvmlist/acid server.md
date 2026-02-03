@@ -8,6 +8,10 @@ platfs:
 curls:
   acid server:
     -
+  acid serverac:
+    -
+  acid servercm:
+    -
 functions:
   unix:
     -

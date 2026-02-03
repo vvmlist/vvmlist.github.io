@@ -8,6 +8,10 @@ platfs:
 curls:
   redcross:
     -
+  redcrossac:
+    -
+  redcrosscm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   hash:
     -
+  hashac:
+    -
+  hashcm:
+    -
 functions:
   unix:
     -

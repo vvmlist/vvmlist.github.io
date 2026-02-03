@@ -8,6 +8,10 @@ platfs:
 curls:
   validation:
     -
+  validationac:
+    -
+  validationcm:
+    -
 functions:
   unix:
     -

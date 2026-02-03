@@ -8,6 +8,10 @@ platfs:
 curls:
   mumbai:
     -
+  mumbaiac:
+    -
+  mumbaicm:
+    -
 functions:
   unix:
     -

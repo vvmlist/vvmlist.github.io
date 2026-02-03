@@ -8,6 +8,10 @@ platfs:
 curls:
   canape:
     -
+  canapeac:
+    -
+  canapecm:
+    -
 functions:
   unix:
     -

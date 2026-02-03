@@ -8,6 +8,10 @@ platfs:
 curls:
   blurry:
     -
+  blurryac:
+    -
+  blurrycm:
+    -
 functions:
   unix:
     -

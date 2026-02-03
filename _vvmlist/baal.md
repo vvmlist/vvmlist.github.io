@@ -1,0 +1,42 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  baal:
+    -
+  baalac:
+    -
+  baalcm:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  cve:
+    -
+  rce:
+    -
+  ssh:
+    -
+  bre:
+    -
+  rbash:
+    -
+  pspy:
+    -
+  logical:
+    -
+
+wals:
+  baalwu:
+    -
+---

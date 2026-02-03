@@ -8,6 +8,10 @@ platfs:
 curls:
   wicca:
     -
+  wiccaac:
+    -
+  wiccacm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   transfer:
     -
+  transferac:
+    -
+  transfercm:
+    -
 functions:
   unix:
     -

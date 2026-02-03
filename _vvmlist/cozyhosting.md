@@ -8,6 +8,10 @@ platfs:
 curls:
   cozyhosting:
     -
+  cozyhostingac:
+    -
+  cozyhostingcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   kira ctf:
     -
+  kira ctfac:
+    -
+  kira ctfcm:
+    -
 functions:
   unix:
     -

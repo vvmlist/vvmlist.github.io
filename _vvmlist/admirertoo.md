@@ -8,6 +8,10 @@ platfs:
 curls:
   admirertoo:
     -
+  admirertooac:
+    -
+  admirertoocm:
+    -
 functions:
   unix:
     -

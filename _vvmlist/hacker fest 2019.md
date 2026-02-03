@@ -8,6 +8,10 @@ platfs:
 curls:
   hacker fest 2019:
     -
+  hacker fest 2019ac:
+    -
+  hacker fest 2019cm:
+    -
 functions:
   unix:
     -

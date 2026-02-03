@@ -8,6 +8,10 @@ platfs:
 curls:
   glasgow smile 2:
     -
+  glasgow smile 2ac:
+    -
+  glasgow smile 2cm:
+    -
 functions:
   unix:
     -

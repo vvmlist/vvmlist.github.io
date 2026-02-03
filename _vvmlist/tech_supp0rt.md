@@ -8,6 +8,10 @@ platfs:
 curls:
   tech_supp0rt:
     -
+  tech_supp0rtac:
+    -
+  tech_supp0rtcm:
+    -
 functions:
   unix:
     -

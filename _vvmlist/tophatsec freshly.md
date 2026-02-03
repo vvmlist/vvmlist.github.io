@@ -8,6 +8,10 @@ platfs:
 curls:
   tophatsec freshly:
     -
+  tophatsec freshlyac:
+    -
+  tophatsec freshlycm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   icmp:
     -
+  icmpac:
+    -
+  icmpcm:
+    -
 functions:
   unix:
     -

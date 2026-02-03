@@ -8,6 +8,10 @@ platfs:
 curls:
   breach 2.1:
     -
+  breach 2.1ac:
+    -
+  breach 2.1cm:
+    -
 functions:
   unix:
     -

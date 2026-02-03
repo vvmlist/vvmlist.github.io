@@ -8,6 +8,10 @@ platfs:
 curls:
   infosecwarrior ctf 2020 03:
     -
+  infosecwarrior ctf 2020 03ac:
+    -
+  infosecwarrior ctf 2020 03cm:
+    -
 functions:
   unix:
     -

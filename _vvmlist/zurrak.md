@@ -8,6 +8,10 @@ platfs:
 curls:
   zurrak:
     -
+  zurrakac:
+    -
+  zurrakcm:
+    -
 functions:
   unix:
     -

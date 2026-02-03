@@ -8,6 +8,10 @@ platfs:
 curls:
   stratosphere:
     -
+  stratosphereac:
+    -
+  stratospherecm:
+    -
 functions:
   unix:
     -

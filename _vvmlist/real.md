@@ -8,6 +8,10 @@ platfs:
 curls:
   real:
     -
+  realac:
+    -
+  realcm:
+    -
 functions:
   unix:
     -

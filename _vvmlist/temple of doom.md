@@ -8,6 +8,10 @@ platfs:
 curls:
   temple of doom:
     -
+  temple of doomac:
+    -
+  temple of doomcm:
+    -
 functions:
   unix:
     -

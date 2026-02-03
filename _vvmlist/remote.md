@@ -8,6 +8,10 @@ platfs:
 curls:
   remote:
     -
+  remoteac:
+    -
+  remotecm:
+    -
 functions:
   win:
     -

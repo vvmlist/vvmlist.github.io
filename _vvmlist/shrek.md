@@ -8,6 +8,10 @@ platfs:
 curls:
   shrek:
     -
+  shrekac:
+    -
+  shrekcm:
+    -
 functions:
   unix:
     -

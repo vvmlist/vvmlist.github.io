@@ -8,6 +8,10 @@ platfs:
 curls:
   hackfest2016 orcus:
     -
+  hackfest2016 orcusac:
+    -
+  hackfest2016 orcuscm:
+    -
 functions:
   unix:
     -

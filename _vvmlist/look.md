@@ -8,6 +8,10 @@ platfs:
 curls:
   look:
     -
+  lookac:
+    -
+  lookcm:
+    -
 functions:
   unix:
     -

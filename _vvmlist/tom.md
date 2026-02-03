@@ -8,6 +8,10 @@ platfs:
 curls:
   tom:
     -
+  tomac:
+    -
+  tomcm:
+    -
 functions:
   unix:
     -

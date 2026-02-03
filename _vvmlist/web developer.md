@@ -8,6 +8,10 @@ platfs:
 curls:
   web developer:
     -
+  web developerac:
+    -
+  web developercm:
+    -
 functions:
   unix:
     -

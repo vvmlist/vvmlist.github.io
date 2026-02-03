@@ -8,6 +8,10 @@ platfs:
 curls:
   mischief:
     -
+  mischiefac:
+    -
+  mischiefcm:
+    -
 functions:
   unix:
     -

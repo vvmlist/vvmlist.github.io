@@ -8,6 +8,10 @@ platfs:
 curls:
   rattus loophole:
     -
+  rattus loopholeac:
+    -
+  rattus loopholecm:
+    -
 functions:
   unix:
     -

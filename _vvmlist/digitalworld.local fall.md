@@ -8,6 +8,10 @@ platfs:
 curls:
   digitalworld.local fall:
     -
+  digitalworld.local fallac:
+    -
+  digitalworld.local fallcm:
+    -
 functions:
   unix:
     -

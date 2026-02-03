@@ -8,6 +8,10 @@ platfs:
 curls:
   swagshop:
     -
+  swagshopac:
+    -
+  swagshopcm:
+    -
 functions:
   unix:
     -

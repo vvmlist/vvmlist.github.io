@@ -8,6 +8,10 @@ platfs:
 curls:
   legacy hangtuah:
     -
+  legacy hangtuahac:
+    -
+  legacy hangtuahcm:
+    -
 functions:
   unix:
     -

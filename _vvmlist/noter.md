@@ -8,6 +8,10 @@ platfs:
 curls:
   noter:
     -
+  noterac:
+    -
+  notercm:
+    -
 functions:
   unix:
     -

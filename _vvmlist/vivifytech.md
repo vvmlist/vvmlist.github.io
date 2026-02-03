@@ -8,6 +8,10 @@ platfs:
 curls:
   vivifytech:
     -
+  vivifytechac:
+    -
+  vivifytechcm:
+    -
 functions:
   unix:
     -

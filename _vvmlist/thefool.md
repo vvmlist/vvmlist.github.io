@@ -8,6 +8,10 @@ platfs:
 curls:
   thefool:
     -
+  thefoolac:
+    -
+  thefoolcm:
+    -
 functions:
   unix:
     -

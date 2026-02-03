@@ -8,6 +8,10 @@ platfs:
 curls:
   perlman:
     -
+  perlmanac:
+    -
+  perlmancm:
+    -
 functions:
   unix:
     -

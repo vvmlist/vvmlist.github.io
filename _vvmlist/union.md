@@ -8,6 +8,10 @@ platfs:
 curls:
   union:
     -
+  unionac:
+    -
+  unioncm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   21ltr scene 1:
     -
+  21ltr scene 1ac:
+    -
+  21ltr scene 1cm:
+    -
 functions:
   unix:
     -

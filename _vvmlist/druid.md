@@ -8,6 +8,10 @@ platfs:
 curls:
   druid:
     -
+  druidac:
+    -
+  druidcm:
+    -
 functions:
   unix:
     -

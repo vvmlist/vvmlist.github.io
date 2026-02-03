@@ -8,6 +8,10 @@ platfs:
 curls:
   funbox gaokao:
     -
+  funbox gaokaoac:
+    -
+  funbox gaokaocm:
+    -
 functions:
   unix:
     -

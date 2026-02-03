@@ -8,6 +8,10 @@ platfs:
 curls:
   area51:
     -
+  area51ac:
+    -
+  area51cm:
+    -
 functions:
   unix:
     -

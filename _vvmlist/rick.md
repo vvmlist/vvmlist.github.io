@@ -8,6 +8,10 @@ platfs:
 curls:
   rick:
     -
+  rickac:
+    -
+  rickcm:
+    -
 functions:
   unix:
     -

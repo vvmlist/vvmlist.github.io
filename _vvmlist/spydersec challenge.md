@@ -8,6 +8,10 @@ platfs:
 curls:
   spydersec challenge:
     -
+  spydersec challengeac:
+    -
+  spydersec challengecm:
+    -
 functions:
   unix:
     -

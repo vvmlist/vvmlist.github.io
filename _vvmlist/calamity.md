@@ -8,6 +8,10 @@ platfs:
 curls:
   calamity:
     -
+  calamityac:
+    -
+  calamitycm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   serial 2:
     -
+  serial 2ac:
+    -
+  serial 2cm:
+    -
 functions:
   unix:
     -

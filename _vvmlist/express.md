@@ -8,6 +8,10 @@ platfs:
 curls:
   express:
     -
+  expressac:
+    -
+  expresscm:
+    -
 functions:
   unix:
     -

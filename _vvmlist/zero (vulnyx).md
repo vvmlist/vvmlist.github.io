@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  zerovx:
+  zero (vulnyx):
+    -
+  zero (vulnyx)ac:
+    -
+  zero (vulnyx)cm:
     -
 functions:
   unix:
@@ -27,6 +31,6 @@ functions:
     -
 
 wals:
-  zerovxwu:
+  zero (vulnyx)wu:
     -
 ---

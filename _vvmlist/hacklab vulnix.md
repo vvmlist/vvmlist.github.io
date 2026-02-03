@@ -8,6 +8,10 @@ platfs:
 curls:
   hacklab vulnix:
     -
+  hacklab vulnixac:
+    -
+  hacklab vulnixcm:
+    -
 functions:
   unix:
     -

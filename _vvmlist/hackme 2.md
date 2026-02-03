@@ -8,6 +8,10 @@ platfs:
 curls:
   hackme 2:
     -
+  hackme 2ac:
+    -
+  hackme 2cm:
+    -
 functions:
   unix:
     -

@@ -10,6 +10,8 @@ curls:
     -
   broken galleryac:
     -
+  broken gallerycm:
+    -
 functions:
   unix:
     -
@@ -23,8 +25,8 @@ functions:
     -
   creds:
     -
-
 wals:
   broken gallerywu:
     -
+
 ---

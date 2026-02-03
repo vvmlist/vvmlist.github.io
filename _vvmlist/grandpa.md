@@ -8,6 +8,10 @@ platfs:
 curls:
   grandpa:
     -
+  grandpaac:
+    -
+  grandpacm:
+    -
 functions:
   win:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   scarecrow:
     -
+  scarecrowac:
+    -
+  scarecrowcm:
+    -
 functions:
   unix:
     -

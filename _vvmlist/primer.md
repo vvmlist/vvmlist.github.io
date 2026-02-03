@@ -8,6 +8,10 @@ platfs:
 curls:
   primer:
     -
+  primerac:
+    -
+  primercm:
+    -
 functions:
   unix:
     -

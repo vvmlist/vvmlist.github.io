@@ -8,6 +8,10 @@ platfs:
 curls:
   bunker:
     -
+  bunkerac:
+    -
+  bunkercm:
+    -
 functions:
   unix:
     -

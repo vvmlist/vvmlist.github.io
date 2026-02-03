@@ -12,6 +12,8 @@ curls:
     -
   adroitac:
     -
+  adroitcm:
+    -
 functions:
   unix:
     -

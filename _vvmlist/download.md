@@ -8,6 +8,10 @@ platfs:
 curls:
   download:
     -
+  downloadac:
+    -
+  downloadcm:
+    -
 functions:
   unix:
     -

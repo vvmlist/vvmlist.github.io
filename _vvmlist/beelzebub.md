@@ -8,6 +8,10 @@ platfs:
 curls:
   beelzebub:
     -
+  beelzebubac:
+    -
+  beelzebubcm:
+    -
 functions:
   unix:
     -

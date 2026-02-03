@@ -8,6 +8,10 @@ platfs:
 curls:
   bot challenges flipping bitbot:
     -
+  bot challenges flipping bitbotac:
+    -
+  bot challenges flipping bitbotcm:
+    -
 functions:
   unix:
     -

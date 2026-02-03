@@ -8,6 +8,10 @@ platfs:
 curls:
   proteus:
     -
+  proteusac:
+    -
+  proteuscm:
+    -
 functions:
   unix:
     -

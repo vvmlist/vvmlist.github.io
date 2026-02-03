@@ -6,7 +6,11 @@ platfs:
   vulnhub:
     -
 curls:
-  hellvu:
+  hell (vulnhub):
+    -
+  hell (vulnhub)ac:
+    -
+  hell (vulnhub)cm:
     -
 functions:
   unix:
@@ -45,6 +49,6 @@ functions:
     -
 
 wals:
-  hellvuwu:
+  hell (vulnhub)wu:
     -
 ---

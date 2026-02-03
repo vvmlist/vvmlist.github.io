@@ -8,6 +8,10 @@ platfs:
 curls:
   eighty:
     -
+  eightyac:
+    -
+  eightycm:
+    -
 functions:
   unix:
     -

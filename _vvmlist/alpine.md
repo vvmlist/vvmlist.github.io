@@ -1,0 +1,40 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  alpine:
+    -
+  alpineac:
+    -
+  alpinecm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  source:
+    -
+  creds:
+    -
+  git:
+    -
+  ssh:
+    -
+  cron:
+    -
+  rwp:
+    -
+
+wals:
+  alpinewu:
+    -
+---

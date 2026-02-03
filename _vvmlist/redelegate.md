@@ -3,43 +3,41 @@ diffis:
   h:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   redelegate:
+    -
+  redelegateac:
+    -
+  redelegatecm:
     -
 functions:
   win:
     -
   h:
     -
-  vulnlab:
+  htbvip:
     -
   ad:
     -
-  al:
-    -
   ftp:
+    -
+  al:
     -
   keepass:
     -
   hc:
     -
-  creds:
-    -
-  logical:
-    -
-  bhfcp:
+  bf:
     -
   groups:
     -
+  bhfcp:
+    -
   ted:
     -
-  bhga:
-    -
   cd:
-    -
-  dcsync:
     -
 
 wals:

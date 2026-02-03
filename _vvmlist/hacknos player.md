@@ -8,6 +8,10 @@ platfs:
 curls:
   hacknos player:
     -
+  hacknos playerac:
+    -
+  hacknos playercm:
+    -
 functions:
   unix:
     -

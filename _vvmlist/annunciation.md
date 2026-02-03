@@ -1,0 +1,42 @@
+---
+diffis:
+  h:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  annunciation:
+    -
+  annunciationac:
+    -
+  annunciationcm:
+    -
+functions:
+  unix:
+    -
+  h:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  rce:
+    -
+  pspy:
+    -
+  cron:
+    -
+  rwp:
+    -
+  sudo:
+    -
+  cve:
+    -
+  be:
+    -
+
+wals:
+  annunciationwu:
+    -
+---

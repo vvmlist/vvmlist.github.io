@@ -8,6 +8,10 @@ platfs:
 curls:
   codify:
     -
+  codifyac:
+    -
+  codifycm:
+    -
 functions:
   unix:
     -

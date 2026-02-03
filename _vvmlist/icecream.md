@@ -8,6 +8,10 @@ platfs:
 curls:
   icecream:
     -
+  icecreamac:
+    -
+  icecreamcm:
+    -
 functions:
   unix:
     -

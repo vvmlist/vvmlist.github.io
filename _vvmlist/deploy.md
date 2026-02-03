@@ -8,6 +8,10 @@ platfs:
 curls:
   deploy:
     -
+  deployac:
+    -
+  deploycm:
+    -
 functions:
   unix:
     -

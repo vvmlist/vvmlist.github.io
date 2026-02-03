@@ -8,6 +8,10 @@ platfs:
 curls:
   extension:
     -
+  extensionac:
+    -
+  extensioncm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   schooled:
     -
+  schooledac:
+    -
+  schooledcm:
+    -
 functions:
   unix:
     -

@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  travelvx:
+  travel (vulnyx):
+    -
+  travel (vulnyx)ac:
+    -
+  travel (vulnyx)cm:
     -
 functions:
   unix:
@@ -35,6 +39,6 @@ functions:
     -
 
 wals:
-  travelvxwu:
+  travel (vulnyx)wu:
     -
 ---

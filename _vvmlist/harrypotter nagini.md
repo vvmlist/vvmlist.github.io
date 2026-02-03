@@ -8,6 +8,10 @@ platfs:
 curls:
   harrypotter nagini:
     -
+  harrypotter naginiac:
+    -
+  harrypotter naginicm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   apocalyst:
     -
+  apocalystac:
+    -
+  apocalystcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   spider:
     -
+  spiderac:
+    -
+  spidercm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   superhuman:
     -
+  superhumanac:
+    -
+  superhumancm:
+    -
 functions:
   unix:
     -

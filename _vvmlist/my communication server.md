@@ -8,6 +8,10 @@ platfs:
 curls:
   my communication server:
     -
+  my communication serverac:
+    -
+  my communication servercm:
+    -
 functions:
   unix:
     -

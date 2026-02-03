@@ -8,6 +8,10 @@ platfs:
 curls:
   random:
     -
+  randomac:
+    -
+  randomcm:
+    -
 functions:
   unix:
     -

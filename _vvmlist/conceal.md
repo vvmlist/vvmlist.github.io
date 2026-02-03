@@ -8,6 +8,10 @@ platfs:
 curls:
   conceal:
     -
+  concealac:
+    -
+  concealcm:
+    -
 functions:
   win:
     -

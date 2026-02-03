@@ -8,6 +8,10 @@ platfs:
 curls:
   tabby:
     -
+  tabbyac:
+    -
+  tabbycm:
+    -
 functions:
   unix:
     -

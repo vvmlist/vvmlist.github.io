@@ -10,6 +10,10 @@ curls:
     -
   gigachadhmv:
     -
+  gigachadac:
+    -
+  gigachadcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   controler:
     -
+  controlerac:
+    -
+  controlercm:
+    -
 functions:
   win:
     -

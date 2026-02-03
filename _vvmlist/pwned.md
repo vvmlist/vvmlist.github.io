@@ -10,6 +10,10 @@ curls:
     -
   pwnedvu:
     -
+  pwnedac:
+    -
+  pwnedcm:
+    -
 functions:
   unix:
     -

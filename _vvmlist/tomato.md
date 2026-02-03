@@ -8,6 +8,10 @@ platfs:
 curls:
   tomato:
     -
+  tomatoac:
+    -
+  tomatocm:
+    -
 functions:
   unix:
     -

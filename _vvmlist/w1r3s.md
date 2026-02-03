@@ -8,6 +8,10 @@ platfs:
 curls:
   w1r3s:
     -
+  w1r3sac:
+    -
+  w1r3scm:
+    -
 functions:
   unix:
     -

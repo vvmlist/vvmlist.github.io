@@ -8,6 +8,10 @@ platfs:
 curls:
   connection:
     -
+  connectionac:
+    -
+  connectioncm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   thales:
     -
+  thalesac:
+    -
+  thalescm:
+    -
 functions:
   unix:
     -

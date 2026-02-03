@@ -8,6 +8,10 @@ platfs:
 curls:
   jabita:
     -
+  jabitaac:
+    -
+  jabitacm:
+    -
 functions:
   unix:
     -

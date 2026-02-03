@@ -8,6 +8,10 @@ platfs:
 curls:
   chain:
     -
+  chainac:
+    -
+  chaincm:
+    -
 functions:
   unix:
     -

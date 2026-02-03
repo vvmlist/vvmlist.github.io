@@ -8,6 +8,10 @@ platfs:
 curls:
   cheesey cheeseyjack:
     -
+  cheesey cheeseyjackac:
+    -
+  cheesey cheeseyjackcm:
+    -
 functions:
   unix:
     -

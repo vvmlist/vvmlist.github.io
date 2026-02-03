@@ -8,6 +8,10 @@ platfs:
 curls:
   grimtheripper:
     -
+  grimtheripperac:
+    -
+  grimtherippercm:
+    -
 functions:
   unix:
     -

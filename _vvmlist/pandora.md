@@ -8,6 +8,10 @@ platfs:
 curls:
   pandora:
     -
+  pandoraac:
+    -
+  pandoracm:
+    -
 functions:
   unix:
     -

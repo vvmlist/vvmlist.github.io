@@ -8,6 +8,10 @@ platfs:
 curls:
   sectalks bne0x03 simple:
     -
+  sectalks bne0x03 simpleac:
+    -
+  sectalks bne0x03 simplecm:
+    -
 functions:
   unix:
     -

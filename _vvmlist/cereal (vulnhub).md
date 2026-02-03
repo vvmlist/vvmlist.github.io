@@ -6,7 +6,11 @@ platfs:
   vulnhub:
     -
 curls:
-  cerealvu:
+  cereal (vulnhub):
+    -
+  cereal (vulnhub)ac:
+    -
+  cereal (vulnhub)cm:
     -
 functions:
   unix:
@@ -29,6 +33,6 @@ functions:
     -
 
 wals:
-  cerealvuwu:
+  cereal (vulnhub)wu:
     -
 ---

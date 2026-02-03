@@ -8,6 +8,10 @@ platfs:
 curls:
   sink:
     -
+  sinkac:
+    -
+  sinkcm:
+    -
 functions:
   unix:
     -

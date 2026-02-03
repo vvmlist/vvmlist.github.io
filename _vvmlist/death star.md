@@ -8,6 +8,10 @@ platfs:
 curls:
   death star:
     -
+  death starac:
+    -
+  death starcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   pwn the tron:
     -
+  pwn the tronac:
+    -
+  pwn the troncm:
+    -
 functions:
   unix:
     -

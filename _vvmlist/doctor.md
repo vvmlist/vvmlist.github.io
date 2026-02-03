@@ -8,6 +8,10 @@ platfs:
 curls:
   doctor:
     -
+  doctorac:
+    -
+  doctorcm:
+    -
 functions:
   unix:
     -

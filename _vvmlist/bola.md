@@ -1,0 +1,46 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  bola:
+    -
+  bolaac:
+    -
+  bolacm:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  rsync:
+    -
+  al:
+    -
+  bf:
+    -
+  creds:
+    -
+  logical:
+    -
+  idor:
+    -
+  ssh:
+    -
+  tunnel:
+    -
+  rce:
+    -
+
+wals:
+  bolawu:
+    -
+---

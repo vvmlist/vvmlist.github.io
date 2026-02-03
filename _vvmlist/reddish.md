@@ -8,6 +8,10 @@ platfs:
 curls:
   reddish:
     -
+  reddishac:
+    -
+  reddishcm:
+    -
 functions:
   unix:
     -

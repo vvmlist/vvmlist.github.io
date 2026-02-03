@@ -8,6 +8,10 @@ platfs:
 curls:
   lame:
     -
+  lameac:
+    -
+  lamecm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   depth:
     -
+  depthac:
+    -
+  depthcm:
+    -
 functions:
   unix:
     -

@@ -10,6 +10,10 @@ curls:
     -
   solidstatevh:
     -
+  solidstateac:
+    -
+  solidstatecm:
+    -
 functions:
   unix:
     -

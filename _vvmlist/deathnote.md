@@ -8,6 +8,10 @@ platfs:
 curls:
   deathnote:
     -
+  deathnoteac:
+    -
+  deathnotecm:
+    -
 functions:
   unix:
     -

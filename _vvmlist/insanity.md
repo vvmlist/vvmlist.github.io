@@ -8,6 +8,10 @@ platfs:
 curls:
   insanity:
     -
+  insanityac:
+    -
+  insanitycm:
+    -
 functions:
   unix:
     -

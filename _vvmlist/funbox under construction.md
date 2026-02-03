@@ -8,6 +8,10 @@ platfs:
 curls:
   funbox under construction:
     -
+  funbox under constructionac:
+    -
+  funbox under constructioncm:
+    -
 functions:
   unix:
     -

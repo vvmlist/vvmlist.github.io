@@ -8,6 +8,10 @@ platfs:
 curls:
   listen:
     -
+  listenac:
+    -
+  listencm:
+    -
 functions:
   unix:
     -

@@ -10,6 +10,8 @@ curls:
     -
   basemeac:
     -
+  basemecm:
+    -
 functions:
   unix:
     -
@@ -23,8 +25,8 @@ functions:
     -
   sudo:
     -
-
 wals:
   basemewu:
     -
+
 ---

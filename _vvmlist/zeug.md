@@ -8,6 +8,10 @@ platfs:
 curls:
   zeug:
     -
+  zeugac:
+    -
+  zeugcm:
+    -
 functions:
   unix:
     -

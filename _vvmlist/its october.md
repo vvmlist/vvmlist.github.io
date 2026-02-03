@@ -8,6 +8,10 @@ platfs:
 curls:
   its october:
     -
+  its octoberac:
+    -
+  its octobercm:
+    -
 functions:
   unix:
     -

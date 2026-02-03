@@ -8,6 +8,10 @@ platfs:
 curls:
   underdist 3:
     -
+  underdist 3ac:
+    -
+  underdist 3cm:
+    -
 functions:
   unix:
     -

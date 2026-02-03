@@ -8,6 +8,10 @@ platfs:
 curls:
   escalate_linux:
     -
+  escalate_linuxac:
+    -
+  escalate_linuxcm:
+    -
 functions:
   unix:
     -

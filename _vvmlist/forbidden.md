@@ -8,6 +8,10 @@ platfs:
 curls:
   forbidden:
     -
+  forbiddenac:
+    -
+  forbiddencm:
+    -
 functions:
   unix:
     -

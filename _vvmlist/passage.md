@@ -8,6 +8,10 @@ platfs:
 curls:
   passage:
     -
+  passageac:
+    -
+  passagecm:
+    -
 functions:
   unix:
     -

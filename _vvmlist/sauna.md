@@ -8,6 +8,10 @@ platfs:
 curls:
   sauna:
     -
+  saunaac:
+    -
+  saunacm:
+    -
 functions:
   win:
     -

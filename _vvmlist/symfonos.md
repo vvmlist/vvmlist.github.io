@@ -8,6 +8,10 @@ platfs:
 curls:
   symfonos:
     -
+  symfonosac:
+    -
+  symfonoscm:
+    -
 functions:
   unix:
     -

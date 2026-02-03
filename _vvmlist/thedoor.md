@@ -1,0 +1,50 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  thedoor:
+    -
+  thedoorac:
+    -
+  thedoorcm:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  vulnyx:
+    -
+  ftp:
+    -
+  al:
+    -
+  fuzz:
+    -
+  sqli:
+    -
+  idor:
+    -
+  fj:
+    -
+  rce:
+    -
+  ep:
+    -
+  cron:
+    -
+  pspy:
+    -
+  ssh:
+    -
+  cap:
+    -
+
+wals:
+  thedoorwu:
+    -
+---

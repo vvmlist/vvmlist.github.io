@@ -8,6 +8,10 @@ platfs:
 curls:
   publisher:
     -
+  publisherac:
+    -
+  publishercm:
+    -
 functions:
   unix:
     -

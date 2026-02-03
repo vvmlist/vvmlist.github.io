@@ -8,6 +8,10 @@ platfs:
 curls:
   hacking messiah:
     -
+  hacking messiahac:
+    -
+  hacking messiahcm:
+    -
 functions:
   unix:
     -

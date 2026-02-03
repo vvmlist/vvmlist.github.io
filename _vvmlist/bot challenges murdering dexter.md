@@ -10,6 +10,8 @@ curls:
     -
   bot challenges murdering dexterac:
     -
+  bot challenges murdering dextercm:
+    -
 functions:
   unix:
     -
@@ -27,8 +29,8 @@ functions:
     -
   ci:
     -
-
 wals:
   bot challenges murdering dexterwu:
     -
+
 ---

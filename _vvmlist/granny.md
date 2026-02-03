@@ -8,6 +8,10 @@ platfs:
 curls:
   granny:
     -
+  grannyac:
+    -
+  grannycm:
+    -
 functions:
   win:
     -

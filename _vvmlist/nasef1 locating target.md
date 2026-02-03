@@ -8,6 +8,10 @@ platfs:
 curls:
   nasef1 locating target:
     -
+  nasef1 locating targetac:
+    -
+  nasef1 locating targetcm:
+    -
 functions:
   unix:
     -

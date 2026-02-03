@@ -8,6 +8,10 @@ platfs:
 curls:
   tron:
     -
+  tronac:
+    -
+  troncm:
+    -
 functions:
   unix:
     -

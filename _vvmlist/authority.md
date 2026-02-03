@@ -8,6 +8,10 @@ platfs:
 curls:
   authority:
     -
+  authorityac:
+    -
+  authoritycm:
+    -
 functions:
   win:
     -

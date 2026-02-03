@@ -8,6 +8,10 @@ platfs:
 curls:
   ha avengers arsenal:
     -
+  ha avengers arsenalac:
+    -
+  ha avengers arsenalcm:
+    -
 functions:
   unix:
     -

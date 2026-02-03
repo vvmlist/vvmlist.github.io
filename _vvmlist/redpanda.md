@@ -8,6 +8,10 @@ platfs:
 curls:
   redpanda:
     -
+  redpandaac:
+    -
+  redpandacm:
+    -
 functions:
   unix:
     -

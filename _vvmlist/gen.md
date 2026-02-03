@@ -8,6 +8,10 @@ platfs:
 curls:
   gen:
     -
+  genac:
+    -
+  gencm:
+    -
 functions:
   unix:
     -

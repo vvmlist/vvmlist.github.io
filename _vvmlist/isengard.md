@@ -8,6 +8,10 @@ platfs:
 curls:
   isengard:
     -
+  isengardac:
+    -
+  isengardcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   dynstr:
     -
+  dynstrac:
+    -
+  dynstrcm:
+    -
 functions:
   unix:
     -

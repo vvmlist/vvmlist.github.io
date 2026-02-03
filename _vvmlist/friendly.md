@@ -8,6 +8,10 @@ platfs:
 curls:
   friendly:
     -
+  friendlyac:
+    -
+  friendlycm:
+    -
 functions:
   unix:
     -

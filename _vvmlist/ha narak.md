@@ -8,6 +8,10 @@ platfs:
 curls:
   ha narak:
     -
+  ha narakac:
+    -
+  ha narakcm:
+    -
 functions:
   unix:
     -

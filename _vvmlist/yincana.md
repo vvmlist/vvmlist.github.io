@@ -8,6 +8,10 @@ platfs:
 curls:
   yincana:
     -
+  yincanaac:
+    -
+  yincanacm:
+    -
 functions:
   unix:
     -

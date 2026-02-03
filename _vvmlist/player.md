@@ -8,6 +8,10 @@ platfs:
 curls:
   player:
     -
+  playerac:
+    -
+  playercm:
+    -
 functions:
   unix:
     -

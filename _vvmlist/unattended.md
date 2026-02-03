@@ -8,6 +8,10 @@ platfs:
 curls:
   unattended:
     -
+  unattendedac:
+    -
+  unattendedcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   coffee addicts:
     -
+  coffee addictsac:
+    -
+  coffee addictscm:
+    -
 functions:
   unix:
     -

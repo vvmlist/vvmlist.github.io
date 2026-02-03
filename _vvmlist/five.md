@@ -8,6 +8,10 @@ platfs:
 curls:
   five:
     -
+  fiveac:
+    -
+  fivecm:
+    -
 functions:
   unix:
     -

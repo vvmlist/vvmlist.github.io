@@ -8,6 +8,10 @@ platfs:
 curls:
   dab:
     -
+  dabac:
+    -
+  dabcm:
+    -
 functions:
   unix:
     -

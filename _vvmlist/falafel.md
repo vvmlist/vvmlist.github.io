@@ -8,6 +8,10 @@ platfs:
 curls:
   falafel:
     -
+  falafelac:
+    -
+  falafelcm:
+    -
 functions:
   unix:
     -

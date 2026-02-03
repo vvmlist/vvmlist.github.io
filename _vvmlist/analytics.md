@@ -8,6 +8,10 @@ platfs:
 curls:
   analytics:
     -
+  analyticsac:
+    -
+  analyticscm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   plex:
     -
+  plexac:
+    -
+  plexcm:
+    -
 functions:
   unix:
     -

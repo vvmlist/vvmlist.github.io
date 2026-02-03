@@ -8,6 +8,10 @@ platfs:
 curls:
   tre:
     -
+  treac:
+    -
+  trecm:
+    -
 functions:
   unix:
     -

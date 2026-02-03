@@ -8,6 +8,10 @@ platfs:
 curls:
   smashthetux:
     -
+  smashthetuxac:
+    -
+  smashthetuxcm:
+    -
 functions:
   unix:
     -

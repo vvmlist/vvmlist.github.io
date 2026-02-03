@@ -1,0 +1,34 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  lower6:
+    -
+  lower6ac:
+    -
+  lower6cm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  redis:
+    -
+  bf:
+    -
+  ssh:
+    -
+  cap:
+    -
+
+wals:
+  lower6wu:
+    -
+---

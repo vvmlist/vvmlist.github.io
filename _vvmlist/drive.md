@@ -8,6 +8,10 @@ platfs:
 curls:
   drive:
     -
+  driveac:
+    -
+  drivecm:
+    -
 functions:
   unix:
     -

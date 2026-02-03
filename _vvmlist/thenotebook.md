@@ -8,6 +8,10 @@ platfs:
 curls:
   thenotebook:
     -
+  thenotebookac:
+    -
+  thenotebookcm:
+    -
 functions:
   unix:
     -

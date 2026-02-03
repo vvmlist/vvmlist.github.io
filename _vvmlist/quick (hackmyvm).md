@@ -6,7 +6,11 @@ platfs:
   hackmyvm:
     -
 curls:
-  quickh:
+  quick (hackmyvm):
+    -
+  quick (hackmyvm)ac:
+    -
+  quick (hackmyvm)cm:
     -
 functions:
   unix:
@@ -23,6 +27,6 @@ functions:
     -
 
 wals:
-  quickhwu:
+  quick (hackmyvm)wu:
     -
 ---

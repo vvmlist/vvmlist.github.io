@@ -10,6 +10,8 @@ curls:
     -
   bluemoon 2021ac:
     -
+  bluemoon 2021cm:
+    -
 functions:
   unix:
     -
@@ -31,8 +33,8 @@ functions:
     -
   docker:
     -
-
 wals:
   bluemoon 2021wu:
     -
+
 ---

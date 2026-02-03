@@ -8,6 +8,10 @@ platfs:
 curls:
   milk:
     -
+  milkac:
+    -
+  milkcm:
+    -
 functions:
   unix:
     -

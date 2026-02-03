@@ -8,6 +8,10 @@ platfs:
 curls:
   tartarsauce:
     -
+  tartarsauceac:
+    -
+  tartarsaucecm:
+    -
 functions:
   unix:
     -

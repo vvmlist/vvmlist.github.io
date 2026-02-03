@@ -8,6 +8,10 @@ platfs:
 curls:
   topology:
     -
+  topologyac:
+    -
+  topologycm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   corporate:
     -
+  corporateac:
+    -
+  corporatecm:
+    -
 functions:
   unix:
     -

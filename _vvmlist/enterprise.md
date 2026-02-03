@@ -8,6 +8,10 @@ platfs:
 curls:
   enterprise:
     -
+  enterpriseac:
+    -
+  enterprisecm:
+    -
 functions:
   unix:
     -

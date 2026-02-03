@@ -1,0 +1,34 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  explorer:
+    -
+  explorerac:
+    -
+  explorercm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  dcr:
+    -
+  rce:
+    -
+  creds:
+    -
+  passre:
+    -
+
+wals:
+  explorerwu:
+    -
+---

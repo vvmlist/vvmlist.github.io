@@ -8,6 +8,10 @@ platfs:
 curls:
   unknowndevice64 2:
     -
+  unknowndevice64 2ac:
+    -
+  unknowndevice64 2cm:
+    -
 functions:
   unix:
     -

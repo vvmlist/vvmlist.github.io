@@ -8,6 +8,10 @@ platfs:
 curls:
   awkward:
     -
+  awkwardac:
+    -
+  awkwardcm:
+    -
 functions:
   unix:
     -

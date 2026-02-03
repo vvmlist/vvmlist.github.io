@@ -8,6 +8,10 @@ platfs:
 curls:
   brainfuck:
     -
+  brainfuckac:
+    -
+  brainfuckcm:
+    -
 functions:
   unix:
     -

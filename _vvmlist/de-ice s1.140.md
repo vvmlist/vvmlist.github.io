@@ -8,6 +8,10 @@ platfs:
 curls:
   de-ice s1.140:
     -
+  de-ice s1.140ac:
+    -
+  de-ice s1.140cm:
+    -
 functions:
   unix:
     -

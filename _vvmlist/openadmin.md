@@ -8,6 +8,10 @@ platfs:
 curls:
   openadmin:
     -
+  openadminac:
+    -
+  openadmincm:
+    -
 functions:
   unix:
     -

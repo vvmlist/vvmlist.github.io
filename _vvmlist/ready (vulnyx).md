@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  readyvx:
+  ready (vulnyx):
+    -
+  ready (vulnyx)ac:
+    -
+  ready (vulnyx)cm:
     -
 functions:
   unix:
@@ -31,6 +35,6 @@ functions:
     -
 
 wals:
-  readyvxwu:
+  ready (vulnyx)wu:
     -
 ---

@@ -8,6 +8,10 @@ platfs:
 curls:
   secret:
     -
+  secretac:
+    -
+  secretcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   enubox mattermost:
     -
+  enubox mattermostac:
+    -
+  enubox mattermostcm:
+    -
 functions:
   unix:
     -

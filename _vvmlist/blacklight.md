@@ -8,6 +8,10 @@ platfs:
 curls:
   blacklight:
     -
+  blacklightac:
+    -
+  blacklightcm:
+    -
 functions:
   unix:
     -

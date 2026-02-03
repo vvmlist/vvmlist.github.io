@@ -8,6 +8,10 @@ platfs:
 curls:
   leet:
     -
+  leetac:
+    -
+  leetcm:
+    -
 functions:
   unix:
     -

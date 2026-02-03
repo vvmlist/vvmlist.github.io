@@ -8,6 +8,10 @@ platfs:
 curls:
   super mario host:
     -
+  super mario hostac:
+    -
+  super mario hostcm:
+    -
 functions:
   unix:
     -

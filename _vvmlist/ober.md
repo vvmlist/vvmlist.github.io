@@ -1,0 +1,34 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  ober:
+    -
+  oberac:
+    -
+  obercm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  dcr:
+    -
+  rce:
+    -
+  creds:
+    -
+
+wals:
+  oberwu:
+    -
+---

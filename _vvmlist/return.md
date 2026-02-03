@@ -8,6 +8,10 @@ platfs:
 curls:
   return:
     -
+  returnac:
+    -
+  returncm:
+    -
 functions:
   win:
     -

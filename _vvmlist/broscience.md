@@ -8,6 +8,10 @@ platfs:
 curls:
   broscience:
     -
+  broscienceac:
+    -
+  brosciencecm:
+    -
 functions:
   unix:
     -

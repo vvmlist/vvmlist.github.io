@@ -8,6 +8,10 @@ platfs:
 curls:
   otte:
     -
+  otteac:
+    -
+  ottecm:
+    -
 functions:
   unix:
     -

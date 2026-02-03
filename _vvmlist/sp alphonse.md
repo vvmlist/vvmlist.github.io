@@ -10,6 +10,10 @@ curls:
     -
   sp alphonseac:
     -
+  sp alphonseac:
+    -
+  sp alphonsecm:
+    -
 functions:
   unix:
     -

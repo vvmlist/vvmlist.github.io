@@ -8,6 +8,10 @@ platfs:
 curls:
   skyfall:
     -
+  skyfallac:
+    -
+  skyfallcm:
+    -
 functions:
   unix:
     -

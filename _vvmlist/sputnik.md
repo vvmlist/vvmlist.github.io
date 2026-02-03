@@ -8,6 +8,10 @@ platfs:
 curls:
   sputnik:
     -
+  sputnikac:
+    -
+  sputnikcm:
+    -
 functions:
   unix:
     -

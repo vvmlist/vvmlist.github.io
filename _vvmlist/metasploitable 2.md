@@ -8,6 +8,10 @@ platfs:
 curls:
   metasploitable 2:
     -
+  metasploitable 2ac:
+    -
+  metasploitable 2cm:
+    -
 functions:
   unix:
     -

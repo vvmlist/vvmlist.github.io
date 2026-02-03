@@ -10,6 +10,8 @@ curls:
     -
   bossplayersctfac:
     -
+  bossplayersctfcm:
+    -
 functions:
   unix:
     -
@@ -23,8 +25,8 @@ functions:
     -
   suid:
     -
-
 wals:
   bossplayersctfwu:
     -
+
 ---

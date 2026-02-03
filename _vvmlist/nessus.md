@@ -8,6 +8,10 @@ platfs:
 curls:
   nessus:
     -
+  nessusac:
+    -
+  nessuscm:
+    -
 functions:
   win:
     -

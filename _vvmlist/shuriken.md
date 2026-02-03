@@ -8,6 +8,10 @@ platfs:
 curls:
   shuriken:
     -
+  shurikenac:
+    -
+  shurikencm:
+    -
 functions:
   unix:
     -

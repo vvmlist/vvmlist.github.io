@@ -8,6 +8,10 @@ platfs:
 curls:
   sekhmet:
     -
+  sekhmetac:
+    -
+  sekhmetcm:
+    -
 functions:
   win:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   quick3:
     -
+  quick3ac:
+    -
+  quick3cm:
+    -
 functions:
   unix:
     -

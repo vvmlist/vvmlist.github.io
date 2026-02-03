@@ -8,6 +8,10 @@ platfs:
 curls:
   silky-ctf 0x02:
     -
+  silky-ctf 0x02ac:
+    -
+  silky-ctf 0x02cm:
+    -
 functions:
   unix:
     -

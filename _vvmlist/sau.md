@@ -8,6 +8,10 @@ platfs:
 curls:
   sau:
     -
+  sauac:
+    -
+  saucm:
+    -
 functions:
   unix:
     -

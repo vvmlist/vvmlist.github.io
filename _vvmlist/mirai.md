@@ -8,6 +8,10 @@ platfs:
 curls:
   mirai:
     -
+  miraiac:
+    -
+  miraicm:
+    -
 functions:
   unix:
     -

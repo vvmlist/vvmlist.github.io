@@ -8,6 +8,10 @@ platfs:
 curls:
   pinkys palace v2:
     -
+  pinkys palace v2ac:
+    -
+  pinkys palace v2cm:
+    -
 functions:
   unix:
     -

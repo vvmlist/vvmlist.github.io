@@ -8,6 +8,10 @@ platfs:
 curls:
   the library:
     -
+  the libraryac:
+    -
+  the librarycm:
+    -
 functions:
   unix:
     -

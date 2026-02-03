@@ -8,6 +8,10 @@ platfs:
 curls:
   sun:
     -
+  sunac:
+    -
+  suncm:
+    -
 functions:
   unix:
     -

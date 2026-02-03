@@ -8,6 +8,10 @@ platfs:
 curls:
   wtf:
     -
+  wtfac:
+    -
+  wtfcm:
+    -
 functions:
   unix:
     -

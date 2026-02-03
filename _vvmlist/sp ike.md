@@ -8,6 +8,10 @@ platfs:
 curls:
   sp ike:
     -
+  sp ikeac:
+    -
+  sp ikecm:
+    -
 functions:
   unix:
     -

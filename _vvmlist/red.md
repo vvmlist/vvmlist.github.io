@@ -8,6 +8,10 @@ platfs:
 curls:
   red:
     -
+  redac:
+    -
+  redcm:
+    -
 functions:
   unix:
     -

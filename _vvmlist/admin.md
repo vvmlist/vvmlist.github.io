@@ -8,6 +8,10 @@ platfs:
 curls:
   admin:
     -
+  adminac:
+    -
+  admincm:
+    -
 functions:
   win:
     -

@@ -10,6 +10,8 @@ curls:
     -
   backdooredac:
     -
+  backdooredcm:
+    -
 functions:
   unix:
     -
@@ -25,8 +27,8 @@ functions:
     -
   cap:
     -
-
 wals:
   backdooredwu:
     -
+
 ---

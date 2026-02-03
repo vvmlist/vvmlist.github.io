@@ -8,6 +8,10 @@ platfs:
 curls:
   hackback:
     -
+  hackbackac:
+    -
+  hackbackcm:
+    -
 functions:
   win:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   keeper:
     -
+  keeperac:
+    -
+  keepercm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   cysec 2:
     -
+  cysec 2ac:
+    -
+  cysec 2cm:
+    -
 functions:
   unix:
     -

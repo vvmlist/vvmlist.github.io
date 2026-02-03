@@ -8,6 +8,10 @@ platfs:
 curls:
   crossfittwo:
     -
+  crossfittwoac:
+    -
+  crossfittwocm:
+    -
 functions:
   unix:
     -

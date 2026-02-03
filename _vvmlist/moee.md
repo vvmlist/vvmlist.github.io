@@ -8,6 +8,10 @@ platfs:
 curls:
   moee:
     -
+  moeeac:
+    -
+  moeecm:
+    -
 functions:
   unix:
     -

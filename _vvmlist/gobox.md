@@ -8,6 +8,10 @@ platfs:
 curls:
   gobox:
     -
+  goboxac:
+    -
+  goboxcm:
+    -
 functions:
   unix:
     -

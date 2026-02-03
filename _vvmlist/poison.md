@@ -8,6 +8,10 @@ platfs:
 curls:
   poison:
     -
+  poisonac:
+    -
+  poisoncm:
+    -
 functions:
   unix:
     -

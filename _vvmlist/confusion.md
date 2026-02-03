@@ -8,6 +8,10 @@ platfs:
 curls:
   confusion:
     -
+  confusionac:
+    -
+  confusioncm:
+    -
 functions:
   unix:
     -

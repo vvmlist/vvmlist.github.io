@@ -8,6 +8,10 @@ platfs:
 curls:
   espo:
     -
+  espoac:
+    -
+  espocm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   json:
     -
+  jsonac:
+    -
+  jsoncm:
+    -
 functions:
   win:
     -

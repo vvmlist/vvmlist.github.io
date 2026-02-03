@@ -8,6 +8,10 @@ platfs:
 curls:
   vessel:
     -
+  vesselac:
+    -
+  vesselcm:
+    -
 functions:
   unix:
     -

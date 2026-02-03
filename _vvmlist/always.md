@@ -8,6 +8,10 @@ platfs:
 curls:
   always:
     -
+  alwaysac:
+    -
+  alwayscm:
+    -
 functions:
   win:
     -

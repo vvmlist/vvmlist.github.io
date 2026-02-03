@@ -8,6 +8,10 @@ platfs:
 curls:
   infovore:
     -
+  infovoreac:
+    -
+  infovorecm:
+    -
 functions:
   unix:
     -

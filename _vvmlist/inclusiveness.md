@@ -8,6 +8,10 @@ platfs:
 curls:
   inclusiveness:
     -
+  inclusivenessac:
+    -
+  inclusivenesscm:
+    -
 functions:
   unix:
     -

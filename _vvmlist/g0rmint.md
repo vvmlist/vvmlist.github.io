@@ -8,6 +8,10 @@ platfs:
 curls:
   g0rmint:
     -
+  g0rmintac:
+    -
+  g0rmintcm:
+    -
 functions:
   unix:
     -

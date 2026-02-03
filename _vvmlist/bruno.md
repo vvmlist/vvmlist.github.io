@@ -3,23 +3,27 @@ diffis:
   m:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   bruno:
+    -
+  brunoac:
+    -
+  brunocm:
     -
 functions:
   win:
     -
   m:
     -
-  vulnlab:
+  htbvip:
     -
   ad:
     -
-  al:
-    -
   ftp:
+    -
+  al:
     -
   asrep:
     -
@@ -27,11 +31,9 @@ functions:
     -
   smb:
     -
-  rev:
-    -
-  zz:
-    -
   dllj:
+    -
+  source:
     -
   krbr:
     -

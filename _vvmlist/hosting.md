@@ -8,6 +8,10 @@ platfs:
 curls:
   hosting:
     -
+  hostingac:
+    -
+  hostingcm:
+    -
 functions:
   win:
     -

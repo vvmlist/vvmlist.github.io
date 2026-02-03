@@ -8,6 +8,10 @@ platfs:
 curls:
   acute:
     -
+  acuteac:
+    -
+  acutecm:
+    -
 functions:
   win:
     -

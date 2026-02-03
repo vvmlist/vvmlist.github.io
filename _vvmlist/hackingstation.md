@@ -8,6 +8,10 @@ platfs:
 curls:
   hackingstation:
     -
+  hackingstationac:
+    -
+  hackingstationcm:
+    -
 functions:
   unix:
     -

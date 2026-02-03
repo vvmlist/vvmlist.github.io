@@ -8,6 +8,10 @@ platfs:
 curls:
   translator:
     -
+  translatorac:
+    -
+  translatorcm:
+    -
 functions:
   unix:
     -

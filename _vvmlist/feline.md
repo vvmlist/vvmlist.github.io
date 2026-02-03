@@ -8,6 +8,10 @@ platfs:
 curls:
   feline:
     -
+  felineac:
+    -
+  felinecm:
+    -
 functions:
   unix:
     -

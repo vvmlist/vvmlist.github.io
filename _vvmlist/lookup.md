@@ -8,6 +8,10 @@ platfs:
 curls:
   lookup:
     -
+  lookupac:
+    -
+  lookupcm:
+    -
 functions:
   unix:
     -

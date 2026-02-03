@@ -1,0 +1,34 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  lower3:
+    -
+  lower3ac:
+    -
+  lower3cm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  nfs:
+    -
+  al:
+    -
+  rce:
+    -
+  squash:
+    -
+
+wals:
+  lower3wu:
+    -
+---

@@ -8,6 +8,10 @@ platfs:
 curls:
   victim:
     -
+  victimac:
+    -
+  victimcm:
+    -
 functions:
   unix:
     -

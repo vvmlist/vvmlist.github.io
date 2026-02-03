@@ -8,6 +8,10 @@ platfs:
 curls:
   otp:
     -
+  otpac:
+    -
+  otpcm:
+    -
 functions:
   unix:
     -

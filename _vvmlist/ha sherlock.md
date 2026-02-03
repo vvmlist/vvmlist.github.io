@@ -8,6 +8,10 @@ platfs:
 curls:
   ha sherlock:
     -
+  ha sherlockac:
+    -
+  ha sherlockcm:
+    -
 functions:
   unix:
     -

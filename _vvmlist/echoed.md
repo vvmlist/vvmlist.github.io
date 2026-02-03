@@ -8,6 +8,10 @@ platfs:
 curls:
   echoed:
     -
+  echoedac:
+    -
+  echoedcm:
+    -
 functions:
   unix:
     -

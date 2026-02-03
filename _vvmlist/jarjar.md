@@ -8,6 +8,10 @@ platfs:
 curls:
   jarjar:
     -
+  jarjarac:
+    -
+  jarjarcm:
+    -
 functions:
   unix:
     -

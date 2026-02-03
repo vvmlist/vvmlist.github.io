@@ -1,0 +1,42 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  carlam:
+    -
+  carlamac:
+    -
+  carlamcm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  bf:
+    -
+  nfs:
+    -
+  al:
+    -
+  ssh:
+    -
+  websocket:
+    -
+  decode:
+    -
+  creds:
+    -
+  sudo:
+    -
+
+wals:
+  carlamwu:
+    -
+---

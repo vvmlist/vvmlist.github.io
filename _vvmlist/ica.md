@@ -8,6 +8,10 @@ platfs:
 curls:
   ica:
     -
+  icaac:
+    -
+  icacm:
+    -
 functions:
   unix:
     -

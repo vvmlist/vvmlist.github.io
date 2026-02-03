@@ -8,6 +8,10 @@ platfs:
 curls:
   empire breakout:
     -
+  empire breakoutac:
+    -
+  empire breakoutcm:
+    -
 functions:
   unix:
     -

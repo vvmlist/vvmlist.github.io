@@ -8,6 +8,10 @@ platfs:
 curls:
   odin:
     -
+  odinac:
+    -
+  odincm:
+    -
 functions:
   unix:
     -

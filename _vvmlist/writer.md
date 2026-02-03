@@ -8,6 +8,10 @@ platfs:
 curls:
   writer:
     -
+  writerac:
+    -
+  writercm:
+    -
 functions:
   unix:
     -

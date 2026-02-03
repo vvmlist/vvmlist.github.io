@@ -8,6 +8,10 @@ platfs:
 curls:
   colddworld immersion:
     -
+  colddworld immersionac:
+    -
+  colddworld immersioncm:
+    -
 functions:
   unix:
     -

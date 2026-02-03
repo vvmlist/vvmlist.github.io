@@ -8,6 +8,10 @@ platfs:
 curls:
   blue:
     -
+  blueac:
+    -
+  bluecm:
+    -
 functions:
   win:
     -

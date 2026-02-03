@@ -8,6 +8,10 @@ platfs:
 curls:
   gemini inc 2:
     -
+  gemini inc 2ac:
+    -
+  gemini inc 2cm:
+    -
 functions:
   unix:
     -

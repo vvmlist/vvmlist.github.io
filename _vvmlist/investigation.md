@@ -8,6 +8,10 @@ platfs:
 curls:
   investigation:
     -
+  investigationac:
+    -
+  investigationcm:
+    -
 functions:
   unix:
     -

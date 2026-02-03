@@ -8,6 +8,10 @@ platfs:
 curls:
   delivery:
     -
+  deliveryac:
+    -
+  deliverycm:
+    -
 functions:
   unix:
     -

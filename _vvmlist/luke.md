@@ -8,6 +8,10 @@ platfs:
 curls:
   luke:
     -
+  lukeac:
+    -
+  lukecm:
+    -
 functions:
   unix:
     -

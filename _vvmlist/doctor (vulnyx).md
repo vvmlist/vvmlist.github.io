@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  doctorvx:
+  doctor (vulnyx):
+    -
+  doctor (vulnyx)ac:
+    -
+  doctor (vulnyx)cm:
     -
 functions:
   unix:
@@ -25,6 +29,6 @@ functions:
     -
 
 wals:
-  doctorvxwu:
+  doctor (vulnyx)wu:
     -
 ---

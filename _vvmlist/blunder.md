@@ -8,6 +8,10 @@ platfs:
 curls:
   blunder:
     -
+  blunderac:
+    -
+  blundercm:
+    -
 functions:
   unix:
     -

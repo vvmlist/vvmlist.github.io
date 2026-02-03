@@ -8,6 +8,10 @@ platfs:
 curls:
   observer:
     -
+  observerac:
+    -
+  observercm:
+    -
 functions:
   unix:
     -

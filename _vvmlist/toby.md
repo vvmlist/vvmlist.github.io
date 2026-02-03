@@ -8,6 +8,10 @@ platfs:
 curls:
   toby:
     -
+  tobyac:
+    -
+  tobycm:
+    -
 functions:
   unix:
     -

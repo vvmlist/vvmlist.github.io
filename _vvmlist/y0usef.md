@@ -8,6 +8,10 @@ platfs:
 curls:
   y0usef:
     -
+  y0usefac:
+    -
+  y0usefcm:
+    -
 functions:
   unix:
     -

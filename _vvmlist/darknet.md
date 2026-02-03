@@ -8,6 +8,10 @@ platfs:
 curls:
   darknet:
     -
+  darknetac:
+    -
+  darknetcm:
+    -
 functions:
   unix:
     -

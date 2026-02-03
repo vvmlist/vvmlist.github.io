@@ -8,6 +8,10 @@ platfs:
 curls:
   tentacle:
     -
+  tentacleac:
+    -
+  tentaclecm:
+    -
 functions:
   unix:
     -

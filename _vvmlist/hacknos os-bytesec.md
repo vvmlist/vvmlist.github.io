@@ -8,6 +8,10 @@ platfs:
 curls:
   hacknos os-bytesec:
     -
+  hacknos os-bytesecac:
+    -
+  hacknos os-byteseccm:
+    -
 functions:
   unix:
     -

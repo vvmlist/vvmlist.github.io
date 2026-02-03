@@ -8,6 +8,10 @@ platfs:
 curls:
   64base:
     -
+  64baseac:
+    -
+  64basecm:
+    -
 functions:
   unix:
     -

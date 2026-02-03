@@ -8,6 +8,10 @@ platfs:
 curls:
   moonraker:
     -
+  moonrakerac:
+    -
+  moonrakercm:
+    -
 functions:
   unix:
     -

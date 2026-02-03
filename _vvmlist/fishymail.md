@@ -8,6 +8,10 @@ platfs:
 curls:
   fishymail:
     -
+  fishymailac:
+    -
+  fishymailcm:
+    -
 functions:
   unix:
     -

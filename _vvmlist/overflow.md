@@ -8,6 +8,10 @@ platfs:
 curls:
   overflow:
     -
+  overflowac:
+    -
+  overflowcm:
+    -
 functions:
   unix:
     -

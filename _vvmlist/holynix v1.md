@@ -8,6 +8,10 @@ platfs:
 curls:
   holynix v1:
     -
+  holynix v1ac:
+    -
+  holynix v1cm:
+    -
 functions:
   unix:
     -

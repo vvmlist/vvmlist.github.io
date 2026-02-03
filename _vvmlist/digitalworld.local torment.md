@@ -8,6 +8,10 @@ platfs:
 curls:
   digitalworld.local torment:
     -
+  digitalworld.local tormentac:
+    -
+  digitalworld.local tormentcm:
+    -
 functions:
   unix:
     -

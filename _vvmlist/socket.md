@@ -8,6 +8,10 @@ platfs:
 curls:
   socket:
     -
+  socketac:
+    -
+  socketcm:
+    -
 functions:
   unix:
     -

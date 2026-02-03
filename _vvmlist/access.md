@@ -8,6 +8,10 @@ platfs:
 curls:
   access:
     -
+  accessac:
+    -
+  accesscm:
+    -
 functions:
   win:
     -

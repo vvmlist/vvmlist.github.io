@@ -8,6 +8,10 @@ platfs:
 curls:
   bounty:
     -
+  bountyac:
+    -
+  bountycm:
+    -
 functions:
   win:
     -

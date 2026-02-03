@@ -8,6 +8,10 @@ platfs:
 curls:
   ino:
     -
+  inoac:
+    -
+  inocm:
+    -
 functions:
   unix:
     -

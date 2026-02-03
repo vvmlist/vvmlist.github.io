@@ -8,6 +8,10 @@ platfs:
 curls:
   monteverde:
     -
+  monteverdeac:
+    -
+  monteverdecm:
+    -
 functions:
   win:
     -

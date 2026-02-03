@@ -8,6 +8,10 @@ platfs:
 curls:
   tunnel:
     -
+  tunnelac:
+    -
+  tunnelcm:
+    -
 functions:
   unix:
     -

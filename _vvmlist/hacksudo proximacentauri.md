@@ -8,6 +8,10 @@ platfs:
 curls:
   hacksudo proximacentauri:
     -
+  hacksudo proximacentauriac:
+    -
+  hacksudo proximacentauricm:
+    -
 functions:
   unix:
     -

@@ -10,6 +10,8 @@ curls:
     -
   azerac:
     -
+  azercm:
+    -
 functions:
   unix:
     -
@@ -23,8 +25,8 @@ functions:
     -
   logical:
     -
-
 wals:
   azerwu:
     -
+
 ---

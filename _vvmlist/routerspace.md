@@ -8,6 +8,10 @@ platfs:
 curls:
   routerspace:
     -
+  routerspaceac:
+    -
+  routerspacecm:
+    -
 functions:
   unix:
     -

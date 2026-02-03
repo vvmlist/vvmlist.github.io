@@ -8,6 +8,10 @@ platfs:
 curls:
   dpwwn 3:
     -
+  dpwwn 3ac:
+    -
+  dpwwn 3cm:
+    -
 functions:
   unix:
     -

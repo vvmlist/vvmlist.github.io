@@ -8,6 +8,10 @@ platfs:
 curls:
   wakanda:
     -
+  wakandaac:
+    -
+  wakandacm:
+    -
 functions:
   unix:
     -

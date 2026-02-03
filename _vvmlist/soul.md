@@ -8,6 +8,10 @@ platfs:
 curls:
   soul:
     -
+  soulac:
+    -
+  soulcm:
+    -
 functions:
   unix:
     -

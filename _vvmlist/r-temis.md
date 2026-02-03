@@ -8,6 +8,10 @@ platfs:
 curls:
   r-temis:
     -
+  r-temisac:
+    -
+  r-temiscm:
+    -
 functions:
   unix:
     -

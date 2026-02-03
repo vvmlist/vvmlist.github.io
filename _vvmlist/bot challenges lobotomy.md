@@ -8,6 +8,10 @@ platfs:
 curls:
   bot challenges lobotomy:
     -
+  bot challenges lobotomyac:
+    -
+  bot challenges lobotomycm:
+    -
 functions:
   unix:
     -

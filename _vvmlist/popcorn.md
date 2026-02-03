@@ -8,6 +8,10 @@ platfs:
 curls:
   popcorn:
     -
+  popcornac:
+    -
+  popcorncm:
+    -
 functions:
   unix:
     -

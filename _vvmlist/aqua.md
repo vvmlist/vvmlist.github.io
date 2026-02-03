@@ -8,6 +8,10 @@ platfs:
 curls:
   aqua:
     -
+  aquaac:
+    -
+  aquacm:
+    -
 functions:
   unix:
     -

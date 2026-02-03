@@ -3,34 +3,36 @@ diffis:
   e:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   data:
+    -
+  dataac:
+    -
+  datacm:
     -
 functions:
   unix:
     -
   e:
     -
-  vulnlab:
+  htbvip:
     -
   cve:
-    -
-  pathtr:
     -
   sql:
     -
   hc:
     -
+  ssh:
+    -
   sudo:
-    -
-  docker:
-    -
-  bre:
     -
 
 wals:
   datawu:
+    -
+  datavi:
     -
 ---

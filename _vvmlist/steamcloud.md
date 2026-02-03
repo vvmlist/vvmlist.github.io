@@ -8,6 +8,10 @@ platfs:
 curls:
   steamcloud:
     -
+  steamcloudac:
+    -
+  steamcloudcm:
+    -
 functions:
   unix:
     -

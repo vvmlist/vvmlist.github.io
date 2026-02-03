@@ -1,0 +1,34 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  encode:
+    -
+  encodeac:
+    -
+  encodecm:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  vulnyx:
+    -
+  decode:
+    -
+  deser:
+    -
+  rce:
+    -
+  sudo:
+    -
+
+wals:
+  encodewu:
+    -
+---

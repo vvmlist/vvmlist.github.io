@@ -8,6 +8,10 @@ platfs:
 curls:
   hack me please:
     -
+  hack me pleaseac:
+    -
+  hack me pleasecm:
+    -
 functions:
   unix:
     -

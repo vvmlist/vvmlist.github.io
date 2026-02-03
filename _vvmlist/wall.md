@@ -8,6 +8,10 @@ platfs:
 curls:
   wall:
     -
+  wallac:
+    -
+  wallcm:
+    -
 functions:
   unix:
     -

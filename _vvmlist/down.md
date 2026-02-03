@@ -3,17 +3,21 @@ diffis:
   e:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   down:
     -
+  downac:
+    -
+  downcm:
+    -
 functions:
-  unix:
+  win:
     -
   e:
     -
-  vulnlab:
+  htbvip:
     -
   lfi:
     -
@@ -23,12 +27,14 @@ functions:
     -
   decode:
     -
-  logical:
+  creds:
     -
   sudo:
     -
 
 wals:
   downwu:
+    -
+  downvi:
     -
 ---

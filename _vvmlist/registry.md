@@ -8,6 +8,10 @@ platfs:
 curls:
   registry:
     -
+  registryac:
+    -
+  registrycm:
+    -
 functions:
   unix:
     -

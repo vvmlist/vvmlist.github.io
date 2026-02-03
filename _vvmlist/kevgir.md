@@ -8,6 +8,10 @@ platfs:
 curls:
   kevgir:
     -
+  kevgirac:
+    -
+  kevgircm:
+    -
 functions:
   unix:
     -

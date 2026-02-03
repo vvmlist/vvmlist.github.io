@@ -8,6 +8,10 @@ platfs:
 curls:
   slash:
     -
+  slashac:
+    -
+  slashcm:
+    -
 functions:
   unix:
     -

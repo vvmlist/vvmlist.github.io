@@ -8,6 +8,10 @@ platfs:
 curls:
   clamp:
     -
+  clampac:
+    -
+  clampcm:
+    -
 functions:
   unix:
     -

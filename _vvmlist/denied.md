@@ -1,0 +1,34 @@
+---
+diffis:
+  h:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  denied:
+    -
+  deniedac:
+    -
+  deniedcm:
+    -
+functions:
+  unix:
+    -
+  h:
+    -
+  vulnyx:
+    -
+  bf:
+    -
+  ssh:
+    -
+  suid:
+    -
+  sudo:
+    -
+
+wals:
+  deniedwu:
+    -
+---

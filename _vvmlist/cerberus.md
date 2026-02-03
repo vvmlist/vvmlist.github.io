@@ -8,6 +8,10 @@ platfs:
 curls:
   cerberus:
     -
+  cerberusac:
+    -
+  cerberuscm:
+    -
 functions:
   win:
     -

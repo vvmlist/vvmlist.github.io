@@ -8,6 +8,10 @@ platfs:
 curls:
   crazymed:
     -
+  crazymedac:
+    -
+  crazymedcm:
+    -
 functions:
   unix:
     -

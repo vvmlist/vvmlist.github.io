@@ -8,6 +8,10 @@ platfs:
 curls:
   perspective:
     -
+  perspectiveac:
+    -
+  perspectivecm:
+    -
 functions:
   win:
     -

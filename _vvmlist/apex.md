@@ -1,0 +1,38 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  apex:
+    -
+  apexac:
+    -
+  apexcm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  finger:
+    -
+  creds:
+    -
+  sql:
+    -
+  bf:
+    -
+  sudo:
+    -
+
+wals:
+  apexwu:
+    -
+---

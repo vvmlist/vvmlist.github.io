@@ -8,6 +8,10 @@ platfs:
 curls:
   cynix:
     -
+  cynixac:
+    -
+  cynixcm:
+    -
 functions:
   unix:
     -

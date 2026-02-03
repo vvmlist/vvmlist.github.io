@@ -8,6 +8,10 @@ platfs:
 curls:
   pressed:
     -
+  pressedac:
+    -
+  pressedcm:
+    -
 functions:
   unix:
     -

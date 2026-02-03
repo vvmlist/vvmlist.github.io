@@ -8,6 +8,10 @@ platfs:
 curls:
   interface:
     -
+  interfaceac:
+    -
+  interfacecm:
+    -
 functions:
   unix:
     -

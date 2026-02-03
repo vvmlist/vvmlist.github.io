@@ -8,6 +8,10 @@ platfs:
 curls:
   stars:
     -
+  starsac:
+    -
+  starscm:
+    -
 functions:
   unix:
     -

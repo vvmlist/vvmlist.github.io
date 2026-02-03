@@ -8,6 +8,10 @@ platfs:
 curls:
   faust:
     -
+  faustac:
+    -
+  faustcm:
+    -
 functions:
   unix:
     -

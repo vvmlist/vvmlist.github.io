@@ -8,6 +8,10 @@ platfs:
 curls:
   napper:
     -
+  napperac:
+    -
+  nappercm:
+    -
 functions:
   win:
     -

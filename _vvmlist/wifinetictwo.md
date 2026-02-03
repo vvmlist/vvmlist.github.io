@@ -8,6 +8,10 @@ platfs:
 curls:
   wifinetictwo:
     -
+  wifinetictwoac:
+    -
+  wifinetictwocm:
+    -
 functions:
   unix:
     -

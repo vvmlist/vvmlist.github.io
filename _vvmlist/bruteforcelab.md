@@ -8,6 +8,10 @@ platfs:
 curls:
   bruteforcelab:
     -
+  bruteforcelabac:
+    -
+  bruteforcelabcm:
+    -
 functions:
   unix:
     -

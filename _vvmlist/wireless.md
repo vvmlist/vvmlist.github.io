@@ -8,6 +8,10 @@ platfs:
 curls:
   wireless:
     -
+  wirelessac:
+    -
+  wirelesscm:
+    -
 functions:
   unix:
     -

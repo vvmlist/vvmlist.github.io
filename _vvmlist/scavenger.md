@@ -8,6 +8,10 @@ platfs:
 curls:
   scavenger:
     -
+  scavengerac:
+    -
+  scavengercm:
+    -
 functions:
   unix:
     -

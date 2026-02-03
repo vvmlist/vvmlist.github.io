@@ -8,6 +8,10 @@ platfs:
 curls:
   basic:
     -
+  basicac:
+    -
+  basiccm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   assertion:
     -
+  assertionac:
+    -
+  assertioncm:
+    -
 functions:
   unix:
     -

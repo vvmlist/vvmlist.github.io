@@ -8,6 +8,10 @@ platfs:
 curls:
   hat:
     -
+  hatac:
+    -
+  hatcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   chromatica:
     -
+  chromaticaac:
+    -
+  chromaticacm:
+    -
 functions:
   unix:
     -

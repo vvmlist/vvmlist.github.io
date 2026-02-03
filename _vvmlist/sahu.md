@@ -8,6 +8,10 @@ platfs:
 curls:
   sahu:
     -
+  sahuac:
+    -
+  sahucm:
+    -
 functions:
   unix:
     -

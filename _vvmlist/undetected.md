@@ -8,6 +8,10 @@ platfs:
 curls:
   undetected:
     -
+  undetectedac:
+    -
+  undetectedcm:
+    -
 functions:
   unix:
     -

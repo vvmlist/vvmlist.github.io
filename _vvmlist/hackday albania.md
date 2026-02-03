@@ -8,6 +8,10 @@ platfs:
 curls:
   hackday albania:
     -
+  hackday albaniaac:
+    -
+  hackday albaniacm:
+    -
 functions:
   unix:
     -

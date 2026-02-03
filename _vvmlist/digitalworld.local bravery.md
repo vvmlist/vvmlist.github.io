@@ -8,6 +8,10 @@ platfs:
 curls:
   digitalworld.local bravery:
     -
+  digitalworld.local braveryac:
+    -
+  digitalworld.local braverycm:
+    -
 functions:
   unix:
     -

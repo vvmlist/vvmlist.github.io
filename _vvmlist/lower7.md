@@ -1,0 +1,36 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  lower7:
+    -
+  lower7ac:
+    -
+  lower7cm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  ftp:
+    -
+  bf:
+    -
+  rce:
+    -
+  groups:
+    -
+  hc:
+    -
+
+wals:
+  lower7wu:
+    -
+---

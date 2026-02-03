@@ -3,34 +3,36 @@ diffis:
   m:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   sweep:
     -
+  sweepac:
+    -
+  sweepcm:
+    -
 functions:
-  win:
+  unix:
     -
   m:
     -
-  vulnlab:
+  htbvip:
     -
   ad:
     -
-  bf:
+  smb:
     -
   al:
     -
-  sniff:
-    -
-  groups:
+  bf:
     -
   bhga:
-    -
-  logical:
     -
 
 wals:
   sweepwu:
+    -
+  sweepvi:
     -
 ---

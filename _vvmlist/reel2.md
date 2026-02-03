@@ -8,6 +8,10 @@ platfs:
 curls:
   reel2:
     -
+  reel2ac:
+    -
+  reel2cm:
+    -
 functions:
   win:
     -

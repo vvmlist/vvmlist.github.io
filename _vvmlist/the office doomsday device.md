@@ -8,6 +8,10 @@ platfs:
 curls:
   the office doomsday device:
     -
+  the office doomsday deviceac:
+    -
+  the office doomsday devicecm:
+    -
 functions:
   unix:
     -

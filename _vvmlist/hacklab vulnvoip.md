@@ -8,6 +8,10 @@ platfs:
 curls:
   hacklab vulnvoip:
     -
+  hacklab vulnvoipac:
+    -
+  hacklab vulnvoipcm:
+    -
 functions:
   unix:
     -

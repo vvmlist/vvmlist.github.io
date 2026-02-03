@@ -8,6 +8,10 @@ platfs:
 curls:
   backendtwo:
     -
+  backendtwoac:
+    -
+  backendtwocm:
+    -
 functions:
   unix:
     -

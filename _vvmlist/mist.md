@@ -8,6 +8,10 @@ platfs:
 curls:
   mist:
     -
+  mistac:
+    -
+  mistcm:
+    -
 functions:
   win:
     -
@@ -34,8 +38,6 @@ functions:
   logical:
     -
   tunnel:
-    -
-  petit:
     -
   ntlmrel:
     -

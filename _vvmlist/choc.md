@@ -8,6 +8,10 @@ platfs:
 curls:
   choc:
     -
+  chocac:
+    -
+  choccm:
+    -
 functions:
   unix:
     -

@@ -3,21 +3,27 @@ diffis:
   m:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   breach:
+    -
+  breachac:
+    -
+  breachcm:
     -
 functions:
   win:
     -
   m:
     -
-  vulnlab:
+  htbvip:
     -
   ad:
     -
-  ufa:
+  smb:
+    -
+  al:
     -
   resp:
     -
@@ -27,12 +33,12 @@ functions:
     -
   silver:
     -
-  xpc:
-    -
   tsi:
     -
 
 wals:
   breachwu:
+    -
+  breachvi:
     -
 ---

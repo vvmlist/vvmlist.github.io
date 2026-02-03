@@ -8,6 +8,10 @@ platfs:
 curls:
   soccer:
     -
+  soccerac:
+    -
+  soccercm:
+    -
 functions:
   unix:
     -

@@ -3,17 +3,21 @@ diffis:
   e:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   retro:
+    -
+  retroac:
+    -
+  retrocm:
     -
 functions:
   win:
     -
   e:
     -
-  vulnlab:
+  htbvip:
     -
   ad:
     -
@@ -21,10 +25,14 @@ functions:
     -
   smb:
     -
+  pretk:
+    -
   adcs:
     -
 
 wals:
   retrowu:
+    -
+  retrovi:
     -
 ---

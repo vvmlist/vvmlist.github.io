@@ -8,6 +8,10 @@ platfs:
 curls:
   devzat:
     -
+  devzatac:
+    -
+  devzatcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   noob:
     -
+  noobac:
+    -
+  noobcm:
+    -
 functions:
   unix:
     -

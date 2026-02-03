@@ -8,6 +8,10 @@ platfs:
 curls:
   lampsecurity ctf7:
     -
+  lampsecurity ctf7ac:
+    -
+  lampsecurity ctf7cm:
+    -
 functions:
   unix:
     -

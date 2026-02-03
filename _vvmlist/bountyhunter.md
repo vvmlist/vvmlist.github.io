@@ -8,6 +8,10 @@ platfs:
 curls:
   bountyhunter:
     -
+  bountyhunterac:
+    -
+  bountyhuntercm:
+    -
 functions:
   unix:
     -

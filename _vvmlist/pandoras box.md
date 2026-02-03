@@ -8,6 +8,10 @@ platfs:
 curls:
   pandoras box:
     -
+  pandoras boxac:
+    -
+  pandoras boxcm:
+    -
 functions:
   unix:
     -

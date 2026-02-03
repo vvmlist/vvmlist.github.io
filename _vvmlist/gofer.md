@@ -8,6 +8,10 @@ platfs:
 curls:
   gofer:
     -
+  goferac:
+    -
+  gofercm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   firstblood:
     -
+  firstbloodac:
+    -
+  firstbloodcm:
+    -
 functions:
   unix:
     -

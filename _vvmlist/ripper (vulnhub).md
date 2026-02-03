@@ -6,7 +6,11 @@ platfs:
   vulnhub:
     -
 curls:
-  rippervu:
+  ripper (vulnhub):
+    -
+  ripper (vulnhub)ac:
+    -
+  ripper (vulnhub)cm:
     -
 functions:
   unix:
@@ -23,6 +27,6 @@ functions:
     -
 
 wals:
-  rippervuwu:
+  ripper (vulnhub)wu:
     -
 ---

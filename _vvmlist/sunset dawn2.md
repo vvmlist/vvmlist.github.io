@@ -8,6 +8,10 @@ platfs:
 curls:
   sunset dawn2:
     -
+  sunset dawn2ac:
+    -
+  sunset dawn2cm:
+    -
 functions:
   unix:
     -

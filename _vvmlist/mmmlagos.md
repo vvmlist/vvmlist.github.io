@@ -8,6 +8,10 @@ platfs:
 curls:
   mmmlagos:
     -
+  mmmlagosac:
+    -
+  mmmlagoscm:
+    -
 functions:
   unix:
     -

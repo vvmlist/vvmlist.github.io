@@ -10,6 +10,8 @@ curls:
     -
   born2rootac:
     -
+  born2rootcm:
+    -
 functions:
   unix:
     -
@@ -29,8 +31,8 @@ functions:
     -
   sudo:
     -
-
 wals:
   born2rootwu:
     -
+
 ---

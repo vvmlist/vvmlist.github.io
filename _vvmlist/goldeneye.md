@@ -10,6 +10,10 @@ curls:
     -
   goldeneyeac:
     -
+  goldeneyeac:
+    -
+  goldeneyecm:
+    -
 functions:
   unix:
     -

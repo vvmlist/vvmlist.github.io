@@ -1,0 +1,36 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  open:
+    -
+  openac:
+    -
+  opencm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  dcr:
+    -
+  bf:
+    -
+  rce:
+    -
+  sql:
+    -
+  creds:
+    -
+
+wals:
+  openwu:
+    -
+---

@@ -8,6 +8,10 @@ platfs:
 curls:
   shoppy:
     -
+  shoppyac:
+    -
+  shoppycm:
+    -
 functions:
   unix:
     -

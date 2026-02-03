@@ -8,6 +8,10 @@ platfs:
 curls:
   war:
     -
+  warac:
+    -
+  warcm:
+    -
 functions:
   win:
     -

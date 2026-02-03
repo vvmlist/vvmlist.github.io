@@ -8,6 +8,10 @@ platfs:
 curls:
   intelligence:
     -
+  intelligenceac:
+    -
+  intelligencecm:
+    -
 functions:
   win:
     -

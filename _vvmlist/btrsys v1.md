@@ -8,6 +8,10 @@ platfs:
 curls:
   btrsys v1:
     -
+  btrsys v1ac:
+    -
+  btrsys v1cm:
+    -
 functions:
   unix:
     -

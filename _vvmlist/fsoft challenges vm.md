@@ -8,6 +8,10 @@ platfs:
 curls:
   fsoft challenges vm:
     -
+  fsoft challenges vmac:
+    -
+  fsoft challenges vmcm:
+    -
 functions:
   unix:
     -

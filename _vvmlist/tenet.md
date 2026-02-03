@@ -8,6 +8,10 @@ platfs:
 curls:
   tenet:
     -
+  tenetac:
+    -
+  tenetcm:
+    -
 functions:
   unix:
     -

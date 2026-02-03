@@ -8,6 +8,10 @@ platfs:
 curls:
   meta:
     -
+  metaac:
+    -
+  metacm:
+    -
 functions:
   unix:
     -

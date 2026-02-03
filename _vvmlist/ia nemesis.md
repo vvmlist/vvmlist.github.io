@@ -8,6 +8,10 @@ platfs:
 curls:
   ia nemesis:
     -
+  ia nemesisac:
+    -
+  ia nemesiscm:
+    -
 functions:
   unix:
     -

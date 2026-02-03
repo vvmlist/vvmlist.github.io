@@ -8,6 +8,10 @@ platfs:
 curls:
   ew_skuzzy:
     -
+  ew_skuzzyac:
+    -
+  ew_skuzzycm:
+    -
 functions:
   unix:
     -

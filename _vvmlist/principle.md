@@ -8,6 +8,10 @@ platfs:
 curls:
   principle:
     -
+  principleac:
+    -
+  principlecm:
+    -
 functions:
   unix:
     -

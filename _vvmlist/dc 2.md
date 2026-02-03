@@ -8,6 +8,10 @@ platfs:
 curls:
   dc 2:
     -
+  dc 2ac:
+    -
+  dc 2cm:
+    -
 functions:
   unix:
     -

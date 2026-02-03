@@ -8,6 +8,10 @@ platfs:
 curls:
   shuriken node:
     -
+  shuriken nodeac:
+    -
+  shuriken nodecm:
+    -
 functions:
   unix:
     -

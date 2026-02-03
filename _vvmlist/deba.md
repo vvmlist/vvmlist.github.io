@@ -8,6 +8,10 @@ platfs:
 curls:
   deba:
     -
+  debaac:
+    -
+  debacm:
+    -
 functions:
   unix:
     -

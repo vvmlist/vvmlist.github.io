@@ -8,6 +8,10 @@ platfs:
 curls:
   wordpress host server:
     -
+  wordpress host serverac:
+    -
+  wordpress host servercm:
+    -
 functions:
   unix:
     -

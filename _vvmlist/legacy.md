@@ -8,6 +8,10 @@ platfs:
 curls:
   legacy:
     -
+  legacyac:
+    -
+  legacycm:
+    -
 functions:
   win:
     -

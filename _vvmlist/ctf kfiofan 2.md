@@ -8,6 +8,10 @@ platfs:
 curls:
   ctf kfiofan 2:
     -
+  ctf kfiofan 2ac:
+    -
+  ctf kfiofan 2cm:
+    -
 functions:
   unix:
     -

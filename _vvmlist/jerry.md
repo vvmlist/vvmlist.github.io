@@ -8,6 +8,10 @@ platfs:
 curls:
   jerry:
     -
+  jerryac:
+    -
+  jerrycm:
+    -
 functions:
   win:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   droopy:
     -
+  droopyac:
+    -
+  droopycm:
+    -
 functions:
   unix:
     -

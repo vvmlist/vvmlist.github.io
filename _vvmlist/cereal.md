@@ -8,6 +8,10 @@ platfs:
 curls:
   cereal:
     -
+  cerealac:
+    -
+  cerealcm:
+    -
 functions:
   win:
     -

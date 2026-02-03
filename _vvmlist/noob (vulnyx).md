@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  noobvx:
+  noob (vulnyx):
+    -
+  noob (vulnyx)ac:
+    -
+  noob (vulnyx)cm:
     -
 functions:
   unix:
@@ -25,6 +29,6 @@ functions:
     -
 
 wals:
-  noobvxwu:
+  noob (vulnyx)wu:
     -
 ---

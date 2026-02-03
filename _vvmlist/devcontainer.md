@@ -8,6 +8,10 @@ platfs:
 curls:
   devcontainer:
     -
+  devcontainerac:
+    -
+  devcontainercm:
+    -
 functions:
   unix:
     -

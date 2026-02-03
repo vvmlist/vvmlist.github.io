@@ -8,6 +8,10 @@ platfs:
 curls:
   may:
     -
+  mayac:
+    -
+  maycm:
+    -
 functions:
   unix:
     -

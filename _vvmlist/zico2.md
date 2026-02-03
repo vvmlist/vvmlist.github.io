@@ -8,6 +8,10 @@ platfs:
 curls:
   zico2:
     -
+  zico2ac:
+    -
+  zico2cm:
+    -
 functions:
   unix:
     -

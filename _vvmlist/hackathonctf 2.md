@@ -8,6 +8,10 @@ platfs:
 curls:
   hackathonctf 2:
     -
+  hackathonctf 2ac:
+    -
+  hackathonctf 2cm:
+    -
 functions:
   unix:
     -

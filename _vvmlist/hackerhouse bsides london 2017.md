@@ -8,6 +8,10 @@ platfs:
 curls:
   hackerhouse bsides london 2017:
     -
+  hackerhouse bsides london 2017ac:
+    -
+  hackerhouse bsides london 2017cm:
+    -
 functions:
   unix:
     -

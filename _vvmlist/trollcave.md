@@ -8,6 +8,10 @@ platfs:
 curls:
   trollcave:
     -
+  trollcaveac:
+    -
+  trollcavecm:
+    -
 functions:
   unix:
     -

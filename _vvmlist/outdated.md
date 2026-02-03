@@ -8,6 +8,10 @@ platfs:
 curls:
   outdated:
     -
+  outdatedac:
+    -
+  outdatedcm:
+    -
 functions:
   win:
     -

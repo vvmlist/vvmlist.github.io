@@ -8,6 +8,10 @@ platfs:
 curls:
   foxhole:
     -
+  foxholeac:
+    -
+  foxholecm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   headless:
     -
+  headlessac:
+    -
+  headlesscm:
+    -
 functions:
   unix:
     -

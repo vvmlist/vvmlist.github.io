@@ -8,6 +8,10 @@ platfs:
 curls:
   devvortex:
     -
+  devvortexac:
+    -
+  devvortexcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   liceo:
     -
+  liceoac:
+    -
+  liceocm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   homeless:
     -
+  homelessac:
+    -
+  homelesscm:
+    -
 functions:
   unix:
     -

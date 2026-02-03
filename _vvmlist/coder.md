@@ -8,6 +8,10 @@ platfs:
 curls:
   coder:
     -
+  coderac:
+    -
+  codercm:
+    -
 functions:
   win:
     -

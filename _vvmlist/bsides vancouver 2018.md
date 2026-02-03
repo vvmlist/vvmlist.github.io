@@ -10,6 +10,8 @@ curls:
     -
   bsides vancouver 2018ac:
     -
+  bsides vancouver 2018cm:
+    -
 functions:
   unix:
     -
@@ -31,8 +33,8 @@ functions:
     -
   cron:
     -
-
 wals:
   bsides vancouver 2018wu:
     -
+
 ---

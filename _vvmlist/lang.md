@@ -8,6 +8,10 @@ platfs:
 curls:
   lang:
     -
+  langac:
+    -
+  langcm:
+    -
 functions:
   unix:
     -

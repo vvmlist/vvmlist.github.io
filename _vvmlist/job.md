@@ -3,17 +3,21 @@ diffis:
   m:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   job:
+    -
+  jobac:
+    -
+  jobcm:
     -
 functions:
   win:
     -
   m:
     -
-  vulnlab:
+  htbvip:
     -
   phish:
     -
@@ -22,5 +26,7 @@ functions:
 
 wals:
   jobwu:
+    -
+  jobvi:
     -
 ---

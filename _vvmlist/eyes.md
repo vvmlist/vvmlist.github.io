@@ -8,6 +8,10 @@ platfs:
 curls:
   eyes:
     -
+  eyesac:
+    -
+  eyescm:
+    -
 functions:
   unix:
     -

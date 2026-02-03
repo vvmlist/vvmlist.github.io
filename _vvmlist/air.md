@@ -10,6 +10,8 @@ curls:
     -
   airac:
     -
+  aircm:
+    -
 functions:
   unix:
     -
@@ -29,8 +31,8 @@ functions:
     -
   bf:
     -
-
 wals:
   airwu:
     -
+
 ---

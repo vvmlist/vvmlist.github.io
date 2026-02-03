@@ -8,6 +8,10 @@ platfs:
 curls:
   servmon:
     -
+  servmonac:
+    -
+  servmoncm:
+    -
 functions:
   win:
     -

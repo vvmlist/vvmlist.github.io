@@ -8,6 +8,10 @@ platfs:
 curls:
   milnet:
     -
+  milnetac:
+    -
+  milnetcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   ambassador:
     -
+  ambassadorac:
+    -
+  ambassadorcm:
+    -
 functions:
   unix:
     -

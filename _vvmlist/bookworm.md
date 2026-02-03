@@ -8,6 +8,10 @@ platfs:
 curls:
   bookworm:
     -
+  bookwormac:
+    -
+  bookwormcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   cherry:
     -
+  cherryac:
+    -
+  cherrycm:
+    -
 functions:
   unix:
     -

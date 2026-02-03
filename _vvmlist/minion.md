@@ -8,6 +8,10 @@ platfs:
 curls:
   minion:
     -
+  minionac:
+    -
+  minioncm:
+    -
 functions:
   win:
     -

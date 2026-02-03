@@ -8,6 +8,10 @@ platfs:
 curls:
   webmaster:
     -
+  webmasterac:
+    -
+  webmastercm:
+    -
 functions:
   unix:
     -

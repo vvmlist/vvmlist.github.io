@@ -8,6 +8,10 @@ platfs:
 curls:
   call:
     -
+  callac:
+    -
+  callcm:
+    -
 functions:
   unix:
     -

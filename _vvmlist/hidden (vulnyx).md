@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  hiddenvx:
+  hidden (vulnyx):
+    -
+  hidden (vulnyx)ac:
+    -
+  hidden (vulnyx)cm:
     -
 functions:
   unix:
@@ -25,6 +29,6 @@ functions:
     -
 
 wals:
-  hiddenvxwu:
+  hidden (vulnyx)wu:
     -
 ---

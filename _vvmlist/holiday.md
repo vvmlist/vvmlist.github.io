@@ -8,6 +8,10 @@ platfs:
 curls:
   holiday:
     -
+  holidayac:
+    -
+  holidaycm:
+    -
 functions:
   unix:
     -

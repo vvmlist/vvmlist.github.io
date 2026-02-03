@@ -8,6 +8,10 @@ platfs:
 curls:
   retired:
     -
+  retiredac:
+    -
+  retiredcm:
+    -
 functions:
   unix:
     -

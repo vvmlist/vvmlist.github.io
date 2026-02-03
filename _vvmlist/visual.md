@@ -8,6 +8,10 @@ platfs:
 curls:
   visual:
     -
+  visualac:
+    -
+  visualcm:
+    -
 functions:
   win:
     -

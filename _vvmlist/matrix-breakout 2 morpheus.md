@@ -8,6 +8,10 @@ platfs:
 curls:
   matrix-breakout 2 morpheus:
     -
+  matrix-breakout 2 morpheusac:
+    -
+  matrix-breakout 2 morpheuscm:
+    -
 functions:
   unix:
     -

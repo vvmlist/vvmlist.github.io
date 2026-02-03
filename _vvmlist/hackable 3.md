@@ -8,6 +8,10 @@ platfs:
 curls:
   hackable 3:
     -
+  hackable 3ac:
+    -
+  hackable 3cm:
+    -
 functions:
   unix:
     -

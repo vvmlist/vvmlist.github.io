@@ -3,40 +3,46 @@ diffis:
   m:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   delegate:
+    -
+  delegateac:
+    -
+  delegatecm:
     -
 functions:
   win:
     -
   m:
     -
-  vulnlab:
+  htbvip:
     -
   ad:
     -
-  al:
-    -
   smb:
     -
-  creds:
+  al:
     -
   bhgw:
     -
-  krb:
-    -
   hc:
+    -
+  groups:
     -
   ted:
     -
   unde:
+    -
+  krbr:
     -
   dcsync:
     -
 
 wals:
   delegatewu:
+    -
+  delegatevi:
     -
 ---

@@ -8,6 +8,10 @@ platfs:
 curls:
   knife:
     -
+  knifeac:
+    -
+  knifecm:
+    -
 functions:
   unix:
     -

@@ -1,0 +1,38 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  misconfigured:
+    -
+  misconfiguredac:
+    -
+  misconfiguredcm:
+    -
+functions:
+  win:
+    -
+  m:
+    -
+  vulnyx:
+    -
+  ad:
+    -
+  fuzz:
+    -
+  bf:
+    -
+  creds:
+    -
+  decode:
+    -
+  tsi:
+    -
+
+wals:
+  misconfiguredwu:
+    -
+---

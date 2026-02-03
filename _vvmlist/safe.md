@@ -8,6 +8,10 @@ platfs:
 curls:
   safe:
     -
+  safeac:
+    -
+  safecm:
+    -
 functions:
   unix:
     -

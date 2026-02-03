@@ -8,6 +8,10 @@ platfs:
 curls:
   nebula:
     -
+  nebulaac:
+    -
+  nebulacm:
+    -
 functions:
   unix:
     -

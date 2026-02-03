@@ -8,6 +8,10 @@ platfs:
 curls:
   doll:
     -
+  dollac:
+    -
+  dollcm:
+    -
 functions:
   unix:
     -

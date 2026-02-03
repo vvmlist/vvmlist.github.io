@@ -8,6 +8,10 @@ platfs:
 curls:
   rainyday:
     -
+  rainydayac:
+    -
+  rainydaycm:
+    -
 functions:
   unix:
     -

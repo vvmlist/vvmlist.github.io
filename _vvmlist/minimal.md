@@ -8,6 +8,10 @@ platfs:
 curls:
   minimal:
     -
+  minimalac:
+    -
+  minimalcm:
+    -
 functions:
   unix:
     -

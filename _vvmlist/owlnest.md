@@ -8,6 +8,10 @@ platfs:
 curls:
   owlnest:
     -
+  owlnestac:
+    -
+  owlnestcm:
+    -
 functions:
   unix:
     -

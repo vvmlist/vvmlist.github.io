@@ -8,6 +8,10 @@ platfs:
 curls:
   onlyforyou:
     -
+  onlyforyouac:
+    -
+  onlyforyoucm:
+    -
 functions:
   unix:
     -

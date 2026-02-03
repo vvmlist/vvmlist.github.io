@@ -8,6 +8,10 @@ platfs:
 curls:
   derpnstink:
     -
+  derpnstinkac:
+    -
+  derpnstinkcm:
+    -
 functions:
   unix:
     -

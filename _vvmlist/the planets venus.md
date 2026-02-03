@@ -8,6 +8,10 @@ platfs:
 curls:
   the planets venus:
     -
+  the planets venusac:
+    -
+  the planets venuscm:
+    -
 functions:
   unix:
     -

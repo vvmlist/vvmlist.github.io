@@ -8,6 +8,10 @@ platfs:
 curls:
   antique:
     -
+  antiqueac:
+    -
+  antiquecm:
+    -
 functions:
   unix:
     -

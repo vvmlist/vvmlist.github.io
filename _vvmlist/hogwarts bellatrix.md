@@ -8,6 +8,10 @@ platfs:
 curls:
   hogwarts bellatrix:
     -
+  hogwarts bellatrixac:
+    -
+  hogwarts bellatrixcm:
+    -
 functions:
   unix:
     -

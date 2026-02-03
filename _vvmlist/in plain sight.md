@@ -8,6 +8,10 @@ platfs:
 curls:
   in plain sight:
     -
+  in plain sightac:
+    -
+  in plain sightcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   phoenix:
     -
+  phoenixac:
+    -
+  phoenixcm:
+    -
 functions:
   unix:
     -

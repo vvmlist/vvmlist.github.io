@@ -8,6 +8,10 @@ platfs:
 curls:
   bastion:
     -
+  bastionac:
+    -
+  bastioncm:
+    -
 functions:
   win:
     -

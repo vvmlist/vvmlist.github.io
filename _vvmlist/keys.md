@@ -8,6 +8,10 @@ platfs:
 curls:
   keys:
     -
+  keysac:
+    -
+  keyscm:
+    -
 functions:
   unix:
     -

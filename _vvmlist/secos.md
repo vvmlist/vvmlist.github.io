@@ -8,6 +8,10 @@ platfs:
 curls:
   secos:
     -
+  secosac:
+    -
+  secoscm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   load:
     -
+  loadac:
+    -
+  loadcm:
+    -
 functions:
   unix:
     -

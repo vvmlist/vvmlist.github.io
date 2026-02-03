@@ -8,6 +8,10 @@ platfs:
 curls:
   anubis:
     -
+  anubisac:
+    -
+  anubiscm:
+    -
 functions:
   win:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   time:
     -
+  timeac:
+    -
+  timecm:
+    -
 functions:
   unix:
     -

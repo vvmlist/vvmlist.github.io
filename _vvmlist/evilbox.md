@@ -8,6 +8,10 @@ platfs:
 curls:
   evilbox:
     -
+  evilboxac:
+    -
+  evilboxcm:
+    -
 functions:
   unix:
     -

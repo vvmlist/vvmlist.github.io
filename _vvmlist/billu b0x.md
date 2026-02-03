@@ -8,6 +8,10 @@ platfs:
 curls:
   billu b0x:
     -
+  billu b0xac:
+    -
+  billu b0xcm:
+    -
 functions:
   unix:
     -

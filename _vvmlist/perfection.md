@@ -8,6 +8,10 @@ platfs:
 curls:
   perfection:
     -
+  perfectionac:
+    -
+  perfectioncm:
+    -
 functions:
   unix:
     -

@@ -10,6 +10,8 @@ curls:
     -
   muzzyboxac:
     -
+  muzzyboxcm:
+    -
 functions:
   unix:
     -
@@ -29,8 +31,8 @@ functions:
     -
   cron:
     -
-
 wals:
   muzzyboxwu:
     -
+
 ---

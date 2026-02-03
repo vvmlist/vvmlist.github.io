@@ -8,6 +8,10 @@ platfs:
 curls:
   tagged:
     -
+  taggedac:
+    -
+  taggedcm:
+    -
 functions:
   unix:
     -

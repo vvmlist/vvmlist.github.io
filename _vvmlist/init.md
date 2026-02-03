@@ -1,0 +1,48 @@
+---
+diffis:
+  h:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  init:
+    -
+  initac:
+    -
+  initcm:
+    -
+functions:
+  unix:
+    -
+  h:
+    -
+  vulnyx:
+    -
+  ssti:
+    -
+  waf:
+    -
+  rce:
+    -
+  git:
+    -
+  pivot:
+    -
+  xxe:
+    -
+  ssh:
+    -
+  idor:
+    -
+  creds:
+    -
+  tunnel:
+    -
+  sudo:
+    -
+
+wals:
+  initwu:
+    -
+---

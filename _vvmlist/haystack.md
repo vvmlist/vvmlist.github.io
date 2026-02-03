@@ -8,6 +8,10 @@ platfs:
 curls:
   haystack:
     -
+  haystackac:
+    -
+  haystackcm:
+    -
 functions:
   unix:
     -

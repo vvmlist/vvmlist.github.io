@@ -8,6 +8,10 @@ platfs:
 curls:
   harrypotter fawkes:
     -
+  harrypotter fawkesac:
+    -
+  harrypotter fawkescm:
+    -
 functions:
   unix:
     -

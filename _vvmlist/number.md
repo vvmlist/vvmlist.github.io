@@ -8,6 +8,10 @@ platfs:
 curls:
   number:
     -
+  numberac:
+    -
+  numbercm:
+    -
 functions:
   unix:
     -

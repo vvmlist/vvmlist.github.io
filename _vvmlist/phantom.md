@@ -3,29 +3,33 @@ diffis:
   m:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   phantom:
+    -
+  phantomac:
+    -
+  phantomcm:
     -
 functions:
   win:
     -
   m:
     -
-  vulnlab:
+  htbvip:
     -
   ad:
     -
-  al:
-    -
   smb:
+    -
+  al:
     -
   decode:
     -
   creds:
     -
-  logical:
+  bf:
     -
   hc:
     -
@@ -33,10 +37,12 @@ functions:
     -
   bhaaa:
     -
-  rbcd:
+  dcsync:
     -
 
 wals:
   phantomwu:
+    -
+  phantomvi:
     -
 ---

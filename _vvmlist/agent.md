@@ -8,6 +8,10 @@ platfs:
 curls:
   agent:
     -
+  agentac:
+    -
+  agentcm:
+    -
 functions:
   unix:
     -

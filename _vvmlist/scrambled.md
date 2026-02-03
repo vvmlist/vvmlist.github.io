@@ -8,6 +8,10 @@ platfs:
 curls:
   scrambled:
     -
+  scrambledac:
+    -
+  scrambledcm:
+    -
 functions:
   win:
     -

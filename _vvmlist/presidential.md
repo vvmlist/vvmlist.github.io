@@ -8,6 +8,10 @@ platfs:
 curls:
   presidential:
     -
+  presidentialac:
+    -
+  presidentialcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   fuse:
     -
+  fuseac:
+    -
+  fusecm:
+    -
 functions:
   win:
     -

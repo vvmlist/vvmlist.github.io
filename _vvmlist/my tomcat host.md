@@ -8,6 +8,10 @@ platfs:
 curls:
   my tomcat host:
     -
+  my tomcat hostac:
+    -
+  my tomcat hostcm:
+    -
 functions:
   unix:
     -

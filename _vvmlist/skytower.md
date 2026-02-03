@@ -8,6 +8,10 @@ platfs:
 curls:
   skytower:
     -
+  skytowerac:
+    -
+  skytowercm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   dropzone:
     -
+  dropzoneac:
+    -
+  dropzonecm:
+    -
 functions:
   win:
     -

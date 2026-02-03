@@ -8,6 +8,10 @@ platfs:
 curls:
   pc:
     -
+  pcac:
+    -
+  pccm:
+    -
 functions:
   unix:
     -

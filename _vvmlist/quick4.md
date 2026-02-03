@@ -8,6 +8,10 @@ platfs:
 curls:
   quick4:
     -
+  quick4ac:
+    -
+  quick4cm:
+    -
 functions:
   unix:
     -

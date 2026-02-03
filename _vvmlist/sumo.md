@@ -8,6 +8,10 @@ platfs:
 curls:
   sumo:
     -
+  sumoac:
+    -
+  sumocm:
+    -
 functions:
   unix:
     -

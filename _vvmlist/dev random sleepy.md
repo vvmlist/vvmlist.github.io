@@ -8,6 +8,10 @@ platfs:
 curls:
   dev random sleepy:
     -
+  dev random sleepyac:
+    -
+  dev random sleepycm:
+    -
 functions:
   unix:
     -

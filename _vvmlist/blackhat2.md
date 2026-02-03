@@ -8,6 +8,10 @@ platfs:
 curls:
   blackhat2:
     -
+  blackhat2ac:
+    -
+  blackhat2cm:
+    -
 functions:
   unix:
     -

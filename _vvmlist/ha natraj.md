@@ -8,6 +8,10 @@ platfs:
 curls:
   ha natraj:
     -
+  ha natrajac:
+    -
+  ha natrajcm:
+    -
 functions:
   unix:
     -

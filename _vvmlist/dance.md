@@ -8,6 +8,10 @@ platfs:
 curls:
   dance:
     -
+  danceac:
+    -
+  dancecm:
+    -
 functions:
   unix:
     -

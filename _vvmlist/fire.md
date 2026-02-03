@@ -8,6 +8,10 @@ platfs:
 curls:
   fire:
     -
+  fireac:
+    -
+  firecm:
+    -
 functions:
   unix:
     -

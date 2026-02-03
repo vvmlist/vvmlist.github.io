@@ -8,6 +8,10 @@ platfs:
 curls:
   fowsniff:
     -
+  fowsniffac:
+    -
+  fowsniffcm:
+    -
 functions:
   unix:
     -

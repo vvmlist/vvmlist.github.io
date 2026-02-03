@@ -8,6 +8,10 @@ platfs:
 curls:
   run:
     -
+  runac:
+    -
+  runcm:
+    -
 functions:
   unix:
     -

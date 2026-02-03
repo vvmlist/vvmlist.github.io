@@ -1,0 +1,40 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  yadis:
+    -
+  yadisac:
+    -
+  yadiscm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  al:
+    -
+  smb:
+    -
+  redis:
+    -
+  ssh:
+    -
+  tunnel:
+    -
+  creds:
+    -
+  sudo:
+    -
+
+wals:
+  yadiswu:
+    -
+---

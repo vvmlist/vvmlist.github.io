@@ -8,6 +8,10 @@ platfs:
 curls:
   ha chanakya:
     -
+  ha chanakyaac:
+    -
+  ha chanakyacm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   logforge:
     -
+  logforgeac:
+    -
+  logforgecm:
+    -
 functions:
   unix:
     -

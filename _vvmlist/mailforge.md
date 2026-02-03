@@ -1,0 +1,34 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  mailforge:
+    -
+  mailforgeac:
+    -
+  mailforgecm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  ssti:
+    -
+  rce:
+    -
+  sudo:
+    -
+  rwp:
+    -
+
+wals:
+  mailforgewu:
+    -
+---

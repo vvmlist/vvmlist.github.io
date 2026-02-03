@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  capvx:
+  cap (vulnyx):
+    -
+  cap (vulnyx)ac:
+    -
+  cap (vulnyx)cm:
     -
 functions:
   unix:
@@ -25,6 +29,6 @@ functions:
     -
 
 wals:
-  capvxwu:
+  cap (vulnyx)wu:
     -
 ---

@@ -8,6 +8,10 @@ platfs:
 curls:
   relevant:
     -
+  relevantac:
+    -
+  relevantcm:
+    -
 functions:
   unix:
     -

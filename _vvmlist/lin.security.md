@@ -8,6 +8,10 @@ platfs:
 curls:
   lin.security:
     -
+  lin.securityac:
+    -
+  lin.securitycm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   evm:
     -
+  evmac:
+    -
+  evmcm:
+    -
 functions:
   unix:
     -

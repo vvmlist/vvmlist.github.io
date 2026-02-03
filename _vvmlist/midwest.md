@@ -8,6 +8,10 @@ platfs:
 curls:
   midwest:
     -
+  midwestac:
+    -
+  midwestcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   bart:
     -
+  bartac:
+    -
+  bartcm:
+    -
 functions:
   win:
     -

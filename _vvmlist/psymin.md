@@ -8,6 +8,10 @@ platfs:
 curls:
   psymin:
     -
+  psyminac:
+    -
+  psymincm:
+    -
 functions:
   unix:
     -

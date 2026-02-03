@@ -8,6 +8,10 @@ platfs:
 curls:
   patents:
     -
+  patentsac:
+    -
+  patentscm:
+    -
 functions:
   unix:
     -

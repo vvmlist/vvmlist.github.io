@@ -8,6 +8,10 @@ platfs:
 curls:
   ghoul:
     -
+  ghoulac:
+    -
+  ghoulcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   rope:
     -
+  ropeac:
+    -
+  ropecm:
+    -
 functions:
   unix:
     -

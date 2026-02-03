@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  developervx:
+  developer (vulnyx):
+    -
+  developer (vulnyx)ac:
+    -
+  developer (vulnyx)cm:
     -
 functions:
   unix:
@@ -33,6 +37,6 @@ functions:
     -
 
 wals:
-  developervxwu:
+  developer (vulnyx)wu:
     -
 ---

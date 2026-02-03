@@ -8,6 +8,10 @@ platfs:
 curls:
   teacher:
     -
+  teacherac:
+    -
+  teachercm:
+    -
 functions:
   unix:
     -

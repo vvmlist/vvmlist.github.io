@@ -8,6 +8,10 @@ platfs:
 curls:
   nodeblog:
     -
+  nodeblogac:
+    -
+  nodeblogcm:
+    -
 functions:
   unix:
     -

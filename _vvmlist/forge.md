@@ -8,6 +8,10 @@ platfs:
 curls:
   forge:
     -
+  forgeac:
+    -
+  forgecm:
+    -
 functions:
   unix:
     -

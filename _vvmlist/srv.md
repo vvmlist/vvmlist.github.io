@@ -1,0 +1,34 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  srv:
+    -
+  srvac:
+    -
+  srvcm:
+    -
+functions:
+  win:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  al:
+    -
+  rce:
+    -
+  tsi:
+    -
+
+wals:
+  srvwu:
+    -
+---

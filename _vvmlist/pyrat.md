@@ -8,6 +8,10 @@ platfs:
 curls:
   pyrat:
     -
+  pyratac:
+    -
+  pyratcm:
+    -
 functions:
   unix:
     -

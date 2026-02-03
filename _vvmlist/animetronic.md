@@ -10,6 +10,8 @@ curls:
     -
   animetronicac:
     -
+  animetroniccm:
+    -
 functions:
   unix:
     -
@@ -27,8 +29,8 @@ functions:
     -
   sudo:
     -
-
 wals:
   animetronicwu:
     -
+
 ---

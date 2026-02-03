@@ -8,6 +8,10 @@ platfs:
 curls:
   chili:
     -
+  chiliac:
+    -
+  chilicm:
+    -
 functions:
   unix:
     -

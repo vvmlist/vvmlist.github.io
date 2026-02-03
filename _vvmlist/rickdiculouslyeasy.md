@@ -8,6 +8,10 @@ platfs:
 curls:
   rickdiculouslyeasy:
     -
+  rickdiculouslyeasyac:
+    -
+  rickdiculouslyeasycm:
+    -
 functions:
   unix:
     -

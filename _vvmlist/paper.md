@@ -8,6 +8,10 @@ platfs:
 curls:
   paper:
     -
+  paperac:
+    -
+  papercm:
+    -
 functions:
   unix:
     -

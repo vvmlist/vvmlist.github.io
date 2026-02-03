@@ -6,7 +6,11 @@ platfs:
   vulnhub:
     -
 curls:
-  breachvu:
+  breach (vulnhub):
+    -
+  breach (vulnhub)ac:
+    -
+  breach (vulnhub)cm:
     -
 functions:
   unix:
@@ -31,6 +35,6 @@ functions:
     -
 
 wals:
-  breachvuwu:
+  breach (vulnhub)wu:
     -
 ---

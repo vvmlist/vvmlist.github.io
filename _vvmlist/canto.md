@@ -8,6 +8,10 @@ platfs:
 curls:
   canto:
     -
+  cantoac:
+    -
+  cantocm:
+    -
 functions:
   unix:
     -

@@ -7,7 +7,11 @@ platfs:
   vulnhub:
     -
 curls:
-  h.a.s.t.e:
+  haste:
+    -
+  hasteac:
+    -
+  hastecm:
     -
 functions:
   unix:
@@ -24,6 +28,6 @@ functions:
     -
 
 wals:
-  h.a.s.t.ewu:
+  hastewu:
     -
 ---

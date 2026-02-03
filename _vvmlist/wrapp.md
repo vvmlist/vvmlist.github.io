@@ -8,6 +8,10 @@ platfs:
 curls:
   wrapp:
     -
+  wrappac:
+    -
+  wrappcm:
+    -
 functions:
   unix:
     -

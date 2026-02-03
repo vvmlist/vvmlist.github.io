@@ -8,6 +8,10 @@ platfs:
 curls:
   jail:
     -
+  jailac:
+    -
+  jailcm:
+    -
 functions:
   unix:
     -

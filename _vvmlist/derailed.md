@@ -8,6 +8,10 @@ platfs:
 curls:
   derailed:
     -
+  derailedac:
+    -
+  derailedcm:
+    -
 functions:
   unix:
     -

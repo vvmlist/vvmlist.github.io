@@ -1,32 +1,40 @@
 ---
 diffis:
-  m:
+  e:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   cicada:
     -
+  cicadaac:
+    -
+  cicadacm:
+    -
 functions:
   win:
     -
-  m:
+  e:
     -
-  vulnlab:
+  htbvip:
     -
   ad:
     -
   al:
     -
-  nfs:
+  smb:
     -
-  adcs:
+  creds:
     -
-  krbr:
+  groups:
+    -
+  tsb:
     -
 
 wals:
   cicadawu:
+    -
+  cicadavi:
     -
 ---

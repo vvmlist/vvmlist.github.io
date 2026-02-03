@@ -8,6 +8,10 @@ platfs:
 curls:
   skydog:
     -
+  skydogac:
+    -
+  skydogcm:
+    -
 functions:
   unix:
     -

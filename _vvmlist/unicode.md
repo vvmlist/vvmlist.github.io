@@ -8,6 +8,10 @@ platfs:
 curls:
   unicode:
     -
+  unicodeac:
+    -
+  unicodecm:
+    -
 functions:
   unix:
     -

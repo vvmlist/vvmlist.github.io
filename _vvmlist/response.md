@@ -8,6 +8,10 @@ platfs:
 curls:
   response:
     -
+  responseac:
+    -
+  responsecm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   pwnlab init:
     -
+  pwnlab initac:
+    -
+  pwnlab initcm:
+    -
 functions:
   unix:
     -

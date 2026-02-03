@@ -8,6 +8,10 @@ platfs:
 curls:
   empire lupinone:
     -
+  empire lupinoneac:
+    -
+  empire lupinonecm:
+    -
 functions:
   unix:
     -

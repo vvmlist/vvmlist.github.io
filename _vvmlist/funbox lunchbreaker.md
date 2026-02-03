@@ -8,6 +8,10 @@ platfs:
 curls:
   funbox lunchbreaker:
     -
+  funbox lunchbreakerac:
+    -
+  funbox lunchbreakercm:
+    -
 functions:
   unix:
     -

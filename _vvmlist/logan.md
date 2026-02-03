@@ -8,6 +8,10 @@ platfs:
 curls:
   logan:
     -
+  loganac:
+    -
+  logancm:
+    -
 functions:
   unix:
     -

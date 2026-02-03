@@ -8,6 +8,10 @@ platfs:
 curls:
   toolbox:
     -
+  toolboxac:
+    -
+  toolboxcm:
+    -
 functions:
   win:
     -

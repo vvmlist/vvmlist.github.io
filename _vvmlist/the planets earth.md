@@ -8,6 +8,10 @@ platfs:
 curls:
   the planets earth:
     -
+  the planets earthac:
+    -
+  the planets earthcm:
+    -
 functions:
   unix:
     -

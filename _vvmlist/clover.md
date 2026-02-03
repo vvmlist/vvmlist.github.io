@@ -8,6 +8,12 @@ platfs:
 curls:
   clover:
     -
+  cloverhmv:
+    -
+  cloverac:
+    -
+  clovercm:
+    -
 functions:
   unix:
     -

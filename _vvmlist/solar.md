@@ -8,6 +8,10 @@ platfs:
 curls:
   solar:
     -
+  solarac:
+    -
+  solarcm:
+    -
 functions:
   unix:
     -

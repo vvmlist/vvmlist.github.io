@@ -8,6 +8,10 @@ platfs:
 curls:
   condor:
     -
+  condorac:
+    -
+  condorcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   nightmare:
     -
+  nightmareac:
+    -
+  nightmarecm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   potato:
     -
+  potatoac:
+    -
+  potatocm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   tophatsec fartknocker:
     -
+  tophatsec fartknockerac:
+    -
+  tophatsec fartknockercm:
+    -
 functions:
   unix:
     -

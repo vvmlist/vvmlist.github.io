@@ -8,6 +8,10 @@ platfs:
 curls:
   horizontall:
     -
+  horizontallac:
+    -
+  horizontallcm:
+    -
 functions:
   unix:
     -

@@ -6,7 +6,11 @@ platfs:
   hackmyvm:
     -
 curls:
-  teacherh:
+  teacher (hackmyvm):
+    -
+  teacher (hackmyvm)ac:
+    -
+  teacher (hackmyvm)cm:
     -
 functions:
   unix:
@@ -27,6 +31,6 @@ functions:
     -
 
 wals:
-  teacherhwu:
+  teacher (hackmyvm)wu:
     -
 ---

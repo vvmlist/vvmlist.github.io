@@ -8,6 +8,10 @@ platfs:
 curls:
   optimum:
     -
+  optimumac:
+    -
+  optimumcm:
+    -
 functions:
   win:
     -

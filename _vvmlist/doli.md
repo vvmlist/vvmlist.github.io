@@ -8,6 +8,10 @@ platfs:
 curls:
   doli:
     -
+  doliac:
+    -
+  dolicm:
+    -
 functions:
   unix:
     -

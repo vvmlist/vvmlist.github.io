@@ -8,6 +8,10 @@ platfs:
 curls:
   dump:
     -
+  dumpac:
+    -
+  dumpcm:
+    -
 functions:
   unix:
     -

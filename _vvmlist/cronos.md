@@ -8,6 +8,10 @@ platfs:
 curls:
   cronos:
     -
+  cronosac:
+    -
+  cronoscm:
+    -
 functions:
   unix:
     -

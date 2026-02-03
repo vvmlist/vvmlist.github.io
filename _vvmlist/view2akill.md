@@ -8,6 +8,10 @@ platfs:
 curls:
   view2akill:
     -
+  view2akillac:
+    -
+  view2akillcm:
+    -
 functions:
   unix:
     -

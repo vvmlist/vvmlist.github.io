@@ -8,6 +8,10 @@ platfs:
 curls:
   zetta:
     -
+  zettaac:
+    -
+  zettacm:
+    -
 functions:
   unix:
     -

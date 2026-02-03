@@ -8,6 +8,10 @@ platfs:
 curls:
   oldschool:
     -
+  oldschoolac:
+    -
+  oldschoolcm:
+    -
 functions:
   unix:
     -

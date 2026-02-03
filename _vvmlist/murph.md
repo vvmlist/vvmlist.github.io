@@ -8,6 +8,10 @@ platfs:
 curls:
   murph:
     -
+  murphac:
+    -
+  murphcm:
+    -
 functions:
   unix:
     -

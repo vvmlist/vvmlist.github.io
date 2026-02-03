@@ -8,6 +8,10 @@ platfs:
 curls:
   twomillion:
     -
+  twomillionac:
+    -
+  twomillioncm:
+    -
 functions:
   unix:
     -

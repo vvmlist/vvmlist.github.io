@@ -8,6 +8,10 @@ platfs:
 curls:
   the beast 2:
     -
+  the beast 2ac:
+    -
+  the beast 2cm:
+    -
 functions:
   unix:
     -

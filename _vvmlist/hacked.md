@@ -8,6 +8,10 @@ platfs:
 curls:
   hacked:
     -
+  hackedac:
+    -
+  hackedcm:
+    -
 functions:
   unix:
     -

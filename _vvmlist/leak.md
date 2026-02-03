@@ -8,6 +8,10 @@ platfs:
 curls:
   leak:
     -
+  leakac:
+    -
+  leakcm:
+    -
 functions:
   unix:
     -

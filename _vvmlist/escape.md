@@ -8,6 +8,10 @@ platfs:
 curls:
   escape:
     -
+  escapeac:
+    -
+  escapecm:
+    -
 functions:
   win:
     -

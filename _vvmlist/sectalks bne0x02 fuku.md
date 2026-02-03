@@ -8,6 +8,10 @@ platfs:
 curls:
   sectalks bne0x02 fuku:
     -
+  sectalks bne0x02 fukuac:
+    -
+  sectalks bne0x02 fukucm:
+    -
 functions:
   unix:
     -

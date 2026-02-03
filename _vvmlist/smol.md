@@ -8,6 +8,10 @@ platfs:
 curls:
   smol:
     -
+  smolac:
+    -
+  smolcm:
+    -
 functions:
   unix:
     -

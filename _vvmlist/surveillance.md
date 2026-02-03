@@ -8,6 +8,10 @@ platfs:
 curls:
   surveillance:
     -
+  surveillanceac:
+    -
+  surveillancecm:
+    -
 functions:
   unix:
     -

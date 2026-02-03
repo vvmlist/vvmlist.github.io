@@ -8,6 +8,10 @@ platfs:
 curls:
   evilcups:
     -
+  evilcupsac:
+    -
+  evilcupscm:
+    -
 functions:
   unix:
     -

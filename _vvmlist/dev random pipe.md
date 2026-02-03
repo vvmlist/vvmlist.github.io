@@ -8,6 +8,10 @@ platfs:
 curls:
   dev random pipe:
     -
+  dev random pipeac:
+    -
+  dev random pipecm:
+    -
 functions:
   unix:
     -

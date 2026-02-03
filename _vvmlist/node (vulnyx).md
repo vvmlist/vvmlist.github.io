@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  nodevx:
+  node (vulnyx):
+    -
+  node (vulnyx)ac:
+    -
+  node (vulnyx)cm:
     -
 functions:
   unix:
@@ -21,6 +25,6 @@ functions:
     -
 
 wals:
-  nodevxwu:
+  node (vulnyx)wu:
     -
 ---

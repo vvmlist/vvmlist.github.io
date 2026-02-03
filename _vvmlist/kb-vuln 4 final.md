@@ -8,6 +8,10 @@ platfs:
 curls:
   kb-vuln 4 final:
     -
+  kb-vuln 4 finalac:
+    -
+  kb-vuln 4 finalcm:
+    -
 functions:
   unix:
     -

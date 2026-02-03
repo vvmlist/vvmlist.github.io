@@ -8,6 +8,10 @@ platfs:
 curls:
   shibboleth:
     -
+  shibbolethac:
+    -
+  shibbolethcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   flujab:
     -
+  flujabac:
+    -
+  flujabcm:
+    -
 functions:
   unix:
     -

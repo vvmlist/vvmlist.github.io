@@ -8,6 +8,10 @@ platfs:
 curls:
   potato (suncsr):
     -
+  potato (suncsr)ac:
+    -
+  potato (suncsr)cm:
+    -
 functions:
   unix:
     -

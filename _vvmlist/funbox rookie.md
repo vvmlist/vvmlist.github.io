@@ -8,6 +8,10 @@ platfs:
 curls:
   funbox rookie:
     -
+  funbox rookieac:
+    -
+  funbox rookiecm:
+    -
 functions:
   unix:
     -

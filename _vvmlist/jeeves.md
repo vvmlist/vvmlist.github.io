@@ -8,6 +8,10 @@ platfs:
 curls:
   jeeves:
     -
+  jeevesac:
+    -
+  jeevescm:
+    -
 functions:
   win:
     -

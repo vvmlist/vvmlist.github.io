@@ -8,6 +8,10 @@ platfs:
 curls:
   printer2:
     -
+  printer2ac:
+    -
+  printer2cm:
+    -
 functions:
   unix:
     -

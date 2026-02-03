@@ -10,6 +10,8 @@ curls:
     -
   tr0ll 2ac:
     -
+  tr0ll 2cm:
+    -
 functions:
   unix:
     -
@@ -31,8 +33,8 @@ functions:
     -
   bof:
     -
-
 wals:
   tr0ll 2wu:
     -
+
 ---

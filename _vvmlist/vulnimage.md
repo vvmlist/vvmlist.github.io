@@ -8,6 +8,10 @@ platfs:
 curls:
   vulnimage:
     -
+  vulnimageac:
+    -
+  vulnimagecm:
+    -
 functions:
   unix:
     -

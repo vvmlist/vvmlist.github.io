@@ -8,6 +8,10 @@ platfs:
 curls:
   bassamctf:
     -
+  bassamctfac:
+    -
+  bassamctfcm:
+    -
 functions:
   unix:
     -

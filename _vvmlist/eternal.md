@@ -8,6 +8,10 @@ platfs:
 curls:
   eternal:
     -
+  eternalac:
+    -
+  eternalcm:
+    -
 functions:
   win:
     -

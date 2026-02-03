@@ -8,6 +8,10 @@ platfs:
 curls:
   matrix:
     -
+  matrixac:
+    -
+  matrixcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   sniper:
     -
+  sniperac:
+    -
+  snipercm:
+    -
 functions:
   unix:
     -

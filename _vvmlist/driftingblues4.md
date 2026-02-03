@@ -8,6 +8,10 @@ platfs:
 curls:
   driftingblues4:
     -
+  driftingblues4ac:
+    -
+  driftingblues4cm:
+    -
 functions:
   unix:
     -

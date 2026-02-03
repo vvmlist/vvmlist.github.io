@@ -8,6 +8,10 @@ platfs:
 curls:
   cybox:
     -
+  cyboxac:
+    -
+  cyboxcm:
+    -
 functions:
   unix:
     -

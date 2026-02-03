@@ -1,0 +1,34 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  change:
+    -
+  changeac:
+    -
+  changecm:
+    -
+functions:
+  win:
+    -
+  m:
+    -
+  vulnyx:
+    -
+  ad:
+    -
+  bf:
+    -
+  bhfcp:
+    -
+  auto:
+    -
+
+wals:
+  changewu:
+    -
+---

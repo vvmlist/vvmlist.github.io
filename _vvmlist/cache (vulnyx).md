@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  cachevx:
+  cache (vulnyx):
+    -
+  cache (vulnyx)ac:
+    -
+  cache (vulnyx)cm:
     -
 functions:
   unix:
@@ -27,6 +31,6 @@ functions:
     -
 
 wals:
-  cachevxwu:
+  cache (vulnyx)wu:
     -
 ---

@@ -8,6 +8,10 @@ platfs:
 curls:
   stagiaire:
     -
+  stagiaireac:
+    -
+  stagiairecm:
+    -
 functions:
   unix:
     -

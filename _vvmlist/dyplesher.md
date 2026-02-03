@@ -8,6 +8,10 @@ platfs:
 curls:
   dyplesher:
     -
+  dyplesherac:
+    -
+  dypleshercm:
+    -
 functions:
   unix:
     -

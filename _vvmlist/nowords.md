@@ -8,6 +8,10 @@ platfs:
 curls:
   nowords:
     -
+  nowordsac:
+    -
+  nowordscm:
+    -
 functions:
   unix:
     -

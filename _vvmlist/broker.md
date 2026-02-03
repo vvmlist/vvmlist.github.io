@@ -8,6 +8,10 @@ platfs:
 curls:
   broker:
     -
+  brokerac:
+    -
+  brokercm:
+    -
 functions:
   unix:
     -

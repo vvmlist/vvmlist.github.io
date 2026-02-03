@@ -10,6 +10,8 @@ curls:
     -
   minuac:
     -
+  minucm:
+    -
 functions:
   unix:
     -
@@ -27,8 +29,8 @@ functions:
     -
   jwt:
     -
-
 wals:
   minuwu:
     -
+
 ---

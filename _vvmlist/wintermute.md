@@ -8,6 +8,10 @@ platfs:
 curls:
   wintermute:
     -
+  wintermuteac:
+    -
+  wintermutecm:
+    -
 functions:
   unix:
     -

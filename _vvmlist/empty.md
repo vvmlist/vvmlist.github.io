@@ -8,6 +8,10 @@ platfs:
 curls:
   empty:
     -
+  emptyac:
+    -
+  emptycm:
+    -
 functions:
   unix:
     -

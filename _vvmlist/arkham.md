@@ -8,6 +8,10 @@ platfs:
 curls:
   arkham:
     -
+  arkhamac:
+    -
+  arkhamcm:
+    -
 functions:
   win:
     -

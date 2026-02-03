@@ -8,6 +8,10 @@ platfs:
 curls:
   academy:
     -
+  academyac:
+    -
+  academycm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   kioptrix level 1:
     -
+  kioptrix level 1ac:
+    -
+  kioptrix level 1cm:
+    -
 functions:
   unix:
     -

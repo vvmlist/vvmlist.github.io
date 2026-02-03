@@ -8,6 +8,10 @@ platfs:
 curls:
   bbs cute:
     -
+  bbs cuteac:
+    -
+  bbs cutecm:
+    -
 functions:
   unix:
     -

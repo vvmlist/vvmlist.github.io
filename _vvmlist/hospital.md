@@ -8,6 +8,10 @@ platfs:
 curls:
   hospital:
     -
+  hospitalac:
+    -
+  hospitalcm:
+    -
 functions:
   win:
     -

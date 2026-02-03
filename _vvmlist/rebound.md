@@ -8,6 +8,10 @@ platfs:
 curls:
   rebound:
     -
+  reboundac:
+    -
+  reboundcm:
+    -
 functions:
   win:
     -

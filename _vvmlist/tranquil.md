@@ -8,6 +8,10 @@ platfs:
 curls:
   tranquil:
     -
+  tranquilac:
+    -
+  tranquilcm:
+    -
 functions:
   unix:
     -

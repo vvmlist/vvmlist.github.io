@@ -8,6 +8,10 @@ platfs:
 curls:
   appsanity:
     -
+  appsanityac:
+    -
+  appsanitycm:
+    -
 functions:
   win:
     -

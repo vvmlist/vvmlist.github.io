@@ -8,6 +8,10 @@ platfs:
 curls:
   sneakymailer:
     -
+  sneakymailerac:
+    -
+  sneakymailercm:
+    -
 functions:
   unix:
     -

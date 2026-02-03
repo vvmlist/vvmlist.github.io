@@ -8,6 +8,10 @@ platfs:
 curls:
   ua literally vulnerable:
     -
+  ua literally vulnerableac:
+    -
+  ua literally vulnerablecm:
+    -
 functions:
   unix:
     -

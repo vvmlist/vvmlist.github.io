@@ -10,6 +10,8 @@ curls:
     -
   bizarre adventure sticky fingersac:
     -
+  bizarre adventure sticky fingerscm:
+    -
 functions:
   unix:
     -
@@ -25,8 +27,8 @@ functions:
     -
   kern:
     -
-
 wals:
   bizarre adventure sticky fingerswu:
     -
+
 ---

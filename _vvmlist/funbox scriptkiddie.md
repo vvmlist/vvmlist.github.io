@@ -8,6 +8,10 @@ platfs:
 curls:
   funbox scriptkiddie:
     -
+  funbox scriptkiddieac:
+    -
+  funbox scriptkiddiecm:
+    -
 functions:
   unix:
     -

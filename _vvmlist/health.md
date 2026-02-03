@@ -8,6 +8,10 @@ platfs:
 curls:
   health:
     -
+  healthac:
+    -
+  healthcm:
+    -
 functions:
   unix:
     -

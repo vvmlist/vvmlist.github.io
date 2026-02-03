@@ -8,6 +8,10 @@ platfs:
 curls:
   nyx:
     -
+  nyxac:
+    -
+  nyxcm:
+    -
 functions:
   unix:
     -

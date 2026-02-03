@@ -8,6 +8,10 @@ platfs:
 curls:
   ai:
     -
+  aiac:
+    -
+  aicm:
+    -
 functions:
   unix:
     -

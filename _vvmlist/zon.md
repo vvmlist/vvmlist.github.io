@@ -8,6 +8,10 @@ platfs:
 curls:
   zon:
     -
+  zonac:
+    -
+  zoncm:
+    -
 functions:
   unix:
     -

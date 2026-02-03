@@ -1,0 +1,26 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  hellman:
+    -
+  hellmanac:
+    -
+  hellmancm:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  vulnyx:
+    -
+
+wals:
+  hellmanwu:
+    -
+---

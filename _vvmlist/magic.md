@@ -8,6 +8,10 @@ platfs:
 curls:
   magic:
     -
+  magicac:
+    -
+  magiccm:
+    -
 functions:
   unix:
     -

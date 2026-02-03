@@ -8,6 +8,10 @@ platfs:
 curls:
   hacksudo fog:
     -
+  hacksudo fogac:
+    -
+  hacksudo fogcm:
+    -
 functions:
   unix:
     -

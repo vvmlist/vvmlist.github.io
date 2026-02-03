@@ -8,6 +8,10 @@ platfs:
 curls:
   medusa:
     -
+  medusaac:
+    -
+  medusacm:
+    -
 functions:
   unix:
     -

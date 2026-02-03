@@ -8,6 +8,10 @@ platfs:
 curls:
   sp eric:
     -
+  sp ericac:
+    -
+  sp ericcm:
+    -
 functions:
   unix:
     -

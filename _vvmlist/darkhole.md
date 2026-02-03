@@ -8,6 +8,10 @@ platfs:
 curls:
   darkhole:
     -
+  darkholeac:
+    -
+  darkholecm:
+    -
 functions:
   unix:
     -

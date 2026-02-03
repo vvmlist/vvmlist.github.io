@@ -8,6 +8,10 @@ platfs:
 curls:
   kvasir:
     -
+  kvasirac:
+    -
+  kvasircm:
+    -
 functions:
   unix:
     -

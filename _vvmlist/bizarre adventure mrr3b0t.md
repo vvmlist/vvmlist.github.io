@@ -10,6 +10,8 @@ curls:
     -
   bizarre adventure mrr3b0tac:
     -
+  bizarre adventure mrr3b0tcm:
+    -
 functions:
   unix:
     -
@@ -29,8 +31,8 @@ functions:
     -
   kern:
     -
-
 wals:
   bizarre adventure mrr3b0twu:
     -
+
 ---

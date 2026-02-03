@@ -8,6 +8,10 @@ platfs:
 curls:
   containme:
     -
+  containmeac:
+    -
+  containmecm:
+    -
 functions:
   unix:
     -

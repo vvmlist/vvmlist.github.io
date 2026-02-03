@@ -8,6 +8,10 @@ platfs:
 curls:
   netstart:
     -
+  netstartac:
+    -
+  netstartcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   typhoon:
     -
+  typhoonac:
+    -
+  typhooncm:
+    -
 functions:
   unix:
     -

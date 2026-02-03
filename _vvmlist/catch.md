@@ -8,6 +8,10 @@ platfs:
 curls:
   catch:
     -
+  catchac:
+    -
+  catchcm:
+    -
 functions:
   unix:
     -

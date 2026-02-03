@@ -8,6 +8,10 @@ platfs:
 curls:
   praying:
     -
+  prayingac:
+    -
+  prayingcm:
+    -
 functions:
   unix:
     -

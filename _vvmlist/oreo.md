@@ -8,6 +8,10 @@ platfs:
 curls:
   oreo:
     -
+  oreoac:
+    -
+  oreocm:
+    -
 functions:
   unix:
     -

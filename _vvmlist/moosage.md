@@ -8,6 +8,10 @@ platfs:
 curls:
   moosage:
     -
+  moosageac:
+    -
+  moosagecm:
+    -
 functions:
   unix:
     -
