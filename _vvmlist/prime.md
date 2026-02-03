@@ -8,6 +8,10 @@ platfs:
 curls:
   prime:
     -
+  primeac:
+    -
+  primecm:
+    -
 functions:
   unix:
     -

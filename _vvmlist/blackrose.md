@@ -8,6 +8,10 @@ platfs:
 curls:
   blackrose:
     -
+  blackroseac:
+    -
+  blackrosecm:
+    -
 functions:
   unix:
     -

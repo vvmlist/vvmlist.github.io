@@ -8,6 +8,10 @@ platfs:
 curls:
   carrier:
     -
+  carrierac:
+    -
+  carriercm:
+    -
 functions:
   unix:
     -

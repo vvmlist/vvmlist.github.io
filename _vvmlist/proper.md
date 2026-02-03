@@ -8,6 +8,10 @@ platfs:
 curls:
   proper:
     -
+  properac:
+    -
+  propercm:
+    -
 functions:
   win:
     -

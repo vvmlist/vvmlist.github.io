@@ -10,6 +10,8 @@ curls:
     -
   minu 2ac:
     -
+  minu 2cm:
+    -
 functions:
   unix:
     -
@@ -27,8 +29,8 @@ functions:
     -
   suid:
     -
-
 wals:
   minu 2wu:
     -
+
 ---

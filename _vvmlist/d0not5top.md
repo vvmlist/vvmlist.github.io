@@ -8,6 +8,10 @@ platfs:
 curls:
   d0not5top:
     -
+  d0not5topac:
+    -
+  d0not5topcm:
+    -
 functions:
   unix:
     -

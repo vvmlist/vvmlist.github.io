@@ -8,6 +8,10 @@ platfs:
 curls:
   taurus:
     -
+  taurusac:
+    -
+  tauruscm:
+    -
 functions:
   unix:
     -

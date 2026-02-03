@@ -8,6 +8,10 @@ platfs:
 curls:
   code:
     -
+  codeac:
+    -
+  codecm:
+    -
 functions:
   unix:
     -

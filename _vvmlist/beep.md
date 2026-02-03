@@ -8,6 +8,10 @@ platfs:
 curls:
   beep:
     -
+  beepac:
+    -
+  beepcm:
+    -
 functions:
   unix:
     -

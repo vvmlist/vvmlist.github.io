@@ -8,6 +8,10 @@ platfs:
 curls:
   shop:
     -
+  shopac:
+    -
+  shopcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   tbbt 2 funwithflags:
     -
+  tbbt 2 funwithflagsac:
+    -
+  tbbt 2 funwithflagscm:
+    -
 functions:
   unix:
     -

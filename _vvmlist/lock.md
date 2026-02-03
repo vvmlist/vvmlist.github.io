@@ -3,21 +3,25 @@ diffis:
   e:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   lock:
+    -
+  lockac:
+    -
+  lockcm:
     -
 functions:
   win:
     -
   e:
     -
-  vulnlab:
+  htbvip:
     -
   git:
     -
-  rce:
+  api:
     -
   decode:
     -
@@ -25,10 +29,10 @@ functions:
     -
   cve:
     -
-  logical:
-    -
 
 wals:
   lockwu:
+    -
+  lockvi:
     -
 ---

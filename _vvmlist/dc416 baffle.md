@@ -8,6 +8,10 @@ platfs:
 curls:
   dc416 baffle:
     -
+  dc416 baffleac:
+    -
+  dc416 bafflecm:
+    -
 functions:
   unix:
     -

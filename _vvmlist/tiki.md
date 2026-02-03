@@ -8,6 +8,10 @@ platfs:
 curls:
   tiki:
     -
+  tikiac:
+    -
+  tikicm:
+    -
 functions:
   unix:
     -

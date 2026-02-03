@@ -8,6 +8,10 @@ platfs:
 curls:
   solarlab:
     -
+  solarlabac:
+    -
+  solarlabcm:
+    -
 functions:
   win:
     -

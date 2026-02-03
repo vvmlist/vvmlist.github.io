@@ -8,6 +8,10 @@ platfs:
 curls:
   harrypotter aragog:
     -
+  harrypotter aragogac:
+    -
+  harrypotter aragogcm:
+    -
 functions:
   unix:
     -

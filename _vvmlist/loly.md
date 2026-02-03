@@ -8,6 +8,10 @@ platfs:
 curls:
   loly:
     -
+  lolyac:
+    -
+  lolycm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   networked:
     -
+  networkedac:
+    -
+  networkedcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   fourandsix:
     -
+  fourandsixac:
+    -
+  fourandsixcm:
+    -
 functions:
   unix:
     -

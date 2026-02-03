@@ -8,6 +8,10 @@ platfs:
 curls:
   acid reloaded:
     -
+  acid reloadedac:
+    -
+  acid reloadedcm:
+    -
 functions:
   unix:
     -

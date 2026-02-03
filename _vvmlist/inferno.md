@@ -8,6 +8,10 @@ platfs:
 curls:
   inferno:
     -
+  infernoac:
+    -
+  infernocm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   ganana:
     -
+  gananaac:
+    -
+  gananacm:
+    -
 functions:
   unix:
     -

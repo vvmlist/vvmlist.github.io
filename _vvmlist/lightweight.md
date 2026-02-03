@@ -8,6 +8,10 @@ platfs:
 curls:
   lightweight:
     -
+  lightweightac:
+    -
+  lightweightcm:
+    -
 functions:
   unix:
     -

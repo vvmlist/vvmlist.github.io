@@ -8,6 +8,10 @@ platfs:
 curls:
   seventeen:
     -
+  seventeenac:
+    -
+  seventeencm:
+    -
 functions:
   unix:
     -

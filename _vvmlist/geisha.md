@@ -8,6 +8,10 @@ platfs:
 curls:
   geisha:
     -
+  geishaac:
+    -
+  geishacm:
+    -
 functions:
   unix:
     -

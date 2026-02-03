@@ -8,6 +8,10 @@ platfs:
 curls:
   devoops:
     -
+  devoopsac:
+    -
+  devoopscm:
+    -
 functions:
   unix:
     -

@@ -10,6 +10,10 @@ curls:
     -
   orasivu:
     -
+  orasiac:
+    -
+  orasicm:
+    -
 functions:
   unix:
     -

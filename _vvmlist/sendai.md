@@ -3,44 +3,42 @@ diffis:
   m:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   sendai:
+    -
+  sendaiac:
+    -
+  sendaicm:
     -
 functions:
   win:
     -
   m:
     -
-  vulnlab:
+  htbvip:
     -
   ad:
     -
-  fuzz:
+  smb:
     -
   al:
     -
-  smb:
-    -
-  creds:
+  bf:
     -
   bhga:
     -
   gmsa:
     -
-  pspy:
-    -
-  groups:
+  creds:
     -
   adcs:
-    -
-  silver:
-    -
-  tsi:
     -
 
 wals:
   sendaiwu:
+    -
+  sendaivi:
     -
 ---

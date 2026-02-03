@@ -8,6 +8,10 @@ platfs:
 curls:
   travel:
     -
+  travelac:
+    -
+  travelcm:
+    -
 functions:
   unix:
     -

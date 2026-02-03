@@ -8,6 +8,10 @@ platfs:
 curls:
   send:
     -
+  sendac:
+    -
+  sendcm:
+    -
 functions:
   unix:
     -

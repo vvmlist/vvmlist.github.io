@@ -8,6 +8,10 @@ platfs:
 curls:
   juggling:
     -
+  jugglingac:
+    -
+  jugglingcm:
+    -
 functions:
   unix:
     -

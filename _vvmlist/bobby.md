@@ -8,6 +8,10 @@ platfs:
 curls:
   bobby:
     -
+  bobbyac:
+    -
+  bobbycm:
+    -
 functions:
   win:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   ready:
     -
+  readyac:
+    -
+  readycm:
+    -
 functions:
   unix:
     -

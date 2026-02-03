@@ -8,6 +8,10 @@ platfs:
 curls:
   sar:
     -
+  sarac:
+    -
+  sarcm:
+    -
 functions:
   unix:
     -

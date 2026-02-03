@@ -8,6 +8,10 @@ platfs:
 curls:
   jetty:
     -
+  jettyac:
+    -
+  jettycm:
+    -
 functions:
   unix:
     -

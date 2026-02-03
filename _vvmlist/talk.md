@@ -8,6 +8,10 @@ platfs:
 curls:
   talk:
     -
+  talkac:
+    -
+  talkcm:
+    -
 functions:
   unix:
     -

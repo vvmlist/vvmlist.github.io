@@ -8,6 +8,10 @@ platfs:
 curls:
   digitalworld.local joy:
     -
+  digitalworld.local joyac:
+    -
+  digitalworld.local joycm:
+    -
 functions:
   unix:
     -

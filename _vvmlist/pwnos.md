@@ -8,6 +8,10 @@ platfs:
 curls:
   pwnos:
     -
+  pwnosac:
+    -
+  pwnoscm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   tophatsec zorz:
     -
+  tophatsec zorzac:
+    -
+  tophatsec zorzcm:
+    -
 functions:
   unix:
     -

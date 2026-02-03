@@ -8,6 +8,10 @@ platfs:
 curls:
   donkeydocker:
     -
+  donkeydockerac:
+    -
+  donkeydockercm:
+    -
 functions:
   unix:
     -

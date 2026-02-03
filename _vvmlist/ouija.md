@@ -8,6 +8,10 @@ platfs:
 curls:
   ouija:
     -
+  ouijaac:
+    -
+  ouijacm:
+    -
 functions:
   unix:
     -

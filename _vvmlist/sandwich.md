@@ -1,0 +1,38 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  sandwich:
+    -
+  sandwichac:
+    -
+  sandwichcm:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  sand:
+    -
+  bf:
+    -
+  creds:
+    -
+  sudo:
+    -
+  logical:
+    -
+
+wals:
+  sandwichwu:
+    -
+---

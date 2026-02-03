@@ -8,6 +8,10 @@ platfs:
 curls:
   external:
     -
+  externalac:
+    -
+  externalcm:
+    -
 functions:
   unix:
     -

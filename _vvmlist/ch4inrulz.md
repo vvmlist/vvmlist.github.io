@@ -10,6 +10,8 @@ curls:
     -
   ch4inrulzac:
     -
+  ch4inrulzcm:
+    -
 functions:
   unix:
     -
@@ -31,8 +33,8 @@ functions:
     -
   kern:
     -
-
 wals:
   ch4inrulzwu:
     -
+
 ---

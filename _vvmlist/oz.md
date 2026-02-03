@@ -10,6 +10,10 @@ curls:
     -
   ozvh:
     -
+  ozac:
+    -
+  ozcm:
+    -
 functions:
   unix:
     -

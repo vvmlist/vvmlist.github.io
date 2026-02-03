@@ -8,6 +8,10 @@ platfs:
 curls:
   usage:
     -
+  usageac:
+    -
+  usagecm:
+    -
 functions:
   unix:
     -

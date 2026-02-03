@@ -8,6 +8,10 @@ platfs:
 curls:
   my cmsms:
     -
+  my cmsmsac:
+    -
+  my cmsmscm:
+    -
 functions:
   unix:
     -

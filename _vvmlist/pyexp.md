@@ -8,6 +8,10 @@ platfs:
 curls:
   pyexp:
     -
+  pyexpac:
+    -
+  pyexpcm:
+    -
 functions:
   unix:
     -

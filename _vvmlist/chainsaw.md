@@ -8,6 +8,10 @@ platfs:
 curls:
   chainsaw:
     -
+  chainsawac:
+    -
+  chainsawcm:
+    -
 functions:
   unix:
     -

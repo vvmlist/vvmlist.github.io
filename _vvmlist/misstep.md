@@ -1,0 +1,44 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  misstep:
+    -
+  misstepac:
+    -
+  misstepcm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  pp:
+    -
+  rce:
+    -
+  creds:
+    -
+  ssh:
+    -
+  passre:
+    -
+  cron:
+    -
+  pspy:
+    -
+  logical:
+    -
+
+wals:
+  misstepwu:
+    -
+---

@@ -8,6 +8,10 @@ platfs:
 curls:
   tommy boy:
     -
+  tommy boyac:
+    -
+  tommy boycm:
+    -
 functions:
   unix:
     -

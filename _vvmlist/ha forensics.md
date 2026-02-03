@@ -8,6 +8,10 @@ platfs:
 curls:
   ha forensics:
     -
+  ha forensicsac:
+    -
+  ha forensicscm:
+    -
 functions:
   unix:
     -

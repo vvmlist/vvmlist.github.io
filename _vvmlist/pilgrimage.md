@@ -8,6 +8,10 @@ platfs:
 curls:
   pilgrimage:
     -
+  pilgrimageac:
+    -
+  pilgrimagecm:
+    -
 functions:
   unix:
     -

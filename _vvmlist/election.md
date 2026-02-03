@@ -8,6 +8,10 @@ platfs:
 curls:
   election:
     -
+  electionac:
+    -
+  electioncm:
+    -
 functions:
   unix:
     -

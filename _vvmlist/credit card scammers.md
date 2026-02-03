@@ -10,6 +10,8 @@ curls:
     -
   credit card scammersac:
     -
+  credit card scammerscm:
+    -
 functions:
   unix:
     -
@@ -35,8 +37,8 @@ functions:
     -
   pathj:
     -
-
 wals:
   credit card scammerswu:
     -
+
 ---

@@ -8,6 +8,10 @@ platfs:
 curls:
   jenk:
     -
+  jenkac:
+    -
+  jenkcm:
+    -
 functions:
   unix:
     -

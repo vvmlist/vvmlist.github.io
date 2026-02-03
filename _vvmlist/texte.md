@@ -8,6 +8,10 @@ platfs:
 curls:
   texte:
     -
+  texteac:
+    -
+  textecm:
+    -
 functions:
   unix:
     -

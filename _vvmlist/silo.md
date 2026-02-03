@@ -8,6 +8,10 @@ platfs:
 curls:
   silo:
     -
+  siloac:
+    -
+  silocm:
+    -
 functions:
   win:
     -

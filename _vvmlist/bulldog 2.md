@@ -8,6 +8,10 @@ platfs:
 curls:
   bulldog 2:
     -
+  bulldog 2ac:
+    -
+  bulldog 2cm:
+    -
 functions:
   unix:
     -

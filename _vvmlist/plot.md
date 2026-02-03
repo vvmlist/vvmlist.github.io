@@ -8,6 +8,10 @@ platfs:
 curls:
   plot:
     -
+  plotac:
+    -
+  plotcm:
+    -
 functions:
   unix:
     -

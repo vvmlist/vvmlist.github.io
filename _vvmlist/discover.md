@@ -8,6 +8,10 @@ platfs:
 curls:
   discover:
     -
+  discoverac:
+    -
+  discovercm:
+    -
 functions:
   unix:
     -

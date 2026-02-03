@@ -8,6 +8,10 @@ platfs:
 curls:
   typo:
     -
+  typoac:
+    -
+  typocm:
+    -
 functions:
   unix:
     -

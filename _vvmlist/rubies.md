@@ -8,6 +8,10 @@ platfs:
 curls:
   rubies:
     -
+  rubiesac:
+    -
+  rubiescm:
+    -
 functions:
   unix:
     -

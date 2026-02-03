@@ -8,6 +8,10 @@ platfs:
 curls:
   colddbox easy:
     -
+  colddbox easyac:
+    -
+  colddbox easycm:
+    -
 functions:
   unix:
     -

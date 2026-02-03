@@ -8,6 +8,10 @@ platfs:
 curls:
   locker:
     -
+  lockerac:
+    -
+  lockercm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   hacker kid:
     -
+  hacker kidac:
+    -
+  hacker kidcm:
+    -
 functions:
   unix:
     -

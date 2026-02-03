@@ -8,6 +8,10 @@ platfs:
 curls:
   bankrobber:
     -
+  bankrobberac:
+    -
+  bankrobbercm:
+    -
 functions:
   win:
     -

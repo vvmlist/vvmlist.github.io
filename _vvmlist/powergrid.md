@@ -8,6 +8,10 @@ platfs:
 curls:
   powergrid:
     -
+  powergridac:
+    -
+  powergridcm:
+    -
 functions:
   unix:
     -

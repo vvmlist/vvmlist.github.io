@@ -8,6 +8,10 @@ platfs:
 curls:
   domdom:
     -
+  domdomac:
+    -
+  domdomcm:
+    -
 functions:
   unix:
     -

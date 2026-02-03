@@ -8,6 +8,10 @@ platfs:
 curls:
   aero:
     -
+  aeroac:
+    -
+  aerocm:
+    -
 functions:
   win:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   wild:
     -
+  wildac:
+    -
+  wildcm:
+    -
 functions:
   unix:
     -

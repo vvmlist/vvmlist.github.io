@@ -8,6 +8,10 @@ platfs:
 curls:
   hackingtoys:
     -
+  hackingtoysac:
+    -
+  hackingtoyscm:
+    -
 functions:
   unix:
     -

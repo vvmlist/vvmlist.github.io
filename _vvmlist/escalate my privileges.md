@@ -8,6 +8,10 @@ platfs:
 curls:
   escalate my privileges:
     -
+  escalate my privilegesac:
+    -
+  escalate my privilegescm:
+    -
 functions:
   unix:
     -

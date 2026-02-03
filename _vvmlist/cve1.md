@@ -8,6 +8,10 @@ platfs:
 curls:
   cve1:
     -
+  cve1ac:
+    -
+  cve1cm:
+    -
 functions:
   unix:
     -

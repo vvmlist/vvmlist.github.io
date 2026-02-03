@@ -8,6 +8,10 @@ platfs:
 curls:
   fortune:
     -
+  fortuneac:
+    -
+  fortunecm:
+    -
 functions:
   unix:
     -

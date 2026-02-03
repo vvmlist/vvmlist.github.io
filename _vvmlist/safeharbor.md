@@ -8,6 +8,10 @@ platfs:
 curls:
   safeharbor:
     -
+  safeharborac:
+    -
+  safeharborcm:
+    -
 functions:
   unix:
     -

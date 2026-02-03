@@ -1,0 +1,42 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  zerotrace:
+    -
+  zerotraceac:
+    -
+  zerotracecm:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  lfi:
+    -
+  creds:
+    -
+  ssh:
+    -
+  suid:
+    -
+  cron:
+    -
+  pspy:
+    -
+  bf:
+    -
+
+wals:
+  zerotracewu:
+    -
+---

@@ -8,6 +8,10 @@ platfs:
 curls:
   buffemr:
     -
+  buffemrac:
+    -
+  buffemrcm:
+    -
 functions:
   unix:
     -

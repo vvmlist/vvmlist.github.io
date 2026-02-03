@@ -8,6 +8,10 @@ platfs:
 curls:
   snoopy:
     -
+  snoopyac:
+    -
+  snoopycm:
+    -
 functions:
   unix:
     -

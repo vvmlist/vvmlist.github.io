@@ -8,6 +8,10 @@ platfs:
 curls:
   hostname:
     -
+  hostnameac:
+    -
+  hostnamecm:
+    -
 functions:
   unix:
     -

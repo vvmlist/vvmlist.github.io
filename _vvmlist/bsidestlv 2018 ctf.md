@@ -8,6 +8,10 @@ platfs:
 curls:
   bsidestlv 2018 ctf:
     -
+  bsidestlv 2018 ctfac:
+    -
+  bsidestlv 2018 ctfcm:
+    -
 functions:
   unix:
     -

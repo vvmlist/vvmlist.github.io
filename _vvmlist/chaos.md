@@ -8,6 +8,10 @@ platfs:
 curls:
   chaos:
     -
+  chaosac:
+    -
+  chaoscm:
+    -
 functions:
   unix:
     -

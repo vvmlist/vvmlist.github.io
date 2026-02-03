@@ -8,6 +8,10 @@ platfs:
 curls:
   roosterrun:
     -
+  roosterrunac:
+    -
+  roosterruncm:
+    -
 functions:
   unix:
     -

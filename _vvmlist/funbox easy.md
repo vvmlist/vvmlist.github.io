@@ -8,6 +8,10 @@ platfs:
 curls:
   funbox easy:
     -
+  funbox easyac:
+    -
+  funbox easycm:
+    -
 functions:
   unix:
     -

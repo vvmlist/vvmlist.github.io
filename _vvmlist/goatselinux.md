@@ -8,6 +8,10 @@ platfs:
 curls:
   goatselinux:
     -
+  goatselinuxac:
+    -
+  goatselinuxcm:
+    -
 functions:
   unix:
     -

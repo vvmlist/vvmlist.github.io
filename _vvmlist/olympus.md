@@ -8,6 +8,10 @@ platfs:
 curls:
   olympus:
     -
+  olympusac:
+    -
+  olympuscm:
+    -
 functions:
   unix:
     -

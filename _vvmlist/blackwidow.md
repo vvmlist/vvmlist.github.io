@@ -12,6 +12,8 @@ curls:
     -
   blackwidowac:
     -
+  blackwidowcm:
+    -
 functions:
   unix:
     -

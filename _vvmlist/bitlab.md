@@ -8,6 +8,10 @@ platfs:
 curls:
   bitlab:
     -
+  bitlabac:
+    -
+  bitlabcm:
+    -
 functions:
   unix:
     -

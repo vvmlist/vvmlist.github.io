@@ -6,7 +6,11 @@ platfs:
   hackmyvm:
     -
 curls:
-  familty2:
+  family2:
+    -
+  family2ac:
+    -
+  family2cm:
     -
 functions:
   unix:
@@ -27,6 +31,6 @@ functions:
     -
 
 wals:
-  familty2wu:
+  family2wu:
     -
 ---

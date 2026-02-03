@@ -8,6 +8,10 @@ platfs:
 curls:
   hotel:
     -
+  hotelac:
+    -
+  hotelcm:
+    -
 functions:
   unix:
     -

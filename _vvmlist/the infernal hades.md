@@ -8,6 +8,10 @@ platfs:
 curls:
   the infernal hades:
     -
+  the infernal hadesac:
+    -
+  the infernal hadescm:
+    -
 functions:
   unix:
     -

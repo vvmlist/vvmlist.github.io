@@ -1,0 +1,42 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  exposeddev:
+    -
+  exposeddevac:
+    -
+  exposeddevcm:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  git:
+    -
+  creds:
+    -
+  lfi:
+    -
+  source:
+    -
+  ssh:
+    -
+  tunnel:
+    -
+  sudo:
+    -
+
+wals:
+  exposeddevwu:
+    -
+---

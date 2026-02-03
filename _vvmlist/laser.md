@@ -8,6 +8,10 @@ platfs:
 curls:
   laser:
     -
+  laserac:
+    -
+  lasercm:
+    -
 functions:
   unix:
     -

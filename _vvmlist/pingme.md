@@ -8,6 +8,10 @@ platfs:
 curls:
   pingme:
     -
+  pingmeac:
+    -
+  pingmecm:
+    -
 functions:
   unix:
     -

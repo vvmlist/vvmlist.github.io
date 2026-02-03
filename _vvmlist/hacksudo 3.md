@@ -8,6 +8,10 @@ platfs:
 curls:
   hacksudo 3:
     -
+  hacksudo 3ac:
+    -
+  hacksudo 3cm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   hogwarts dobby:
     -
+  hogwarts dobbyac:
+    -
+  hogwarts dobbycm:
+    -
 functions:
   unix:
     -

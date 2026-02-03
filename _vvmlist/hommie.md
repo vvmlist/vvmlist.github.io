@@ -8,6 +8,10 @@ platfs:
 curls:
   hommie:
     -
+  hommieac:
+    -
+  hommiecm:
+    -
 functions:
   unix:
     -

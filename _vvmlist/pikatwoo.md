@@ -8,6 +8,10 @@ platfs:
 curls:
   pikatwoo:
     -
+  pikatwooac:
+    -
+  pikatwoocm:
+    -
 functions:
   unix:
     -

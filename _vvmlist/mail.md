@@ -8,6 +8,10 @@ platfs:
 curls:
   mail:
     -
+  mailac:
+    -
+  mailcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   hacksudo search:
     -
+  hacksudo searchac:
+    -
+  hacksudo searchcm:
+    -
 functions:
   unix:
     -

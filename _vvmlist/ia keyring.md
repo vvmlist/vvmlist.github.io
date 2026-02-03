@@ -8,6 +8,10 @@ platfs:
 curls:
   ia keyring:
     -
+  ia keyringac:
+    -
+  ia keyringcm:
+    -
 functions:
   unix:
     -

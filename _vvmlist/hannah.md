@@ -8,6 +8,10 @@ platfs:
 curls:
   hannah:
     -
+  hannahac:
+    -
+  hannahcm:
+    -
 functions:
   unix:
     -

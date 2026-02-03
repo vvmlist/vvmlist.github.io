@@ -8,6 +8,10 @@ platfs:
 curls:
   katana:
     -
+  katanaac:
+    -
+  katanacm:
+    -
 functions:
   unix:
     -

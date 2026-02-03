@@ -8,6 +8,10 @@ platfs:
 curls:
   universe:
     -
+  universeac:
+    -
+  universecm:
+    -
 functions:
   unix:
     -

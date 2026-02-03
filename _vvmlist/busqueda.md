@@ -8,6 +8,10 @@ platfs:
 curls:
   busqueda:
     -
+  busquedaac:
+    -
+  busquedacm:
+    -
 functions:
   unix:
     -

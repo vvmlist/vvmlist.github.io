@@ -8,6 +8,10 @@ platfs:
 curls:
   ephemeral3:
     -
+  ephemeral3ac:
+    -
+  ephemeral3cm:
+    -
 functions:
   unix:
     -

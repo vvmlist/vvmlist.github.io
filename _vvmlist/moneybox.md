@@ -8,6 +8,10 @@ platfs:
 curls:
   moneybox:
     -
+  moneyboxac:
+    -
+  moneyboxcm:
+    -
 functions:
   unix:
     -

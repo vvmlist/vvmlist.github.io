@@ -8,6 +8,10 @@ platfs:
 curls:
   future:
     -
+  futureac:
+    -
+  futurecm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   lazy:
     -
+  lazyac:
+    -
+  lazycm:
+    -
 functions:
   unix:
     -

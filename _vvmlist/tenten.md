@@ -8,6 +8,10 @@ platfs:
 curls:
   tenten:
     -
+  tentenac:
+    -
+  tentencm:
+    -
 functions:
   unix:
     -

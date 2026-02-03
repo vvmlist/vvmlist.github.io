@@ -1,33 +1,41 @@
 ---
 diffis:
-  e:
+  m:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   build:
     -
+  buildac:
+    -
+  buildcm:
+    -
 functions:
   unix:
     -
-  e:
+  m:
     -
-  vulnlab:
+  htbvip:
     -
   git:
     -
   rsync:
     -
+  mbck:
+    -
+  creds:
+    -
   decode:
     -
   tunnel:
     -
-  bre:
-    -
   sql:
     -
   hc:
+    -
+  logical:
     -
 
 wals:

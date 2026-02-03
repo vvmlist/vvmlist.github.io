@@ -8,6 +8,10 @@ platfs:
 curls:
   greenoptic:
     -
+  greenopticac:
+    -
+  greenopticcm:
+    -
 functions:
   unix:
     -

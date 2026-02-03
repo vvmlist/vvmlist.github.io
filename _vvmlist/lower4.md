@@ -1,0 +1,32 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  lower4:
+    -
+  lower4ac:
+    -
+  lower4cm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  bf:
+    -
+  ssh:
+    -
+  sudo:
+    -
+
+wals:
+  lower4wu:
+    -
+---

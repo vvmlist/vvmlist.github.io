@@ -8,6 +8,10 @@ platfs:
 curls:
   mantis:
     -
+  mantisac:
+    -
+  mantiscm:
+    -
 functions:
   win:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   infosec prep oscp:
     -
+  infosec prep oscpac:
+    -
+  infosec prep oscpcm:
+    -
 functions:
   unix:
     -

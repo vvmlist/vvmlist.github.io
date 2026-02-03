@@ -8,6 +8,10 @@ platfs:
 curls:
   suuk:
     -
+  suukac:
+    -
+  suukcm:
+    -
 functions:
   unix:
     -

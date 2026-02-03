@@ -8,6 +8,10 @@ platfs:
 curls:
   breakout:
     -
+  breakoutac:
+    -
+  breakoutcm:
+    -
 functions:
   unix:
     -

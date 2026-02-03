@@ -1,0 +1,42 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  coliseum:
+    -
+  coliseumac:
+    -
+  coliseumcm:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  vulnyx:
+    -
+  idor:
+    -
+  logical:
+    -
+  fuzz:
+    -
+  sql:
+    -
+  rce:
+    -
+  creds:
+    -
+  sudo:
+    -
+  rwp:
+    -
+
+wals:
+  coliseumwu:
+    -
+---

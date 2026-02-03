@@ -8,6 +8,10 @@ platfs:
 curls:
   laboratory:
     -
+  laboratoryac:
+    -
+  laboratorycm:
+    -
 functions:
   unix:
     -

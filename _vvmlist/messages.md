@@ -8,6 +8,10 @@ platfs:
 curls:
   messages:
     -
+  messagesac:
+    -
+  messagescm:
+    -
 functions:
   unix:
     -

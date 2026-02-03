@@ -8,6 +8,10 @@ platfs:
 curls:
   quandary1:
     -
+  quandary1ac:
+    -
+  quandary1cm:
+    -
 functions:
   unix:
     -

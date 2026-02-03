@@ -8,6 +8,10 @@ platfs:
 curls:
   doc:
     -
+  docac:
+    -
+  doccm:
+    -
 functions:
   unix:
     -

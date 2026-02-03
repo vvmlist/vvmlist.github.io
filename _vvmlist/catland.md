@@ -8,6 +8,10 @@ platfs:
 curls:
   catland:
     -
+  catlandac:
+    -
+  catlandcm:
+    -
 functions:
   unix:
     -

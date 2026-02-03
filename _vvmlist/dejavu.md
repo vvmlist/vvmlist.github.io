@@ -8,6 +8,10 @@ platfs:
 curls:
   dejavu:
     -
+  dejavuac:
+    -
+  dejavucm:
+    -
 functions:
   unix:
     -

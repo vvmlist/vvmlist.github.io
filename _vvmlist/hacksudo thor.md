@@ -8,6 +8,10 @@ platfs:
 curls:
   hacksudo thor:
     -
+  hacksudo thorac:
+    -
+  hacksudo thorcm:
+    -
 functions:
   unix:
     -

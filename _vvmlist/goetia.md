@@ -8,6 +8,10 @@ platfs:
 curls:
   goetia:
     -
+  goetiaac:
+    -
+  goetiacm:
+    -
 functions:
   unix:
     -

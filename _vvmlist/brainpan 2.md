@@ -8,6 +8,10 @@ platfs:
 curls:
   brainpan 2:
     -
+  brainpan 2ac:
+    -
+  brainpan 2cm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   narcos:
     -
+  narcosac:
+    -
+  narcoscm:
+    -
 functions:
   unix:
     -

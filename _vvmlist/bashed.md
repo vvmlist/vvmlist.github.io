@@ -8,6 +8,10 @@ platfs:
 curls:
   bashed:
     -
+  bashedac:
+    -
+  bashedcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   suidy:
     -
+  suidyac:
+    -
+  suidycm:
+    -
 functions:
   unix:
     -

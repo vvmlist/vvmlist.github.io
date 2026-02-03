@@ -1,0 +1,40 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  lower5:
+    -
+  lower5ac:
+    -
+  lower5cm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  lfi:
+    -
+  fuzz:
+    -
+  rce:
+    -
+  logpoi:
+    -
+  sudo:
+    -
+  pgp:
+    -
+  hc:
+    -
+
+wals:
+  lower5wu:
+    -
+---

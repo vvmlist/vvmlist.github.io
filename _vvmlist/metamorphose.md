@@ -8,6 +8,10 @@ platfs:
 curls:
   metamorphose:
     -
+  metamorphoseac:
+    -
+  metamorphosecm:
+    -
 functions:
   unix:
     -

@@ -10,6 +10,8 @@ curls:
     -
   ai web 2ac:
     -
+  ai web 2cm:
+    -
 functions:
   unix:
     -
@@ -35,8 +37,8 @@ functions:
     -
   lxd:
     -
-
 wals:
   ai web 2wu:
     -
+
 ---

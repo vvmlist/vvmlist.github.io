@@ -8,6 +8,10 @@ platfs:
 curls:
   helium:
     -
+  heliumac:
+    -
+  heliumcm:
+    -
 functions:
   unix:
     -

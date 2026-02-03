@@ -8,6 +8,10 @@ platfs:
 curls:
   anaximandre:
     -
+  anaximandreac:
+    -
+  anaximandrecm:
+    -
 functions:
   unix:
     -

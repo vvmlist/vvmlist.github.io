@@ -8,6 +8,10 @@ platfs:
 curls:
   mhz_cxf c1f:
     -
+  mhz_cxf c1fac:
+    -
+  mhz_cxf c1fcm:
+    -
 functions:
   unix:
     -

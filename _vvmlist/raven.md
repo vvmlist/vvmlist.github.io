@@ -8,6 +8,10 @@ platfs:
 curls:
   raven:
     -
+  ravenac:
+    -
+  ravencm:
+    -
 functions:
   unix:
     -

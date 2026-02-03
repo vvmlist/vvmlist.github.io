@@ -8,6 +8,10 @@ platfs:
 curls:
   seal:
     -
+  sealac:
+    -
+  sealcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   ted:
     -
+  tedac:
+    -
+  tedcm:
+    -
 functions:
   unix:
     -

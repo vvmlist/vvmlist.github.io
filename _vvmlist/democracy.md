@@ -8,6 +8,10 @@ platfs:
 curls:
   democracy:
     -
+  democracyac:
+    -
+  democracycm:
+    -
 functions:
   unix:
     -

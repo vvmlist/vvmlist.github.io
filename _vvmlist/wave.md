@@ -8,6 +8,10 @@ platfs:
 curls:
   wave:
     -
+  waveac:
+    -
+  wavecm:
+    -
 functions:
   unix:
     -

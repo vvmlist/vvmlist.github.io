@@ -8,6 +8,10 @@ platfs:
 curls:
   cheran:
     -
+  cheranac:
+    -
+  cherancm:
+    -
 functions:
   unix:
     -

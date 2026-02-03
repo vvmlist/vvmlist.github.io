@@ -8,6 +8,10 @@ platfs:
 curls:
   birthday:
     -
+  birthdayac:
+    -
+  birthdaycm:
+    -
 functions:
   unix:
     -

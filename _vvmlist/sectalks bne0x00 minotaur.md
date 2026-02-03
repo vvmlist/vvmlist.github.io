@@ -8,6 +8,10 @@ platfs:
 curls:
   sectalks bne0x00 minotaur:
     -
+  sectalks bne0x00 minotaurac:
+    -
+  sectalks bne0x00 minotaurcm:
+    -
 functions:
   unix:
     -

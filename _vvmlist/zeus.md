@@ -8,6 +8,10 @@ platfs:
 curls:
   zeus:
     -
+  zeusac:
+    -
+  zeuscm:
+    -
 functions:
   unix:
     -

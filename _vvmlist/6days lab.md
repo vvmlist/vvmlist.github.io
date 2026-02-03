@@ -8,6 +8,10 @@ platfs:
 curls:
   6days lab:
     -
+  6days labac:
+    -
+  6days labcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   find:
     -
+  findac:
+    -
+  findcm:
+    -
 functions:
   unix:
     -

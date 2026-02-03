@@ -8,6 +8,10 @@ platfs:
 curls:
   xerxes 2:
     -
+  xerxes 2ac:
+    -
+  xerxes 2cm:
+    -
 functions:
   unix:
     -

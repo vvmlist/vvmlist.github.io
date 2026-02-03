@@ -8,6 +8,10 @@ platfs:
 curls:
   sneaky:
     -
+  sneakyac:
+    -
+  sneakycm:
+    -
 functions:
   unix:
     -

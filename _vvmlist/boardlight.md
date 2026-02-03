@@ -8,6 +8,10 @@ platfs:
 curls:
   boardlight:
     -
+  boardlightac:
+    -
+  boardlightcm:
+    -
 functions:
   unix:
     -

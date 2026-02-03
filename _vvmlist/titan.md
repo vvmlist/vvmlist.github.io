@@ -8,6 +8,10 @@ platfs:
 curls:
   titan:
     -
+  titanac:
+    -
+  titancm:
+    -
 functions:
   unix:
     -

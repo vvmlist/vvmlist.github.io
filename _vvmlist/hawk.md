@@ -8,6 +8,10 @@ platfs:
 curls:
   hawk:
     -
+  hawkac:
+    -
+  hawkcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   five86:
     -
+  five86ac:
+    -
+  five86cm:
+    -
 functions:
   unix:
     -

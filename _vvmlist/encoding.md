@@ -8,6 +8,10 @@ platfs:
 curls:
   encoding:
     -
+  encodingac:
+    -
+  encodingcm:
+    -
 functions:
   unix:
     -

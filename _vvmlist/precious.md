@@ -8,6 +8,10 @@ platfs:
 curls:
   precious:
     -
+  preciousac:
+    -
+  preciouscm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   fatty:
     -
+  fattyac:
+    -
+  fattycm:
+    -
 functions:
   unix:
     -

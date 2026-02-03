@@ -8,6 +8,10 @@ platfs:
 curls:
   yone:
     -
+  yoneac:
+    -
+  yonecm:
+    -
 functions:
   unix:
     -

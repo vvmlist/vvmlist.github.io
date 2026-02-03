@@ -8,6 +8,10 @@ platfs:
 curls:
   connect the dots:
     -
+  connect the dotsac:
+    -
+  connect the dotscm:
+    -
 functions:
   unix:
     -

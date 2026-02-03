@@ -8,6 +8,10 @@ platfs:
 curls:
   sp jerome:
     -
+  sp jeromeac:
+    -
+  sp jeromecm:
+    -
 functions:
   unix:
     -

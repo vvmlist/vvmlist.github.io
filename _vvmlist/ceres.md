@@ -8,6 +8,10 @@ platfs:
 curls:
   ceres:
     -
+  ceresac:
+    -
+  cerescm:
+    -
 functions:
   unix:
     -

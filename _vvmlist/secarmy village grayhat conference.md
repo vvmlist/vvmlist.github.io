@@ -8,6 +8,10 @@ platfs:
 curls:
   secarmy village grayhat conference:
     -
+  secarmy village grayhat conferenceac:
+    -
+  secarmy village grayhat conferencecm:
+    -
 functions:
   unix:
     -

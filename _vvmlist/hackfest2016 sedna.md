@@ -8,6 +8,10 @@ platfs:
 curls:
   hackfest2016 sedna:
     -
+  hackfest2016 sednaac:
+    -
+  hackfest2016 sednacm:
+    -
 functions:
   unix:
     -

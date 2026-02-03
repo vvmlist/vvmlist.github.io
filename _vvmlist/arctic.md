@@ -8,6 +8,10 @@ platfs:
 curls:
   arctic:
     -
+  arcticac:
+    -
+  arcticcm:
+    -
 functions:
   win:
     -

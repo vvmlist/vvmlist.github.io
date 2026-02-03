@@ -8,6 +8,10 @@ platfs:
 curls:
   broken gallery:
     -
+  broken galleryac:
+    -
+  broken gallerycm:
+    -
 functions:
   unix:
     -
@@ -21,8 +25,8 @@ functions:
     -
   creds:
     -
-
 wals:
   broken gallerywu:
     -
+
 ---

@@ -8,6 +8,10 @@ platfs:
 curls:
   hook:
     -
+  hookac:
+    -
+  hookcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   tally:
     -
+  tallyac:
+    -
+  tallycm:
+    -
 functions:
   win:
     -

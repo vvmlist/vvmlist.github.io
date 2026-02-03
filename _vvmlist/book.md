@@ -8,6 +8,10 @@ platfs:
 curls:
   book:
     -
+  bookac:
+    -
+  bookcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   haircut:
     -
+  haircutac:
+    -
+  haircutcm:
+    -
 functions:
   unix:
     -

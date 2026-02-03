@@ -3,31 +3,31 @@ diffis:
   i:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   reaper:
+    -
+  reaperac:
+    -
+  reapercm:
     -
 functions:
   win:
     -
   i:
     -
-  vulnlab:
+  htbvip:
     -
-  al:
+  dee:
     -
   ftp:
     -
+  al:
+    -
   rev:
     -
-  be:
-    -
-  decode:
-    -
-  creds:
-    -
-  kern:
+  bof:
     -
 
 wals:

@@ -8,6 +8,10 @@ platfs:
 curls:
   mentor:
     -
+  mentorac:
+    -
+  mentorcm:
+    -
 functions:
   unix:
     -

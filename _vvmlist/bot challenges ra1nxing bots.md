@@ -8,6 +8,10 @@ platfs:
 curls:
   bot challenges ra1nxing bots:
     -
+  bot challenges ra1nxing botsac:
+    -
+  bot challenges ra1nxing botscm:
+    -
 functions:
   unix:
     -

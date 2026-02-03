@@ -8,6 +8,10 @@ platfs:
 curls:
   airbind:
     -
+  airbindac:
+    -
+  airbindcm:
+    -
 functions:
   unix:
     -

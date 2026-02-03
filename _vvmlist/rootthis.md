@@ -8,6 +8,10 @@ platfs:
 curls:
   rootthis:
     -
+  rootthisac:
+    -
+  rootthiscm:
+    -
 functions:
   unix:
     -

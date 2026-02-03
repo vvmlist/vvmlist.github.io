@@ -8,6 +8,10 @@ platfs:
 curls:
   warzone 2:
     -
+  warzone 2ac:
+    -
+  warzone 2cm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   bizness:
     -
+  biznessac:
+    -
+  biznesscm:
+    -
 functions:
   unix:
     -

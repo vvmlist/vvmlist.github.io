@@ -8,6 +8,10 @@ platfs:
 curls:
   sp jenkins:
     -
+  sp jenkinsac:
+    -
+  sp jenkinscm:
+    -
 functions:
   unix:
     -

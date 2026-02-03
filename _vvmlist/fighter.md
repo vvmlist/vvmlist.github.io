@@ -8,6 +8,10 @@ platfs:
 curls:
   fighter:
     -
+  fighterac:
+    -
+  fightercm:
+    -
 functions:
   win:
     -

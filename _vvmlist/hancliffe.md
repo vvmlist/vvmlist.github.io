@@ -8,6 +8,10 @@ platfs:
 curls:
   hancliffe:
     -
+  hancliffeac:
+    -
+  hancliffecm:
+    -
 functions:
   win:
     -

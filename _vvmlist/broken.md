@@ -8,6 +8,10 @@ platfs:
 curls:
   broken:
     -
+  brokenac:
+    -
+  brokencm:
+    -
 functions:
   unix:
     -
@@ -25,8 +29,8 @@ functions:
     -
   sudo:
     -
-
 wals:
   brokenwu:
     -
+
 ---

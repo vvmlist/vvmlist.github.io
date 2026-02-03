@@ -8,6 +8,10 @@ platfs:
 curls:
   the ether evilscience:
     -
+  the ether evilscienceac:
+    -
+  the ether evilsciencecm:
+    -
 functions:
   unix:
     -

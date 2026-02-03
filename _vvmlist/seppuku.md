@@ -8,6 +8,10 @@ platfs:
 curls:
   seppuku:
     -
+  seppukuac:
+    -
+  seppukucm:
+    -
 functions:
   unix:
     -

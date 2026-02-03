@@ -8,6 +8,10 @@ platfs:
 curls:
   onetwoseven:
     -
+  onetwosevenac:
+    -
+  onetwosevencm:
+    -
 functions:
   unix:
     -

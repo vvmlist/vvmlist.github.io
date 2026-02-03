@@ -8,6 +8,10 @@ platfs:
 curls:
   active:
     -
+  activeac:
+    -
+  activecm:
+    -
 functions:
   win:
     -

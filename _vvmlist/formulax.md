@@ -8,6 +8,10 @@ platfs:
 curls:
   formulax:
     -
+  formulaxac:
+    -
+  formulaxcm:
+    -
 functions:
   unix:
     -

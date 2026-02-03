@@ -10,6 +10,8 @@ curls:
     -
   tr0llac:
     -
+  tr0llcm:
+    -
 functions:
   unix:
     -
@@ -27,8 +29,8 @@ functions:
     -
   kern:
     -
-
 wals:
   tr0llwu:
     -
+
 ---

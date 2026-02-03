@@ -8,6 +8,10 @@ platfs:
 curls:
   mux:
     -
+  muxac:
+    -
+  muxcm:
+    -
 functions:
   unix:
     -

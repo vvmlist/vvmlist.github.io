@@ -8,6 +8,10 @@ platfs:
 curls:
   spectra:
     -
+  spectraac:
+    -
+  spectracm:
+    -
 functions:
   unix:
     -

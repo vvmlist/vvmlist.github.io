@@ -8,6 +8,10 @@ platfs:
 curls:
   dev random scream:
     -
+  dev random screamac:
+    -
+  dev random screamcm:
+    -
 functions:
   win:
     -

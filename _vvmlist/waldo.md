@@ -8,6 +8,10 @@ platfs:
 curls:
   waldo:
     -
+  waldoac:
+    -
+  waldocm:
+    -
 functions:
   unix:
     -

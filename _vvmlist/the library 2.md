@@ -8,6 +8,10 @@ platfs:
 curls:
   the library 2:
     -
+  the library 2ac:
+    -
+  the library 2cm:
+    -
 functions:
   unix:
     -

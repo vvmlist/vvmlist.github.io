@@ -8,6 +8,10 @@ platfs:
 curls:
   bossplayersctf:
     -
+  bossplayersctfac:
+    -
+  bossplayersctfcm:
+    -
 functions:
   unix:
     -
@@ -21,8 +25,8 @@ functions:
     -
   suid:
     -
-
 wals:
   bossplayersctfwu:
     -
+
 ---

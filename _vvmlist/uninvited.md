@@ -8,6 +8,10 @@ platfs:
 curls:
   uninvited:
     -
+  uninvitedac:
+    -
+  uninvitedcm:
+    -
 functions:
   unix:
     -

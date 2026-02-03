@@ -8,6 +8,10 @@ platfs:
 curls:
   fing:
     -
+  fingac:
+    -
+  fingcm:
+    -
 functions:
   unix:
     -

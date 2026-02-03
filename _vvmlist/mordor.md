@@ -8,6 +8,10 @@ platfs:
 curls:
   mordor:
     -
+  mordorac:
+    -
+  mordorcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   seattle:
     -
+  seattleac:
+    -
+  seattlecm:
+    -
 functions:
   unix:
     -

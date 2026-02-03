@@ -8,6 +8,10 @@ platfs:
 curls:
   stardust:
     -
+  stardustac:
+    -
+  stardustcm:
+    -
 functions:
   unix:
     -

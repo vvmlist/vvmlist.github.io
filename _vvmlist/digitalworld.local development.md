@@ -8,6 +8,10 @@ platfs:
 curls:
   digitalworld.local development:
     -
+  digitalworld.local developmentac:
+    -
+  digitalworld.local developmentcm:
+    -
 functions:
   unix:
     -

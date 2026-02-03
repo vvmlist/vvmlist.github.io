@@ -8,6 +8,10 @@ platfs:
 curls:
   opacity:
     -
+  opacityac:
+    -
+  opacitycm:
+    -
 functions:
   unix:
     -

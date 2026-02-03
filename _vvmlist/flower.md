@@ -8,6 +8,10 @@ platfs:
 curls:
   flower:
     -
+  flowerac:
+    -
+  flowercm:
+    -
 functions:
   unix:
     -

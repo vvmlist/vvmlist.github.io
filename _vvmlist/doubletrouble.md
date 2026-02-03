@@ -10,6 +10,10 @@ curls:
     -
   doubletroublehmv:
     -
+  doubletroubleac:
+    -
+  doubletroublecm:
+    -
 functions:
   unix:
     -

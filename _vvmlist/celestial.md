@@ -8,6 +8,10 @@ platfs:
 curls:
   celestial:
     -
+  celestialac:
+    -
+  celestialcm:
+    -
 functions:
   unix:
     -

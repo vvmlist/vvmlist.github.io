@@ -8,6 +8,10 @@ platfs:
 curls:
   liar:
     -
+  liarac:
+    -
+  liarcm:
+    -
 functions:
   win:
     -

@@ -1,0 +1,32 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  lower2:
+    -
+  lower2ac:
+    -
+  lower2cm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  telnet:
+    -
+  bf:
+    -
+  rwp:
+    -
+
+wals:
+  lower2wu:
+    -
+---

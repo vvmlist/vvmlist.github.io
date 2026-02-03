@@ -1,0 +1,36 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  memory:
+    -
+  memoryac:
+    -
+  memorycm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  telnet:
+    -
+  creds:
+    -
+  bf:
+    -
+  sudo:
+    -
+  ssh:
+    -
+
+wals:
+  memorywu:
+    -
+---

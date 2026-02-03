@@ -8,6 +8,10 @@ platfs:
 curls:
   jarbas:
     -
+  jarbasac:
+    -
+  jarbascm:
+    -
 functions:
   unix:
     -

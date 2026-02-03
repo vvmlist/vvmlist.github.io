@@ -8,6 +8,10 @@ platfs:
 curls:
   serve:
     -
+  serveac:
+    -
+  servecm:
+    -
 functions:
   unix:
     -

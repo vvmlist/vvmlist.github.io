@@ -8,6 +8,10 @@ platfs:
 curls:
   mailroom:
     -
+  mailroomac:
+    -
+  mailroomcm:
+    -
 functions:
   unix:
     -

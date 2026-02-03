@@ -3,21 +3,27 @@ diffis:
   e:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   manage:
+    -
+  manageac:
+    -
+  managecm:
     -
 functions:
   unix:
     -
   e:
     -
-  vulnlab:
-    -
-  logical:
+  htbvip:
     -
   creds:
+    -
+  rce:
+    -
+  mbck:
     -
   sudo:
     -

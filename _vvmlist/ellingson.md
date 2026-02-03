@@ -8,6 +8,10 @@ platfs:
 curls:
   ellingson:
     -
+  ellingsonac:
+    -
+  ellingsoncm:
+    -
 functions:
   unix:
     -

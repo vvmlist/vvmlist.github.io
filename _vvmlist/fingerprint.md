@@ -8,6 +8,10 @@ platfs:
 curls:
   fingerprint:
     -
+  fingerprintac:
+    -
+  fingerprintcm:
+    -
 functions:
   unix:
     -

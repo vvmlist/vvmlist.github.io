@@ -8,6 +8,10 @@ platfs:
 curls:
   diophante:
     -
+  diophanteac:
+    -
+  diophantecm:
+    -
 functions:
   unix:
     -

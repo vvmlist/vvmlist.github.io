@@ -8,6 +8,10 @@ platfs:
 curls:
   twitx:
     -
+  twitxac:
+    -
+  twitxcm:
+    -
 functions:
   unix:
     -

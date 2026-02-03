@@ -8,6 +8,10 @@ platfs:
 curls:
   analysis:
     -
+  analysisac:
+    -
+  analysiscm:
+    -
 functions:
   win:
     -

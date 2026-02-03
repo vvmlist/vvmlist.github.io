@@ -8,6 +8,10 @@ platfs:
 curls:
   analougepond:
     -
+  analougepondac:
+    -
+  analougepondcm:
+    -
 functions:
   unix:
     -

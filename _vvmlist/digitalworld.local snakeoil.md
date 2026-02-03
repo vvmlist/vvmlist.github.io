@@ -8,6 +8,10 @@ platfs:
 curls:
   digitalworld.local snakeoil:
     -
+  digitalworld.local snakeoilac:
+    -
+  digitalworld.local snakeoilcm:
+    -
 functions:
   unix:
     -

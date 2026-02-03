@@ -8,6 +8,10 @@ platfs:
 curls:
   worst western hotel:
     -
+  worst western hotelac:
+    -
+  worst western hotelcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   demons:
     -
+  demonsac:
+    -
+  demonscm:
+    -
 functions:
   unix:
     -

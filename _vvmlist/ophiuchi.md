@@ -8,6 +8,10 @@ platfs:
 curls:
   ophiuchi:
     -
+  ophiuchiac:
+    -
+  ophiuchicm:
+    -
 functions:
   unix:
     -

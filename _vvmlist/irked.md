@@ -8,6 +8,10 @@ platfs:
 curls:
   irked:
     -
+  irkedac:
+    -
+  irkedcm:
+    -
 functions:
   unix:
     -

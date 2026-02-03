@@ -8,6 +8,10 @@ platfs:
 curls:
   carpediem:
     -
+  carpediemac:
+    -
+  carpediemcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   xxe lab:
     -
+  xxe labac:
+    -
+  xxe labcm:
+    -
 functions:
   unix:
     -

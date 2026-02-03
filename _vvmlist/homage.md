@@ -8,6 +8,10 @@ platfs:
 curls:
   homage:
     -
+  homageac:
+    -
+  homagecm:
+    -
 functions:
   unix:
     -

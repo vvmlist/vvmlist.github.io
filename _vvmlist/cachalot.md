@@ -8,6 +8,10 @@ platfs:
 curls:
   cachalot:
     -
+  cachalotac:
+    -
+  cachalotcm:
+    -
 functions:
   unix:
     -

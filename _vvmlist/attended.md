@@ -8,6 +8,10 @@ platfs:
 curls:
   attended:
     -
+  attendedac:
+    -
+  attendedcm:
+    -
 functions:
   unix:
     -

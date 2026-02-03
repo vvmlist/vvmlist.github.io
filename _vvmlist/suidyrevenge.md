@@ -8,6 +8,10 @@ platfs:
 curls:
   suidyrevenge:
     -
+  suidyrevengeac:
+    -
+  suidyrevengecm:
+    -
 functions:
   unix:
     -

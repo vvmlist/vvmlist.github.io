@@ -8,6 +8,10 @@ platfs:
 curls:
   ha armour:
     -
+  ha armourac:
+    -
+  ha armourcm:
+    -
 functions:
   unix:
     -

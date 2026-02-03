@@ -8,6 +8,10 @@ platfs:
 curls:
   masashi:
     -
+  masashiac:
+    -
+  masashicm:
+    -
 functions:
   unix:
     -

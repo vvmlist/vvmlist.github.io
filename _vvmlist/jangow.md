@@ -8,6 +8,10 @@ platfs:
 curls:
   jangow:
     -
+  jangowac:
+    -
+  jangowcm:
+    -
 functions:
   unix:
     -

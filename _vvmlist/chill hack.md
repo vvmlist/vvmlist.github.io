@@ -8,6 +8,10 @@ platfs:
 curls:
   chill hack:
     -
+  chill hackac:
+    -
+  chill hackcm:
+    -
 functions:
   unix:
     -

@@ -1,0 +1,42 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  sales:
+    -
+  salesac:
+    -
+  salescm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  bf:
+    -
+  cve:
+    -
+  rce:
+    -
+  creds:
+    -
+  passre:
+    -
+  sudo:
+    -
+  maldll:
+    -
+
+wals:
+  saleswu:
+    -
+---

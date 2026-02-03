@@ -8,6 +8,10 @@ platfs:
 curls:
   kuya:
     -
+  kuyaac:
+    -
+  kuyacm:
+    -
 functions:
   unix:
     -

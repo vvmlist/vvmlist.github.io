@@ -8,6 +8,10 @@ platfs:
 curls:
   ransom:
     -
+  ransomac:
+    -
+  ransomcm:
+    -
 functions:
   unix:
     -

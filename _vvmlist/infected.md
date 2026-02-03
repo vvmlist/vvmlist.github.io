@@ -8,6 +8,10 @@ platfs:
 curls:
   infected:
     -
+  infectedac:
+    -
+  infectedcm:
+    -
 functions:
   unix:
     -

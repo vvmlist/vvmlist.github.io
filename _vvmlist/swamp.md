@@ -1,0 +1,34 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  swamp:
+    -
+  swampac:
+    -
+  swampcm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  decode:
+    -
+  ssh:
+    -
+  sudo:
+    -
+  ci:
+    -
+
+wals:
+  swampwu:
+    -
+---

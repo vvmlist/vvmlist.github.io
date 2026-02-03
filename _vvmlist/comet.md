@@ -8,6 +8,10 @@ platfs:
 curls:
   comet:
     -
+  cometac:
+    -
+  cometcm:
+    -
 functions:
   unix:
     -

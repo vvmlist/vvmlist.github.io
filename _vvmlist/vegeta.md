@@ -8,6 +8,10 @@ platfs:
 curls:
   vegeta:
     -
+  vegetaac:
+    -
+  vegetacm:
+    -
 functions:
   unix:
     -

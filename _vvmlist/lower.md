@@ -8,6 +8,10 @@ platfs:
 curls:
   lower:
     -
+  lowerac:
+    -
+  lowercm:
+    -
 functions:
   unix:
     -

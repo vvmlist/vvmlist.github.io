@@ -8,6 +8,10 @@ platfs:
 curls:
   runas:
     -
+  runasac:
+    -
+  runascm:
+    -
 functions:
   win:
     -

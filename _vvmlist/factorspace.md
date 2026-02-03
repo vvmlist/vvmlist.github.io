@@ -8,6 +8,10 @@ platfs:
 curls:
   factorspace:
     -
+  factorspaceac:
+    -
+  factorspacecm:
+    -
 functions:
   unix:
     -

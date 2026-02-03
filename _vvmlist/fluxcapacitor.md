@@ -8,6 +8,10 @@ platfs:
 curls:
   fluxcapacitor:
     -
+  fluxcapacitorac:
+    -
+  fluxcapacitorcm:
+    -
 functions:
   unix:
     -

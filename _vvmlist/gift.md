@@ -8,6 +8,10 @@ platfs:
 curls:
   gift:
     -
+  giftac:
+    -
+  giftcm:
+    -
 functions:
   unix:
     -

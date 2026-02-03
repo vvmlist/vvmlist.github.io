@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  sharedvx:
+  shared (vulnyx):
+    -
+  shared (vulnyx)ac:
+    -
+  shared (vulnyx)cm:
     -
 functions:
   unix:
@@ -37,6 +41,6 @@ functions:
     -
 
 wals:
-  sharedvxwu:
+  shared (vulnyx)wu:
     -
 ---

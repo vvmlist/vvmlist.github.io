@@ -8,6 +8,10 @@ platfs:
 curls:
   bolt:
     -
+  boltac:
+    -
+  boltcm:
+    -
 functions:
   unix:
     -

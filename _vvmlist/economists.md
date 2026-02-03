@@ -8,6 +8,10 @@ platfs:
 curls:
   economists:
     -
+  economistsac:
+    -
+  economistscm:
+    -
 functions:
   unix:
     -

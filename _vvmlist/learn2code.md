@@ -8,6 +8,10 @@ platfs:
 curls:
   learn2code:
     -
+  learn2codeac:
+    -
+  learn2codecm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   trace:
     -
+  traceac:
+    -
+  tracecm:
+    -
 functions:
   unix:
     -

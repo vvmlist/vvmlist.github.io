@@ -8,6 +8,10 @@ platfs:
 curls:
   intense:
     -
+  intenseac:
+    -
+  intensecm:
+    -
 functions:
   unix:
     -

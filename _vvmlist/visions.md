@@ -8,6 +8,10 @@ platfs:
 curls:
   visions:
     -
+  visionsac:
+    -
+  visionscm:
+    -
 functions:
   unix:
     -

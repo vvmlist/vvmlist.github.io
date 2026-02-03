@@ -8,6 +8,10 @@ platfs:
 curls:
   resolute:
     -
+  resoluteac:
+    -
+  resolutecm:
+    -
 functions:
   win:
     -

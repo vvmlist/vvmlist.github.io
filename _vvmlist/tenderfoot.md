@@ -8,6 +8,10 @@ platfs:
 curls:
   tenderfoot:
     -
+  tenderfootac:
+    -
+  tenderfootcm:
+    -
 functions:
   unix:
     -

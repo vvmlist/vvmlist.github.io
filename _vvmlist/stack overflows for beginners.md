@@ -8,6 +8,10 @@ platfs:
 curls:
   stack overflows for beginners:
     -
+  stack overflows for beginnersac:
+    -
+  stack overflows for beginnerscm:
+    -
 functions:
   unix:
     -

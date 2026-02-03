@@ -8,6 +8,10 @@ platfs:
 curls:
   thoth tech:
     -
+  thoth techac:
+    -
+  thoth techcm:
+    -
 functions:
   unix:
     -

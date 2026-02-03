@@ -8,6 +8,10 @@ platfs:
 curls:
   pov:
     -
+  povac:
+    -
+  povcm:
+    -
 functions:
   win:
     -

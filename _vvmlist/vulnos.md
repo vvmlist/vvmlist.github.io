@@ -8,6 +8,10 @@ platfs:
 curls:
   vulnos:
     -
+  vulnosac:
+    -
+  vulnoscm:
+    -
 functions:
   unix:
     -

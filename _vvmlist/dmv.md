@@ -8,6 +8,10 @@ platfs:
 curls:
   dmv:
     -
+  dmvac:
+    -
+  dmvcm:
+    -
 functions:
   unix:
     -

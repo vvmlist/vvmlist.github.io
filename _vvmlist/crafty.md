@@ -8,6 +8,10 @@ platfs:
 curls:
   crafty:
     -
+  craftyac:
+    -
+  craftycm:
+    -
 functions:
   win:
     -

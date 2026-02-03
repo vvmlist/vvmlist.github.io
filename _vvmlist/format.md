@@ -8,6 +8,10 @@ platfs:
 curls:
   format:
     -
+  formatac:
+    -
+  formatcm:
+    -
 functions:
   unix:
     -

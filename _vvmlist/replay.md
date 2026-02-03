@@ -8,6 +8,10 @@ platfs:
 curls:
   replay:
     -
+  replayac:
+    -
+  replaycm:
+    -
 functions:
   unix:
     -

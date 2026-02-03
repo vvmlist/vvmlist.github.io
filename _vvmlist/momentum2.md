@@ -3,10 +3,16 @@ diffis:
   m:
     -
 platfs:
-  hackmyvm:
+  vulnhub:
     -
 curls:
   momentum2:
+    -
+  momentum2hmv:
+    -
+  momentum2ac:
+    -
+  momentum2cm:
     -
 functions:
   unix:

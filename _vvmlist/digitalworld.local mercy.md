@@ -8,6 +8,10 @@ platfs:
 curls:
   digitalworld.local mercy:
     -
+  digitalworld.local mercyac:
+    -
+  digitalworld.local mercycm:
+    -
 functions:
   unix:
     -

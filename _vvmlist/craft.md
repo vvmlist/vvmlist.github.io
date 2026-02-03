@@ -8,6 +8,10 @@ platfs:
 curls:
   craft:
     -
+  craftac:
+    -
+  craftcm:
+    -
 functions:
   unix:
     -

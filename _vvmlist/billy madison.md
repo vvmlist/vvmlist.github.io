@@ -8,6 +8,10 @@ platfs:
 curls:
   billy madison:
     -
+  billy madisonac:
+    -
+  billy madisoncm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   westwild:
     -
+  westwildac:
+    -
+  westwildcm:
+    -
 functions:
   unix:
     -

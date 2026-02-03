@@ -8,6 +8,10 @@ platfs:
 curls:
   influencer:
     -
+  influencerac:
+    -
+  influencercm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   obscurity:
     -
+  obscurityac:
+    -
+  obscuritycm:
+    -
 functions:
   unix:
     -

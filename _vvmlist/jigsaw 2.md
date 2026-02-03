@@ -8,6 +8,10 @@ platfs:
 curls:
   jigsaw 2:
     -
+  jigsaw 2ac:
+    -
+  jigsaw 2cm:
+    -
 functions:
   unix:
     -

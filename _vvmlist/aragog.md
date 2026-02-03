@@ -8,6 +8,10 @@ platfs:
 curls:
   aragog:
     -
+  aragogac:
+    -
+  aragogcm:
+    -
 functions:
   unix:
     -

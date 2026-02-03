@@ -8,6 +8,10 @@ platfs:
 curls:
   ha naruto:
     -
+  ha narutoac:
+    -
+  ha narutocm:
+    -
 functions:
   unix:
     -

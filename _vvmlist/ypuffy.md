@@ -8,6 +8,10 @@ platfs:
 curls:
   ypuffy:
     -
+  ypuffyac:
+    -
+  ypuffycm:
+    -
 functions:
   unix:
     -

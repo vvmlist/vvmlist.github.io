@@ -8,6 +8,10 @@ platfs:
 curls:
   fuser:
     -
+  fuserac:
+    -
+  fusercm:
+    -
 functions:
   unix:
     -

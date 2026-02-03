@@ -1,0 +1,40 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  anon:
+    -
+  anonac:
+    -
+  anoncm:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  logpoi:
+    -
+  rce:
+    -
+  creds:
+    -
+  sudo:
+    -
+  pivot:
+    -
+  docker:
+    -
+
+wals:
+  anonwu:
+    -
+---

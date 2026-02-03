@@ -8,6 +8,10 @@ platfs:
 curls:
   game of thrones ctf:
     -
+  game of thrones ctfac:
+    -
+  game of thrones ctfcm:
+    -
 functions:
   unix:
     -

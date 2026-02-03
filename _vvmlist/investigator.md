@@ -8,6 +8,10 @@ platfs:
 curls:
   investigator:
     -
+  investigatorac:
+    -
+  investigatorcm:
+    -
 functions:
   unix:
     -

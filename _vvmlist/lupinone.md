@@ -8,6 +8,10 @@ platfs:
 curls:
   lupinone:
     -
+  lupinoneac:
+    -
+  lupinonecm:
+    -
 functions:
   unix:
     -

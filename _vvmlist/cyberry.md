@@ -8,6 +8,10 @@ platfs:
 curls:
   cyberry:
     -
+  cyberryac:
+    -
+  cyberrycm:
+    -
 functions:
   unix:
     -

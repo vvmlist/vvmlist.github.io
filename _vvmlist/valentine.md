@@ -8,6 +8,10 @@ platfs:
 curls:
   valentine:
     -
+  valentineac:
+    -
+  valentinecm:
+    -
 functions:
   unix:
     -

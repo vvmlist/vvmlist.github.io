@@ -8,6 +8,10 @@ platfs:
 curls:
   dev random relativity:
     -
+  dev random relativityac:
+    -
+  dev random relativitycm:
+    -
 functions:
   unix:
     -

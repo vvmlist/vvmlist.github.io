@@ -8,6 +8,10 @@ platfs:
 curls:
   nibbles:
     -
+  nibblesac:
+    -
+  nibblescm:
+    -
 functions:
   unix:
     -

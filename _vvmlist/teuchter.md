@@ -8,6 +8,10 @@ platfs:
 curls:
   teuchter:
     -
+  teuchterac:
+    -
+  teuchtercm:
+    -
 functions:
   unix:
     -

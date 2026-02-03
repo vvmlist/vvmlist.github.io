@@ -8,6 +8,10 @@ platfs:
 curls:
   misdirection:
     -
+  misdirectionac:
+    -
+  misdirectioncm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   tajer:
     -
+  tajerac:
+    -
+  tajercm:
+    -
 functions:
   unix:
     -

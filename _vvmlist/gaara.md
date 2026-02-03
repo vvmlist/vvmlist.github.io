@@ -8,6 +8,10 @@ platfs:
 curls:
   gaara:
     -
+  gaaraac:
+    -
+  gaaracm:
+    -
 functions:
   unix:
     -

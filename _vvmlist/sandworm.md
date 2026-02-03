@@ -8,6 +8,10 @@ platfs:
 curls:
   sandworm:
     -
+  sandwormac:
+    -
+  sandwormcm:
+    -
 functions:
   unix:
     -

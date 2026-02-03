@@ -8,6 +8,10 @@ platfs:
 curls:
   oliva:
     -
+  olivaac:
+    -
+  olivacm:
+    -
 functions:
   unix:
     -

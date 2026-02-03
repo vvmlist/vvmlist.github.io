@@ -8,6 +8,10 @@ platfs:
 curls:
   raw:
     -
+  rawac:
+    -
+  rawcm:
+    -
 functions:
   unix:
     -

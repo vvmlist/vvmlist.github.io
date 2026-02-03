@@ -8,6 +8,10 @@ platfs:
 curls:
   overgraph:
     -
+  overgraphac:
+    -
+  overgraphcm:
+    -
 functions:
   unix:
     -

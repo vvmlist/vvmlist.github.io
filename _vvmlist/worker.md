@@ -8,6 +8,10 @@ platfs:
 curls:
   worker:
     -
+  workerac:
+    -
+  workercm:
+    -
 functions:
   win:
     -

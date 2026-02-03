@@ -8,6 +8,10 @@ platfs:
 curls:
   pylington:
     -
+  pylingtonac:
+    -
+  pylingtoncm:
+    -
 functions:
   unix:
     -

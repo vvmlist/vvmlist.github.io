@@ -8,6 +8,10 @@ platfs:
 curls:
   pluck:
     -
+  pluckac:
+    -
+  pluckcm:
+    -
 functions:
   unix:
     -

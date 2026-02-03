@@ -8,6 +8,10 @@ platfs:
 curls:
   squashed:
     -
+  squashedac:
+    -
+  squashedcm:
+    -
 functions:
   unix:
     -

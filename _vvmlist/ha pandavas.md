@@ -8,6 +8,10 @@ platfs:
 curls:
   ha pandavas:
     -
+  ha pandavasac:
+    -
+  ha pandavascm:
+    -
 functions:
   unix:
     -

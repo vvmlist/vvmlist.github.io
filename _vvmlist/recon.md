@@ -8,6 +8,10 @@ platfs:
 curls:
   recon:
     -
+  reconac:
+    -
+  reconcm:
+    -
 functions:
   unix:
     -

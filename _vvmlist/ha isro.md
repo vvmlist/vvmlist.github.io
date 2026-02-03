@@ -8,6 +8,10 @@ platfs:
 curls:
   ha isro:
     -
+  ha isroac:
+    -
+  ha isrocm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   supra:
     -
+  supraac:
+    -
+  supracm:
+    -
 functions:
   unix:
     -

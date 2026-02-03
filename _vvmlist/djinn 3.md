@@ -8,6 +8,10 @@ platfs:
 curls:
   djinn 3:
     -
+  djinn 3ac:
+    -
+  djinn 3cm:
+    -
 functions:
   unix:
     -

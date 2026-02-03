@@ -8,6 +8,10 @@ platfs:
 curls:
   intentions:
     -
+  intentionsac:
+    -
+  intentionscm:
+    -
 functions:
   unix:
     -

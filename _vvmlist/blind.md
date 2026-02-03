@@ -1,0 +1,34 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  blind:
+    -
+  blindac:
+    -
+  blindcm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  ci:
+    -
+  rce:
+    -
+  creds:
+    -
+  sudo:
+    -
+
+wals:
+  blindwu:
+    -
+---

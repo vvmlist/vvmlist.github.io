@@ -8,6 +8,10 @@ platfs:
 curls:
   bind:
     -
+  bindac:
+    -
+  bindcm:
+    -
 functions:
   unix:
     -

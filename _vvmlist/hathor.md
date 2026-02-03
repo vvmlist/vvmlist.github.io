@@ -8,6 +8,10 @@ platfs:
 curls:
   hathor:
     -
+  hathorac:
+    -
+  hathorcm:
+    -
 functions:
   win:
     -

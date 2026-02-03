@@ -8,6 +8,10 @@ platfs:
 curls:
   buff:
     -
+  buffac:
+    -
+  buffcm:
+    -
 functions:
   win:
     -

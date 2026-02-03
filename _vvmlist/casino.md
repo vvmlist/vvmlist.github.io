@@ -8,6 +8,10 @@ platfs:
 curls:
   casino:
     -
+  casinoac:
+    -
+  casinocm:
+    -
 functions:
   unix:
     -

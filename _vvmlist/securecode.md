@@ -8,6 +8,10 @@ platfs:
 curls:
   securecode:
     -
+  securecodeac:
+    -
+  securecodecm:
+    -
 functions:
   unix:
     -

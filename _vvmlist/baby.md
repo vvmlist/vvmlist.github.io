@@ -3,30 +3,34 @@ diffis:
   e:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   baby:
+    -
+  babyac:
+    -
+  babycm:
     -
 functions:
   win:
     -
   e:
     -
-  vulnlab:
+  htbvip:
     -
-  ad:
+  groups:
     -
-  al:
-    -
-  creds:
-    -
-  tsb:
+  shc:
     -
   ntds:
+    -
+  logical:
     -
 
 wals:
   babywu:
+    -
+  babyvi:
     -
 ---

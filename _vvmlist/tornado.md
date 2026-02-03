@@ -8,6 +8,10 @@ platfs:
 curls:
   tornado:
     -
+  tornadoac:
+    -
+  tornadocm:
+    -
 functions:
   unix:
     -

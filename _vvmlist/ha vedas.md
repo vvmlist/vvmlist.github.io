@@ -8,6 +8,10 @@ platfs:
 curls:
   ha vedas:
     -
+  ha vedasac:
+    -
+  ha vedascm:
+    -
 functions:
   unix:
     -

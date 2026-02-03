@@ -8,6 +8,10 @@ platfs:
 curls:
   armageddon:
     -
+  armageddonac:
+    -
+  armageddoncm:
+    -
 functions:
   unix:
     -

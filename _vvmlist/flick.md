@@ -8,6 +8,10 @@ platfs:
 curls:
   flick:
     -
+  flickac:
+    -
+  flickcm:
+    -
 functions:
   unix:
     -

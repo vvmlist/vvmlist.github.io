@@ -8,6 +8,10 @@ platfs:
 curls:
   hidden:
     -
+  hiddenac:
+    -
+  hiddencm:
+    -
 functions:
   unix:
     -

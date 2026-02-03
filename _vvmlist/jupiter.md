@@ -8,6 +8,10 @@ platfs:
 curls:
   jupiter:
     -
+  jupiterac:
+    -
+  jupitercm:
+    -
 functions:
   unix:
     -

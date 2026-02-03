@@ -8,6 +8,10 @@ platfs:
 curls:
   system:
     -
+  systemac:
+    -
+  systemcm:
+    -
 functions:
   unix:
     -

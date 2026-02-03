@@ -8,6 +8,10 @@ platfs:
 curls:
   decode:
     -
+  decodeac:
+    -
+  decodecm:
+    -
 functions:
   unix:
     -

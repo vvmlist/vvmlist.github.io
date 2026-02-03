@@ -8,6 +8,10 @@ platfs:
 curls:
   sunset decoy:
     -
+  sunset decoyac:
+    -
+  sunset decoycm:
+    -
 functions:
   unix:
     -

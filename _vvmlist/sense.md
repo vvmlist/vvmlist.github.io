@@ -8,6 +8,10 @@ platfs:
 curls:
   sense:
     -
+  senseac:
+    -
+  sensecm:
+    -
 functions:
   unix:
     -

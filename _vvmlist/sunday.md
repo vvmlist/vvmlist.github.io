@@ -8,6 +8,10 @@ platfs:
 curls:
   sunday:
     -
+  sundayac:
+    -
+  sundaycm:
+    -
 functions:
   unix:
     -

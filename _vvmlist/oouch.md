@@ -8,6 +8,10 @@ platfs:
 curls:
   oouch:
     -
+  oouchac:
+    -
+  oouchcm:
+    -
 functions:
   unix:
     -

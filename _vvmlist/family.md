@@ -8,6 +8,10 @@ platfs:
 curls:
   family:
     -
+  familyac:
+    -
+  familycm:
+    -
 functions:
   unix:
     -

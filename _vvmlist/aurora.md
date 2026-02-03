@@ -8,6 +8,10 @@ platfs:
 curls:
   aurora:
     -
+  auroraac:
+    -
+  auroracm:
+    -
 functions:
   unix:
     -

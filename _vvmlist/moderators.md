@@ -8,6 +8,10 @@ platfs:
 curls:
   moderators:
     -
+  moderatorsac:
+    -
+  moderatorscm:
+    -
 functions:
   unix:
     -

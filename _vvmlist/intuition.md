@@ -8,6 +8,10 @@ platfs:
 curls:
   intuition:
     -
+  intuitionac:
+    -
+  intuitioncm:
+    -
 functions:
   unix:
     -

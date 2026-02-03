@@ -8,6 +8,10 @@ platfs:
 curls:
   2much:
     -
+  2muchac:
+    -
+  2muchcm:
+    -
 functions:
   unix:
     -

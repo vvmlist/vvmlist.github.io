@@ -10,6 +10,8 @@ curls:
     -
   attackac:
     -
+  attackcm:
+    -
 functions:
   unix:
     -
@@ -27,8 +29,8 @@ functions:
     -
   sudo:
     -
-
 wals:
   attackwu:
     -
+
 ---

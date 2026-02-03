@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  firstvx:
+  first (vulnyx):
+    -
+  first (vulnyx)ac:
+    -
+  first (vulnyx)cm:
     -
 functions:
   unix:
@@ -27,6 +31,6 @@ functions:
     -
 
 wals:
-  firstvxwu:
+  first (vulnyx)wu:
     -
 ---

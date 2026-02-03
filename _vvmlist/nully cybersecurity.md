@@ -8,6 +8,10 @@ platfs:
 curls:
   nully cybersecurity:
     -
+  nully cybersecurityac:
+    -
+  nully cybersecuritycm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   explore:
     -
+  exploreac:
+    -
+  explorecm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   mission-pumpkin pumpkingarden:
     -
+  mission-pumpkin pumpkingardenac:
+    -
+  mission-pumpkin pumpkingardencm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   flustered:
     -
+  flusteredac:
+    -
+  flusteredcm:
+    -
 functions:
   unix:
     -

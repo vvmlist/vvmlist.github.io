@@ -8,6 +8,10 @@ platfs:
 curls:
   shared:
     -
+  sharedac:
+    -
+  sharedcm:
+    -
 functions:
   unix:
     -

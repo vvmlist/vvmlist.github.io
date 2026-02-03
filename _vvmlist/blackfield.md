@@ -8,6 +8,10 @@ platfs:
 curls:
   blackfield:
     -
+  blackfieldac:
+    -
+  blackfieldcm:
+    -
 functions:
   win:
     -

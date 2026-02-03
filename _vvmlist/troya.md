@@ -8,6 +8,10 @@ platfs:
 curls:
   troya:
     -
+  troyaac:
+    -
+  troyacm:
+    -
 functions:
   unix:
     -

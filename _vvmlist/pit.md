@@ -8,6 +8,10 @@ platfs:
 curls:
   pit:
     -
+  pitac:
+    -
+  pitcm:
+    -
 functions:
   unix:
     -

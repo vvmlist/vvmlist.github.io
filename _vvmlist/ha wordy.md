@@ -8,6 +8,10 @@ platfs:
 curls:
   ha wordy:
     -
+  ha wordyac:
+    -
+  ha wordycm:
+    -
 functions:
   unix:
     -

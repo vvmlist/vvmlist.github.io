@@ -8,6 +8,10 @@ platfs:
 curls:
   moneyheist catch us if you can:
     -
+  moneyheist catch us if you canac:
+    -
+  moneyheist catch us if you cancm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   maskcrafter:
     -
+  maskcrafterac:
+    -
+  maskcraftercm:
+    -
 functions:
   unix:
     -

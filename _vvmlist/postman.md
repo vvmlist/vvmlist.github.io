@@ -8,6 +8,10 @@ platfs:
 curls:
   postman:
     -
+  postmanac:
+    -
+  postmancm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   panabee:
     -
+  panabeeac:
+    -
+  panabeecm:
+    -
 functions:
   unix:
     -

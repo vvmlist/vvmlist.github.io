@@ -8,6 +8,10 @@ platfs:
 curls:
   slowman:
     -
+  slowmanac:
+    -
+  slowmancm:
+    -
 functions:
   unix:
     -

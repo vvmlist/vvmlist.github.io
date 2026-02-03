@@ -8,6 +8,10 @@ platfs:
 curls:
   cryptobank:
     -
+  cryptobankac:
+    -
+  cryptobankcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   scanned:
     -
+  scannedac:
+    -
+  scannedcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   stapler:
     -
+  staplerac:
+    -
+  staplercm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   hms:
     -
+  hmsac:
+    -
+  hmscm:
+    -
 functions:
   unix:
     -

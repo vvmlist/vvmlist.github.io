@@ -8,6 +8,10 @@ platfs:
 curls:
   chatterbox:
     -
+  chatterboxac:
+    -
+  chatterboxcm:
+    -
 functions:
   win:
     -

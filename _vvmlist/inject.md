@@ -8,6 +8,10 @@ platfs:
 curls:
   inject:
     -
+  injectac:
+    -
+  injectcm:
+    -
 functions:
   unix:
     -

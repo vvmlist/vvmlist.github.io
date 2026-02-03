@@ -8,6 +8,10 @@ platfs:
 curls:
   heist:
     -
+  heistac:
+    -
+  heistcm:
+    -
 functions:
   win:
     -

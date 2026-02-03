@@ -8,6 +8,10 @@ platfs:
 curls:
   crimestoppers:
     -
+  crimestoppersac:
+    -
+  crimestopperscm:
+    -
 functions:
   unix:
     -

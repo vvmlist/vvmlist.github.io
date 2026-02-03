@@ -6,9 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  backdoorvx:
+  backdoor (vulnyx):
     -
-  backdoorvxac:
+  backdoor (vulnyx)ac:
+    -
+  backdoor (vulnyx)cm:
     -
 functions:
   unix:
@@ -31,6 +33,6 @@ functions:
     -
 
 wals:
-  backdoorvxwu:
+  backdoor (vulnyx)wu:
     -
 ---

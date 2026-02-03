@@ -8,6 +8,10 @@ platfs:
 curls:
   flash:
     -
+  flashac:
+    -
+  flashcm:
+    -
 functions:
   unix:
     -

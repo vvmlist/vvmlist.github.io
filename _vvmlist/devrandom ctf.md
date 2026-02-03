@@ -8,6 +8,10 @@ platfs:
 curls:
   devrandom ctf:
     -
+  devrandom ctfac:
+    -
+  devrandom ctfcm:
+    -
 functions:
   unix:
     -

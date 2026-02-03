@@ -8,6 +8,10 @@ platfs:
 curls:
   shock:
     -
+  shockac:
+    -
+  shockcm:
+    -
 functions:
   unix:
     -

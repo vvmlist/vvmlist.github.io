@@ -8,6 +8,10 @@ platfs:
 curls:
   the planets mercury:
     -
+  the planets mercuryac:
+    -
+  the planets mercurycm:
+    -
 functions:
   unix:
     -

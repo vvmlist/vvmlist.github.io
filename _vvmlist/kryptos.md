@@ -8,6 +8,10 @@ platfs:
 curls:
   kryptos:
     -
+  kryptosac:
+    -
+  kryptoscm:
+    -
 functions:
   unix:
     -

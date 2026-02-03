@@ -8,6 +8,10 @@ platfs:
 curls:
   photographer:
     -
+  photographerac:
+    -
+  photographercm:
+    -
 functions:
   unix:
     -

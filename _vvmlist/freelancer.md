@@ -8,6 +8,10 @@ platfs:
 curls:
   freelancer:
     -
+  freelancerac:
+    -
+  freelancercm:
+    -
 functions:
   win:
     -

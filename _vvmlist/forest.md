@@ -8,6 +8,10 @@ platfs:
 curls:
   forest:
     -
+  forestac:
+    -
+  forestcm:
+    -
 functions:
   win:
     -

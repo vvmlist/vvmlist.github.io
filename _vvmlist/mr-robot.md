@@ -8,6 +8,10 @@ platfs:
 curls:
   mr-robot:
     -
+  mr-robotac:
+    -
+  mr-robotcm:
+    -
 functions:
   unix:
     -

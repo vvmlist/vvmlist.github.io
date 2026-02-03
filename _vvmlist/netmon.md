@@ -8,6 +8,10 @@ platfs:
 curls:
   netmon:
     -
+  netmonac:
+    -
+  netmoncm:
+    -
 functions:
   win:
     -

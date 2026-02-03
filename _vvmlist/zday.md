@@ -8,6 +8,10 @@ platfs:
 curls:
   zday:
     -
+  zdayac:
+    -
+  zdaycm:
+    -
 functions:
   unix:
     -

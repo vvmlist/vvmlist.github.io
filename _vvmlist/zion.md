@@ -8,6 +8,10 @@ platfs:
 curls:
   zion:
     -
+  zionac:
+    -
+  zioncm:
+    -
 functions:
   unix:
     -

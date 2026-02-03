@@ -8,6 +8,10 @@ platfs:
 curls:
   my web server:
     -
+  my web serverac:
+    -
+  my web servercm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   mango:
     -
+  mangoac:
+    -
+  mangocm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   imf:
     -
+  imfac:
+    -
+  imfcm:
+    -
 functions:
   unix:
     -

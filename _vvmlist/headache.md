@@ -1,0 +1,40 @@
+---
+diffis:
+  h:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  headache:
+    -
+  headacheac:
+    -
+  headachecm:
+    -
+functions:
+  unix:
+    -
+  h:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  api:
+    -
+  nosqli:
+    -
+  ssrf:
+    -
+  pathc:
+    -
+  ssh:
+    -
+  logical:
+    -
+
+wals:
+  headachewu:
+    -
+---

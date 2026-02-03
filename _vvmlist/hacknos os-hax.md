@@ -8,6 +8,10 @@ platfs:
 curls:
   hacknos os-hax:
     -
+  hacknos os-haxac:
+    -
+  hacknos os-haxcm:
+    -
 functions:
   unix:
     -

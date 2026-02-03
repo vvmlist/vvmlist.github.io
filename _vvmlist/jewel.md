@@ -8,6 +8,10 @@ platfs:
 curls:
   jewel:
     -
+  jewelac:
+    -
+  jewelcm:
+    -
 functions:
   unix:
     -

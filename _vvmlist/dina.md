@@ -8,6 +8,10 @@ platfs:
 curls:
   dina:
     -
+  dinaac:
+    -
+  dinacm:
+    -
 functions:
   unix:
     -

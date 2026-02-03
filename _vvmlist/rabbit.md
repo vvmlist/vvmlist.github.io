@@ -8,6 +8,10 @@ platfs:
 curls:
   rabbit:
     -
+  rabbitac:
+    -
+  rabbitcm:
+    -
 functions:
   win:
     -

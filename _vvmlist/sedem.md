@@ -8,6 +8,10 @@ platfs:
 curls:
   sedem:
     -
+  sedemac:
+    -
+  sedemcm:
+    -
 functions:
   unix:
     -

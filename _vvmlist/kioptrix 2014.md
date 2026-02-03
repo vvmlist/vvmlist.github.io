@@ -8,6 +8,10 @@ platfs:
 curls:
   kioptrix 2014:
     -
+  kioptrix 2014ac:
+    -
+  kioptrix 2014cm:
+    -
 functions:
   unix:
     -

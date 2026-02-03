@@ -8,6 +8,10 @@ platfs:
 curls:
   nightcity:
     -
+  nightcityac:
+    -
+  nightcitycm:
+    -
 functions:
   unix:
     -

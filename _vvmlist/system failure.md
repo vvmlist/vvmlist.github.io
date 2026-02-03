@@ -8,6 +8,10 @@ platfs:
 curls:
   system failure:
     -
+  system failureac:
+    -
+  system failurecm:
+    -
 functions:
   unix:
     -

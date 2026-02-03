@@ -8,6 +8,10 @@ platfs:
 curls:
   napping:
     -
+  nappingac:
+    -
+  nappingcm:
+    -
 functions:
   unix:
     -

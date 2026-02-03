@@ -8,6 +8,10 @@ platfs:
 curls:
   cache:
     -
+  cacheac:
+    -
+  cachecm:
+    -
 functions:
   unix:
     -

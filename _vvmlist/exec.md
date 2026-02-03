@@ -8,6 +8,10 @@ platfs:
 curls:
   exec:
     -
+  execac:
+    -
+  execcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   timelapse:
     -
+  timelapseac:
+    -
+  timelapsecm:
+    -
 functions:
   win:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   christmas:
     -
+  christmasac:
+    -
+  christmascm:
+    -
 functions:
   unix:
     -

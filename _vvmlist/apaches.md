@@ -8,6 +8,10 @@ platfs:
 curls:
   apaches:
     -
+  apachesac:
+    -
+  apachescm:
+    -
 functions:
   unix:
     -

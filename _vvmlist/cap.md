@@ -8,6 +8,10 @@ platfs:
 curls:
   cap:
     -
+  capac:
+    -
+  capcm:
+    -
 functions:
   unix:
     -

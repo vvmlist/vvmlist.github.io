@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  printervx:
+  printer (vulnyx):
+    -
+  printer (vulnyx)ac:
+    -
+  printer (vulnyx)cm:
     -
 functions:
   unix:
@@ -25,6 +29,6 @@ functions:
     -
 
 wals:
-  printerwu:
+  printer (vulnyx)wu:
     -
 ---

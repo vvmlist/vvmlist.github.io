@@ -8,6 +8,10 @@ platfs:
 curls:
   wallabys nightmare:
     -
+  wallabys nightmareac:
+    -
+  wallabys nightmarecm:
+    -
 functions:
   unix:
     -

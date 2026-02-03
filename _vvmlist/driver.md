@@ -8,6 +8,10 @@ platfs:
 curls:
   driver:
     -
+  driverac:
+    -
+  drivercm:
+    -
 functions:
   win:
     -

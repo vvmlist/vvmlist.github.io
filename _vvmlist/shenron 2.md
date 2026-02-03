@@ -8,6 +8,10 @@ platfs:
 curls:
   shenron 2:
     -
+  shenron 2ac:
+    -
+  shenron 2cm:
+    -
 functions:
   unix:
     -

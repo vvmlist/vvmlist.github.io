@@ -8,6 +8,10 @@ platfs:
 curls:
   search:
     -
+  searchac:
+    -
+  searchcm:
+    -
 functions:
   win:
     -

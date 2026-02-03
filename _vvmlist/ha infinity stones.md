@@ -8,6 +8,10 @@ platfs:
 curls:
   ha infinity stones:
     -
+  ha infinity stonesac:
+    -
+  ha infinity stonescm:
+    -
 functions:
   unix:
     -

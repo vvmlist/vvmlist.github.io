@@ -8,6 +8,10 @@ platfs:
 curls:
   my school:
     -
+  my schoolac:
+    -
+  my schoolcm:
+    -
 functions:
   unix:
     -

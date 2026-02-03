@@ -8,6 +8,10 @@ platfs:
 curls:
   nunchucks:
     -
+  nunchucksac:
+    -
+  nunchuckscm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   slackware:
     -
+  slackwareac:
+    -
+  slackwarecm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   luanne:
     -
+  luanneac:
+    -
+  luannecm:
+    -
 functions:
   unix:
     -

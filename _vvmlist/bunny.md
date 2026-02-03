@@ -8,6 +8,10 @@ platfs:
 curls:
   bunny:
     -
+  bunnyac:
+    -
+  bunnycm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   omni:
     -
+  omniac:
+    -
+  omnicm:
+    -
 functions:
   win:
     -

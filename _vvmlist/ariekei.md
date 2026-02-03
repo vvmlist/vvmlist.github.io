@@ -8,6 +8,10 @@ platfs:
 curls:
   ariekei:
     -
+  ariekeiac:
+    -
+  ariekeicm:
+    -
 functions:
   unix:
     -

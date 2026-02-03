@@ -8,6 +8,10 @@ platfs:
 curls:
   office:
     -
+  officeac:
+    -
+  officecm:
+    -
 functions:
   win:
     -

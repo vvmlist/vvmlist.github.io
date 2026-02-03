@@ -8,6 +8,10 @@ platfs:
 curls:
   dc416 dick dastardly:
     -
+  dc416 dick dastardlyac:
+    -
+  dc416 dick dastardlycm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   hackademic rtb2:
     -
+  hackademic rtb2ac:
+    -
+  hackademic rtb2cm:
+    -
 functions:
   unix:
     -

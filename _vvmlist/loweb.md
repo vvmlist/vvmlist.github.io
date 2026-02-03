@@ -1,0 +1,42 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  loweb:
+    -
+  lowebac:
+    -
+  lowebcm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  sqli:
+    -
+  lfi:
+    -
+  fj:
+    -
+  rce:
+    -
+  creds:
+    -
+  ssh:
+    -
+  sudo:
+    -
+
+wals:
+  lowebwu:
+    -
+---

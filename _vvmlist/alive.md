@@ -8,6 +8,10 @@ platfs:
 curls:
   alive:
     -
+  aliveac:
+    -
+  alivecm:
+    -
 functions:
   unix:
     -

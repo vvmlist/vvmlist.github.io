@@ -8,6 +8,10 @@ platfs:
 curls:
   earlyaccess:
     -
+  earlyaccessac:
+    -
+  earlyaccesscm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   bighead:
     -
+  bigheadac:
+    -
+  bigheadcm:
+    -
 functions:
   win:
     -

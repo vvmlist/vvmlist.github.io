@@ -8,6 +8,10 @@ platfs:
 curls:
   pipy:
     -
+  pipyac:
+    -
+  pipycm:
+    -
 functions:
   unix:
     -

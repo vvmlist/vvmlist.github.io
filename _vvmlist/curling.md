@@ -8,6 +8,10 @@ platfs:
 curls:
   curling:
     -
+  curlingac:
+    -
+  curlingcm:
+    -
 functions:
   unix:
     -

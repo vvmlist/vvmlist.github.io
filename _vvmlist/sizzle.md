@@ -8,6 +8,10 @@ platfs:
 curls:
   sizzle:
     -
+  sizzleac:
+    -
+  sizzlecm:
+    -
 functions:
   win:
     -

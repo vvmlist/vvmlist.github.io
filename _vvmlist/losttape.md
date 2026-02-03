@@ -1,0 +1,38 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  losttape:
+    -
+  losttapeac:
+    -
+  losttapecm:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  vulnyx:
+    -
+  git:
+    -
+  rce:
+    -
+  logical:
+    -
+  rev:
+    -
+  bof:
+    -
+  sudo:
+    -
+
+wals:
+  losttapewu:
+    -
+---

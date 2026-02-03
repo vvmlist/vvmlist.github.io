@@ -8,6 +8,10 @@ platfs:
 curls:
   agile:
     -
+  agileac:
+    -
+  agilecm:
+    -
 functions:
   unix:
     -

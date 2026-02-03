@@ -8,6 +8,10 @@ platfs:
 curls:
   photobomb:
     -
+  photobombac:
+    -
+  photobombcm:
+    -
 functions:
   unix:
     -

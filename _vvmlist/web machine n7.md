@@ -8,6 +8,10 @@ platfs:
 curls:
   web machine n7:
     -
+  web machine n7ac:
+    -
+  web machine n7cm:
+    -
 functions:
   unix:
     -

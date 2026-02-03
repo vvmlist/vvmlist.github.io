@@ -10,6 +10,8 @@ curls:
     -
   bluesmoke devrandom2ac:
     -
+  bluesmoke devrandom2cm:
+    -
 functions:
   unix:
     -
@@ -33,8 +35,8 @@ functions:
     -
   decode:
     -
-
 wals:
   bluesmoke devrandom2wu:
     -
+
 ---

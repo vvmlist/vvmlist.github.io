@@ -12,6 +12,8 @@ curls:
     -
   crossroadsac:
     -
+  crossroadscm:
+    -
 functions:
   unix:
     -

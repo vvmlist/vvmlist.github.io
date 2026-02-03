@@ -8,6 +8,10 @@ platfs:
 curls:
   preload:
     -
+  preloadac:
+    -
+  preloadcm:
+    -
 functions:
   unix:
     -

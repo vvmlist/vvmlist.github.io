@@ -8,6 +8,10 @@ platfs:
 curls:
   querier:
     -
+  querierac:
+    -
+  queriercm:
+    -
 functions:
   win:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   dev random k2:
     -
+  dev random k2ac:
+    -
+  dev random k2cm:
+    -
 functions:
   unix:
     -

@@ -1,0 +1,42 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  care:
+    -
+  careac:
+    -
+  carecm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  lfi:
+    -
+  logpoi:
+    -
+  rce:
+    -
+  sudo:
+    -
+  mbck:
+    -
+  keepass:
+    -
+  hc:
+    -
+  creds:
+    -
+
+wals:
+  carewu:
+    -
+---

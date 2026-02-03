@@ -6,7 +6,11 @@ platfs:
   hackmyvm:
     -
 curls:
-  bountyh:
+  bounty (hackmyvm):
+    -
+  bounty (hackmyvm)ac:
+    -
+  bounty (hackmyvm)cm:
     -
 functions:
   unix:
@@ -27,6 +31,6 @@ functions:
     -
 
 wals:
-  bountyhwu:
+  bounty (hackmyvm)wu:
     -
 ---

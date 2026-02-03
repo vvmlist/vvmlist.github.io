@@ -8,6 +8,10 @@ platfs:
 curls:
   dc416 basement:
     -
+  dc416 basementac:
+    -
+  dc416 basementcm:
+    -
 functions:
   unix:
     -

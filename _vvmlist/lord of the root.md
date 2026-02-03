@@ -8,6 +8,10 @@ platfs:
 curls:
   lord of the root:
     -
+  lord of the rootac:
+    -
+  lord of the rootcm:
+    -
 functions:
   unix:
     -

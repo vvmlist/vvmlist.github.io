@@ -8,6 +8,10 @@ platfs:
 curls:
   inkplot:
     -
+  inkplotac:
+    -
+  inkplotcm:
+    -
 functions:
   unix:
     -

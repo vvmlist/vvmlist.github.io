@@ -8,6 +8,10 @@ platfs:
 curls:
   haclabs no_name:
     -
+  haclabs no_nameac:
+    -
+  haclabs no_namecm:
+    -
 functions:
   unix:
     -

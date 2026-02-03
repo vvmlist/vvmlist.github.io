@@ -8,6 +8,10 @@ platfs:
 curls:
   gibson:
     -
+  gibsonac:
+    -
+  gibsoncm:
+    -
 functions:
   unix:
     -

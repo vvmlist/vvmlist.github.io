@@ -8,6 +8,10 @@ platfs:
 curls:
   vault:
     -
+  vaultac:
+    -
+  vaultcm:
+    -
 functions:
   unix:
     -

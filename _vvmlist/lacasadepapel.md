@@ -8,6 +8,10 @@ platfs:
 curls:
   lacasadepapel:
     -
+  lacasadepapelac:
+    -
+  lacasadepapelcm:
+    -
 functions:
   unix:
     -

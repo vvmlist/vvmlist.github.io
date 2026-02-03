@@ -8,6 +8,10 @@ platfs:
 curls:
   inception:
     -
+  inceptionac:
+    -
+  inceptioncm:
+    -
 functions:
   unix:
     -

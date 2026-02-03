@@ -3,31 +3,33 @@ diffis:
   e:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   forgotten:
+    -
+  forgottenac:
+    -
+  forgottencm:
     -
 functions:
   unix:
     -
   e:
     -
-  vulnlab:
+  htbvip:
     -
   fuzz:
     -
-  cve:
-    -
   rce:
     -
-  creds:
+  sql:
     -
   bre:
     -
-  logical:
+  creds:
     -
-  sudo:
+  docker:
     -
 
 wals:

@@ -8,6 +8,10 @@ platfs:
 curls:
   sidney:
     -
+  sidneyac:
+    -
+  sidneycm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   hundred:
     -
+  hundredac:
+    -
+  hundredcm:
+    -
 functions:
   unix:
     -

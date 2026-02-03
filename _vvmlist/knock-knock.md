@@ -8,6 +8,10 @@ platfs:
 curls:
   knock-knock:
     -
+  knock-knockac:
+    -
+  knock-knockcm:
+    -
 functions:
   unix:
     -

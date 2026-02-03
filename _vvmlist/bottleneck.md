@@ -8,6 +8,10 @@ platfs:
 curls:
   bottleneck:
     -
+  bottleneckac:
+    -
+  bottleneckcm:
+    -
 functions:
   unix:
     -
@@ -27,8 +31,8 @@ functions:
     -
   suid:
     -
-
 wals:
   bottleneckwu:
     -
+
 ---

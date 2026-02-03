@@ -8,6 +8,10 @@ platfs:
 curls:
   smasher2:
     -
+  smasher2ac:
+    -
+  smasher2cm:
+    -
 functions:
   unix:
     -

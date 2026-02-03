@@ -8,6 +8,10 @@ platfs:
 curls:
   multimaster:
     -
+  multimasterac:
+    -
+  multimastercm:
+    -
 functions:
   win:
     -

@@ -3,31 +3,31 @@ diffis:
   m:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   slonik:
+    -
+  slonikac:
+    -
+  slonikcm:
     -
 functions:
   unix:
     -
   m:
     -
-  vulnlab:
-    -
-  al:
+  htbvip:
     -
   nfs:
     -
-  creds:
+  al:
     -
   hc:
     -
   pspy:
     -
   cron:
-    -
-  logical:
     -
 
 wals:

@@ -8,6 +8,10 @@ platfs:
 curls:
   friendzone:
     -
+  friendzoneac:
+    -
+  friendzonecm:
+    -
 functions:
   unix:
     -

@@ -6,7 +6,11 @@ platfs:
   hackmyvm:
     -
 curls:
-  atomh:
+  atom (hackmyvm):
+    -
+  atom (hackmyvm)ac:
+    -
+  atom (hackmyvm)cm:
     -
 functions:
   unix:
@@ -27,6 +31,6 @@ functions:
     -
 
 wals:
-  atomhwu:
+  atom (hackmyvm)wu:
     -
 ---

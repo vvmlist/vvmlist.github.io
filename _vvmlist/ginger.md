@@ -8,6 +8,10 @@ platfs:
 curls:
   ginger:
     -
+  gingerac:
+    -
+  gingercm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   hackfest2016 quaoar:
     -
+  hackfest2016 quaoarac:
+    -
+  hackfest2016 quaoarcm:
+    -
 functions:
   unix:
     -

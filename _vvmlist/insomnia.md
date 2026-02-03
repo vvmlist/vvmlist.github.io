@@ -10,6 +10,10 @@ curls:
     -
   insomniavu:
     -
+  insomniaac:
+    -
+  insomniacm:
+    -
 functions:
   unix:
     -

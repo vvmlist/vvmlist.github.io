@@ -8,6 +8,10 @@ platfs:
 curls:
   bagel:
     -
+  bagelac:
+    -
+  bagelcm:
+    -
 functions:
   unix:
     -

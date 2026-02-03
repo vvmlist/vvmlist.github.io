@@ -8,6 +8,10 @@ platfs:
 curls:
   compromised:
     -
+  compromisedac:
+    -
+  compromisedcm:
+    -
 functions:
   unix:
     -

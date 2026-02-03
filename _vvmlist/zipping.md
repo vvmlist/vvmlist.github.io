@@ -8,6 +8,10 @@ platfs:
 curls:
   zipping:
     -
+  zippingac:
+    -
+  zippingcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   brain:
     -
+  brainac:
+    -
+  braincm:
+    -
 functions:
   unix:
     -
@@ -23,8 +27,8 @@ functions:
     -
   sudo:
     -
-
 wals:
   brainwu:
     -
+
 ---

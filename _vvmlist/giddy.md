@@ -8,6 +8,10 @@ platfs:
 curls:
   giddy:
     -
+  giddyac:
+    -
+  giddycm:
+    -
 functions:
   win:
     -

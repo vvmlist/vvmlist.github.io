@@ -8,6 +8,12 @@ platfs:
 curls:
   djinn:
     -
+  djinnhmv:
+    -
+  djinnac:
+    -
+  djinncm:
+    -
 functions:
   unix:
     -

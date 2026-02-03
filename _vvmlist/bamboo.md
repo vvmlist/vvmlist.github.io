@@ -3,25 +3,27 @@ diffis:
   m:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   bamboo:
+    -
+  bambooac:
+    -
+  bamboocm:
     -
 functions:
   unix:
     -
   m:
     -
-  vulnlab:
+  htbvip:
     -
   proxy:
     -
   cve:
     -
-  rce:
-    -
-  logical:
+  pspy:
     -
 
 wals:

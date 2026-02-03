@@ -8,6 +8,10 @@ platfs:
 curls:
   double:
     -
+  doubleac:
+    -
+  doublecm:
+    -
 functions:
   unix:
     -

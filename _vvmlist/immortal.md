@@ -8,6 +8,10 @@ platfs:
 curls:
   immortal:
     -
+  immortalac:
+    -
+  immortalcm:
+    -
 functions:
   unix:
     -

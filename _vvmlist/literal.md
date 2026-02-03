@@ -8,6 +8,10 @@ platfs:
 curls:
   literal:
     -
+  literalac:
+    -
+  literalcm:
+    -
 functions:
   unix:
     -

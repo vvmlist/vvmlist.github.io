@@ -8,6 +8,10 @@ platfs:
 curls:
   sharp:
     -
+  sharpac:
+    -
+  sharpcm:
+    -
 functions:
   win:
     -

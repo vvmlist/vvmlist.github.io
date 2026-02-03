@@ -8,6 +8,10 @@ platfs:
 curls:
   spooisong:
     -
+  spooisongac:
+    -
+  spooisongcm:
+    -
 functions:
   unix:
     -

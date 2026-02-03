@@ -8,6 +8,10 @@ platfs:
 curls:
   dc416 fortress:
     -
+  dc416 fortressac:
+    -
+  dc416 fortresscm:
+    -
 functions:
   unix:
     -

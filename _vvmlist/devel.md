@@ -8,6 +8,10 @@ platfs:
 curls:
   devel:
     -
+  develac:
+    -
+  develcm:
+    -
 functions:
   win:
     -

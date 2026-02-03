@@ -8,6 +8,10 @@ platfs:
 curls:
   iclean:
     -
+  icleanac:
+    -
+  icleancm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   goodgames:
     -
+  goodgamesac:
+    -
+  goodgamescm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   haclabs deception:
     -
+  haclabs deceptionac:
+    -
+  haclabs deceptioncm:
+    -
 functions:
   unix:
     -

@@ -10,6 +10,8 @@ curls:
     -
   tr0ll 3ac:
     -
+  tr0ll 3cm:
+    -
 functions:
   unix:
     -
@@ -29,8 +31,8 @@ functions:
     -
   rwp:
     -
-
 wals:
   tr0ll 3wu:
     -
+
 ---

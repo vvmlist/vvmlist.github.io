@@ -8,6 +8,10 @@ platfs:
 curls:
   tripladvisor:
     -
+  tripladvisorac:
+    -
+  tripladvisorcm:
+    -
 functions:
   win:
     -

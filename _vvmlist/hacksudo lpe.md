@@ -8,6 +8,10 @@ platfs:
 curls:
   hacksudo lpe:
     -
+  hacksudo lpeac:
+    -
+  hacksudo lpecm:
+    -
 functions:
   unix:
     -

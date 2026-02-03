@@ -8,6 +8,10 @@ platfs:
 curls:
   fianso:
     -
+  fiansoac:
+    -
+  fiansocm:
+    -
 functions:
   unix:
     -

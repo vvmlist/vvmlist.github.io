@@ -8,6 +8,10 @@ platfs:
 curls:
   tiny:
     -
+  tinyac:
+    -
+  tinycm:
+    -
 functions:
   unix:
     -

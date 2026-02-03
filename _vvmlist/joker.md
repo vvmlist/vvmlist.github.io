@@ -8,6 +8,10 @@ platfs:
 curls:
   joker:
     -
+  jokerac:
+    -
+  jokercm:
+    -
 functions:
   unix:
     -

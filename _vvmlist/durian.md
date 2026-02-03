@@ -8,6 +8,10 @@ platfs:
 curls:
   durian:
     -
+  durianac:
+    -
+  duriancm:
+    -
 functions:
   unix:
     -

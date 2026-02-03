@@ -10,6 +10,10 @@ curls:
     -
   devguruvu:
     -
+  devguruac:
+    -
+  devgurucm:
+    -
 functions:
   unix:
     -

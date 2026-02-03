@@ -1,0 +1,50 @@
+---
+diffis:
+  h:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  slywindow:
+    -
+  slywindowac:
+    -
+  slywindowcm:
+    -
+functions:
+  unix:
+    -
+  h:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  steg:
+    -
+  bf:
+    -
+  xss:
+    -
+  api:
+    -
+  creds:
+    -
+  coot:
+    -
+  rce:
+    -
+  suid:
+    -
+  ssh:
+    -
+  rev:
+    -
+  toctou:
+    -
+
+wals:
+  slywindowwu:
+    -
+---

@@ -8,6 +8,10 @@ platfs:
 curls:
   love:
     -
+  loveac:
+    -
+  lovecm:
+    -
 functions:
   win:
     -

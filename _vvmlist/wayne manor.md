@@ -8,6 +8,10 @@ platfs:
 curls:
   wayne manor:
     -
+  wayne manorac:
+    -
+  wayne manorcm:
+    -
 functions:
   unix:
     -

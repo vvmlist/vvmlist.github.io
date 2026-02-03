@@ -8,6 +8,10 @@ platfs:
 curls:
   colors:
     -
+  colorsac:
+    -
+  colorscm:
+    -
 functions:
   unix:
     -

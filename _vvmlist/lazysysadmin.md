@@ -8,6 +8,10 @@ platfs:
 curls:
   lazysysadmin:
     -
+  lazysysadminac:
+    -
+  lazysysadmincm:
+    -
 functions:
   unix:
     -

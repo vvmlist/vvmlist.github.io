@@ -8,6 +8,10 @@ platfs:
 curls:
   lemonsqueezy:
     -
+  lemonsqueezyac:
+    -
+  lemonsqueezycm:
+    -
 functions:
   unix:
     -

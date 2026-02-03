@@ -8,6 +8,10 @@ platfs:
 curls:
   digitalworld.local vengeance:
     -
+  digitalworld.local vengeanceac:
+    -
+  digitalworld.local vengeancecm:
+    -
 functions:
   unix:
     -

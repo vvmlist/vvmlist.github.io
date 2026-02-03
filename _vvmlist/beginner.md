@@ -10,6 +10,8 @@ curls:
     -
   beginnerac:
     -
+  beginnercm:
+    -
 functions:
   unix:
     -
@@ -25,8 +27,8 @@ functions:
     -
   sudo:
     -
-
 wals:
   beginnerwu:
     -
+
 ---

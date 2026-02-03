@@ -8,6 +8,10 @@ platfs:
 curls:
   spooktrol:
     -
+  spooktrolac:
+    -
+  spooktrolcm:
+    -
 functions:
   unix:
     -

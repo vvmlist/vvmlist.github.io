@@ -8,6 +8,10 @@ platfs:
 curls:
   nest:
     -
+  nestac:
+    -
+  nestcm:
+    -
 functions:
   win:
     -

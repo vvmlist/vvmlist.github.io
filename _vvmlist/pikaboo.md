@@ -8,6 +8,10 @@ platfs:
 curls:
   pikaboo:
     -
+  pikabooac:
+    -
+  pikaboocm:
+    -
 functions:
   unix:
     -

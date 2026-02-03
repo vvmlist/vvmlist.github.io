@@ -8,6 +8,10 @@ platfs:
 curls:
   mywaf:
     -
+  mywafac:
+    -
+  mywafcm:
+    -
 functions:
   unix:
     -

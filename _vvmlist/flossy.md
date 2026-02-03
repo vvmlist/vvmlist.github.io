@@ -8,6 +8,10 @@ platfs:
 curls:
   flossy:
     -
+  flossyac:
+    -
+  flossycm:
+    -
 functions:
   unix:
     -

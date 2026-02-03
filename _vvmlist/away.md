@@ -10,6 +10,8 @@ curls:
     -
   awayac:
     -
+  awaycm:
+    -
 functions:
   unix:
     -
@@ -23,8 +25,8 @@ functions:
     -
   cap:
     -
-
 wals:
   awaywu:
     -
+
 ---

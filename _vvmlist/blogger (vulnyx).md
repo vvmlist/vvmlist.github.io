@@ -6,9 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  bloggervx:
+  blogger (vulnyx):
     -
-  bloggervxac:
+  blogger (vulnyx)ac:
+    -
+  blogger (vulnyx)cm:
     -
 functions:
   unix:
@@ -31,6 +33,6 @@ functions:
     -
 
 wals:
-  bloggervxwu:
+  blogger (vulnyx)wu:
     -
 ---

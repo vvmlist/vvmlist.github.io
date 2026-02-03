@@ -9,8 +9,6 @@ vulnhub:
   label: vulnhub
 hackmyvm:
   label: hackmyvm
-vulnlab:
-  label: vulnlab
 vulnyx:
   label: vulnyx
 e: 
@@ -150,6 +148,9 @@ cj:
 coot:
   label: cookie theft
   description: cookie theft by leveraging another vulnerability
+coof:
+  label: cookie forgery
+  description:
 cors:
   label: cors
   description:
@@ -176,6 +177,9 @@ cve:
   description: machine has at least one public exploit
 cyj:
   label: cypher injection
+  description:
+cls:
+  label: clsid hijack
   description:
 sql:
   label: database
@@ -215,6 +219,9 @@ docker:
   description:
 dpapi:
   label: dpapi
+  description:
+dee:
+  label: driver exploit
   description:
 daly:
   label: dump analysis
@@ -273,6 +280,9 @@ bhga:
 bhgw:
   label: genericwrite
   description:
+bhws:
+  label: writespn
+  description:
 git:
   label: git
   description:
@@ -306,6 +316,9 @@ hle:
 hb:
   label: header bypass
   description:
+hed:
+  label: heapdump
+  description:
 hj:
   label: header injection
   description:
@@ -320,6 +333,9 @@ hta:
   description:
 htj:
   label: html injection
+  description:
+hts:
+  label: htaccess abuse
   description:
 idor:
   label: idor
@@ -363,6 +379,9 @@ rengin:
 kube:
   label: kubernetes
   description:
+kio:
+  label: kiosk escape
+  description:
 laps:
   label: laps
   description:
@@ -401,6 +420,9 @@ luaj:
   description:
 lxd:
   label: lxd
+  description:
+mdi:
+  label: markdown injection
   description:
 mbck:
   label: machine backup
@@ -447,6 +469,12 @@ ntlmrel:
 ntlmt:
   label: ntlm theft
   description: utilizing something to capture ntlm hash
+newj:
+  label: newline injection
+  description:
+nulj:
+  label: null byte injection
+  description:
 oauth:
   label: oauth
   description:
@@ -474,8 +502,8 @@ pathtr:
 patht:
   label: path truncation
   description:
-petit:
-  label: petitpotam
+pathc:
+  label: path confusion
   description:
 pgp:
   label: pgp
@@ -512,6 +540,9 @@ pspy:
   description: analyzing running processes
 pp:
   label: prototype pollution
+  description:
+pij:
+  label: parameter injection
   description:
 proxy:
   label: proxy
@@ -576,6 +607,12 @@ s3:
 s4u:
   label: s4u2self
   description:
+sand:
+  label: sandwich attack
+  description:
+sfx:
+  label: session fixation
+  description:
 tsb:
   label: sebackup
   description:
@@ -585,11 +622,20 @@ tsd:
 ted:
   label: seenabledelegation
   description:
+timr:
+  label: timeroast
+  description:
 tsi:
   label: seimpersonate
   description: machine has a seimpersonateprivilege privilege escalation step
 tsl:
   label: seloaddriver
+  description:
+tsmv:
+  label: semanagevolume
+  description:
+toctou:
+  label: toctou
   description:
 ss:
   label: session stealing
@@ -602,6 +648,12 @@ bhsc:
   description:
 sc:
   label: side-channel
+  description:
+ser:
+  label: serialization
+  description:
+shc:
+  label: shadow copy
   description:
 silver:
   label: silver ticket
@@ -756,6 +808,9 @@ xss:
 xxe:
   label: xxe
   description: xml external entity injection
+xll:
+  label: excel xll
+  description:
 zz:
   label: zip slip
   description:

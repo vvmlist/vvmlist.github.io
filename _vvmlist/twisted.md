@@ -8,6 +8,10 @@ platfs:
 curls:
   twisted:
     -
+  twistedac:
+    -
+  twistedcm:
+    -
 functions:
   unix:
     -

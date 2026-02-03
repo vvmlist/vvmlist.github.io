@@ -8,6 +8,10 @@ platfs:
 curls:
   jis-ctf vulnupload:
     -
+  jis-ctf vulnuploadac:
+    -
+  jis-ctf vulnuploadcm:
+    -
 functions:
   unix:
     -

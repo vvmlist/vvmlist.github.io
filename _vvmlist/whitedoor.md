@@ -8,6 +8,10 @@ platfs:
 curls:
   whitedoor:
     -
+  whitedoorac:
+    -
+  whitedoorcm:
+    -
 functions:
   unix:
     -

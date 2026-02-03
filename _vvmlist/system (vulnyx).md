@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  systemvx:
+  system (vulnyx):
+    -
+  system (vulnyx)ac:
+    -
+  system (vulnyx)cm:
     -
 functions:
   unix:
@@ -33,6 +37,6 @@ functions:
     -
 
 wals:
-  systemvxwu:
+  system (vulnyx)wu:
     -
 ---

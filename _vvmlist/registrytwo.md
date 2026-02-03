@@ -8,6 +8,10 @@ platfs:
 curls:
   registrytwo:
     -
+  registrytwoac:
+    -
+  registrytwocm:
+    -
 functions:
   unix:
     -

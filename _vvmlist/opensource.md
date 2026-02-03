@@ -8,6 +8,10 @@ platfs:
 curls:
   opensource:
     -
+  opensourceac:
+    -
+  opensourcecm:
+    -
 functions:
   unix:
     -

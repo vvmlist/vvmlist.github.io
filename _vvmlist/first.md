@@ -8,6 +8,10 @@ platfs:
 curls:
   first:
     -
+  firstac:
+    -
+  firstcm:
+    -
 functions:
   unix:
     -

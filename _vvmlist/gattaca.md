@@ -8,6 +8,10 @@ platfs:
 curls:
   gattaca:
     -
+  gattacaac:
+    -
+  gattacacm:
+    -
 functions:
   unix:
     -

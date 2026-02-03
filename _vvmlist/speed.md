@@ -8,6 +8,10 @@ platfs:
 curls:
   speed:
     -
+  speedac:
+    -
+  speedcm:
+    -
 functions:
   unix:
     -

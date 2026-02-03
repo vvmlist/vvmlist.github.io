@@ -8,6 +8,10 @@ platfs:
 curls:
   nezuko:
     -
+  nezukoac:
+    -
+  nezukocm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   omura:
     -
+  omuraac:
+    -
+  omuracm:
+    -
 functions:
   unix:
     -

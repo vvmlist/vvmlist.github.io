@@ -8,6 +8,10 @@ platfs:
 curls:
   hell:
     -
+  hellac:
+    -
+  hellcm:
+    -
 functions:
   unix:
     -

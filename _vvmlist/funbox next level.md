@@ -8,6 +8,10 @@ platfs:
 curls:
   funbox next level:
     -
+  funbox next levelac:
+    -
+  funbox next levelcm:
+    -
 functions:
   unix:
     -

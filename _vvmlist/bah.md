@@ -8,6 +8,10 @@ platfs:
 curls:
   bah:
     -
+  bahac:
+    -
+  bahcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   ethereal:
     -
+  etherealac:
+    -
+  etherealcm:
+    -
 functions:
   win:
     -

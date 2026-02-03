@@ -8,6 +8,10 @@ platfs:
 curls:
   zero:
     -
+  zeroac:
+    -
+  zerocm:
+    -
 functions:
   win:
     -

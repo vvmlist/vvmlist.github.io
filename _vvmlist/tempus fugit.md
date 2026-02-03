@@ -8,6 +8,10 @@ platfs:
 curls:
   tempus fugit:
     -
+  tempus fugitac:
+    -
+  tempus fugitcm:
+    -
 functions:
   unix:
     -

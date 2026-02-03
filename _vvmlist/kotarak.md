@@ -8,6 +8,10 @@ platfs:
 curls:
   kotarak:
     -
+  kotarakac:
+    -
+  kotarakcm:
+    -
 functions:
   unix:
     -

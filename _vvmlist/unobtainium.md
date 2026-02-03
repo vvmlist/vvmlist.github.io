@@ -8,6 +8,10 @@ platfs:
 curls:
   unobtainium:
     -
+  unobtainiumac:
+    -
+  unobtainiumcm:
+    -
 functions:
   unix:
     -

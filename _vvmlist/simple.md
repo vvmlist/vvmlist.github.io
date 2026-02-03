@@ -8,6 +8,10 @@ platfs:
 curls:
   simple:
     -
+  simpleac:
+    -
+  simplecm:
+    -
 functions:
   win:
     -

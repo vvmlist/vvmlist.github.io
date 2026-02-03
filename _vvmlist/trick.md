@@ -8,6 +8,10 @@ platfs:
 curls:
   trick:
     -
+  trickac:
+    -
+  trickcm:
+    -
 functions:
   unix:
     -

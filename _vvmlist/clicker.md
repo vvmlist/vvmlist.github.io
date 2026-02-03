@@ -8,6 +8,10 @@ platfs:
 curls:
   clicker:
     -
+  clickerac:
+    -
+  clickercm:
+    -
 functions:
   unix:
     -

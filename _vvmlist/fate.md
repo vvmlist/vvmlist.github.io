@@ -8,6 +8,10 @@ platfs:
 curls:
   fate:
     -
+  fateac:
+    -
+  fatecm:
+    -
 functions:
   unix:
     -

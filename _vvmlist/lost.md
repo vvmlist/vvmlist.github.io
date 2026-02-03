@@ -8,6 +8,10 @@ platfs:
 curls:
   lost:
     -
+  lostac:
+    -
+  lostcm:
+    -
 functions:
   unix:
     -

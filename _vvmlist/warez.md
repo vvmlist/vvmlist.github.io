@@ -8,6 +8,10 @@ platfs:
 curls:
   warez:
     -
+  warezac:
+    -
+  warezcm:
+    -
 functions:
   unix:
     -

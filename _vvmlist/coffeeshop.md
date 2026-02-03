@@ -8,6 +8,10 @@ platfs:
 curls:
   coffeeshop:
     -
+  coffeeshopac:
+    -
+  coffeeshopcm:
+    -
 functions:
   unix:
     -

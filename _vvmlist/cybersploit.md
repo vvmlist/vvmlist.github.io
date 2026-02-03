@@ -8,6 +8,10 @@ platfs:
 curls:
   cybersploit:
     -
+  cybersploitac:
+    -
+  cybersploitcm:
+    -
 functions:
   unix:
     -

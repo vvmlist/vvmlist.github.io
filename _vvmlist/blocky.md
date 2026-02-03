@@ -8,6 +8,10 @@ platfs:
 curls:
   blocky:
     -
+  blockyac:
+    -
+  blockycm:
+    -
 functions:
   unix:
     -

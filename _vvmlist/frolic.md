@@ -8,6 +8,10 @@ platfs:
 curls:
   frolic:
     -
+  frolicac:
+    -
+  froliccm:
+    -
 functions:
   unix:
     -

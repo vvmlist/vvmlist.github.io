@@ -1,0 +1,38 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  eid:
+    -
+  eidac:
+    -
+  eidcm:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  bf:
+    -
+  ssti:
+    -
+  rce:
+    -
+  ssh:
+    -
+  sudo:
+    -
+
+wals:
+  eidwu:
+    -
+---

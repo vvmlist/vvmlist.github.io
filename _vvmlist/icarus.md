@@ -8,6 +8,10 @@ platfs:
 curls:
   icarus:
     -
+  icarusac:
+    -
+  icaruscm:
+    -
 functions:
   unix:
     -

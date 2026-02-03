@@ -8,6 +8,10 @@ platfs:
 curls:
   kitty:
     -
+  kittyac:
+    -
+  kittycm:
+    -
 functions:
   unix:
     -

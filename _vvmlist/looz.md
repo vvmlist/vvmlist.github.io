@@ -8,6 +8,10 @@ platfs:
 curls:
   looz:
     -
+  loozac:
+    -
+  loozcm:
+    -
 functions:
   unix:
     -

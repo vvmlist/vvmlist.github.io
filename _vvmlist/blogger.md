@@ -8,6 +8,10 @@ platfs:
 curls:
   blogger:
     -
+  bloggerac:
+    -
+  bloggercm:
+    -
 functions:
   unix:
     -

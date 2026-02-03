@@ -8,6 +8,10 @@ platfs:
 curls:
   play:
     -
+  playac:
+    -
+  playcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   charon:
     -
+  charonac:
+    -
+  charoncm:
+    -
 functions:
   unix:
     -

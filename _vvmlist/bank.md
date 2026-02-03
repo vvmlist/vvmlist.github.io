@@ -8,6 +8,10 @@ platfs:
 curls:
   bank:
     -
+  bankac:
+    -
+  bankcm:
+    -
 functions:
   unix:
     -

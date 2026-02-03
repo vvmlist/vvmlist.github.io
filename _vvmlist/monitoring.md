@@ -8,6 +8,10 @@ platfs:
 curls:
   monitoring:
     -
+  monitoringac:
+    -
+  monitoringcm:
+    -
 functions:
   unix:
     -

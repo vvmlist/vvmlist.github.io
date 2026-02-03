@@ -8,6 +8,10 @@ platfs:
 curls:
   support:
     -
+  supportac:
+    -
+  supportcm:
+    -
 functions:
   win:
     -

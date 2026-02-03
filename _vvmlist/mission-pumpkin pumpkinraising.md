@@ -8,6 +8,10 @@ platfs:
 curls:
   mission-pumpkin pumpkinraising:
     -
+  mission-pumpkin pumpkinraisingac:
+    -
+  mission-pumpkin pumpkinraisingcm:
+    -
 functions:
   unix:
     -

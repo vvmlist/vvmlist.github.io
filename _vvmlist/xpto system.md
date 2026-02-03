@@ -8,6 +8,10 @@ platfs:
 curls:
   xpto system:
     -
+  xpto systemac:
+    -
+  xpto systemcm:
+    -
 functions:
   unix:
     -

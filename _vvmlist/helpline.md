@@ -8,6 +8,10 @@ platfs:
 curls:
   helpline:
     -
+  helplineac:
+    -
+  helplinecm:
+    -
 functions:
   win:
     -

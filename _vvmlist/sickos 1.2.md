@@ -8,6 +8,10 @@ platfs:
 curls:
   sickos 1.2:
     -
+  sickos 1.2ac:
+    -
+  sickos 1.2cm:
+    -
 functions:
   unix:
     -

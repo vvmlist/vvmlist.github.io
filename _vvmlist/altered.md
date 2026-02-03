@@ -8,6 +8,10 @@ platfs:
 curls:
   altered:
     -
+  alteredac:
+    -
+  alteredcm:
+    -
 functions:
   unix:
     -

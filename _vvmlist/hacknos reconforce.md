@@ -8,6 +8,10 @@ platfs:
 curls:
   hacknos reconforce:
     -
+  hacknos reconforceac:
+    -
+  hacknos reconforcecm:
+    -
 functions:
   unix:
     -

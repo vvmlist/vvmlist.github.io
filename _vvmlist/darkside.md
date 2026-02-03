@@ -8,6 +8,10 @@ platfs:
 curls:
   darkside:
     -
+  darksideac:
+    -
+  darksidecm:
+    -
 functions:
   unix:
     -

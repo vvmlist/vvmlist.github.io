@@ -8,6 +8,10 @@ platfs:
 curls:
   dr4g0n b4ll:
     -
+  dr4g0n b4llac:
+    -
+  dr4g0n b4llcm:
+    -
 functions:
   unix:
     -

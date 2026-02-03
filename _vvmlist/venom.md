@@ -8,6 +8,10 @@ platfs:
 curls:
   venom:
     -
+  venomac:
+    -
+  venomcm:
+    -
 functions:
   unix:
     -

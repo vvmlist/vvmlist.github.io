@@ -8,6 +8,10 @@ platfs:
 curls:
   light:
     -
+  lightac:
+    -
+  lightcm:
+    -
 functions:
   unix:
     -

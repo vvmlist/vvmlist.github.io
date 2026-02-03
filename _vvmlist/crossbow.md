@@ -8,6 +8,10 @@ platfs:
 curls:
   crossbow:
     -
+  crossbowac:
+    -
+  crossbowcm:
+    -
 functions:
   unix:
     -

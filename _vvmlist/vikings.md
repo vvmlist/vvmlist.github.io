@@ -8,6 +8,10 @@ platfs:
 curls:
   vikings:
     -
+  vikingsac:
+    -
+  vikingscm:
+    -
 functions:
   unix:
     -

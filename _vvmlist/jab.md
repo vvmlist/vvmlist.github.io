@@ -8,6 +8,10 @@ platfs:
 curls:
   jab:
     -
+  jabac:
+    -
+  jabcm:
+    -
 functions:
   win:
     -

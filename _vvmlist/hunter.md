@@ -8,6 +8,10 @@ platfs:
 curls:
   hunter:
     -
+  hunterac:
+    -
+  huntercm:
+    -
 functions:
   unix:
     -

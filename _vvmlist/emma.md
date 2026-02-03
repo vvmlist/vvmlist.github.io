@@ -8,6 +8,10 @@ platfs:
 curls:
   emma:
     -
+  emmaac:
+    -
+  emmacm:
+    -
 functions:
   unix:
     -

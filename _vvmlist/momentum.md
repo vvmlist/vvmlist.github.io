@@ -8,6 +8,12 @@ platfs:
 curls:
   momentum:
     -
+  momentumhmv:
+    -
+  momentumac:
+    -
+  momentumcm:
+    -
 functions:
   unix:
     -

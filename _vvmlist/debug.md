@@ -1,0 +1,32 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  debug:
+    -
+  debugac:
+    -
+  debugcm:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  vulnyx:
+    -
+  snmp:
+    -
+  logical:
+    -
+  be:
+    -
+
+wals:
+  debugwu:
+    -
+---

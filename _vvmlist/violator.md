@@ -8,6 +8,10 @@ platfs:
 curls:
   violator:
     -
+  violatorac:
+    -
+  violatorcm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   gitroot:
     -
+  gitrootac:
+    -
+  gitrootcm:
+    -
 functions:
   unix:
     -

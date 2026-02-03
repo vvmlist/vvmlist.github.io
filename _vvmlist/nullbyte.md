@@ -8,6 +8,10 @@ platfs:
 curls:
   nullbyte:
     -
+  nullbyteac:
+    -
+  nullbytecm:
+    -
 functions:
   unix:
     -

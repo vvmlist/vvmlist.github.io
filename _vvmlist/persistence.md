@@ -8,6 +8,10 @@ platfs:
 curls:
   persistence:
     -
+  persistenceac:
+    -
+  persistencecm:
+    -
 functions:
   unix:
     -

@@ -6,7 +6,11 @@ platfs:
   hackmyvm:
     -
 curls:
-  registryh:
+  registry (hackmyvm):
+    -
+  registry (hackmyvm)ac:
+    -
+  registry (hackmyvm)cm:
     -
 functions:
   unix:
@@ -31,6 +35,6 @@ functions:
     -
 
 wals:
-  registryhwu:
+  registry (hackmyvm)wu:
     -
 ---

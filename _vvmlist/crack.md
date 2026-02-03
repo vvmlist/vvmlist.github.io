@@ -8,6 +8,10 @@ platfs:
 curls:
   crack:
     -
+  crackac:
+    -
+  crackcm:
+    -
 functions:
   unix:
     -

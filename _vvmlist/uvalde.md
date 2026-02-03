@@ -8,6 +8,10 @@ platfs:
 curls:
   uvalde:
     -
+  uvaldeac:
+    -
+  uvaldecm:
+    -
 functions:
   unix:
     -

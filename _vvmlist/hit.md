@@ -1,0 +1,40 @@
+---
+diffis:
+  e:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  hit:
+    -
+  hitac:
+    -
+  hitcm:
+    -
+functions:
+  unix:
+    -
+  e:
+    -
+  vulnyx:
+    -
+  fuzz:
+    -
+  git:
+    -
+  ssh:
+    -
+  knock:
+    -
+  hc:
+    -
+  groups:
+    -
+  creds:
+    -
+
+wals:
+  hitwu:
+    -
+---

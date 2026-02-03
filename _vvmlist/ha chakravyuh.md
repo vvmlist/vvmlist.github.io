@@ -8,6 +8,10 @@ platfs:
 curls:
   ha chakravyuh:
     -
+  ha chakravyuhac:
+    -
+  ha chakravyuhcm:
+    -
 functions:
   unix:
     -

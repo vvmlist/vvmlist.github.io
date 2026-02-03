@@ -8,6 +8,10 @@ platfs:
 curls:
   vinylizer:
     -
+  vinylizerac:
+    -
+  vinylizercm:
+    -
 functions:
   unix:
     -

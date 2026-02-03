@@ -8,6 +8,10 @@ platfs:
 curls:
   finding my friend:
     -
+  finding my friendac:
+    -
+  finding my friendcm:
+    -
 functions:
   unix:
     -

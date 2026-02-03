@@ -8,6 +8,10 @@ platfs:
 curls:
   codeshield:
     -
+  codeshieldac:
+    -
+  codeshieldcm:
+    -
 functions:
   unix:
     -

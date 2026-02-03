@@ -8,6 +8,10 @@ platfs:
 curls:
   za1:
     -
+  za1ac:
+    -
+  za1cm:
+    -
 functions:
   unix:
     -

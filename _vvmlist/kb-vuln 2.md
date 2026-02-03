@@ -8,6 +8,10 @@ platfs:
 curls:
   kb-vuln 2:
     -
+  kb-vuln 2ac:
+    -
+  kb-vuln 2cm:
+    -
 functions:
   unix:
     -

@@ -8,6 +8,10 @@ platfs:
 curls:
   convert:
     -
+  convertac:
+    -
+  convertcm:
+    -
 functions:
   unix:
     -

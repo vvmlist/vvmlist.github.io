@@ -8,6 +8,10 @@ platfs:
 curls:
   method:
     -
+  methodac:
+    -
+  methodcm:
+    -
 functions:
   unix:
     -

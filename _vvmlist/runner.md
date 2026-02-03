@@ -8,6 +8,10 @@ platfs:
 curls:
   runner:
     -
+  runnerac:
+    -
+  runnercm:
+    -
 functions:
   unix:
     -

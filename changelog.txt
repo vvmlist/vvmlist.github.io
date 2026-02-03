@@ -1,3 +1,21 @@
+### vvmlist update, v3.2 @ 04.02.2026
+## vvm count 1542
+#
+-all vms (except htbvip, ofc) now has ctfmirror.com urls.
+-all writeups and videos revisited. now every writeup and htbvip videos has mirror urls. some of writeups hosted by ctfmirror.com since archive.org failed to mirror. everything else mirrored to archive.org.
+-added new htbvip machines.
+-added new hackmyvm machines.
+-added new vulnyx machines. (special thanks to d4t4s3c for whitelisting me. :)))
+-vulnlab platform removed since it's joined to htb.
+-small fixes & improvements.
+#
+##
+###
+# todo #
+-add offsec pg
+
+##################################################################################################
+
 ### vvmlist update, v3.1 @ 01.01.2025
 ## vvm count 1338
 #

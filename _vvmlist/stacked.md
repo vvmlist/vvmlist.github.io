@@ -8,6 +8,10 @@ platfs:
 curls:
   stacked:
     -
+  stackedac:
+    -
+  stackedcm:
+    -
 functions:
   unix:
     -

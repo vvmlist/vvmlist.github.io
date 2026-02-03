@@ -8,6 +8,10 @@ platfs:
 curls:
   sp leopold:
     -
+  sp leopoldac:
+    -
+  sp leopoldcm:
+    -
 functions:
   unix:
     -

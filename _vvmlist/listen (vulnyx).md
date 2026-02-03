@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  listenvx:
+  listen (vulnyx):
+    -
+  listen (vulnyx)ac:
+    -
+  listen (vulnyx)cm:
     -
 functions:
   unix:
@@ -31,6 +35,6 @@ functions:
     -
 
 wals:
-  listenvxwu:
+  listen (vulnyx)wu:
     -
 ---

@@ -8,6 +8,10 @@ platfs:
 curls:
   covfefe:
     -
+  covfefeac:
+    -
+  covfefecm:
+    -
 functions:
   unix:
     -

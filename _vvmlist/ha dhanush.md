@@ -8,6 +8,10 @@ platfs:
 curls:
   ha dhanush:
     -
+  ha dhanushac:
+    -
+  ha dhanushcm:
+    -
 functions:
   unix:
     -

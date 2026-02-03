@@ -8,6 +8,10 @@ platfs:
 curls:
   europa:
     -
+  europaac:
+    -
+  europacm:
+    -
 functions:
   unix:
     -

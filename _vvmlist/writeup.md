@@ -8,6 +8,10 @@ platfs:
 curls:
   writeup:
     -
+  writeupac:
+    -
+  writeupcm:
+    -
 functions:
   unix:
     -

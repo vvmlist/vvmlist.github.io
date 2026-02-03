@@ -8,6 +8,10 @@ platfs:
 curls:
   cewlkid:
     -
+  cewlkidac:
+    -
+  cewlkidcm:
+    -
 functions:
   unix:
     -

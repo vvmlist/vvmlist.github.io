@@ -3,28 +3,36 @@ diffis:
   m:
     -
 platfs:
-  vulnlab:
+  htbvip:
     -
 curls:
   media:
+    -
+  mediaac:
+    -
+  mediacm:
     -
 functions:
   win:
     -
   m:
     -
-  vulnlab:
+  htbvip:
+    -
+  resp:
     -
   ntlmt:
     -
   hc:
     -
-  logical:
+  ssh:
     -
   tsi:
     -
 
 wals:
   mediawu:
+    -
+  mediavi:
     -
 ---

@@ -8,6 +8,10 @@ platfs:
 curls:
   university:
     -
+  universityac:
+    -
+  universitycm:
+    -
 functions:
   unix:
     -

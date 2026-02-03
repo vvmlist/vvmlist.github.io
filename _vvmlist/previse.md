@@ -8,6 +8,10 @@ platfs:
 curls:
   previse:
     -
+  previseac:
+    -
+  previsecm:
+    -
 functions:
   unix:
     -

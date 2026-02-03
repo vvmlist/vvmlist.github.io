@@ -8,6 +8,10 @@ platfs:
 curls:
   mailing:
     -
+  mailingac:
+    -
+  mailingcm:
+    -
 functions:
   win:
     -

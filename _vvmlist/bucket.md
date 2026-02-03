@@ -8,6 +8,10 @@ platfs:
 curls:
   bucket:
     -
+  bucketac:
+    -
+  bucketcm:
+    -
 functions:
   unix:
     -

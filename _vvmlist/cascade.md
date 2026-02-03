@@ -8,6 +8,10 @@ platfs:
 curls:
   cascade:
     -
+  cascadeac:
+    -
+  cascadecm:
+    -
 functions:
   win:
     -

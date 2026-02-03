@@ -8,6 +8,10 @@ platfs:
 curls:
   movie:
     -
+  movieac:
+    -
+  moviecm:
+    -
 functions:
   unix:
     -

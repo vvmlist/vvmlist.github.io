@@ -8,6 +8,10 @@ platfs:
 curls:
   hackinos:
     -
+  hackinosac:
+    -
+  hackinoscm:
+    -
 functions:
   unix:
     -

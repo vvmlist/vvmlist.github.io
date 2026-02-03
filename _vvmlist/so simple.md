@@ -8,6 +8,10 @@ platfs:
 curls:
   so simple:
     -
+  so simpleac:
+    -
+  so simplecm:
+    -
 functions:
   unix:
     -

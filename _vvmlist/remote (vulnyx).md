@@ -6,7 +6,11 @@ platfs:
   vulnyx:
     -
 curls:
-  remotevx:
+  remote (vulnyx):
+    -
+  remote (vulnyx)ac:
+    -
+  remote (vulnyx)cm:
     -
 functions:
   unix:
@@ -31,6 +35,6 @@ functions:
     -
 
 wals:
-  remotevxwu:
+  remote (vulnyx)wu:
     -
 ---

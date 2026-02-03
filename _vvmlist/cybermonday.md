@@ -8,6 +8,10 @@ platfs:
 curls:
   cybermonday:
     -
+  cybermondayac:
+    -
+  cybermondaycm:
+    -
 functions:
   unix:
     -

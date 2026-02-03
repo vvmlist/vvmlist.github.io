@@ -8,6 +8,10 @@ platfs:
 curls:
   boxing:
     -
+  boxingac:
+    -
+  boxingcm:
+    -
 functions:
   unix:
     -
@@ -33,8 +37,8 @@ functions:
     -
   pspy:
     -
-
 wals:
   boxingwu:
     -
+
 ---

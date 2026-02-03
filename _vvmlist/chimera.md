@@ -1,0 +1,36 @@
+---
+diffis:
+  m:
+    -
+platfs:
+  vulnyx:
+    -
+curls:
+  chimera:
+    -
+  chimeraac:
+    -
+  chimeracm:
+    -
+functions:
+  unix:
+    -
+  m:
+    -
+  vulnyx:
+    -
+  git:
+    -
+  ssh:
+    -
+  cve:
+    -
+  kern:
+    -
+  logical:
+    -
+
+wals:
+  chimerawu:
+    -
+---

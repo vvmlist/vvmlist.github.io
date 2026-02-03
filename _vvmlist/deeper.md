@@ -8,6 +8,10 @@ platfs:
 curls:
   deeper:
     -
+  deeperac:
+    -
+  deepercm:
+    -
 functions:
   unix:
     -

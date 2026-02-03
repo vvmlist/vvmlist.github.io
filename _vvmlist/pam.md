@@ -8,6 +8,10 @@ platfs:
 curls:
   pam:
     -
+  pamac:
+    -
+  pamcm:
+    -
 functions:
   unix:
     -

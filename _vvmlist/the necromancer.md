@@ -8,6 +8,10 @@ platfs:
 curls:
   the necromancer:
     -
+  the necromancerac:
+    -
+  the necromancercm:
+    -
 functions:
   unix:
     -

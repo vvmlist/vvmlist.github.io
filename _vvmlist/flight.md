@@ -8,6 +8,10 @@ platfs:
 curls:
   flight:
     -
+  flightac:
+    -
+  flightcm:
+    -
 functions:
   win:
     -

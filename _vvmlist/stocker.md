@@ -8,6 +8,10 @@ platfs:
 curls:
   stocker:
     -
+  stockerac:
+    -
+  stockercm:
+    -
 functions:
   unix:
     -
