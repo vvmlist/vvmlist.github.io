@@ -12,6 +12,8 @@ curls:
     -
   bounty (hackmyvm)cm:
     -
+  bountyhac:
+    -
 functions:
   unix:
     -
