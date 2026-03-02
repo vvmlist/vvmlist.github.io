@@ -3875,7 +3875,7 @@ robotwu:
 secretswu:
   label: <span class="wuspan">writeup by:<br>noname<br><a class="wulink" target="_blank" href="https://1-0x--noname-github-io.translate.goog/writeups/nyx/secrets/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp&_x_tr_enc=1">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260120205056/https://0x-noname.github.io/writeups/nyx/secrets/">mirror</a></span>
 sendwu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://ctfmirror-com.translate.goog/writeups/send_vulnyx/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">mirror</a><a class="wulink" target="_blank" href="https://ctfmirror.com/writeups/send_vulnyx/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/send?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260225111113/https://d4t4s3c.com/writeups/vulnyx/send">mirror</a></span>
 servewu:
   label: <span class="wuspan">writeup by:<br>noname<br><a class="wulink" target="_blank" href="https://1-0x--noname-github-io.translate.goog/writeups/nyx/serve/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp&_x_tr_enc=1">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260121122612/https://0x-noname.github.io/writeups/nyx/serve/">mirror</a></span>
 servicewu:
@@ -3929,11 +3929,11 @@ zonewu:
 hellmanwu:
   label: <span class="wuspan"><a class="wulink" target="_blank" href="/contact.html" style="color:#FF0000;">no writeup<br>please<br>contribute</a></span>
 blindwu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Blind/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203102653/https://d4t4s3c.com/NYX/Blind/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/blind?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203102653/https://d4t4s3c.com/NYX/Blind/">mirror</a></span>
 school (vulnyx)wu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/School/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090023/https://d4t4s3c.com/NYX/School/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/school?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090023/https://d4t4s3c.com/NYX/School/">mirror</a></span>
 srvwu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/SRV/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090024/https://d4t4s3c.com/NYX/SRV/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/srv?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090024/https://d4t4s3c.com/NYX/SRV/">mirror</a></span>
 headachewu:
   label: <span class="wuspan">writeup by:<br>tirex<br><a class="wulink" target="_blank" href="https://medium.com/@TirexV2/headache-vulnyx-official-writeup-7d3e1a39853b">original</a><a class="wulink" target="_blank" href="https://ctfmirror.com/writeups/headache_vulnyx/">mirror</a></span>
 thedoorwu:
@@ -3945,29 +3945,29 @@ alpinewu:
 coliseumwu:
   label: <span class="wuspan">writeup by:<br>len4m<br><a class="wulink" target="_blank" href="https://len4m.github.io/posts/coliseum-writeup-vulnyx/">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090137/https://len4m.github.io/posts/coliseum-writeup-vulnyx/">mirror</a></span>
 memorywu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Memory/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090124/https://d4t4s3c.com/NYX/Memory/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/memory?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090124/https://d4t4s3c.com/NYX/Memory/">mirror</a></span>
 debugwu:
   label: <span class="wuspan">writeup by:<br>kaada<br><a class="wulink" target="_blank" href="https://skyarrow416-github-io.translate.goog/2025/10/27/Vulnyx-debug%E5%A4%8D%E7%9B%98/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090135/https://skyarrow416.github.io/2025/10/27/Vulnyx-debug%E5%A4%8D%E7%9B%98/">mirror</a></span>
 lower7wu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Lower7/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203110317/https://d4t4s3c.com/NYX/Lower7/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/lower7?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203110317/https://d4t4s3c.com/NYX/Lower7/">mirror</a></span>
 store (vulnyx)wu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Store/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090203/https://d4t4s3c.com/NYX/Store/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/store?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090203/https://d4t4s3c.com/NYX/Store/">mirror</a></span>
 misconfiguredwu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Misconfigured/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090216/https://d4t4s3c.com/NYX/Misconfigured/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/misconfigured?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090216/https://d4t4s3c.com/NYX/Misconfigured/">mirror</a></span>
 carewu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Care/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090239/https://d4t4s3c.com/NYX/Care/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/care?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090239/https://d4t4s3c.com/NYX/Care/">mirror</a></span>
 mirage (vulnyx)wu:
   label: <span class="wuspan">writeup by:<br>tirex<br><a class="wulink" target="_blank" href="https://medium.com/@TirexV2/mirage-vulnyx-official-writeup-4ecd2d30875a">original</a><a class="wulink" target="_blank" href="https://ctfmirror.com/writeups/mirage_vulnyx/">mirror</a></span>
 reset (vulnyx)wu:
   label: <span class="wuspan">writeup by:<br>j4ckie0x17<br><a class="wulink" target="_blank" href="https://j4ckie0x17-gitbook-io.translate.goog/notes-pentesting/writeups/vulnyx/reset?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp&_x_tr_hist=true">original</a><a class="wulink" target="_blank" href="https://ctfmirror.com/writeups/reset_vulnyx/?_x_tr_hist=true">mirror</a></span>
 explorerwu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Explorer/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090310/https://d4t4s3c.com/NYX/Explorer/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/explorer?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090310/https://d4t4s3c.com/NYX/Explorer/">mirror</a></span>
 static (vulnyx)wu:
   label: <span class="wuspan">writeup by:<br>7r1umphk<br><a class="wulink" target="_blank" href="https://7r1umphk-github-io.translate.goog/post/vlx_static.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203192903/https://7r1umphk.github.io/post/vlx_static.html">mirror</a></span>
 misstepwu:
   label: <span class="wuspan">writeup by:<br>tirex<br><a class="wulink" target="_blank" href="https://medium.com/@TirexV2/misstep-vulnyx-official-writeup-4fda5c2233ad">original</a><a class="wulink" target="_blank" href="https://ctfmirror.com/writeups/misstep_vulnyx/">mirror</a></span>
 openwu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Open/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203110710/https://d4t4s3c.com/NYX/Open/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/open?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203110710/https://d4t4s3c.com/NYX/Open/">mirror</a></span>
 chimerawu:
   label: <span class="wuspan">writeup by:<br>tirex<br><a class="wulink" target="_blank" href="https://medium.com/@TirexV2/chimera-vulnyx-official-writeup-fcb96904bab6">original</a><a class="wulink" target="_blank" href="https://ctfmirror.com/writeups/chimera_vulnyx/">mirror</a></span>
 yadiswu:
@@ -3977,13 +3977,13 @@ slywindowwu:
 exposeddevwu:
   label: <span class="wuspan">writeup by:<br>abdulhamidcs<br><a class="wulink" target="_blank" href="https://abdulhamidcs.medium.com/vulnyx-exposeddev-a-full-walkthrough-59f0b538d68d">original</a><a class="wulink" target="_blank" href="https://ctfmirror.com/writeups/exposeddev_vulnyx/">mirror</a></span>
 absolute (vulnyx)wu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Absolute/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203110810/https://d4t4s3c.com/NYX/Absolute/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/absolute?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203110810/https://d4t4s3c.com/NYX/Absolute/">mirror</a></span>
 initwu:
   label: <span class="wuspan">writeup by:<br>tirex<br><a class="wulink" target="_blank" href="https://medium.com/@TirexV2/5e6271fcdf5e">original</a><a class="wulink" target="_blank" href="https://ctfmirror.com/writeups/init_vulnyx/">mirror</a></span>
 eidwu:
   label: <span class="wuspan">writeup by:<br>tirex<br><a class="wulink" target="_blank" href="https://medium.com/@TirexV2/3id-machine-vulnyx-official-writeup-61df65607b5a">original</a><a class="wulink" target="_blank" href="https://ctfmirror.com/writeups/eid_vulnyx/">mirror</a></span>
 observer (vulnyx)wu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Observer/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090509/https://d4t4s3c.com/NYX/Observer/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/observer?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090509/https://d4t4s3c.com/NYX/Observer/">mirror</a></span>
 losttapewu:
   label: <span class="wuspan">writeup by:<br>maciiii___<br><a class="wulink" target="_blank" href="https://maciferna-gitbook-io.translate.goog/book/writeups/vulnyx/losttape?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp&_x_tr_hist=true">original</a><a class="wulink" target="_blank" href="https://ctfmirror.com/writeups/losttape_vulnyx/">mirror</a></span>
 saleswu:
@@ -3991,43 +3991,43 @@ saleswu:
 build (vulnyx)wu:
   label: <span class="wuspan">writeup by:<br>noname<br><a class="wulink" target="_blank" href="https://1-0x--noname-github-io.translate.goog/writeups/nyx/build/?_x_tr_enc=1&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090628/https://0x-noname.github.io/writeups/nyx/build/">mirror</a></span>
 lower6wu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Lower6/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090635/https://d4t4s3c.com/NYX/Lower6/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/lower6?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090635/https://d4t4s3c.com/NYX/Lower6/">mirror</a></span>
 deniedwu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Denied/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090700/https://d4t4s3c.com/NYX/Denied/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/denied?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090700/https://d4t4s3c.com/NYX/Denied/">mirror</a></span>
 carlamwu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Carlam/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090703/https://d4t4s3c.com/NYX/Carlam/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/carlam?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090703/https://d4t4s3c.com/NYX/Carlam/">mirror</a></span>
 oberwu:
   label: <span class="wuspan">writeup by:<br>noname<br><a class="wulink" target="_blank" href="https://1-0x--noname-github-io.translate.goog/writeups/nyx/ober/?_x_tr_enc=1&_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090712/https://0x-noname.github.io/writeups/nyx/ober/">mirror</a></span>
 lower5wu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Lower5/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203111311/https://d4t4s3c.com/NYX/Lower5/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/lower5?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203111311/https://d4t4s3c.com/NYX/Lower5/">mirror</a></span>
 sandwichwu:
   label: <span class="wuspan">writeup by:<br>len4m<br><a class="wulink" target="_blank" href="https://len4m.github.io/posts/sandwich-writeup-vulnyx-en/">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090807/https://len4m.github.io/posts/sandwich-writeup-vulnyx-en/">mirror</a></span>
 lowebwu:
   label: <span class="wuspan">writeup by:<br>morii<br><a class="wulink" target="_blank" href="https://drume2--github--io-vercel-app.translate.goog/posts/bbf8c8bb.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090847/https://drume2-github-io.vercel.app/posts/bbf8c8bb.html">mirror</a></span>
 lower4wu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Lower4/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203111410/https://d4t4s3c.com/NYX/Lower4/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/lower4?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203111410/https://d4t4s3c.com/NYX/Lower4/">mirror</a></span>
 zerotracewu:
   label: <span class="wuspan">writeup by:<br>len4m<br><a class="wulink" target="_blank" href="https://len4m.github.io/posts/zerotrace-writeup-vulnyx-en/">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090923/https://len4m.github.io/posts/zerotrace-writeup-vulnyx-en/">mirror</a></span>
 lower3wu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Lower3/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203111510/https://d4t4s3c.com/NYX/Lower3/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/lower3?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203111510/https://d4t4s3c.com/NYX/Lower3/">mirror</a></span>
 changewu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Change/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090944/https://d4t4s3c.com/NYX/Change/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/change?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129090944/https://d4t4s3c.com/NYX/Change/">mirror</a></span>
 lower2wu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Lower2/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129091004/https://d4t4s3c.com/NYX/Lower2/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/lower2?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129091004/https://d4t4s3c.com/NYX/Lower2/">mirror</a></span>
 bolawu:
   label: <span class="wuspan">writeup by:<br>j4ckie0x17<br><a class="wulink" target="_blank" href="https://j4ckie0x17.gitbook.io/notes-pentesting/writeups/vulnyx/bola">original</a><a class="wulink" target="_blank" href="https://ctfmirror.com/writeups/bola_vulnyx/">mirror</a></span>
 anonwu:
   label: <span class="wuspan">writeup by:<br>pentester95<br><a class="wulink" target="_blank" href="https://github.com/dfalla/Vulnyx/blob/Anon/Anon.md">original</a><a class="wulink" target="_blank" href="https://ctfmirror.com/writeups/anon_vulnyx/">mirror</a></span>
 hitwu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Hit/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203111810/https://d4t4s3c.com/NYX/Hit/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/hit?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203111810/https://d4t4s3c.com/NYX/Hit/">mirror</a></span>
 matrix (vulnyx)wu:
   label: <span class="wuspan">writeup by:<br>len4m<br><a class="wulink" target="_blank" href="https://len4m.github.io/posts/matrix-writeup-vulnyx-en">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129095039/https://len4m.github.io/posts/matrix-writeup-vulnyx-en/">mirror</a></span>
 apexwu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/APex/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203111911/https://d4t4s3c.com/NYX/APex/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/apex?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203111911/https://d4t4s3c.com/NYX/APex/">mirror</a></span>
 swampwu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Swamp/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129091154/https://d4t4s3c.com/NYX/Swamp/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/swamp?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129091154/https://d4t4s3c.com/NYX/Swamp/">mirror</a></span>
 magic (vulnyx)wu:
-  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/NYX/Magic/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203112118/https://d4t4s3c.com/NYX/Magic/">mirror</a></span>
+  label: <span class="wuspan">writeup by:<br>d4t4s3c<br><a class="wulink" target="_blank" href="https://d4t4s3c-com.translate.goog/writeups/vulnyx/magic?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260203112118/https://d4t4s3c.com/NYX/Magic/">mirror</a></span>
 manager (vulnyx)wu:
   label: <span class="wuspan">writeup by:<br>pointedsec<br><a class="wulink" target="_blank" href="https://pointedsec-github-io.translate.goog/writeups/manager---vulnyx/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">original</a><a class="wulink" target="_blank" href="https://web.archive.org/web/20260129095115/https://pointedsec.github.io/writeups/manager---vulnyx/">mirror</a></span>
 jerry (vulnyx)wu:
