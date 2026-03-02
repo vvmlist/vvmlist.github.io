@@ -3163,6 +3163,26 @@
 ####################
 #_armctf_
 ####################
+"cereal (vulnhub)ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22cereal%22"><img src="assets/arm.png"></a>
+"catlandac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22catland%22"><img src="assets/arm.png"></a>
+"casino royaleac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22casino royale%22"><img src="assets/arm.png"></a>
+"cap (vulnyx)ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22cap%22"><img src="assets/arm.png"></a>
+"cantoac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22canto%22"><img src="assets/arm.png"></a>
+"callac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22call%22"><img src="assets/arm.png"></a>
+"cache (vulnyx)ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22cache%22"><img src="assets/arm.png"></a>
+"bunnyac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22bunny%22"><img src="assets/arm.png"></a>
+"btrsys v2.1ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22btrsys v2.1%22"><img src="assets/arm.png"></a>
+"btrsys v1ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22btrsys v1%22"><img src="assets/arm.png"></a>
 "azerac":
   label: <a target="_blank" class="newicon" href="https://armctf.com/#%22azer%22"><img src="assets/arm.png"></a>
 "animetronicac":
