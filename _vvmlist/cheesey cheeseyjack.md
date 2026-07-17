@@ -25,6 +25,8 @@ functions:
     -
   sudo:
     -
+  nfs:
+    -
 
 wals:
   cheesey cheeseyjackwu:
