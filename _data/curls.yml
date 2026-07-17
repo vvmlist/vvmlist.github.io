@@ -3163,6 +3163,26 @@
 ####################
 #_armctf_
 ####################
+"ceresac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22ceres%22"><img src="assets/arm.png"></a>
+"cewlkidac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22cewlkid%22"><img src="assets/arm.png"></a>
+"chainac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22chain%22"><img src="assets/arm.png"></a>
+"cheesey cheeseyjackac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22cheesey cheeseyjack%22"><img src="assets/arm.png"></a>
+"cheranac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22cheran%22"><img src="assets/arm.png"></a>
+"cherryac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22cherry%22"><img src="assets/arm.png"></a>
+"chiliac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22chili%22"><img src="assets/arm.png"></a>
+"chill hackac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22chill hack%22"><img src="assets/arm.png"></a>
+"christmasac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22christmas%22"><img src="assets/arm.png"></a>
+"chromaticaac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22chromatica%22"><img src="assets/arm.png"></a>
 "cereal (vulnhub)ac":
   label: <a target="_blank" class="newicon" href="https://armctf.com/#%22cereal%22"><img src="assets/arm.png"></a>
 "catlandac":
