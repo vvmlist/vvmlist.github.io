@@ -5,5 +5,5 @@ vulnhub:
   label: vulnhub
 hackmyvm:
   label: hackmyvm
-vulnyx:
-  label: vulnyx
+other:
+  label: other

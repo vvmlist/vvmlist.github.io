@@ -7,7 +7,7 @@ clear
 read -p "difficulty: " diff
 #plat="htbvip"
 #plat="hackmyvm"
-#plat="vulnyx"
+#plat="other"
 read -p "platform: " plat
 read -p "machine name: " curl
 read -p "os: " os
