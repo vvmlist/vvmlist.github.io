@@ -3163,6 +3163,28 @@
 ####################
 #_armctf_
 ####################
+"chromeeac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22chromee%22"><img src="assets/arm.png"></a>
+"chronosac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22chronos%22"><img src="assets/arm.png"></a>
+"ck 00ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22ck 00%22"><img src="assets/arm.png"></a>
+"clampac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22clamp%22"><img src="assets/arm.png"></a>
+"cloverac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22clover%22"><img src="assets/arm.png"></a>
+"coffee addictsac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22coffee addicts%22"><img src="assets/arm.png"></a>
+"coffeeshopac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22coffeeshop%22"><img src="assets/arm.png"></a>
+"colddbox easyac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22colddbox easy%22"><img src="assets/arm.png"></a>
+"colddworld immersionac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22colddworld immersion%22"><img src="assets/arm.png"></a>
+"cometac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22comet%22"><img src="assets/arm.png"></a>
+"comingsoonac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22comingsoon%22"><img src="assets/arm.png"></a>
 "ceresac":
   label: <a target="_blank" class="newicon" href="https://armctf.com/#%22ceres%22"><img src="assets/arm.png"></a>
 "cewlkidac":
