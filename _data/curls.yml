@@ -2834,6 +2834,26 @@
 ####################
 #_armctf_
 ####################
+"condorac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22condor%22"><img src="assets/arm.png"></a>
+"confusionac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22confusion%22"><img src="assets/arm.png"></a>
+"connect the dotsac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22connect the dots%22"><img src="assets/arm.png"></a>
+"connectionac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22connection%22"><img src="assets/arm.png"></a>
+"consoleac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22console%22"><img src="assets/arm.png"></a>
+"controllerac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22controller%22"><img src="assets/arm.png"></a>
+"convertac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22convert%22"><img src="assets/arm.png"></a>
+"coolpgac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22coolpg%22"><img src="assets/arm.png"></a>
+"corrosionac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22corrosion%22"><img src="assets/arm.png"></a>
+"corrosion2ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22corrosion2%22"><img src="assets/arm.png"></a>
 "chromeeac":
   label: <a target="_blank" class="newicon" href="https://armctf.com/#%22chromee%22"><img src="assets/arm.png"></a>
 "chronosac":
