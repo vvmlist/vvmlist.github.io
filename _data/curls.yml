@@ -2834,6 +2834,26 @@
 ####################
 #_armctf_
 ####################
+"xmasac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22xmas%22"><img src="assets/arm.png"></a>
+"y0usefac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22y0usef%22"><img src="assets/arm.png"></a>
+"yoneac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22yone%22"><img src="assets/arm.png"></a>
+"za1ac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22za1%22"><img src="assets/arm.png"></a>
+"zdayac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22zday%22"><img src="assets/arm.png"></a>
+"zenac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22zen%22"><img src="assets/arm.png"></a>
+"zeugac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22zeug%22"><img src="assets/arm.png"></a>
+"zeusac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22zeus%22"><img src="assets/arm.png"></a>
+"zonac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22zon%22"><img src="assets/arm.png"></a>
+"zurrakac":
+  label: <a target="_blank" class="newicon" href="https://armctf.com/#%22zurrak%22"><img src="assets/arm.png"></a>
 "condorac":
   label: <a target="_blank" class="newicon" href="https://armctf.com/#%22condor%22"><img src="assets/arm.png"></a>
 "confusionac":
